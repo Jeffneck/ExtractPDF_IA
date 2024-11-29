@@ -52,4 +52,4 @@ Exemple de réponse attendue :
     "Nouveauté": "NON"
   }
 ]
-Réponds uniquement en JSON.
+Réponds uniquement en fournissant le JSON, sans aucune explication supplémentaire ni balises de code.

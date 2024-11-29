@@ -1,3 +1,3 @@
 # config.py
-API_KEY = 'votre_clé_api'
+API_KEY = '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'
 PROMPT_FILE = './prompts/prompt.txt'

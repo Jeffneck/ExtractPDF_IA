@@ -1,0 +1,54 @@
+[
+    {
+        "Code": 828854,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Chou craquelin sensation praliné",
+        "Portionnement": "Par carton de 12 unités",
+        "Prix par portion": 3.245,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 38.94,
+        "Surgelé": null,
+        "Promotion": "NON",
+        "Nouveauté": null,
+        "Image": "CDP_0001.png"
+    },
+    {
+        "Code": 27191,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi éclair parfum chocolat",
+        "Portionnement": "Par carton de 18 unités",
+        "Prix par portion": 1.395,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 25.11,
+        "Surgelé": null,
+        "Promotion": "NON",
+        "Nouveauté": null,
+        "Image": "CDP_0001.png"
+    },
+    {
+        "Code": 27190,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi éclair café",
+        "Portionnement": "Par carton de 18 unités",
+        "Prix par portion": 1.423,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 25.62,
+        "Surgelé": null,
+        "Promotion": "NON",
+        "Nouveauté": null,
+        "Image": "CDP_0001.png"
+    },
+    {
+        "Code": 841696,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi éclair vanille",
+        "Portionnement": "Par carton de 18 unités",
+        "Prix par portion": 1.53,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 27.54,
+        "Surgelé": null,
+        "Promotion": "NON",
+        "Nouveauté": null,
+        "Image": "CDP_0001.png"
+    }
+]

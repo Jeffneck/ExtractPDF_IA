@@ -1,0 +1,67 @@
+[
+    {
+        "Code": 27294,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette framboise copeaux de chocolat blanc Le Tourier® ø 90",
+        "Portionnement": "Par pièce de 110 g",
+        "Prix par portion": 2.376,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 71.3,
+        "Surgelé": null,
+        "Promotion": "NON",
+        "Nouveauté": "NON",
+        "Image": "CDP_0002.png"
+    },
+    {
+        "Code": 840144,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette aux pommes Le Tourier® ø 90",
+        "Portionnement": "Par pièce de 114 g",
+        "Prix par portion": 1.627,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 48.82,
+        "Surgelé": "OUI",
+        "Promotion": "NON",
+        "Nouveauté": "NON",
+        "Image": "CDP_0002.png"
+    },
+    {
+        "Code": 70415,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette normande Le Tourier® ø 90",
+        "Portionnement": "Par pièce de 75 g",
+        "Prix par portion": 1.6647,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 53.27,
+        "Surgelé": null,
+        "Promotion": "NON",
+        "Nouveauté": "NON",
+        "Image": "CDP_0002.png"
+    },
+    {
+        "Code": 70519,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette citron Le Tourier® ø 90",
+        "Portionnement": "Par pièce de 80 g",
+        "Prix par portion": 1.6925,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 54.17,
+        "Surgelé": null,
+        "Promotion": "NON",
+        "Nouveauté": "NON",
+        "Image": "CDP_0002.png"
+    },
+    {
+        "Code": 27295,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette citron meringuée Le Tourier® ø 90",
+        "Portionnement": "Par pièce de 95 g",
+        "Prix par portion": 1.85,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 55.5,
+        "Surgelé": null,
+        "Promotion": "NON",
+        "Nouveauté": "NON",
+        "Image": "CDP_0002.png"
+    }
+]

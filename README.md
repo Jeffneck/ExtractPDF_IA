@@ -1,21 +1,21 @@
 Comment utiliser l'outil :
-Voici comment vous pouvez exécuter l'ensemble du processus en étapes :
-
 Créer les images :
 
 python main.py --create-images
 
 Renommer les images :
 python main.py --rename-images product
-Analyser les images et créer les JSON :
 
-bash
-Copier le code
+
+Tester le prompt sur une image (output dans data/json_test)
+python main.py --test-prompt ./data/images/img.png
+
+Analyser les images et créer les JSON (analyser tout ou seulement une range) :
+
 python main.py --analyze-images
-Transformer les données en CSV :
+python main.py --analyze-images 105 110
 
-bash
-Copier le code
+Transformer les données en CSV :
 python main.py --transform-data
 
 
