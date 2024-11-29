@@ -1,23 +1,22 @@
 Comment utiliser l'outil :
-# Étape 1 : Créer les images
-Lancez la commande suivante pour fractionner les PDFs et convertir les pages en images :
+Voici comment vous pouvez exécuter l'ensemble du processus en étapes :
+
+Créer les images :
 
 python main.py --create-images
 
+Renommer les images :
+python main.py --rename-images product
+Analyser les images et créer les JSON :
 
-
-# Étape 2 : Analyser les images et créer les JSON
-Pour analyser les images avec le prompt IA et générer les fichiers JSON :
-
+bash
+Copier le code
 python main.py --analyze-images
+Transformer les données en CSV :
 
-
-
-# Étape 3 : Concaténer les JSON et transformer en CSV
-Pour combiner tous les JSON en un seul fichier et le transformer en CSV :
-
+bash
+Copier le code
 python main.py --transform-data
-
 
 
 Vous pouvez lancer chaque étape indépendamment selon vos besoins.

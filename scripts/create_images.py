@@ -1,8 +1,8 @@
 # create_images.py
 
 import os
-from utils.pdf_utils import split_pdf
-from utils.image_utils import pdf_to_images
+from .utils.pdf_utils import split_pdf
+from .utils.image_utils import pdf_to_images
 
 def create_images(input_pdf_folder, split_pdf_folder, images_folder):
     # Fractionner les PDFs

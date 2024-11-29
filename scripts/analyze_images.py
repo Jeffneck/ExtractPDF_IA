@@ -1,7 +1,8 @@
 # analyze_images.py
 
 import os
-from utils.ai_utils import send_image_to_ai
+from .utils.ai_utils import send_image_to_ai
+
 
 def analyze_images(images_folder, json_output_folder):
     if not os.path.exists(json_output_folder):
