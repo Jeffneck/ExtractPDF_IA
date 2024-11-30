@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 818829,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Boulgour",
+        "Prix Kg": 7.65,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Portion de 150 g",
+        "Prix portion": 1.15,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0369.png"
+    },
+    {
+        "Code": 840132,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Quinoa",
+        "Prix Kg": 6.75,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Portion de 150 g",
+        "Prix portion": 1.01,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0369.png"
+    },
+    {
+        "Code": 832891,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mélange de riz blanc et de riz sauvage",
+        "Prix Kg": 3.49,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg, Portion de 150 g",
+        "Prix portion": 0.52,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0369.png"
+    },
+    {
+        "Code": 840293,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Risotto aux légumes verts",
+        "Prix Kg": 6.29,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg, Portion de 150 g",
+        "Prix portion": 1.26,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0369.png"
+    }
+]

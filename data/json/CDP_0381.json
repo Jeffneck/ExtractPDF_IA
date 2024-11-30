@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 821968,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Gouttes de poivrons jaunes doux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Boîte 414 de 793 g (325 g poids net égoutté)",
+        "Prix portion": 1.165,
+        "Colisage": "Carton de 6 boîtes",
+        "Prix colis": 11.65,
+        "Image": "CDP_0381.png"
+    },
+    {
+        "Code": 821969,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Gouttes de poivrons rouges doux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Boîte 414 de 793 g (325 g poids net égoutté)",
+        "Prix portion": 1.165,
+        "Colisage": "Carton de 6 boîtes",
+        "Prix colis": 11.65,
+        "Image": "CDP_0381.png"
+    },
+    {
+        "Code": 1198,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Coquilles d'œufs traiteur blanches",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 60 pièces",
+        "Prix portion": 0.89,
+        "Colisage": "Carton de 60 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0381.png"
+    },
+    {
+        "Code": 1199,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Coquilles d'œufs traiteur marrons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 60 pièces",
+        "Prix portion": 0.89,
+        "Colisage": "Carton de 60 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0381.png"
+    },
+    {
+        "Code": 841690,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Bombe spray dorure",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bombe de 300 g",
+        "Prix portion": 0.557,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 4.49,
+        "Image": "CDP_0381.png"
+    },
+    {
+        "Code": 70286,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Spray agent de démoulage",
+        "Prix Kg": null,
+        "Prix Litre": 4.19,
+        "Portionnement": "Pièce de 600 mL",
+        "Prix portion": 0.6667,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 24.14,
+        "Image": "CDP_0381.png"
+    },
+    {
+        "Code": 70281,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Nappage à froid - Neutre",
+        "Prix Kg": 4.99,
+        "Prix Litre": null,
+        "Portionnement": "Dilution 40-50%. Seau de 6 kg",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0381.png"
+    }
+]

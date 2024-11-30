@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 3913,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Segments d'oranges",
+        "Prix Kg": 4.73,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg (2,1 kg poids égoutté)",
+        "Prix portion": 0.38,
+        "Colisage": "Seau de 3 kg",
+        "Prix colis": 14.19,
+        "Image": "CDP_0402.png"
+    },
+    {
+        "Code": 3916,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Segments de pamplemousses roses",
+        "Prix Kg": 4.73,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg (2,1 kg poids égoutté)",
+        "Prix portion": 0.38,
+        "Colisage": "Seau de 3 kg",
+        "Prix colis": 14.19,
+        "Image": "CDP_0402.png"
+    },
+    {
+        "Code": 5118,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Demi-poire Williams au sirop léger",
+        "Prix Kg": 3.98,
+        "Prix Litre": null,
+        "Portionnement": "Boîte de 4,2 kg (2,3 kg poids égoutté)",
+        "Prix portion": 0.32,
+        "Colisage": "Boîte de 4,2 kg",
+        "Prix colis": 16.65,
+        "Image": "CDP_0402.png"
+    },
+    {
+        "Code": 5117,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Abricot oreillons au sirop léger",
+        "Prix Kg": 4.0,
+        "Prix Litre": null,
+        "Portionnement": "Boîte de 4,2 kg (2,4 kg poids égoutté)",
+        "Prix portion": 0.36,
+        "Colisage": "Boîte de 4,2 kg",
+        "Prix colis": 18.89,
+        "Image": "CDP_0402.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 835718,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Parmigiano Reggiano râpé AOP",
+        "Prix Kg": 22.05,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 500g",
+        "Prix portion": 1.1,
+        "Colisage": "Colis de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0395.png"
+    },
+    {
+        "Code": 21159,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Grana Padano râpé AOP",
+        "Prix Kg": 20.0,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 500g",
+        "Prix portion": 1.0,
+        "Colisage": "Colis de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0395.png"
+    },
+    {
+        "Code": 18412,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Parmigiano Reggiano en pétales AOP",
+        "Prix Kg": 24.49,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500g",
+        "Prix portion": 1.22,
+        "Colisage": "Colis de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0395.png"
+    },
+    {
+        "Code": 21154,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Grana padano en pétales AOP",
+        "Prix Kg": 20.69,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500g",
+        "Prix portion": 1.03,
+        "Colisage": "Colis de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0395.png"
+    }
+]

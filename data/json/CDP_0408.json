@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 832810,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Frangipane",
+        "Prix Kg": 11.65,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 1 kg, Carton de 6 poches.",
+        "Prix portion": 0.58,
+        "Colisage": "Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0408.png"
+    },
+    {
+        "Code": 18422,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Crème d'amandes",
+        "Prix Kg": 13.35,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 1 kg, Carton de 4 poches.",
+        "Prix portion": 0.67,
+        "Colisage": "Carton de 4 poches",
+        "Prix colis": null,
+        "Image": "CDP_0408.png"
+    },
+    {
+        "Code": 70653,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Crème citron",
+        "Prix Kg": 9.99,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 1 kg, Carton de 6 poches.",
+        "Prix portion": 0.5,
+        "Colisage": "Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0408.png"
+    },
+    {
+        "Code": 84151,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crème cheesecake",
+        "Prix Kg": 15.59,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 500 g, Carton de 6 poches.",
+        "Prix portion": 0.78,
+        "Colisage": "Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0408.png"
+    },
+    {
+        "Code": 14322,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Crème anglaise à la vanille Bourbon UHT",
+        "Prix Kg": null,
+        "Prix Litre": 4.19,
+        "Portionnement": "Bouteille de 1 L, Pack de 6 bouteilles.",
+        "Prix portion": null,
+        "Colisage": "Pack de 6 bouteilles",
+        "Prix colis": null,
+        "Image": "CDP_0408.png"
+    },
+    {
+        "Code": 70492,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Crème anglaise",
+        "Prix Kg": null,
+        "Prix Litre": 3.25,
+        "Portionnement": "Brique de 1 L, Carton de 6 briques.",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 briques",
+        "Prix colis": null,
+        "Image": "CDP_0408.png"
+    }
+]

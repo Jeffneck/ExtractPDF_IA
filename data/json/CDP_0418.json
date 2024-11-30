@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 70530,
+        "Catégorie": "Glaces",
+        "Produit": "Crème dessert au chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 110g",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 17.4,
+        "Image": "CDP_0418.png"
+    },
+    {
+        "Code": 70531,
+        "Catégorie": "Glaces",
+        "Produit": "Crème dessert à la vanille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 110g",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 17.4,
+        "Image": "CDP_0418.png"
+    },
+    {
+        "Code": 70532,
+        "Catégorie": "Glaces",
+        "Produit": "Crème dessert à la vanille napée caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 110g",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 17.4,
+        "Image": "CDP_0418.png"
+    },
+    {
+        "Code": 70533,
+        "Catégorie": "Glaces",
+        "Produit": "Crème dessert au caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 110g",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 17.4,
+        "Image": "CDP_0418.png"
+    },
+    {
+        "Code": 70534,
+        "Catégorie": "Glaces",
+        "Produit": "Crème dessert à la pistache",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 110g",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 17.4,
+        "Image": "CDP_0418.png"
+    },
+    {
+        "Code": 70535,
+        "Catégorie": "Glaces",
+        "Produit": "Crème dessert à la praline rose",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 110g",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 17.4,
+        "Image": "CDP_0418.png"
+    },
+    {
+        "Code": 70334,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Petit pot de crème au chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 100g",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 8.7,
+        "Image": "CDP_0418.png"
+    },
+    {
+        "Code": 70335,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Petit pot de crème au caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 100g",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 8.7,
+        "Image": "CDP_0418.png"
+    }
+]

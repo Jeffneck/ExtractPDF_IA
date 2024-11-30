@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 835104,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Burrata",
+        "Prix Kg": 20.49,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 120 g",
+        "Prix portion": 2.44,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": null,
+        "Image": "CDP_0391.png"
+    },
+    {
+        "Code": 825583,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mozzarella di Bufala Campana AOP",
+        "Prix Kg": 16.55,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 125 g",
+        "Prix portion": 2.07,
+        "Colisage": "Carton de 16 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0391.png"
+    },
+    {
+        "Code": 837957,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pain de mozzarella",
+        "Prix Kg": 8.89,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 1 kg",
+        "Prix portion": 0.44,
+        "Colisage": "Carton de 5 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0391.png"
+    },
+    {
+        "Code": 19767,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Billes de mozzarella",
+        "Prix Kg": 1.25,
+        "Prix Litre": null,
+        "Portionnement": "Bille de 5 g, pot de 1 kg",
+        "Prix portion": 0.63,
+        "Colisage": "Carton de 2 pots",
+        "Prix colis": null,
+        "Image": "CDP_0391.png"
+    },
+    {
+        "Code": 841763,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Billes de mozzarella",
+        "Prix Kg": 14.75,
+        "Prix Litre": null,
+        "Portionnement": "Bille de 5 g en barquette de 1.3 kg",
+        "Prix portion": 0.74,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0391.png"
+    }
+]

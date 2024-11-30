@@ -1,0 +1,110 @@
+[
+    {
+        "Code": 70162,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Flan de pommes de terre et duo de carottes",
+        "Prix Kg": 14.69,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 70 g",
+        "Prix portion": 1.03,
+        "Colisage": "Carton de 1.4 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    },
+    {
+        "Code": 840736,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Millefeuille aux deux carottes, courgette et oignons caramélisés",
+        "Prix Kg": 13.19,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90 g",
+        "Prix portion": 1.19,
+        "Colisage": "Carton de 2.5 kg (28 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    },
+    {
+        "Code": 70479,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Bi-couche d'aubergine pomme de terre et brunoise de légumes d'été",
+        "Prix Kg": 17.69,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90 g",
+        "Prix portion": 1.59,
+        "Colisage": "Carton de 2.2 kg (24 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    },
+    {
+        "Code": 70480,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fondant de tomate et ratatouille",
+        "Prix Kg": 15.99,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 75 g",
+        "Prix portion": 1.2,
+        "Colisage": "Carton de 2.7 kg (36 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    },
+    {
+        "Code": 832845,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fagot d'haricots verts",
+        "Prix Kg": 13.19,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 35 g",
+        "Prix portion": 0.46,
+        "Colisage": "Carton de 12 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    },
+    {
+        "Code": 841478,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini farcis méditerranéens",
+        "Prix Kg": 22.99,
+        "Prix Litre": null,
+        "Portionnement": "3 variétés",
+        "Prix portion": null,
+        "Colisage": "Barquette de 12 (12 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    },
+    {
+        "Code": 70716,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Kouglof de champignons",
+        "Prix Kg": 16.95,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 70 g",
+        "Prix portion": 1.19,
+        "Colisage": "Carton de 1.68 kg (36 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    },
+    {
+        "Code": 70159,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Panier aux noix de Saint-Jacques et aux asperges vertes",
+        "Prix Kg": 14.9,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g",
+        "Prix portion": 1.49,
+        "Colisage": "Carton de 3 kg (30 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    },
+    {
+        "Code": 840730,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tarte tatin aux tomates confites et oignons caramélisés",
+        "Prix Kg": 26.45,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90 g",
+        "Prix portion": 2.38,
+        "Colisage": "Carton de 18 (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0361.png"
+    }
+]

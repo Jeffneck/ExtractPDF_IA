@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 44396,
+        "Catégorie": "Glaces",
+        "Produit": "Lait demi-écrémé UHT",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brique de 1 L. Pack de 6 briques",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0404.png"
+    },
+    {
+        "Code": 837862,
+        "Catégorie": "Glaces",
+        "Produit": "Lait demi-écrémé UHT",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brique de 1 L. Pack de 6 briques",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0404.png"
+    },
+    {
+        "Code": 5101,
+        "Catégorie": "Glaces",
+        "Produit": "Lait demi-écrémé UHT",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brique de 1 L. Pack de 6 briques",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0404.png"
+    },
+    {
+        "Code": 44403,
+        "Catégorie": "Glaces",
+        "Produit": "Lait entier UHT",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brique de 1 L. Pack de 6 briques",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0404.png"
+    },
+    {
+        "Code": 5102,
+        "Catégorie": "Glaces",
+        "Produit": "Lait entier UHT",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brique de 1 L. Pack de 6 briques",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0404.png"
+    },
+    {
+        "Code": 4110,
+        "Catégorie": "Glaces",
+        "Produit": "Lait demi-écrémé stérilisé UHT",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Outre de 10 L",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0404.png"
+    },
+    {
+        "Code": 13328,
+        "Catégorie": "Glaces",
+        "Produit": "Poudre de lait léthicinée 26 % MG - Président",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sac de 25 kg",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0404.png"
+    },
+    {
+        "Code": 18405,
+        "Catégorie": "Glaces",
+        "Produit": "Poudre de lait entier granulée 26 % MG - Isigny Ste-Mère",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sac de 10 kg",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0404.png"
+    }
+]

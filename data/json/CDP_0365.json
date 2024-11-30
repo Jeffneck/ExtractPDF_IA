@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 835110,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frites 10/10 avec peau",
+        "Prix Kg": 2.49,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.5,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0365.png"
+    },
+    {
+        "Code": 832902,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frites Xtra+ - Coupe 10/10 Bi-température",
+        "Prix Kg": 2.29,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.46,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0365.png"
+    },
+    {
+        "Code": 832904,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frites Xtra+ - Coupe 7/7 Bi-température",
+        "Prix Kg": 2.29,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.46,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0365.png"
+    },
+    {
+        "Code": 841688,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frites crispy coupe 9/9 salées",
+        "Prix Kg": 2.59,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.52,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0365.png"
+    },
+    {
+        "Code": 70730,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frites Dipster avec peau",
+        "Prix Kg": 2.39,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.48,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0365.png"
+    },
+    {
+        "Code": 832907,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pom'Steak Xtra+ - Coupe 10/18 Bi-température",
+        "Prix Kg": 2.19,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.46,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0365.png"
+    },
+    {
+        "Code": 70063,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frites de légumes tricolores",
+        "Prix Kg": 4.49,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2 kg",
+        "Prix portion": 0.9,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0365.png"
+    },
+    {
+        "Code": 831423,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frites de patates douces",
+        "Prix Kg": 5.79,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2 kg",
+        "Prix portion": 1.16,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0365.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841768,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de cheddar",
+        "Prix Kg": 15.59,
+        "Prix Litre": null,
+        "Portionnement": "Tranche de 15 g env.",
+        "Prix portion": 0.23,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0397.png"
+    },
+    {
+        "Code": 16001,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de tomme de brebis",
+        "Prix Kg": 20.79,
+        "Prix Litre": null,
+        "Portionnement": "Tranche de 10x5 cm",
+        "Prix portion": 0.23,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0397.png"
+    },
+    {
+        "Code": 40007,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de fromage de chèvre non affiné",
+        "Prix Kg": 19.29,
+        "Prix Litre": null,
+        "Portionnement": "Tranche de 7 g env.",
+        "Prix portion": 0.14,
+        "Colisage": "Carton de 8 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0397.png"
+    },
+    {
+        "Code": 42306,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de fromage de chèvre affiné",
+        "Prix Kg": 19.79,
+        "Prix Litre": null,
+        "Portionnement": "Tranche de 10 g env.",
+        "Prix portion": 0.2,
+        "Colisage": "Carton de 8 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0397.png"
+    },
+    {
+        "Code": 841759,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranchete de bleu",
+        "Prix Kg": 18.19,
+        "Prix Litre": null,
+        "Portionnement": "Tranche de 12 g env.",
+        "Prix portion": 0.22,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0397.png"
+    },
+    {
+        "Code": 841765,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de camembert",
+        "Prix Kg": 16.59,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0397.png"
+    }
+]

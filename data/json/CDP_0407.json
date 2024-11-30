@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 44347,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Œuf entier liquide pasteurisé",
+        "Prix Kg": 4.05,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.41,
+        "Colisage": "Carton de 10 kg",
+        "Prix colis": null,
+        "Image": "CDP_0407.png"
+    },
+    {
+        "Code": 1465,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Œuf entier liquide pasteurisé",
+        "Prix Kg": 4.29,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.34,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0407.png"
+    },
+    {
+        "Code": 1473,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Œuf entier liquide pasteurisé",
+        "Prix Kg": 4.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.47,
+        "Colisage": "Brique de 1 kg, Carton de 8 briques",
+        "Prix colis": null,
+        "Image": "CDP_0407.png"
+    },
+    {
+        "Code": 838682,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Blanc d'œuf liquide pasteurisé (plein air)",
+        "Prix Kg": 5.09,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.51,
+        "Colisage": "Brique de 1 kg, Carton de 8 briques",
+        "Prix colis": null,
+        "Image": "CDP_0407.png"
+    },
+    {
+        "Code": 1472,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Blanc d'œuf liquide pasteurisé",
+        "Prix Kg": 4.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.47,
+        "Colisage": "Brique de 1 kg, Carton de 8 briques",
+        "Prix colis": null,
+        "Image": "CDP_0407.png"
+    },
+    {
+        "Code": 825370,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Jaune d'œuf liquide pasteurisé (plein air)",
+        "Prix Kg": 9.45,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.95,
+        "Colisage": "Brique de 1 kg, Carton de 8 briques",
+        "Prix colis": null,
+        "Image": "CDP_0407.png"
+    },
+    {
+        "Code": 1840,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Jaune d'œuf liquide pasteurisé",
+        "Prix Kg": 8.05,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.81,
+        "Colisage": "Brique de 1 kg, Carton de 8 briques",
+        "Prix colis": null,
+        "Image": "CDP_0407.png"
+    }
+]

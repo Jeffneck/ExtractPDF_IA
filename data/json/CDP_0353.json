@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 820933,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Garniture primavera",
+        "Prix Kg": 7.89,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 180 g",
+        "Prix portion": 1.8,
+        "Colisage": "Carton de 14 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0353.png"
+    },
+    {
+        "Code": 826980,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Maïs grillé façon mexicaine",
+        "Prix Kg": 4.15,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.62,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0353.png"
+    },
+    {
+        "Code": 841637,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Douceur de girolles, figues et châtaignes",
+        "Prix Kg": 9.19,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 1.38,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0353.png"
+    },
+    {
+        "Code": 821549,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mélange de légumes oubliés",
+        "Prix Kg": 2.99,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0353.png"
+    }
+]

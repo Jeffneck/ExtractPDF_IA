@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70499,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Galette façon petit pois à la française",
+        "Prix Kg": 14.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.47,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": null,
+        "Image": "CDP_0352.png"
+    },
+    {
+        "Code": 826964,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Galette végétarienne aux patates douces 90 mm",
+        "Prix Kg": 17.39,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.74,
+        "Colisage": "Colis de 24 kg (24 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0352.png"
+    },
+    {
+        "Code": 826963,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Galette végétarienne aux lentilles 90 mm",
+        "Prix Kg": 17.19,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.72,
+        "Colisage": "Colis de 24 kg (24 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0352.png"
+    },
+    {
+        "Code": 818824,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Veggie burger épeautre provolone 90 mm env.",
+        "Prix Kg": 12.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.56,
+        "Colisage": "Colis de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0352.png"
+    },
+    {
+        "Code": 835148,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Galette de blé panée au fromage et épinards",
+        "Prix Kg": 8.99,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.9,
+        "Colisage": "Colis de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0352.png"
+    }
+]

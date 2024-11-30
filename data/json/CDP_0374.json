@@ -1,0 +1,110 @@
+[
+    {
+        "Code": 18479,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Guacamole",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g",
+        "Prix portion": 0.35,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 5.85,
+        "Image": "CDP_0374.png"
+    },
+    {
+        "Code": 831178,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tzatziki",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g",
+        "Prix portion": 0.314,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 5.59,
+        "Image": "CDP_0374.png"
+    },
+    {
+        "Code": 825573,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Houmous à la coriandre et au citron confit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 450g",
+        "Prix portion": 0.37,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 5.59,
+        "Image": "CDP_0374.png"
+    },
+    {
+        "Code": 831416,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Houmous extra nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 450g",
+        "Prix portion": 0.35,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 5.25,
+        "Image": "CDP_0374.png"
+    },
+    {
+        "Code": 70475,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Creamy oignons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 450g",
+        "Prix portion": 0.51,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 7.65,
+        "Image": "CDP_0374.png"
+    },
+    {
+        "Code": 832687,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartinade au thon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500g",
+        "Prix portion": 0.37,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": 6.19,
+        "Image": "CDP_0374.png"
+    },
+    {
+        "Code": 21071,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pesto tomate",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 400g",
+        "Prix portion": 0.43,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 5.75,
+        "Image": "CDP_0374.png"
+    },
+    {
+        "Code": 21067,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pesto basilic 34 %",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 400g",
+        "Prix portion": 0.46,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 6.15,
+        "Image": "CDP_0374.png"
+    },
+    {
+        "Code": 42602,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pesto basilic 34 %",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 400g",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 14.99,
+        "Image": "CDP_0374.png"
+    }
+]

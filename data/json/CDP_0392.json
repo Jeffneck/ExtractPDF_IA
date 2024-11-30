@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 831487,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Beurre demi-sel - Paysan Breton",
+        "Prix Kg": 15.29,
+        "Prix Litre": null,
+        "Portionnement": "100 micro pains (10 g)",
+        "Prix portion": 0.15,
+        "Colisage": "Carton de 6 étuis",
+        "Prix colis": null,
+        "Image": "CDP_0392.png"
+    },
+    {
+        "Code": 13139,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Beurre doux - Paysan Breton",
+        "Prix Kg": 15.29,
+        "Prix Litre": null,
+        "Portionnement": "100 micro pains (10 g)",
+        "Prix portion": 0.15,
+        "Colisage": "Carton de 6 étuis",
+        "Prix colis": null,
+        "Image": "CDP_0392.png"
+    },
+    {
+        "Code": 828716,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Beurre demi-sel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 20 plaquettes",
+        "Prix colis": null,
+        "Image": "CDP_0392.png"
+    },
+    {
+        "Code": 836854,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Beurre doux moulu",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 20 plaquettes",
+        "Prix colis": null,
+        "Image": "CDP_0392.png"
+    },
+    {
+        "Code": 2119,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Beurre de tourage doux Charentes-Poitou AOP - La Viette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "2 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 plaques",
+        "Prix colis": null,
+        "Image": "CDP_0392.png"
+    },
+    {
+        "Code": 13238,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Beurre doux Charentes-Poitou AOP « spécial professionnel » - Montaigu",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "2 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 plaques",
+        "Prix colis": null,
+        "Image": "CDP_0392.png"
+    },
+    {
+        "Code": 70301,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mix matière grasse végétale et beurre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "2 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 plaques",
+        "Prix colis": null,
+        "Image": "CDP_0392.png"
+    }
+]

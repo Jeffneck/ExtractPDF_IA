@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70753,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Carottes râpées vinaigrette",
+        "Prix Kg": 5.79,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 2.5 kg",
+        "Prix portion": 0.87,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0360.png"
+    },
+    {
+        "Code": 831492,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Coleslaw",
+        "Prix Kg": 5.79,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 2.3 kg",
+        "Prix portion": 1.06,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0360.png"
+    },
+    {
+        "Code": 70757,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de riz à la niçoise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 2.5 kg",
+        "Prix portion": 1.21,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0360.png"
+    },
+    {
+        "Code": 70756,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de tagliatelles au surimi",
+        "Prix Kg": 7.09,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1.2 kg",
+        "Prix portion": 1.14,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0360.png"
+    },
+    {
+        "Code": 70754,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de perles Océane",
+        "Prix Kg": 8.9,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 2.5 kg",
+        "Prix portion": 1.35,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0360.png"
+    },
+    {
+        "Code": 70757,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de penne au poulet et à la sauce César",
+        "Prix Kg": 7.45,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1.5 kg",
+        "Prix portion": 1.42,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0360.png"
+    }
+]

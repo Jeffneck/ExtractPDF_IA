@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 18435,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant beurre Charentes- Poitou AOP 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6304,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 94.53,
+        "Image": "CDP_0321.png"
+    },
+    {
+        "Code": 25110,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant Charentes-Poitou AOP 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.6594,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 98.91,
+        "Image": "CDP_0321.png"
+    },
+    {
+        "Code": 25111,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres beurre Charentes-Poitou AOP 80 g",
+        "Prix Kg": 11.09,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.7797,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 110.96,
+        "Image": "CDP_0321.png"
+    },
+    {
+        "Code": 25095,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres beurre Charentes-Poitou AOP 90 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 0.7677,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 76.57,
+        "Image": "CDP_0321.png"
+    }
+]

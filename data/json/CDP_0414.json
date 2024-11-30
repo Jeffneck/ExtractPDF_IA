@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 70345,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés d'ananas",
+        "Prix Kg": 5.65,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1kg",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0414.png"
+    },
+    {
+        "Code": 841586,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés de mangues",
+        "Prix Kg": 5.69,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1kg",
+        "Prix portion": 0.46,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0414.png"
+    },
+    {
+        "Code": 39692,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés de pommes",
+        "Prix Kg": 4.99,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1kg",
+        "Prix portion": 0.4,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0414.png"
+    },
+    {
+        "Code": 828835,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pomme en tranches",
+        "Prix Kg": 2.99,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 10kg",
+        "Prix portion": 0.24,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0414.png"
+    },
+    {
+        "Code": 828834,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Garniture de pommes pour tartelette",
+        "Prix Kg": 7.39,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 10.8kg",
+        "Prix portion": 0.33,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0414.png"
+    },
+    {
+        "Code": 841505,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Framboise en brisures",
+        "Prix Kg": 6.09,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1kg",
+        "Prix portion": 0.49,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0414.png"
+    },
+    {
+        "Code": 39696,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Rhubarbe en morceaux",
+        "Prix Kg": 5.05,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1kg",
+        "Prix portion": 0.4,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0414.png"
+    }
+]

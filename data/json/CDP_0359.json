@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 70184,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de pâtes à la méditerranéenne",
+        "Prix Kg": 7.24,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.36,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": 9.05,
+        "Image": "CDP_0359.png"
+    },
+    {
+        "Code": 70185,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade duo de quinoa et petits légumes",
+        "Prix Kg": 6.9,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.3,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": 8.65,
+        "Image": "CDP_0359.png"
+    },
+    {
+        "Code": 70186,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de couscous perlés et légumes",
+        "Prix Kg": 6.04,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.13,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": 7.55,
+        "Image": "CDP_0359.png"
+    },
+    {
+        "Code": 70187,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de risoni et riz noir à la méditerranéenne",
+        "Prix Kg": 7.08,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.33,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": 8.85,
+        "Image": "CDP_0359.png"
+    },
+    {
+        "Code": 70188,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de quinoa et de riz brun",
+        "Prix Kg": 6.5,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.76,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": 6.65,
+        "Image": "CDP_0359.png"
+    },
+    {
+        "Code": 840820,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Taboulé",
+        "Prix Kg": 6.99,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.05,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": 6.99,
+        "Image": "CDP_0359.png"
+    },
+    {
+        "Code": 833226,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mélange de boulgour, quinoa et légumes",
+        "Prix Kg": 6.25,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.94,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": 6.25,
+        "Image": "CDP_0359.png"
+    }
+]

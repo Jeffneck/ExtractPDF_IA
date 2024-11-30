@@ -44,7 +44,19 @@
         "Portionnement": "Piece de 110g",
         "Prix portion": 0.9,
         "Colisage": "Colis de 40 pièces",
-        "Prix colis": 53.93,
+        "Prix colis": 35.93,
+        "Image": "CDP_0257.png"
+    },
+    {
+        "Code": 26592,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Maxi feuillete Compte AOP",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 200g",
+        "Prix portion": 1.99,
+        "Colisage": "Colis de 20 pièces",
+        "Prix colis": 39.86,
         "Image": "CDP_0257.png"
     },
     {

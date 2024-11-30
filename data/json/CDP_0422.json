@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 835118,
+        "Catégorie": "Glaces",
+        "Produit": "Sorbet à la fraise - Mon Bio gourmand",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g, Carton de 12 pots",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0422.png"
+    },
+    {
+        "Code": 835121,
+        "Catégorie": "Glaces",
+        "Produit": "Sorbet citron - Mon Bio gourmand",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g, Carton de 12 pots",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0422.png"
+    },
+    {
+        "Code": 835125,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée vanille - Mon Bio gourmand",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g, Carton de 12 pots",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0422.png"
+    },
+    {
+        "Code": 835126,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée chocolat - Mon Bio gourmand",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g, Carton de 12 pots",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0422.png"
+    },
+    {
+        "Code": 835117,
+        "Catégorie": "Glaces",
+        "Produit": "Sorbet poire - Mon Bio gourmand",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g, Carton de 12 pots",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0422.png"
+    },
+    {
+        "Code": 835124,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée caramel beurre salé - Mon Bio gourmand",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g, Carton de 12 pots",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0422.png"
+    }
+]

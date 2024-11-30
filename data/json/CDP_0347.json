@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 835109,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fèves edamame",
+        "Prix Kg": 6.05,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0347.png"
+    },
+    {
+        "Code": 837423,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Choux-fleurs en fleurettes 45/60 mm",
+        "Prix Kg": 2.05,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.31,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0347.png"
+    },
+    {
+        "Code": 832883,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Choux romanesco en fleurettes 40/60 mm",
+        "Prix Kg": 6.85,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 1.3,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0347.png"
+    },
+    {
+        "Code": 837421,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fèves pelées entières",
+        "Prix Kg": 5.65,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.85,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0347.png"
+    },
+    {
+        "Code": 841818,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Brocolis en fleurettes 35/55 mm",
+        "Prix Kg": 2.95,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.44,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0347.png"
+    }
+]

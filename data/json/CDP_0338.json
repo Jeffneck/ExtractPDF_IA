@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 831407,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cordon bleu de poulet \"l'Authentique\"",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0338.png"
+    },
+    {
+        "Code": 70069,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini donut de filet de poulet aux pépites de fromage halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 40 g env",
+        "Prix portion": null,
+        "Colisage": "Sachet de 800 g, Carton de 7 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0338.png"
+    },
+    {
+        "Code": 840081,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Nuggets de poulet Authentique",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 30 g env",
+        "Prix portion": null,
+        "Colisage": "Sachet de 2,5 kg, Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0338.png"
+    },
+    {
+        "Code": 832991,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Nuggets de filet de poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 20 g env",
+        "Prix portion": null,
+        "Colisage": "Sachet de 2,5 kg, Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0338.png"
+    },
+    {
+        "Code": 835147,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Chunks de poulet pané cornflakes halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 25 g env",
+        "Prix portion": null,
+        "Colisage": "Sachet de 1 kg (28 pièces mini), Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0338.png"
+    },
+    {
+        "Code": 40017,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de poulet pané",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g env",
+        "Prix portion": null,
+        "Colisage": "Sachet de 2,5 kg, Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0338.png"
+    }
+]

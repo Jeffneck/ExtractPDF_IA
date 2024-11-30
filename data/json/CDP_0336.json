@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 833803,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Brochette de filet de poulet halal aux herbes et citron",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brochette de 150 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0336.png"
+    },
+    {
+        "Code": 833494,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Brochette de filet de poulet halal aux oignons et poivrons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brochette de 190 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (16 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0336.png"
+    },
+    {
+        "Code": 841393,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Brochette de filet de poulet halal à la provençale et tomates cerise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brochette de 150 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0336.png"
+    },
+    {
+        "Code": 70486,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Brochette de dinde marinée façon tandoori",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brochette de 200 g env.",
+        "Prix portion": null,
+        "Colisage": "Sachet de 1 kg (5 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0336.png"
+    }
+]

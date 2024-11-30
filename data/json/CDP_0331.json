@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 831402,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de cuisse de poulet kebab",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0331.png"
+    },
+    {
+        "Code": 832297,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Lamelles kebab orientales halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0331.png"
+    },
+    {
+        "Code": 833844,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de cuisse de poulet Tex Mex halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0331.png"
+    },
+    {
+        "Code": 833842,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de cuisse de poulet kebab halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0331.png"
+    },
+    {
+        "Code": 822952,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de cuisse de poulet mariné curry halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0331.png"
+    },
+    {
+        "Code": 841558,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de haut de cuisse de poulet barbecue halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0331.png"
+    }
+]

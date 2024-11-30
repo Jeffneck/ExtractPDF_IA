@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 837694,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartare de légumes confits",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.36,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": 11.95,
+        "Image": "CDP_0376.png"
+    },
+    {
+        "Code": 42610,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartare de légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 900 g",
+        "Prix portion": 0.36,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": 10.85,
+        "Image": "CDP_0376.png"
+    },
+    {
+        "Code": 840360,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartare de tomates confites",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.4,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": 13.45,
+        "Image": "CDP_0376.png"
+    },
+    {
+        "Code": 21088,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tomatade",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 1 kg",
+        "Prix portion": 0.41,
+        "Colisage": "Carton de 4 pots",
+        "Prix colis": 13.59,
+        "Image": "CDP_0376.png"
+    },
+    {
+        "Code": 42604,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tomatade",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500 g",
+        "Prix portion": 0.43,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 7.19,
+        "Image": "CDP_0376.png"
+    },
+    {
+        "Code": 42612,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartare de tomates mi-séchées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 900 g",
+        "Prix portion": 0.39,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": 11.65,
+        "Image": "CDP_0376.png"
+    },
+    {
+        "Code": 44298,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Caviar d'aubergines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500 g",
+        "Prix portion": 0.39,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 6.49,
+        "Image": "CDP_0376.png"
+    },
+    {
+        "Code": 825510,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Caviar d'aubergines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 450 g",
+        "Prix portion": 0.4,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 5.99,
+        "Image": "CDP_0376.png"
+    }
+]

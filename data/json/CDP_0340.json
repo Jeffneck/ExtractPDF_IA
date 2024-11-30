@@ -1,0 +1,110 @@
+[
+    {
+        "Code": 70197,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sauté de cuisse de canard (avec peau, sans os)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 400 g, Sachet (sous-vide) de 2.5 kg, Carton de 2 sachets",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    },
+    {
+        "Code": 70196,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cuise de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 333 g, Carton de 3 kg (9 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    },
+    {
+        "Code": 833225,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Haché de magret de canard façon burger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120 g, Sachet de 1.2 kg (10 pièces), Carton de 2 sachets",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    },
+    {
+        "Code": 832975,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tournedos de filet de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g, Carton de 3 kg (20 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    },
+    {
+        "Code": 832973,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Magret de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 380 g env, Carton de 12 pièces",
+        "Prix portion": null,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    },
+    {
+        "Code": 70153,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillette de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 330-500 g env, Carton de 15 sachets",
+        "Prix portion": null,
+        "Colisage": "Carton de 15 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    },
+    {
+        "Code": 840726,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Confit de canard du Sud-Ouest IGP",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Cuise de canard confit à la graisse de canard (confitage traditionnel). Pièce de 192 g (cuise), Sachet (sous-vide) de 770 g (4 pièces), Carton de 4 sachets",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    },
+    {
+        "Code": 841813,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Confit de cuisse de canard gras",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 266 g env, Sachet (sous-vide) de 1.6 kg (6 pièces), Carton de 6 sachets",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    },
+    {
+        "Code": 835311,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Viande de canard confite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet (sous-vide) de 800 g, Carton de 6 sachets",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0340.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 12670,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Poivrons bicolores lanières grillés marinés",
+        "Prix Kg": 11.49,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 4 seaux",
+        "Prix portion": 0.57,
+        "Colisage": "Carton de 4 seaux",
+        "Prix colis": null,
+        "Image": "CDP_0358.png"
+    },
+    {
+        "Code": 43054,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Poivrons bicolores lanières grillés",
+        "Prix Kg": 13.95,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 2 barquettes",
+        "Prix portion": 0.76,
+        "Colisage": "Carton de 2 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0358.png"
+    },
+    {
+        "Code": 21082,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Poivrons bicolores lanières grillés marinés",
+        "Prix Kg": 15.19,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 4 seaux",
+        "Prix portion": 0.73,
+        "Colisage": "Carton de 4 seaux",
+        "Prix colis": null,
+        "Image": "CDP_0358.png"
+    },
+    {
+        "Code": 43009,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Poivrons bicolores lanières grillés marinés",
+        "Prix Kg": 14.65,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 4 barquettes",
+        "Prix portion": 0.63,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0358.png"
+    },
+    {
+        "Code": 13324,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mélange de légumes grillés marinés",
+        "Prix Kg": 12.59,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 4 seaux",
+        "Prix portion": 0.7,
+        "Colisage": "Carton de 4 seaux",
+        "Prix colis": null,
+        "Image": "CDP_0358.png"
+    },
+    {
+        "Code": 21084,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mix-légumes grillés marinés",
+        "Prix Kg": 17.85,
+        "Prix Litre": null,
+        "Portionnement": "Barquette avec couvercle de 1 kg",
+        "Prix portion": 0.89,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0358.png"
+    },
+    {
+        "Code": 43007,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mélange de légumes mi-séchés, marinés et grillés",
+        "Prix Kg": 16.35,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.82,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0358.png"
+    }
+]

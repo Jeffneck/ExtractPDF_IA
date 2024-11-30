@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 840085,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crème de cheddar",
+        "Prix Kg": 16.29,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 500g",
+        "Prix portion": 0.81,
+        "Colisage": "Carton de 8 poches",
+        "Prix colis": null,
+        "Image": "CDP_0377.png"
+    },
+    {
+        "Code": 841685,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crème béchamel",
+        "Prix Kg": 8.69,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 1.2kg",
+        "Prix portion": 0.43,
+        "Colisage": "Carton de 4 poches",
+        "Prix colis": null,
+        "Image": "CDP_0377.png"
+    },
+    {
+        "Code": 70058,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crème au curry",
+        "Prix Kg": 11.49,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 500g",
+        "Prix portion": 0.57,
+        "Colisage": "Carton de 8 poches",
+        "Prix colis": null,
+        "Image": "CDP_0377.png"
+    },
+    {
+        "Code": 70059,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crème tex mex",
+        "Prix Kg": 12.65,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 500g",
+        "Prix portion": 0.63,
+        "Colisage": "Carton de 8 poches",
+        "Prix colis": null,
+        "Image": "CDP_0377.png"
+    }
+]

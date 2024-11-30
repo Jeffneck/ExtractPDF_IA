@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70476,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mélange de fruits sunshine",
+        "Prix Kg": 5.65,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Portion de 80g",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0413.png"
+    },
+    {
+        "Code": 833702,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mélange de 6 fruits des bois",
+        "Prix Kg": 6.69,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Portion de 80g",
+        "Prix portion": 0.56,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0413.png"
+    },
+    {
+        "Code": 44115,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mélange de petits fruits rouges",
+        "Prix Kg": 6.49,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Portion de 80g",
+        "Prix portion": 0.52,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0413.png"
+    },
+    {
+        "Code": 841681,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Brunoise de fruits",
+        "Prix Kg": 4.55,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg, Portion de 80g",
+        "Prix portion": 0.36,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0413.png"
+    }
+]

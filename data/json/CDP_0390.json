@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841569,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Bûchette de fromage au lait de mélange",
+        "Prix Kg": 12.19,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.61,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0390.png"
+    },
+    {
+        "Code": 44288,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Bûchette de chèvre long ø 42 mm env",
+        "Prix Kg": 15.55,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": null,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0390.png"
+    },
+    {
+        "Code": 18414,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Palet de chèvre spécial four",
+        "Prix Kg": 22.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 5 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0390.png"
+    },
+    {
+        "Code": 44294,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Bûche de chèvre ø 82 mm env",
+        "Prix Kg": 15.35,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.77,
+        "Colisage": "Carton de 2 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0390.png"
+    },
+    {
+        "Code": 825446,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Sainte-Maure-de-Touraine AOP",
+        "Prix Kg": 34.95,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 1.75,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0390.png"
+    }
+]

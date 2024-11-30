@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 832909,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pommes de terre Anna",
+        "Prix Kg": 69.83,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 1.26,
+        "Colisage": "Carton de 8 sachets",
+        "Prix colis": 20.95,
+        "Image": "CDP_0364.png"
+    },
+    {
+        "Code": 841742,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pommes darphin",
+        "Prix Kg": 9.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.95,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0364.png"
+    },
+    {
+        "Code": 70764,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crumble de légumes",
+        "Prix Kg": 5.43,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.1,
+        "Colisage": "Carton de 2.7 kg",
+        "Prix colis": 14.65,
+        "Image": "CDP_0364.png"
+    },
+    {
+        "Code": 840735,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Finger de pommes de terre et champignons",
+        "Prix Kg": 5.84,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.21,
+        "Colisage": "Carton de 2.3 kg",
+        "Prix colis": 13.39,
+        "Image": "CDP_0364.png"
+    },
+    {
+        "Code": 70766,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fond de pommes de terre",
+        "Prix Kg": 4.41,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.86,
+        "Colisage": "Carton de 2.7 kg",
+        "Prix colis": 11.49,
+        "Image": "CDP_0364.png"
+    },
+    {
+        "Code": 70767,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fond de polenta",
+        "Prix Kg": 5.2,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.97,
+        "Colisage": "Carton de 2.7 kg",
+        "Prix colis": 12.99,
+        "Image": "CDP_0364.png"
+    },
+    {
+        "Code": 70163,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartelettes aux pommes de terre et purée de céleri",
+        "Prix Kg": 17.81,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.08,
+        "Colisage": "Carton de 1.92 kg",
+        "Prix colis": 14.25,
+        "Image": "CDP_0364.png"
+    },
+    {
+        "Code": 840101,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Lingot de polenta aux légumes du soleil",
+        "Prix Kg": 12.05,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3.15 kg",
+        "Prix colis": null,
+        "Image": "CDP_0364.png"
+    }
+]

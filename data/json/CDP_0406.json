@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 837855,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Œuf frais daté calibre M 53-63",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 360 œufs.",
+        "Prix portion": null,
+        "Colisage": "Carton de 360 œufs.",
+        "Prix colis": null,
+        "Image": "CDP_0406.png"
+    },
+    {
+        "Code": 837856,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Œuf frais daté calibre L 63-73",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 360 œufs.",
+        "Prix portion": null,
+        "Colisage": "Carton de 360 œufs.",
+        "Prix colis": null,
+        "Image": "CDP_0406.png"
+    },
+    {
+        "Code": 837859,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Œuf frais daté calibre L 63-73",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 180 œufs.",
+        "Prix portion": null,
+        "Colisage": "Carton de 180 œufs.",
+        "Prix colis": null,
+        "Image": "CDP_0406.png"
+    },
+    {
+        "Code": 44089,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Œuf frais daté calibre L 63-73",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 90 œufs.",
+        "Prix portion": null,
+        "Colisage": "Carton de 90 œufs.",
+        "Prix colis": null,
+        "Image": "CDP_0406.png"
+    },
+    {
+        "Code": 837871,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Œufs coquille bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 90 œufs.",
+        "Prix portion": null,
+        "Colisage": "Carton de 90 œufs.",
+        "Prix colis": null,
+        "Image": "CDP_0406.png"
+    },
+    {
+        "Code": 837871,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Œuf frais plein air daté calibre L 63-73",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 180 œufs.",
+        "Prix portion": null,
+        "Colisage": "Carton de 180 œufs.",
+        "Prix colis": null,
+        "Image": "CDP_0406.png"
+    }
+]

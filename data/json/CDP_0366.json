@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 832908,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Rösti nature Ø 52 mm env. (goût oignon)",
+        "Prix Kg": 3.45,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.1,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0366.png"
+    },
+    {
+        "Code": 841580,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Rösti nature pour burger Ø 88 mm env. (goût oignon)",
+        "Prix Kg": 3.05,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.31,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0366.png"
+    },
+    {
+        "Code": 840721,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pommes dauphine",
+        "Prix Kg": 5.59,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.84,
+        "Colisage": "Carton de 16 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0366.png"
+    },
+    {
+        "Code": 840097,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Croquette de pommes de terre belges",
+        "Prix Kg": 2.79,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.42,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0366.png"
+    },
+    {
+        "Code": 832905,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Potatoes Roty Easy four",
+        "Prix Kg": 4.09,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.61,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0366.png"
+    },
+    {
+        "Code": 832910,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Gnocchis de pommes de terre",
+        "Prix Kg": 5.95,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.89,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0366.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 835111,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mousse mascarpone à la vanille",
+        "Prix Kg": 1.89,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.59,
+        "Colisage": "Poche de 800 g, Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0409.png"
+    },
+    {
+        "Code": 841462,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mousse ganache au chocolat",
+        "Prix Kg": 17.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.87,
+        "Colisage": "Poche de 500 g, Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0409.png"
+    },
+    {
+        "Code": 840080,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Préparation pour tiramisu",
+        "Prix Kg": 12.89,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.46,
+        "Colisage": "Poche de 700 g, Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0409.png"
+    },
+    {
+        "Code": 963,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Préparation pour tiramisu au mascarpone UHT",
+        "Prix Kg": 9.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.47,
+        "Colisage": "Brique de 1 L, Pack de 6 briques",
+        "Prix colis": null,
+        "Image": "CDP_0409.png"
+    },
+    {
+        "Code": 840161,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Préparation pour crème brûlée",
+        "Prix Kg": 6.15,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.31,
+        "Colisage": "Brique de 1.054 kg, Carton de 6 briques",
+        "Prix colis": null,
+        "Image": "CDP_0409.png"
+    },
+    {
+        "Code": 5120,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Compote de pommes pâtissière 24 % matière sèche",
+        "Prix Kg": 3.09,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.15,
+        "Colisage": "Boîtes 5 d' 4.25 kg, Carton de 3 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0409.png"
+    }
+]

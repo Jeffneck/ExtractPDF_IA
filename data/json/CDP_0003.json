@@ -6,7 +6,7 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion de 80g",
-        "Prix portion": 1.307,
+        "Prix portion": 1.3017,
         "Colisage": "Colis de 12 unités",
         "Prix colis": 15.62,
         "Image": "CDP_0003.png"
@@ -36,13 +36,13 @@
         "Image": "CDP_0003.png"
     },
     {
-        "Code": 27446,
+        "Code": 27466,
         "Catégorie": "Pâtisserie individuelle",
         "Produit": "Éclair gourmand spéculos Le Tourier",
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion de 80g",
-        "Prix portion": 1.305,
+        "Prix portion": 1.3058,
         "Colisage": "Colis de 12 unités",
         "Prix colis": 15.67,
         "Image": "CDP_0003.png"

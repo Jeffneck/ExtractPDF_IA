@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841754,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de Cantal jeune AOP",
+        "Prix Kg": 22.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0398.png"
+    },
+    {
+        "Code": 841761,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de Munster AOP",
+        "Prix Kg": 19.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.39,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0398.png"
+    },
+    {
+        "Code": 8101,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de raclette",
+        "Prix Kg": 12.79,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.26,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0398.png"
+    },
+    {
+        "Code": 841758,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de raclette",
+        "Prix Kg": 15.85,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.29,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0398.png"
+    },
+    {
+        "Code": 841582,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de Reblochon AOP",
+        "Prix Kg": 20.75,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.42,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0398.png"
+    },
+    {
+        "Code": 841686,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de Reblochon AOP ronde",
+        "Prix Kg": 16.29,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.41,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0398.png"
+    }
+]

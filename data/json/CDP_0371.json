@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 837418,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Girolles",
+        "Prix Kg": 13.89,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 1.11,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0371.png"
+    },
+    {
+        "Code": 821550,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Girolles entières super babies",
+        "Prix Kg": 22.19,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 1.78,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0371.png"
+    },
+    {
+        "Code": 837001,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cèpes entiers bouchon",
+        "Prix Kg": 22.39,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0371.png"
+    },
+    {
+        "Code": 837417,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cèpes en morceaux",
+        "Prix Kg": 13.45,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 1.08,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0371.png"
+    },
+    {
+        "Code": 837419,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Morilles",
+        "Prix Kg": 41.99,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 3.36,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0371.png"
+    },
+    {
+        "Code": 841638,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Champignons cuits en persillade",
+        "Prix Kg": 12.49,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 1.0,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0371.png"
+    },
+    {
+        "Code": 832835,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Champignons de Paris émincés",
+        "Prix Kg": 2.29,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.18,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0371.png"
+    },
+    {
+        "Code": 837420,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mélange de champignons - Sélection gourmande",
+        "Prix Kg": 6.05,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.48,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0371.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 19065,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Philadelphia nature 21,5 % MG",
+        "Prix Kg": 14.99,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 4 pots (1.65 kg)",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 4 pots",
+        "Prix colis": null,
+        "Image": "CDP_0399.png"
+    },
+    {
+        "Code": 70495,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fromage à tartiner nature - «Cream cheese»",
+        "Prix Kg": 6.29,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 1.5 kg",
+        "Prix portion": 0.19,
+        "Colisage": "Carton de 4 seaux",
+        "Prix colis": null,
+        "Image": "CDP_0399.png"
+    },
+    {
+        "Code": 70151,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fromage de chèvre à tartiner - tsot'o chèvre",
+        "Prix Kg": 16.35,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 750 g",
+        "Prix portion": 0.65,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0399.png"
+    },
+    {
+        "Code": 44332,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mme Loik nature au sel de Guérande 24 % MG",
+        "Prix Kg": 41.49,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 4 kg",
+        "Prix portion": 0.31,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0399.png"
+    },
+    {
+        "Code": 19569,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mme Loik nature au sel de Guérande 24 % MG",
+        "Prix Kg": 6.89,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 600 g",
+        "Prix portion": 0.41,
+        "Colisage": "Carton de 4 pots",
+        "Prix colis": null,
+        "Image": "CDP_0399.png"
+    },
+    {
+        "Code": 19568,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mme Loik ail et fines herbes 24 % MG",
+        "Prix Kg": 6.89,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 600 g",
+        "Prix portion": 0.41,
+        "Colisage": "Carton de 4 pots",
+        "Prix colis": null,
+        "Image": "CDP_0399.png"
+    }
+]

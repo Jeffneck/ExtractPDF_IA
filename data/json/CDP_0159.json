@@ -54,9 +54,9 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion non spécifié",
-        "Prix portion": 0.5363,
+        "Prix portion": 0.3563,
         "Colisage": "Colis de 100 unités",
-        "Prix colis": 53.63,
+        "Prix colis": 35.63,
         "Image": "CDP_0159.png"
     },
     {
@@ -66,7 +66,7 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion de 140g",
-        "Prix portion": 0.5386,
+        "Prix portion": 0.3586,
         "Colisage": "Colis de 140 unités",
         "Prix colis": 50.21,
         "Image": "CDP_0159.png"

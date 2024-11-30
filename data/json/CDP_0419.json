@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 841501,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 135 g",
+        "Prix portion": 1.0,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 6.6,
+        "Image": "CDP_0419.png"
+    },
+    {
+        "Code": 841500,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt aromatisé à la vanille naturelle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 135 g",
+        "Prix portion": 1.0,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 6.6,
+        "Image": "CDP_0419.png"
+    },
+    {
+        "Code": 841497,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à la fraise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 145 g",
+        "Prix portion": 1.1,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 6.6,
+        "Image": "CDP_0419.png"
+    },
+    {
+        "Code": 841499,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à la myrtille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 145 g",
+        "Prix portion": 1.1,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 6.6,
+        "Image": "CDP_0419.png"
+    },
+    {
+        "Code": 841498,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à la mangue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 145 g",
+        "Prix portion": 1.1,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 6.6,
+        "Image": "CDP_0419.png"
+    },
+    {
+        "Code": 70066,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt aux fruits des bois",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 145 g",
+        "Prix portion": 1.1,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 6.6,
+        "Image": "CDP_0419.png"
+    },
+    {
+        "Code": 841496,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à l'abricot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 145 g",
+        "Prix portion": 1.1,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 6.6,
+        "Image": "CDP_0419.png"
+    },
+    {
+        "Code": 841497,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à la poire",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 145 g",
+        "Prix portion": 1.1,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 6.6,
+        "Image": "CDP_0419.png"
+    }
+]

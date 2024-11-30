@@ -1,0 +1,110 @@
+[
+    {
+        "Code": 12372,
+        "Catégorie": "Glaces",
+        "Produit": "Coulis de fruits rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20 cl",
+        "Prix portion": 0.32,
+        "Colisage": "Carton de 12 bouteilles",
+        "Prix colis": 5.85,
+        "Image": "CDP_0416.png"
+    },
+    {
+        "Code": 12332,
+        "Catégorie": "Glaces",
+        "Produit": "Coulis de mangues et passion",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20 cl",
+        "Prix portion": 0.27,
+        "Colisage": "Carton de 12 bouteilles",
+        "Prix colis": 6.85,
+        "Image": "CDP_0416.png"
+    },
+    {
+        "Code": 12333,
+        "Catégorie": "Glaces",
+        "Produit": "Coulis de framboises",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20 cl",
+        "Prix portion": 0.26,
+        "Colisage": "Carton de 12 bouteilles",
+        "Prix colis": 6.55,
+        "Image": "CDP_0416.png"
+    },
+    {
+        "Code": 84091,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Purée de poires sucré sans sucre ajouté",
+        "Prix Kg": 8.05,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.4,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0416.png"
+    },
+    {
+        "Code": 12314,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Purée de fraises sucrée",
+        "Prix Kg": 7.89,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.39,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0416.png"
+    },
+    {
+        "Code": 84092,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Purée de framboises sucrée",
+        "Prix Kg": 10.49,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.52,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0416.png"
+    },
+    {
+        "Code": 12325,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Purée de mangues",
+        "Prix Kg": 10.79,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.54,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0416.png"
+    },
+    {
+        "Code": 831215,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Purée d'abricots sucrée",
+        "Prix Kg": 7.55,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.38,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0416.png"
+    },
+    {
+        "Code": 12334,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Purée de fruits de la passion",
+        "Prix Kg": 11.85,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.59,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0416.png"
+    }
+]

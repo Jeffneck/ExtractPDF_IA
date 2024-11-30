@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841817,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Rôti de veau bas-carré",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous-vide de 2 kg env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 kg (3 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0316.png"
+    },
+    {
+        "Code": 841689,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Jarret de veau (sans os) cuit basse température",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous-vide de 2.1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0316.png"
+    },
+    {
+        "Code": 841387,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Souris d'agneau cuisinée au thym (portion individuelle)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous-vide de 450 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5.4 kg (12 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0316.png"
+    },
+    {
+        "Code": 832925,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sauté d'agneau (coupé main, épaule, sans os)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 60/80 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets de 2.5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0316.png"
+    },
+    {
+        "Code": 833808,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Jarret arrière d'agneau",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 350/450 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (11 à 14 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0316.png"
+    },
+    {
+        "Code": 833809,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Carré d'agneau à la française (8 côtes)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 750/800 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0316.png"
+    }
+]

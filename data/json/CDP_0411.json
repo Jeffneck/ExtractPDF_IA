@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 841503,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Framboise Mecker entière calibre 18-21 mm",
+        "Prix Kg": 8.25,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": 0.66,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0411.png"
+    },
+    {
+        "Code": 841504,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Framboise Willamette entière",
+        "Prix Kg": 6.95,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.56,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0411.png"
+    },
+    {
+        "Code": 39682,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Griotte équeutée dénoyautée",
+        "Prix Kg": 6.25,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.5,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0411.png"
+    },
+    {
+        "Code": 39690,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Myrtille sauvage",
+        "Prix Kg": 7.95,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.64,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0411.png"
+    },
+    {
+        "Code": 841585,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mangue en joues",
+        "Prix Kg": 4.79,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.38,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0411.png"
+    },
+    {
+        "Code": 841386,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Abricot oreillons",
+        "Prix Kg": 7.55,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.6,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0411.png"
+    },
+    {
+        "Code": 45300,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pommes Golden",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Cagette de 12.5 kg",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0411.png"
+    }
+]

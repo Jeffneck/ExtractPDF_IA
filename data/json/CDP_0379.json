@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 19825,
+        "Catégorie": "Sauces",
+        "Produit": "Mayonnaise traiteur - Entreprises",
+        "Prix Kg": null,
+        "Prix Litre": 2.95,
+        "Portionnement": "30 g",
+        "Prix portion": 0.09,
+        "Colisage": "Seau de 5 L",
+        "Prix colis": null,
+        "Image": "CDP_0379.png"
+    },
+    {
+        "Code": 19849,
+        "Catégorie": "Sauces",
+        "Produit": "Mayonnaise allégée - Entreprises",
+        "Prix Kg": null,
+        "Prix Litre": 2.29,
+        "Portionnement": "30 g",
+        "Prix portion": 0.07,
+        "Colisage": "Seau de 5 L",
+        "Prix colis": null,
+        "Image": "CDP_0379.png"
+    },
+    {
+        "Code": 70356,
+        "Catégorie": "Sauces",
+        "Produit": "Mayonnaise légère",
+        "Prix Kg": null,
+        "Prix Litre": 3.79,
+        "Portionnement": "300 g",
+        "Prix portion": 0.12,
+        "Colisage": "Flacon de 950 g, Carton de 12 flacons",
+        "Prix colis": null,
+        "Image": "CDP_0379.png"
+    },
+    {
+        "Code": 70508,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce vinaigrette au vinaigre balsamique",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "20 g",
+        "Prix portion": 0.19,
+        "Colisage": "Carton de 168 coupelles",
+        "Prix colis": 31.15,
+        "Image": "CDP_0379.png"
+    },
+    {
+        "Code": 70509,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce vinaigrette moutardée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "20 g",
+        "Prix portion": 0.13,
+        "Colisage": "Carton de 216 coupelles",
+        "Prix colis": 27.99,
+        "Image": "CDP_0379.png"
+    },
+    {
+        "Code": 11112,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce pizza prestige",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "30 g",
+        "Prix portion": 0.08,
+        "Colisage": "Boîtes de 5/1 de 4,15 kg, Carton de 3 boîtes",
+        "Prix colis": 10.99,
+        "Image": "CDP_0379.png"
+    },
+    {
+        "Code": 11116,
+        "Catégorie": "Sauces",
+        "Produit": "Tomate Napopizza",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "30 g",
+        "Prix portion": 0.1,
+        "Colisage": "Boîtes de 5/1 de 4,1 kg, Carton de 3 boîtes",
+        "Prix colis": 13.15,
+        "Image": "CDP_0379.png"
+    }
+]

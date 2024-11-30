@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70061,
+        "Catégorie": "Glaces",
+        "Produit": "Smoothie green reviver",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 150 g",
+        "Prix portion": 1.14,
+        "Colisage": "Carton de 15 sachets",
+        "Prix colis": 17.09,
+        "Image": "CDP_0417.png"
+    },
+    {
+        "Code": 70062,
+        "Catégorie": "Glaces",
+        "Produit": "Smoothie tropical carrot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 150 g",
+        "Prix portion": 1.14,
+        "Colisage": "Carton de 15 sachets",
+        "Prix colis": 17.09,
+        "Image": "CDP_0417.png"
+    },
+    {
+        "Code": 835114,
+        "Catégorie": "Glaces",
+        "Produit": "Smoothie pineapple sunset",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 150 g",
+        "Prix portion": 1.14,
+        "Colisage": "Carton de 15 sachets",
+        "Prix colis": 17.09,
+        "Image": "CDP_0417.png"
+    },
+    {
+        "Code": 835115,
+        "Catégorie": "Glaces",
+        "Produit": "Smoothie raspberry heaven",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 150 g",
+        "Prix portion": 1.14,
+        "Colisage": "Carton de 15 sachets",
+        "Prix colis": 17.09,
+        "Image": "CDP_0417.png"
+    },
+    {
+        "Code": 835116,
+        "Catégorie": "Glaces",
+        "Produit": "Smoothie strawberry fantasy",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 150 g",
+        "Prix portion": 1.14,
+        "Colisage": "Carton de 15 sachets",
+        "Prix colis": 17.09,
+        "Image": "CDP_0417.png"
+    },
+    {
+        "Code": 841583,
+        "Catégorie": "Glaces",
+        "Produit": "Smoothie coconut crush",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 150 g",
+        "Prix portion": 1.14,
+        "Colisage": "Carton de 15 sachets",
+        "Prix colis": 17.09,
+        "Image": "CDP_0417.png"
+    }
+]

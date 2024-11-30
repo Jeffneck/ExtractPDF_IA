@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 841490,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Poêlée harmonie de céréales",
+        "Prix Kg": 6.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.93,
+        "Colisage": "Colis de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0355.png"
+    },
+    {
+        "Code": 70148,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Poêlée à la sarladaise",
+        "Prix Kg": 6.39,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.96,
+        "Colisage": "Colis de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0355.png"
+    },
+    {
+        "Code": 835174,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Poêlée de pommes de terre grenailles au sel de Guérande",
+        "Prix Kg": 7.95,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.19,
+        "Colisage": "Colis de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0355.png"
+    }
+]

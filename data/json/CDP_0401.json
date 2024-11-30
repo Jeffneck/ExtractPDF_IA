@@ -1,0 +1,110 @@
+[
+    {
+        "Code": 837853,
+        "Catégorie": "null",
+        "Produit": "Beurre doux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaquette de 250 g, Carton de 40 plaquettes",
+        "Prix portion": null,
+        "Colisage": "Carton de 40 plaquettes",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    },
+    {
+        "Code": 2121,
+        "Catégorie": "null",
+        "Produit": "Beurre doux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaquette de 250 g, Carton de 40 plaquettes",
+        "Prix portion": null,
+        "Colisage": "Carton de 40 plaquettes",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    },
+    {
+        "Code": 44175,
+        "Catégorie": "null",
+        "Produit": "Beurre léger doux 40 % MG «Tartimalin» - Président",
+        "Prix Kg": 9.85,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg, Carton de 6 barquettes",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    },
+    {
+        "Code": 44174,
+        "Catégorie": "null",
+        "Produit": "Beurre léger demi-sel 40 % MG \"Tartimalin\"- Président",
+        "Prix Kg": 9.39,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg, Carton de 6 barquettes",
+        "Prix portion": 0.19,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    },
+    {
+        "Code": 2092,
+        "Catégorie": "null",
+        "Produit": "Beurre doux coloré (incorporation de bêta carotène)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pain de 1 kg, Carton de 10 pains",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 pains",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    },
+    {
+        "Code": 2094,
+        "Catégorie": "null",
+        "Produit": "Beurre de tourage coloré (incorporation de bêta carotène)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 2 kg, Carton de 5 plaquettes",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 plaquettes",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    },
+    {
+        "Code": 13311,
+        "Catégorie": "null",
+        "Produit": "Beurre de tourage - Président",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 2 kg, Carton de 5 plaquettes",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 plaquettes",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    },
+    {
+        "Code": 83377,
+        "Catégorie": "null",
+        "Produit": "Beurre de tourage Campina",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 2 kg, Carton de 5 plaquettes",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 plaquettes",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    },
+    {
+        "Code": 83376,
+        "Catégorie": "null",
+        "Produit": "Beurre Campina",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Cube de 25 kg",
+        "Prix portion": null,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0401.png"
+    }
+]

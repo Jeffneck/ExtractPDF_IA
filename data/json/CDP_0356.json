@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 21112,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de carottes grillées marinées",
+        "Prix Kg": 10.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.53,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0356.png"
+    },
+    {
+        "Code": 21083,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de courgettes grillées aux épices",
+        "Prix Kg": 13.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.67,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0356.png"
+    },
+    {
+        "Code": 21081,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranches d'aubergines grillées au pesto",
+        "Prix Kg": 13.45,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.67,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0356.png"
+    },
+    {
+        "Code": 43052,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Aubergines 1/2 lunes grillées aromatisées",
+        "Prix Kg": 12.09,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.6,
+        "Colisage": "Carton de 2 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0356.png"
+    },
+    {
+        "Code": 21086,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Artichauts cœur marinés",
+        "Prix Kg": 16.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.83,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0356.png"
+    },
+    {
+        "Code": 18480,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Artichauts cœur marinés",
+        "Prix Kg": 15.19,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.76,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0356.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 83298,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cuisse de poulet blanc déjointée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 180/200 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0335.png"
+    },
+    {
+        "Code": 70242,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cuisse de poulet issu de poulet fermier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 200/300 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0335.png"
+    },
+    {
+        "Code": 40028,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillettes de poulet rôti",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 15 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0335.png"
+    },
+    {
+        "Code": 832296,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Médaillons de poulet halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 12 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0335.png"
+    },
+    {
+        "Code": 70071,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Wings de poulet pané",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 45 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0335.png"
+    },
+    {
+        "Code": 70358,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Ailes de poulet tex-mex halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Sachet de 1 kg",
+        "Prix colis": null,
+        "Image": "CDP_0335.png"
+    },
+    {
+        "Code": 70357,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Ailes de poulet rôties halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0335.png"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 70474,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tapena olives Kalamata",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g, Carton de 6 pots",
+        "Prix portion": 0.58,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 77.75,
+        "Image": "CDP_0375.png"
+    },
+    {
+        "Code": 42660,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tapena olives et tomates",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g, Carton de 6 pots",
+        "Prix portion": 0.42,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 6.95,
+        "Image": "CDP_0375.png"
+    },
+    {
+        "Code": 42608,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tapena poivrons rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g, Carton de 6 pots",
+        "Prix portion": 0.43,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 7.09,
+        "Image": "CDP_0375.png"
+    },
+    {
+        "Code": 12626,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tapenade aux olives noires",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1kg, Carton de 4 barquettes",
+        "Prix portion": 0.4,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": 13.29,
+        "Image": "CDP_0375.png"
+    },
+    {
+        "Code": 12629,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tapena olives et tomates",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g, Carton de 6 pots",
+        "Prix portion": 0.44,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 7.25,
+        "Image": "CDP_0375.png"
+    },
+    {
+        "Code": 21053,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tapena poivrons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g, Carton de 6 pots",
+        "Prix portion": 0.47,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 7.85,
+        "Image": "CDP_0375.png"
+    },
+    {
+        "Code": 12619,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tapena artichauts",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g, Carton de 6 pots",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 7.85,
+        "Image": "CDP_0375.png"
+    },
+    {
+        "Code": 21087,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tapena courgettes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 500g, Carton de 6 pots",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 7.45,
+        "Image": "CDP_0375.png"
+    }
+]

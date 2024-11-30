@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 18403,
+        "Catégorie": "Crèmerie",
+        "Produit": "Crème Isigny Ste-Mère à la vanille de Madagascar",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 500 g. Carton de 12 pièces.",
+        "Prix portion": 0.37,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 6.15,
+        "Image": "CDP_0403.png"
+    },
+    {
+        "Code": 841568,
+        "Catégorie": "Crèmerie",
+        "Produit": "Crème épaisse 30 % MG",
+        "Prix Kg": null,
+        "Prix Litre": 5.49,
+        "Portionnement": "Seau de 5 L",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0403.png"
+    },
+    {
+        "Code": 822958,
+        "Catégorie": "Crèmerie",
+        "Produit": "Crème fraîche fluide 33 % MG",
+        "Prix Kg": null,
+        "Prix Litre": 5.39,
+        "Portionnement": "Bidon de 5 L. Carton de 4 bidons.",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 bidons",
+        "Prix colis": null,
+        "Image": "CDP_0403.png"
+    },
+    {
+        "Code": 14320,
+        "Catégorie": "Crèmerie",
+        "Produit": "Crème entière liquide 34 % MG UHT - Onctuelle",
+        "Prix Kg": null,
+        "Prix Litre": 5.05,
+        "Portionnement": "Brique de 1 L. Pack de 6 briques.",
+        "Prix portion": null,
+        "Colisage": "Pack de 6 briques",
+        "Prix colis": null,
+        "Image": "CDP_0403.png"
+    },
+    {
+        "Code": 70152,
+        "Catégorie": "Crèmerie",
+        "Produit": "Crème légère stérilisée UHT spécial cuisson 18 % MG - Montaigu",
+        "Prix Kg": null,
+        "Prix Litre": 3.99,
+        "Portionnement": "Brique de 1 L. Pack de 6 briques.",
+        "Prix portion": null,
+        "Colisage": "Pack de 6 briques",
+        "Prix colis": null,
+        "Image": "CDP_0403.png"
+    },
+    {
+        "Code": 14315,
+        "Catégorie": "Crèmerie",
+        "Produit": "Crème légère stérilisée UHT spéciale cuisson 18 % MG",
+        "Prix Kg": null,
+        "Prix Litre": 3.55,
+        "Portionnement": "Brique de 1 L. Pack de 6 briques.",
+        "Prix portion": null,
+        "Colisage": "Pack de 6 briques",
+        "Prix colis": null,
+        "Image": "CDP_0403.png"
+    },
+    {
+        "Code": 70490,
+        "Catégorie": "Crèmerie",
+        "Produit": "Préparation sucrée à base de matières grasses végétales à foisonner – Gold Cup Chanty Deco",
+        "Prix Kg": null,
+        "Prix Litre": 3.59,
+        "Portionnement": "Brique de 1 L. Carton de 12 briques.",
+        "Prix portion": null,
+        "Colisage": "Carton de 12 briques",
+        "Prix colis": null,
+        "Image": "CDP_0403.png"
+    }
+]

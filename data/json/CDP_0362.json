@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 833195,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Gratin de potiron, pommes de terre et carottes au mascarpone",
+        "Prix Kg": 3.1,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg, Carton de 4 sachets",
+        "Prix portion": 1.16,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": 7.75,
+        "Image": "CDP_0362.png"
+    },
+    {
+        "Code": 70776,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Purée de pommes de terre",
+        "Prix Kg": 2.79,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg, Carton de 4 sachets",
+        "Prix portion": 0.42,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0362.png"
+    },
+    {
+        "Code": 825498,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Purée de patates douces",
+        "Prix Kg": 3.29,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Carton de 10 sachets",
+        "Prix portion": 0.49,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0362.png"
+    },
+    {
+        "Code": 84158,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Gratin à la dauphinoise",
+        "Prix Kg": 5.19,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg, Carton de 4 sachets",
+        "Prix portion": 0.78,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0362.png"
+    },
+    {
+        "Code": 831424,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Purée de pommes de terre vitelotte",
+        "Prix Kg": 15.09,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1.5 kg, Carton de 2 sachets",
+        "Prix portion": 2.26,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0362.png"
+    }
+]
