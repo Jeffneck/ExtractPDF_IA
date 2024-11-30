@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 30009,
+        "Catégorie": "Glaces",
+        "Produit": "Sunday nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 mL",
+        "Prix portion": 1.25,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 30.09,
+        "Image": "CDP_0429.png"
+    },
+    {
+        "Code": 30061,
+        "Catégorie": "Glaces",
+        "Produit": "Sunday coulis parfum chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 mL",
+        "Prix portion": 1.71,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 40.99,
+        "Image": "CDP_0429.png"
+    },
+    {
+        "Code": 30059,
+        "Catégorie": "Glaces",
+        "Produit": "Sunday coulis caramel beurre salé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 mL",
+        "Prix portion": 1.68,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 40.25,
+        "Image": "CDP_0429.png"
+    },
+    {
+        "Code": 30062,
+        "Catégorie": "Glaces",
+        "Produit": "Sunday 3 chocolats",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 mL",
+        "Prix portion": 1.71,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 40.99,
+        "Image": "CDP_0429.png"
+    },
+    {
+        "Code": 30057,
+        "Catégorie": "Glaces",
+        "Produit": "Sunday coulis fruits rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 mL",
+        "Prix portion": 1.68,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 40.25,
+        "Image": "CDP_0429.png"
+    }
+]

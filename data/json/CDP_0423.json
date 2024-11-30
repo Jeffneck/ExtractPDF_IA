@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70481,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce dessert fruits rouges",
+        "Prix Kg": 8.29,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 1 kg",
+        "Prix portion": 0.17,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": null,
+        "Image": "CDP_0423.png"
+    },
+    {
+        "Code": 70482,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce dessert caramel beurre salé",
+        "Prix Kg": 7.55,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 1 kg",
+        "Prix portion": 0.15,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": null,
+        "Image": "CDP_0423.png"
+    },
+    {
+        "Code": 70493,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce dessert chocolat",
+        "Prix Kg": 7.49,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 1 kg",
+        "Prix portion": 0.15,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": null,
+        "Image": "CDP_0423.png"
+    },
+    {
+        "Code": 70507,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce dessert caramel",
+        "Prix Kg": 6.95,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 1 kg",
+        "Prix portion": 0.14,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": null,
+        "Image": "CDP_0423.png"
+    },
+    {
+        "Code": 79570,
+        "Catégorie": "Desserts",
+        "Produit": "Crème sucrée sous pression",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 718 g",
+        "Prix portion": 0.38,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 53.94,
+        "Image": "CDP_0423.png"
+    },
+    {
+        "Code": 18403,
+        "Catégorie": "Desserts",
+        "Produit": "Crème Isigny Ste-Mère à la vanille de Madagascar",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 500 g",
+        "Prix portion": 0.37,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 73.8,
+        "Image": "CDP_0423.png"
+    }
+]
