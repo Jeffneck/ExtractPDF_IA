@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70711,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Micro tropézienne ø 47",
+        "Prix Kg": 4.0494,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 23g",
+        "Prix portion": 0.31,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 31.17,
+        "Image": "CDP_0032.png"
+    },
+    {
+        "Code": 70712,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini tropézienne ø 60",
+        "Prix Kg": 6.8504,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 32g",
+        "Prix portion": 0.62,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 29.79,
+        "Image": "CDP_0032.png"
+    },
+    {
+        "Code": 70713,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tropézienne individuelle ø 85",
+        "Prix Kg": 3.6981,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 73g",
+        "Prix portion": 0.29,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 28.89,
+        "Image": "CDP_0032.png"
+    },
+    {
+        "Code": 27346,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mousseline tropézienne ø 320",
+        "Prix Kg": 11.1627,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.35,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 35.48,
+        "Image": "CDP_0032.png"
+    },
+    {
+        "Code": 70714,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mousseline tropézienne ø 220",
+        "Prix Kg": 7.0515,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 650g",
+        "Prix portion": 0.99,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 15.98,
+        "Image": "CDP_0032.png"
+    },
+    {
+        "Code": 27369,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mousseline tropézienne ø 260",
+        "Prix Kg": 9.0816,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 800g",
+        "Prix portion": 0.9,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 18.13,
+        "Image": "CDP_0032.png"
+    }
+]

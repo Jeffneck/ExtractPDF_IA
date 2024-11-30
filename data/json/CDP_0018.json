@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70467,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Macaron mangue passion",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 2.7,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 40.5,
+        "Image": "CDP_0018.png"
+    },
+    {
+        "Code": 835387,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Macaron vanille framboise",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 2.7267,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 40.9,
+        "Image": "CDP_0018.png"
+    },
+    {
+        "Code": 841648,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Macaron vanille chocolat caramel",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 2.7047,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 40.57,
+        "Image": "CDP_0018.png"
+    },
+    {
+        "Code": 840164,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Macaron Excellence chocolat cœur coulant caramel Ø 75",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.1546,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 51.71,
+        "Image": "CDP_0018.png"
+    },
+    {
+        "Code": 27436,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Macaron noisette",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 3.7767,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 45.32,
+        "Image": "CDP_0018.png"
+    }
+]

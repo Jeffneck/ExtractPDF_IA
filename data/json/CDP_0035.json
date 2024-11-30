@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 841644,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte croustillante abricot amande ø 240",
+        "Prix Kg": 37.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 3.39,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 33.9,
+        "Image": "CDP_0035.png"
+    },
+    {
+        "Code": 841645,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte croustillante aux pommes ø 240",
+        "Prix Kg": 32.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 3.6263,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 29.01,
+        "Image": "CDP_0035.png"
+    },
+    {
+        "Code": 27271,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte poire amande aromatisée ø 230",
+        "Prix Kg": 75.6471,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 10.8933,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 65.36,
+        "Image": "CDP_0035.png"
+    }
+]

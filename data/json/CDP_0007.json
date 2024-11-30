@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 18453,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Religieuse chocolat",
+        "Prix Kg": 236.2,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.8619,
+        "Colisage": "Colis de 13 unités",
+        "Prix colis": 23.62,
+        "Image": "CDP_0007.png"
+    },
+    {
+        "Code": 27423,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Religieuse café",
+        "Prix Kg": 232.2,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.7682,
+        "Colisage": "Colis de 13 unités",
+        "Prix colis": 23.22,
+        "Image": "CDP_0007.png"
+    },
+    {
+        "Code": 27424,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Religieuse parfum vanille",
+        "Prix Kg": 235.6,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.8123,
+        "Colisage": "Colis de 13 unités",
+        "Prix colis": 23.56,
+        "Image": "CDP_0007.png"
+    },
+    {
+        "Code": 27349,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini religieuses",
+        "Prix Kg": 128.42,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 1.717,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 51.53,
+        "Image": "CDP_0007.png"
+    },
+    {
+        "Code": 27596,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Gland au Kirsch",
+        "Prix Kg": 196.5,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.2317,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 14.78,
+        "Image": "CDP_0007.png"
+    },
+    {
+        "Code": 27412,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Salambo Cognac extrait d'orange",
+        "Prix Kg": 207.86,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.2825,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 15.39,
+        "Image": "CDP_0007.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 27816,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte aux fraises ø 230",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "6/8 parts",
+        "Prix portion": 11.6267,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 69.76,
+        "Image": "CDP_0038.png"
+    },
+    {
+        "Code": 27262,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte aux framboises ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "8/10 parts",
+        "Prix portion": 13.6000,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 27.20,
+        "Image": "CDP_0038.png"
+    },
+    {
+        "Code": 27266,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte aux myrtilles ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "8/10 parts",
+        "Prix portion": 13.3950,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 53.58,
+        "Image": "CDP_0038.png"
+    },
+    {
+        "Code": 836840,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte noix de coco ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "8/10 parts",
+        "Prix portion": 14.7450,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 29.49,
+        "Image": "CDP_0038.png"
+    }
+]

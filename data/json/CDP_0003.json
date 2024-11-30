@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 27686,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair gourmand chocolat Le Tourier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.307,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 15.62,
+        "Image": "CDP_0003.png"
+    },
+    {
+        "Code": 27687,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair gourmand café Le Tourier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.318,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 15.82,
+        "Image": "CDP_0003.png"
+    },
+    {
+        "Code": 18446,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair gourmand vanille Le Tourier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.32,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 15.84,
+        "Image": "CDP_0003.png"
+    },
+    {
+        "Code": 27446,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair gourmand spéculos Le Tourier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.305,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 15.67,
+        "Image": "CDP_0003.png"
+    },
+    {
+        "Code": 27457,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair gourmand noisettes parfum chocolat Le Tourier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.299,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 15.59,
+        "Image": "CDP_0003.png"
+    }
+]

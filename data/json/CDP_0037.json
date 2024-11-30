@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 841746,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte mirabelle ø 220",
+        "Prix Kg": 73.71,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 93.75g",
+        "Prix portion": 1.41,
+        "Colisage": "Colis de 5 unités",
+        "Prix colis": 55.03,
+        "Image": "CDP_0037.png"
+    },
+    {
+        "Code": 70167,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte pomme rhubarbe cuite ø 230",
+        "Prix Kg": 49.04,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.16,
+        "Colisage": "Colis de 5 unités",
+        "Prix colis": 34.95,
+        "Image": "CDP_0037.png"
+    },
+    {
+        "Code": 822930,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte citron meringuée ø 240",
+        "Prix Kg": 27.68,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 157.5g",
+        "Prix portion": 2.17,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 26.02,
+        "Image": "CDP_0037.png"
+    },
+    {
+        "Code": 27379,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte citron cuite ø 230",
+        "Prix Kg": 59.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 116.67g",
+        "Prix portion": 1.72,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 41.64,
+        "Image": "CDP_0037.png"
+    }
+]

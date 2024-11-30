@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 27510,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre opéra chocolat/café",
+        "Prix Kg": 8.4397,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.5505,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 50.55,
+        "Image": "CDP_0047.png"
+    },
+    {
+        "Code": 27516,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre caramel poire",
+        "Prix Kg": 9.5914,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.4105,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 41.05,
+        "Image": "CDP_0047.png"
+    },
+    {
+        "Code": 833540,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre opéra chocolat café sérigraphié",
+        "Prix Kg": 9.0217,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.5084,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 50.84,
+        "Image": "CDP_0047.png"
+    },
+    {
+        "Code": 833359,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre chocolat praliné rocher",
+        "Prix Kg": 29.75,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.5955,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 59.55,
+        "Image": "CDP_0047.png"
+    }
+]

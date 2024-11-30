@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70240,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre fraiser",
+        "Prix Kg": 23.524,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 3.2432,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 77.78,
+        "Image": "CDP_0041.png"
+    },
+    {
+        "Code": 27487,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre fraise des bois",
+        "Prix Kg": 21.293,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 200g",
+        "Prix portion": 2.5155,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 50.31,
+        "Image": "CDP_0041.png"
+    },
+    {
+        "Code": 840833,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre vanille fruits rouges",
+        "Prix Kg": 19.8667,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 2.29,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 45.58,
+        "Image": "CDP_0041.png"
+    }
+]

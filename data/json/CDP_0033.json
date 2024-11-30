@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70006,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Flan caramel au beurre demi-sel d'Isigny A.O.P",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1345g",
+        "Prix portion": 15.7,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 47.01,
+        "Image": "CDP_0033.png"
+    },
+    {
+        "Code": 70450,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Flan pistache Les Secrets du Fournil",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1345g",
+        "Prix portion": 16.0,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": 64.0,
+        "Image": "CDP_0033.png"
+    },
+    {
+        "Code": 27509,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Flan nature cuit prédécoupé",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1800g",
+        "Prix portion": 14.798,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 88.79,
+        "Image": "CDP_0033.png"
+    },
+    {
+        "Code": 70436,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Flan coco/choco prédécoupé",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1900g",
+        "Prix portion": 17.867,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": 71.47,
+        "Image": "CDP_0033.png"
+    },
+    {
+        "Code": 70419,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Flan chocolat cookie prédécoupé",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1950g",
+        "Prix portion": 15.26,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 61.04,
+        "Image": "CDP_0033.png"
+    },
+    {
+        "Code": 27311,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Far aux pruneaux cuit",
+        "Prix Kg": 0.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 550g",
+        "Prix portion": 15.823,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 47.47,
+        "Image": "CDP_0033.png"
+    }
+]

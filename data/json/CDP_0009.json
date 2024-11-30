@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 27156,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pastel de nata Ø 70",
+        "Prix Kg": 11.075,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 0.738,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 66.45,
+        "Image": "CDP_0009.png"
+    },
+    {
+        "Code": 18452,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Flan individuel Ø 100",
+        "Prix Kg": 31.83,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 145g",
+        "Prix portion": 1.44428,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 46.17,
+        "Image": "CDP_0009.png"
+    },
+    {
+        "Code": 822925,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Grillé aux pommes",
+        "Prix Kg": 1.0107,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 1.0107,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 60.64,
+        "Image": "CDP_0009.png"
+    },
+    {
+        "Code": 27119,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette Bourdaloue poire Ø 100",
+        "Prix Kg": 15.85,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.998,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 47.75,
+        "Image": "CDP_0009.png"
+    },
+    {
+        "Code": 27158,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette amandine Ø 100",
+        "Prix Kg": 24.201,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.621,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 32.24,
+        "Image": "CDP_0009.png"
+    },
+    {
+        "Code": 70269,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette croustillante normande Ø 105",
+        "Prix Kg": 30.66,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.6321,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 39.17,
+        "Image": "CDP_0009.png"
+    }
+]

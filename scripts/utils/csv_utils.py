@@ -51,7 +51,7 @@ def json_to_csv(input_file, output_file):
     }
 
     # Traiter chaque élément du JSON
-    processed_data = []
+    processed_data = {}  # Utiliser un dictionnaire avec le code produit comme clé
     for item in data:
         # Créer un nouveau dictionnaire pour l'élément transformé
         new_item = {}
@@ -73,7 +73,7 @@ def json_to_csv(input_file, output_file):
             new_item[new_field] = value
 
         # Remplacer les points par des virgules dans les champs de prix
-        price_fields = ["Prix Kg", "Prix Litre", "Prix portion", "Prix colis"]
+        price_fields = ["Prix au kg", "Prix au Litre", "Prix par portion", "Prix par colis"]
         for field in price_fields:
             if field in new_item and new_item[field]:
                 # Convertir en chaîne et remplacer le point par une virgule
@@ -89,8 +89,33 @@ def json_to_csv(input_file, output_file):
         else:
             new_item[code_field] = ""
 
-        # Ajouter l'élément transformé à la liste
-        processed_data.append(new_item)
+        # Vérifier si un élément avec le même code existe déjà
+        code = new_item.get("Code", "")
+        image = new_item.get("Image", "")
+        if code:
+            if code in processed_data:
+                existing_item = processed_data[code]
+                old_image = existing_item.get("Image", "")
+
+                # Compter le nombre de champs non nuls pour le nouvel élément
+                non_null_fields_new = sum(1 for v in new_item.values() if v not in ("", None, 0))
+
+                # Compter le nombre de champs non nuls pour l'élément existant
+                non_null_fields_existing = sum(1 for v in existing_item.values() if v not in ("", None, 0))
+
+                if non_null_fields_new > non_null_fields_existing:
+                    # Le nouvel élément a plus de champs non nuls, le remplacer
+                    processed_data[code] = new_item
+                    print(f"Img {image} -- Old Img {old_image} ---- L'élément avec le code {code} a été remplacé par un élément contenant moins de champs nuls.")
+                else:
+                    # Ne pas ajouter le nouvel élément
+                    print(f"Img {image} -- Old Img {old_image} ---- L'élément avec le code {code} existe déjà avec moins de champs nuls. Ignoré.")
+            else:
+                # Ajouter le nouvel élément
+                processed_data[code] = new_item
+        else:
+            # Si le code est vide, générer un code unique ou ignorer
+            print(f"Img {image} ----- Aucun code produit disponible pour cet élément. Ignoré.")
 
     # Écrire les données dans un fichier TSV
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
@@ -100,7 +125,7 @@ def json_to_csv(input_file, output_file):
         writer.writerow(desired_order)
 
         # Écrire chaque élément avec les champs dans l'ordre souhaité
-        for item in processed_data:
+        for item in processed_data.values():
             row = []
             for field in desired_order:
                 value = item.get(field, "")

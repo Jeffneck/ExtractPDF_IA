@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 27511,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre framboisier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 51.63€",
+        "Prix portion": 51.63,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 51.63,
+        "Image": "CDP_0043.png"
+    },
+    {
+        "Code": 833376,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre macaron framboise noix de coco",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 64.59€",
+        "Prix portion": 64.59,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 64.59,
+        "Image": "CDP_0043.png"
+    },
+    {
+        "Code": 27513,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre mangue passion",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 42.30€",
+        "Prix portion": 42.3,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 42.3,
+        "Image": "CDP_0043.png"
+    }
+]

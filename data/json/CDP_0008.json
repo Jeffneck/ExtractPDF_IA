@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 832584,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair façon Paris Brest",
+        "Prix Kg": 35.91,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 2.56,
+        "Colisage": "Colis de 14 unités",
+        "Prix colis": 35.91,
+        "Image": "CDP_0008.png"
+    },
+    {
+        "Code": 70435,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair citron praliné",
+        "Prix Kg": 30.47,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 2.53,
+        "Colisage": "Colis de 12 pièces",
+        "Prix colis": 30.47,
+        "Image": "CDP_0008.png"
+    },
+    {
+        "Code": 70005,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair pistache",
+        "Prix Kg": 33.53,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 2.79,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 33.53,
+        "Image": "CDP_0008.png"
+    },
+    {
+        "Code": 835507,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Paris Brest ø 100",
+        "Prix Kg": 22.25,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.85,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 22.25,
+        "Image": "CDP_0008.png"
+    },
+    {
+        "Code": 841649,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Saint-Honoré individuel",
+        "Prix Kg": 23.05,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 2.56,
+        "Colisage": "Colis de 9 pièces",
+        "Prix colis": 23.05,
+        "Image": "CDP_0008.png"
+    },
+    {
+        "Code": 27696,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Choux crème fouettée vanille",
+        "Prix Kg": 18.08,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.51,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 18.08,
+        "Image": "CDP_0008.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 27418,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair chocolat",
+        "Prix Kg": 22.9067,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.2257,
+        "Colisage": "Carton de 14 unités",
+        "Prix colis": 17.16,
+        "Image": "CDP_0006.png"
+    },
+    {
+        "Code": 27416,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair café",
+        "Prix Kg": 22.9067,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.2264,
+        "Colisage": "Carton de 14 unités",
+        "Prix colis": 17.17,
+        "Image": "CDP_0006.png"
+    },
+    {
+        "Code": 27420,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair parfum vanille",
+        "Prix Kg": 22.9067,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.2271,
+        "Colisage": "Carton de 14 unités",
+        "Prix colis": 17.18,
+        "Image": "CDP_0006.png"
+    },
+    {
+        "Code": 70010,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair mangue passion",
+        "Prix Kg": 28.2796,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.5157,
+        "Colisage": "Carton de 14 unités",
+        "Prix colis": 21.22,
+        "Image": "CDP_0006.png"
+    },
+    {
+        "Code": 70012,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Éclair framboise",
+        "Prix Kg": 28.2053,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.5507,
+        "Colisage": "Carton de 14 unités",
+        "Prix colis": 21.71,
+        "Image": "CDP_0006.png"
+    }
+]

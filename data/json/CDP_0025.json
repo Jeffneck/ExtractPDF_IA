@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70086,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme citron pistache",
+        "Prix Kg": 44.4375,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.9625,
+        "Colisage": "Vendu par carton de 12 unités",
+        "Prix colis": 35.55,
+        "Image": "CDP_0025.png"
+    },
+    {
+        "Code": 840158,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme impératrice",
+        "Prix Kg": 40.207,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 72g",
+        "Prix portion": 2.485,
+        "Colisage": "Vendu par carton de 12 unités",
+        "Prix colis": 29.82,
+        "Image": "CDP_0025.png"
+    },
+    {
+        "Code": 840160,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme rubis",
+        "Prix Kg": 40.3544,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 3.0267,
+        "Colisage": "Vendu par carton de 12 unités",
+        "Prix colis": 36.32,
+        "Image": "CDP_0025.png"
+    }
+]

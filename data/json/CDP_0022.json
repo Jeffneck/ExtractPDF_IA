@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 22257,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cœur coulant chocolat",
+        "Prix Kg": 25.93,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2 unités, 90g par unité",
+        "Prix portion": 1.863,
+        "Colisage": "Vendu par carton de 12 unités",
+        "Prix colis": 22.36,
+        "Image": "CDP_0022.png"
+    },
+    {
+        "Code": 822932,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cœur fondant Sélection chocolat",
+        "Prix Kg": 31.51,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 20 unités, 90g par unité",
+        "Prix portion": 1.5755,
+        "Colisage": "Carton de 20 unités",
+        "Prix colis": 31.51,
+        "Image": "CDP_0022.png"
+    },
+    {
+        "Code": 27709,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cœur coulant chocolat caramel beurre salé",
+        "Prix Kg": 25.97,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2 unités, 90g par unité",
+        "Prix portion": 2.1642,
+        "Colisage": "Vendu par carton de 12 unités",
+        "Prix colis": 25.97,
+        "Image": "CDP_0022.png"
+    },
+    {
+        "Code": 822928,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cœur fondant Sélection caramel beurre salé",
+        "Prix Kg": 33.09,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 20 unités, 90g par unité",
+        "Prix portion": 1.6545,
+        "Colisage": "Carton de 20 unités",
+        "Prix colis": 33.09,
+        "Image": "CDP_0022.png"
+    }
+]

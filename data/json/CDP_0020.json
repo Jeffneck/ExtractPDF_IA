@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841564,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cup mousse au chocolat",
+        "Prix Kg": 428.125,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.427,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 34.25,
+        "Image": "CDP_0020.png"
+    },
+    {
+        "Code": 22020,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Douceur tiramisu",
+        "Prix Kg": 172.083,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 95g",
+        "Prix portion": 1.7208,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 20.65,
+        "Image": "CDP_0020.png"
+    },
+    {
+        "Code": 841744,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Verre bodega tiramisu",
+        "Prix Kg": 376.62,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 3.135,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 37.62,
+        "Image": "CDP_0020.png"
+    },
+    {
+        "Code": 840883,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Panna cotta mangue",
+        "Prix Kg": 232.5,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.9375,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 23.25,
+        "Image": "CDP_0020.png"
+    },
+    {
+        "Code": 840837,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Crumble pomme fruits rouges",
+        "Prix Kg": 231.25,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.2929,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 23.15,
+        "Image": "CDP_0020.png"
+    },
+    {
+        "Code": 841463,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Graines de chia au lait de coco et coulis de fruits rouges",
+        "Prix Kg": 235.25,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.9608,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 23.53,
+        "Image": "CDP_0020.png"
+    }
+]

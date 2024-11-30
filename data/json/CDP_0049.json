@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 27660,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Entremets 3 chocolats en bande",
+        "Prix Kg": 11.9955,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.8997,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 89.97,
+        "Image": "CDP_0049.png"
+    },
+    {
+        "Code": 826102,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tiramisu à partager",
+        "Prix Kg": 16.495,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 2.1248,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 65.98,
+        "Image": "CDP_0049.png"
+    }
+]

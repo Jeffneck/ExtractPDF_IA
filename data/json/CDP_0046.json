@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 27533,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre feuilletant chocolat",
+        "Prix Kg": 48.9,
+        "Prix Litre": null,
+        "Portionnement": "24 parts",
+        "Prix portion": 2.0375,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 48.9,
+        "Image": "CDP_0046.png"
+    },
+    {
+        "Code": 27334,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre forêt noire",
+        "Prix Kg": 54.33,
+        "Prix Litre": null,
+        "Portionnement": "24 parts",
+        "Prix portion": 2.26375,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 54.33,
+        "Image": "CDP_0046.png"
+    },
+    {
+        "Code": 833339,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre craquant 3 chocolats",
+        "Prix Kg": 56.5,
+        "Prix Litre": null,
+        "Portionnement": "24 parts",
+        "Prix portion": 2.35417,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 56.5,
+        "Image": "CDP_0046.png"
+    }
+]

@@ -1,26 +1,50 @@
 [
     {
-        "Code": 25113,
-        "Catégorie": "Viennoiseries",
-        "Produit": "Pain chocolat 2 barres beurre d'Isigny Ste-Mère 80 g",
-        "Prix Kg": 1,
+        "Code": 828854,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Chou craquelin sensation praliné",
+        "Prix Kg": null,
         "Prix Litre": null,
-        "Portionnement": "Portion de 80g",
-        "Prix portion": 3,
-        "Colisage": "Colis de 150 unités",
-        "Prix colis": 4,
-        "Image": "CDP_0012"
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 3.245,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 38.94,
+        "Image": "CDP_0001.png"
     },
     {
-        "Code": 835318,
-        "Catégorie": "Pains",
-        "Produit": "1/2 baguette Fleur de Solène",
-        "Prix Kg": 4.2213,
+        "Code": 27191,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi éclair parfum chocolat",
+        "Prix Kg": 25.11,
         "Prix Litre": null,
-        "Portionnement": "Portion de 150g",
-        "Prix portion": 0.6332,
-        "Colisage": "Colis de 50 unités",
-        "Prix colis": 31.66,
-        "Image": "CDP_0004"
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.395,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 25.11,
+        "Image": "CDP_0001.png"
+    },
+    {
+        "Code": 27190,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi éclair café",
+        "Prix Kg": 25.62,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.423,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 25.62,
+        "Image": "CDP_0001.png"
+    },
+    {
+        "Code": 841696,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi éclair vanille",
+        "Prix Kg": 27.54,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.53,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 27.54,
+        "Image": "CDP_0001.png"
     }
 ]
