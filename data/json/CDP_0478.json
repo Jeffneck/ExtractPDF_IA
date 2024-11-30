@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 25083,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Gaufre bruxelloise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.8744,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 43.72,
+        "Image": "CDP_0478.png"
+    },
+    {
+        "Code": 833822,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Gaufre bruxelloise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.8638,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 20.73,
+        "Image": "CDP_0478.png"
+    },
+    {
+        "Code": 70048,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Gaufre bruxelloise 45 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 0.4304,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 20.66,
+        "Image": "CDP_0478.png"
+    },
+    {
+        "Code": 25284,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini gaufre au sucre perlé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.3377,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 40.52,
+        "Image": "CDP_0478.png"
+    },
+    {
+        "Code": 25999,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Gaufre liégeoise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.8467,
+        "Colisage": "Colis de 27 unités",
+        "Prix colis": 22.86,
+        "Image": "CDP_0478.png"
+    }
+]

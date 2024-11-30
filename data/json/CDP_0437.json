@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70464,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini roulé pépites de chocolat prépoussé Le Tourier 38 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 38g",
+        "Prix portion": 0.5053,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 36.38,
+        "Image": "CDP_0437.png"
+    },
+    {
+        "Code": 70463,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini roll caramel au beurre d'Isigny Ste-Mère prépoussé 30 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.5125,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 36.9,
+        "Image": "CDP_0437.png"
+    },
+    {
+        "Code": 70053,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Roll caramel au beurre d'Isigny Ste-Mère prépoussé 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.033,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 46.92,
+        "Image": "CDP_0437.png"
+    },
+    {
+        "Code": 70226,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Roll nature cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 58g",
+        "Prix portion": 1.3275,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 31.86,
+        "Image": "CDP_0437.png"
+    },
+    {
+        "Code": 848108,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat noisette prépoussé 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.2408,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 44.67,
+        "Image": "CDP_0437.png"
+    }
+]

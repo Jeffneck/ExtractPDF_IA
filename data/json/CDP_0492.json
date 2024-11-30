@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 828959,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Rocher coco",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 0.9906,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 47.55,
+        "Image": "CDP_0492.png"
+    },
+    {
+        "Code": 25263,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini rocher coco Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 10g",
+        "Prix portion": 0.1919,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 38.38,
+        "Image": "CDP_0492.png"
+    },
+    {
+        "Code": 25044,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tuiles aux amandes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 8g",
+        "Prix portion": 0.3474,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 24.32,
+        "Image": "CDP_0492.png"
+    },
+    {
+        "Code": 832354,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Sablé breton cru Ø 95",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.9775,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 53.37,
+        "Image": "CDP_0492.png"
+    },
+    {
+        "Code": 25046,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Cigarette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 7g",
+        "Prix portion": 0.1806,
+        "Colisage": "Colis de 142 unités",
+        "Prix colis": 25.65,
+        "Image": "CDP_0492.png"
+    }
+]

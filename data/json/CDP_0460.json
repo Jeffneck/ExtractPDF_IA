@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 835327,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "La Tourte Solène® au sel de Guérande",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 288 unités",
+        "Prix colis": 211.62,
+        "Image": "CDP_0460.png"
+    },
+    {
+        "Code": 70943,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "L'énorme gâteau chocolat préféré 250 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 263 à 266 unités",
+        "Prix colis": null,
+        "Image": "CDP_0460.png"
+    },
+    {
+        "Code": 228782,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Le cœur de l'huître",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 247g",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0460.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 25235,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini beignet sucré",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 19g",
+        "Prix portion": 0.232,
+        "Colisage": "Vendu par carton de 105 unités",
+        "Prix colis": 23.24,
+        "Image": "CDP_0494.png"
+    },
+    {
+        "Code": 70052,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini beignet sucré Carambar®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.4151,
+        "Colisage": "Vendu par carton de 105 unités",
+        "Prix colis": 43.59,
+        "Image": "CDP_0494.png"
+    },
+    {
+        "Code": 25239,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini beignet sucré parfum caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 27g",
+        "Prix portion": 0.4103,
+        "Colisage": "Vendu par carton de 105 unités",
+        "Prix colis": 43.08,
+        "Image": "CDP_0494.png"
+    },
+    {
+        "Code": 25236,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini beignet sucré saveur pomme",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 27g",
+        "Prix portion": 0.4054,
+        "Colisage": "Vendu par carton de 105 unités",
+        "Prix colis": 42.57,
+        "Image": "CDP_0494.png"
+    },
+    {
+        "Code": 25241,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini beignet sucré fourré chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 27g",
+        "Prix portion": 0.414,
+        "Colisage": "Vendu par carton de 105 unités",
+        "Prix colis": 43.47,
+        "Image": "CDP_0494.png"
+    },
+    {
+        "Code": 22274,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini beignet sucré abricot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 27g",
+        "Prix portion": 0.3696,
+        "Colisage": "Vendu par carton de 105 unités",
+        "Prix colis": 33.83,
+        "Image": "CDP_0494.png"
+    },
+    {
+        "Code": 25237,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini beignet sucré fraise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 27g",
+        "Prix portion": 0.4086,
+        "Colisage": "Vendu par carton de 105 unités",
+        "Prix colis": 42.9,
+        "Image": "CDP_0494.png"
+    }
+]

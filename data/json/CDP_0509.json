@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 25264,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie aux 3 chocolats cuit ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.2431,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 59.67,
+        "Image": "CDP_0509.png"
+    },
+    {
+        "Code": 838235,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie aux 3 chocolats cuit ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.1898,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 47.59,
+        "Image": "CDP_0509.png"
+    },
+    {
+        "Code": 25294,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie saveur chocolat aux pépites de chocolat noir cuit ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.1277,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 54.13,
+        "Image": "CDP_0509.png"
+    },
+    {
+        "Code": 25032,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie pépites de chocolat blanc noix de macadamia cuit ø 105",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.3355,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 64.97,
+        "Image": "CDP_0509.png"
+    },
+    {
+        "Code": 70429,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie matcha chocolat blanc cuit ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.2388,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 59.46,
+        "Image": "CDP_0509.png"
+    },
+    {
+        "Code": 25265,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie aux éclats de Daim® cuit ø 120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.3238,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 55.6,
+        "Image": "CDP_0509.png"
+    }
+]

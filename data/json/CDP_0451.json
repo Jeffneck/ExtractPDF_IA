@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 42003,
+        "Catégorie": null,
+        "Produit": "Pot wrap",
+        "Prix Kg": null,
+        "Prix Litre": 9.0,
+        "Portionnement": "Sachet de 50 pièces",
+        "Prix portion": 0.18,
+        "Colisage": "Carton de 20 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0451.png"
+    },
+    {
+        "Code": 819747,
+        "Catégorie": null,
+        "Produit": "Boîte à hamburger",
+        "Prix Kg": null,
+        "Prix Litre": 22.5,
+        "Portionnement": "Sachet de 100 pièces",
+        "Prix portion": 0.23,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0451.png"
+    },
+    {
+        "Code": 827028,
+        "Catégorie": null,
+        "Produit": "Box à pâtes",
+        "Prix Kg": null,
+        "Prix Litre": 12.25,
+        "Portionnement": "Sachet de 50 pièces",
+        "Prix portion": 0.25,
+        "Colisage": "Carton de 9 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0451.png"
+    },
+    {
+        "Code": 835551,
+        "Catégorie": null,
+        "Produit": "Pot à soupe",
+        "Prix Kg": null,
+        "Prix Litre": 30.4,
+        "Portionnement": "Sachet de 50 pièces",
+        "Prix portion": 0.61,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0451.png"
+    }
+]

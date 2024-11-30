@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 822925,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Grillé aux pommes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.007,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 60.64,
+        "Image": "CDP_0477.png"
+    },
+    {
+        "Code": 25326,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Jalousie pomme",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 0.6885,
+        "Colisage": "Colis de 46 unités",
+        "Prix colis": 31.67,
+        "Image": "CDP_0477.png"
+    },
+    {
+        "Code": 840816,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Jalousie framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 0.723,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 57.86,
+        "Image": "CDP_0477.png"
+    },
+    {
+        "Code": 70456,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Micro jalousie Sélection prépoussée cacao",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 0.173,
+        "Colisage": "Colis de 220 unités",
+        "Prix colis": 38.05,
+        "Image": "CDP_0477.png"
+    },
+    {
+        "Code": 70457,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Micro jalousie Sélection prépoussée crème pâtissière",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 0.1677,
+        "Colisage": "Colis de 220 unités",
+        "Prix colis": 36.89,
+        "Image": "CDP_0477.png"
+    },
+    {
+        "Code": 70458,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Micro jalousie Sélection prépoussée fraise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 0.18,
+        "Colisage": "Colis de 220 unités",
+        "Prix colis": 39.6,
+        "Image": "CDP_0477.png"
+    }
+]

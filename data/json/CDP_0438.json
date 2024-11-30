@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 25115,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Chausson aux pommes beurre d'Isigny Sainte-Mère 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.9028,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 36.11,
+        "Image": "CDP_0438.png"
+    },
+    {
+        "Code": 841566,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Maxi chausson pomme beurre Charentes-Poitou AOP 150 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.3344,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 66.72,
+        "Image": "CDP_0438.png"
+    },
+    {
+        "Code": 70225,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Chausson aux pommes caramélisées Le Tourier* 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.1118,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 66.71,
+        "Image": "CDP_0438.png"
+    },
+    {
+        "Code": 25288,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Chausson pomme avec morceaux 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 0.9103,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 36.41,
+        "Image": "CDP_0438.png"
+    },
+    {
+        "Code": 25139,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Chausson pomme avec morceaux 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.8611,
+        "Colisage": "Colis de 44 unités",
+        "Prix colis": 37.89,
+        "Image": "CDP_0438.png"
+    }
+]

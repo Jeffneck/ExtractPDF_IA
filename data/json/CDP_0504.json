@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70723,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi muffin citron",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.7,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 47.61,
+        "Image": "CDP_0504.png"
+    },
+    {
+        "Code": 70722,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi muffin aux myrtilles",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.7,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 47.61,
+        "Image": "CDP_0504.png"
+    },
+    {
+        "Code": 841741,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi muffin fruits rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.444,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 34.66,
+        "Image": "CDP_0504.png"
+    },
+    {
+        "Code": 841692,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi muffin banoffee",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.694,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 40.66,
+        "Image": "CDP_0504.png"
+    },
+    {
+        "Code": 841470,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi muffin façon carrot cake",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.77,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 42.48,
+        "Image": "CDP_0504.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 25519,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crêpe neutre Ø 270",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 55g",
+        "Prix portion": 0.649,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 32.43,
+        "Image": "CDP_0487.png"
+    },
+    {
+        "Code": 25510,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crêpe fine nature Ø 270 (pliée en deux)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.675,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 33.75,
+        "Image": "CDP_0487.png"
+    },
+    {
+        "Code": 25518,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crêpe fine nature Ø 310 (pliée en deux)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.636,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 43.15,
+        "Image": "CDP_0487.png"
+    },
+    {
+        "Code": 831281,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crêpe sucrée Ø 340",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.212,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 48.51,
+        "Image": "CDP_0487.png"
+    },
+    {
+        "Code": 25513,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crêpe fine nature saveur fleur d'oranger Ø 270 (pliée en deux)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.7,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 35.03,
+        "Image": "CDP_0487.png"
+    },
+    {
+        "Code": 25514,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crêpe fine sucrée au rhum Negrita® Ø 270 (pliée en quatre)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 55g",
+        "Prix portion": 0.736,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 36.8,
+        "Image": "CDP_0487.png"
+    }
+]

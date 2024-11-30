@@ -1,7 +1,18 @@
 Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg	Prix Litre	Portionnement	Prix portion	Colisage	Prix colis	Disponibilité	Surgelé	Promotion	Nouveauté	Image
+2024-11-30	Coup de pates			CDP_833582	Pâtisserie à portionner	Beignet parfum chocolat noisette 75 g				Portion de 75g	0,5073	Colis de 40 unités	20,29					CDP_0495.png
+2024-11-30	Coup de pates			CDP_833580	Pâtisserie à portionner	Beignet pomme 75 g				Portion de 75g	0,4788	Colis de 40 unités	19,11					CDP_0495.png
+2024-11-30	Coup de pates			CDP_833578	Pâtisserie à portionner	Beignet framboise 75 g				Portion de 75g	0,5075	Colis de 40 unités	20,3					CDP_0495.png
+2024-11-30	Coup de pates			CDP_833579	Pâtisserie à portionner	Beignet nature 55 g				Portion de 55g	0,3813	Colis de 40 unités	15,25					CDP_0495.png
+2024-11-30	Coup de pates			CDP_831180	Pâtisserie à portionner	Mascotte foire				Portion de 100g	1,423	Colis de 40 unités	56,92					CDP_0495.png
+2024-11-30	Coup de pates			CDP_840808	Pâtisserie à portionner	Mascotte 140 g				Portion de 140g	1,276	Colis de 40 unités	51,04					CDP_0495.png
 2024-11-30	Coup de pates			CDP_70291	Pâtisserie individuelle	Mini macaron café ø 43				Portion de 18g	0,7836	Colis de 36 unités	28,21					CDP_0129.png
 2024-11-30	Coup de pates			CDP_70472	Pâtisserie individuelle	Mini macaron citron fraise ø 43				Portion de 18g	0,7966	Colis de 35 unités	27,88					CDP_0129.png
 2024-11-30	Coup de pates			CDP_70473	Pâtisserie individuelle	Mini macaron vanille myrtille ø 43				Portion de 18g	0,7966	Colis de 35 unités	27,88					CDP_0129.png
+2024-11-30	Coup de pates			CDP_30009	Glaces	Sunday nature				Pièce de 140 mL	1,25	Carton de 24 pièces	30,09					CDP_0429.png
+2024-11-30	Coup de pates			CDP_30061	Glaces	Sunday coulis parfum chocolat				Pièce de 140 mL	1,71	Carton de 24 pièces	40,99					CDP_0429.png
+2024-11-30	Coup de pates			CDP_30059	Glaces	Sunday coulis caramel beurre salé				Pièce de 140 mL	1,68	Carton de 24 pièces	40,25					CDP_0429.png
+2024-11-30	Coup de pates			CDP_30062	Glaces	Sunday 3 chocolats				Pièce de 140 mL	1,71	Carton de 24 pièces	40,99					CDP_0429.png
+2024-11-30	Coup de pates			CDP_30057	Glaces	Sunday coulis fruits rouges				Pièce de 140 mL	1,68	Carton de 24 pièces	40,25					CDP_0429.png
 2024-11-30	Coup de pates			CDP_841768	Traiteur sucré	Tranche de cheddar		15,59		Tranche de 15 g env.	0,23	Carton de 8 barquettes						CDP_0397.png
 2024-11-30	Coup de pates			CDP_16001	Traiteur sucré	Tranche de tomme de brebis		20,79		Tranche de 10x5 cm	0,23	Carton de 8 barquettes						CDP_0397.png
 2024-11-30	Coup de pates			CDP_40007	Traiteur sucré	Tranche de fromage de chèvre non affiné		19,29		Tranche de 7 g env.	0,14	Carton de 8 boîtes						CDP_0397.png
@@ -20,6 +31,11 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_29481	Pains	Bâchettes du Fournil assorties				Portion de 40g	0,3598	Colis de 60 unités	21,05					CDP_0228.png
 2024-11-30	Coup de pates			CDP_29480	Pains	4 petits pains brochette assortis				Portion de 35g	0,3372	Colis de 180 unités	60,69					CDP_0228.png
 2024-11-30	Coup de pates			CDP_29472	Pains	Petits pains fantaisie assortis				Portion de 48g	0,2297	Colis de 150 unités	34,45					CDP_0228.png
+2024-11-30	Coup de pates			CDP_828959	Pâtisserie à portionner	Rocher coco				Portion de 60g	0,9906	Colis de 48 unités	47,55					CDP_0492.png
+2024-11-30	Coup de pates			CDP_25263	Pâtisserie à portionner	Mini rocher coco Sélection				Portion de 10g	0,1919	Colis de 200 unités	38,38					CDP_0492.png
+2024-11-30	Coup de pates			CDP_25044	Pâtisserie à portionner	Tuiles aux amandes				Portion de 8g	0,3474	Colis de 70 unités	24,32					CDP_0492.png
+2024-11-30	Coup de pates			CDP_832354	Pâtisserie à portionner	Sablé breton cru Ø 95				Portion de 90g	1,9775	Colis de 28 unités	53,37					CDP_0492.png
+2024-11-30	Coup de pates			CDP_25046	Pâtisserie à portionner	Cigarette				Portion de 7g	0,1806	Colis de 142 unités	25,65					CDP_0492.png
 2024-11-30	Coup de pates			CDP_825493	Traiteur salé	Haricots verts extra-fins - classic		2,55		Sachet de 2.5 kg	0,38	Carton de 4 sachets	2,55					CDP_0345.png
 2024-11-30	Coup de pates			CDP_837415	Traiteur salé	Petits pois doux extra-fins		2,45		Sachet de 2.5 kg	0,37	Carton de 4 sachets	2,45					CDP_0345.png
 2024-11-30	Coup de pates			CDP_832870	Traiteur salé	Épinards branches en palet		2,89		Piece de 125 g, Sachet de 2.5 kg, Carton de 4 sachets	0,43	Carton de 4 sachets						CDP_0348.png
@@ -28,7 +44,7 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_840020	Traiteur salé	Tranches de saumon Atlantique fumé												CDP_0280.png
 2024-11-30	Coup de pates			CDP_819749	Traiteur sucré	Cubés d'avocats		10,99		Sachet de 500g	0,55	Carton de 12 sachets	10,99					CDP_0342.png
 2024-11-30	Coup de pates			CDP_29083	Pains	Wrap's Ø 300				Portion de 92g	0,4838	Colis de 144 unités	69,67					CDP_0198.png
-2024-11-30	Coup de pates			CDP_42003	Traiteur salé	Pot wrap												CDP_0280.png
+2024-11-30	Coup de pates			CDP_42003		Pot wrap			9,0	Sachet de 50 pièces	0,18	Carton de 20 sachets						CDP_0451.png
 2024-11-30	Coup de pates			CDP_21088	Traiteur sucré	Tomatade				Pot de 1 kg	0,41	Carton de 4 pots	13,59					CDP_0376.png
 2024-11-30	Coup de pates			CDP_840157	Traiteur salé	Filet de rouge barbet cinnabare sauvage 40/60 g (avec peau)				Portion de 40/60g		Colis de 10 sachets						CDP_0300.png
 2024-11-30	Coup de pates			CDP_841808	Traiteur salé	Filet de truite (avec peau, sans arête)				Portion de 150/230g		Colis de 5 kg						CDP_0300.png
@@ -121,6 +137,14 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27297	Pâtisserie à portionner	Gâteau basque ø 260				Portion de 125g	7,68	Colis de 5 unités	38,49					CDP_0053.png
 2024-11-30	Coup de pates			CDP_27330	Pâtisserie à portionner	Gâteau basque à la confiture de cerise ø 260				Portion de 119g	12,474	Colis de 5 unités	62,37					CDP_0053.png
 2024-11-30	Coup de pates			CDP_28413	Pâtisserie individuelle	Gâteau basque individuel ø 90				Portion de 85g	1,2625	Colis de 36 unités	45,45					CDP_0053.png
+2024-11-30	Coup de pates			CDP_25071	Pâtisserie individuelle	Muffin nature Sélection fourré fruits rouges				Portion de 100g	1,126	Colis de 20 unités	22,52					CDP_0498.png
+2024-11-30	Coup de pates			CDP_840823	Pâtisserie individuelle	Muffin Sélection chocolat				Portion de 80g	1,029	Colis de 30 unités	30,88					CDP_0498.png
+2024-11-30	Coup de pates			CDP_840824	Pâtisserie individuelle	Muffin Sélection myrtille				Portion de 75g	1,029	Colis de 30 unités	30,88					CDP_0498.png
+2024-11-30	Coup de pates			CDP_22159	Pâtisserie à portionner	Canelé bouchée Grand Siècle				Portion de 17g	0,389	Colis de 150 unités	57,59					CDP_0490.png
+2024-11-30	Coup de pates			CDP_25476	Pâtisserie à portionner	Canelé Grand Siècle				Portion de 60g	0,731	Colis de 48 unités	35,12					CDP_0490.png
+2024-11-30	Coup de pates			CDP_25243	Pâtisserie à portionner	Canelé bouchée Grand Mariner®				Portion de 15g	0,3032	Colis de 150 unités	45,34					CDP_0490.png
+2024-11-30	Coup de pates			CDP_25169	Pâtisserie à portionner	Canelé				Portion de 60g	0,738	Colis de 48 unités	33,78					CDP_0490.png
+2024-11-30	Coup de pates			CDP_25247	Pâtisserie à portionner	Canelé bouchée				Portion de 17g	0,3071	Colis de 150 unités	46,07					CDP_0490.png
 2024-11-30	Coup de pates			CDP_832919	Traiteur sucré	Tortellini carne		7,85		Portion de 200g	1,57	Colis de 2 sachets						CDP_0370.png
 2024-11-30	Coup de pates			CDP_837993	Traiteur sucré	Tortellini saumon		11,29		Portion de 200g	2,26	Colis de 2 sachets						CDP_0370.png
 2024-11-30	Coup de pates			CDP_835163	Traiteur sucré	Tortellini ricotta épinards		10,99		Portion de 200g	2,2	Colis de 3 sachets						CDP_0370.png
@@ -129,9 +153,28 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_841587	Traiteur sucré	Raviole forestières		14,85		Portion de 200g	2,97	Colis de 3 sachets						CDP_0370.png
 2024-11-30	Coup de pates			CDP_74582	Traiteur sucré	Raviole recette originaire de Marie-Louise		1,475		Portion de 200g	2,95	Colis de 2 sachets						CDP_0370.png
 2024-11-30	Coup de pates			CDP_841665	Traiteur sucré	Raviole grande tradition		13,35		Portion de 200g	2,67	Colis de 3 sachets						CDP_0370.png
+2024-11-30	Coup de pates			CDP_25127	Viennoiseries	Pain raisin brioché 120 g				Portion de 120g	0,5048	Colis de 60 unités	50,8					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25155	Viennoiseries	Pain raisin brioché 170 g				Portion de 170g	1,3606	Colis de 45 unités	51,12					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25252	Viennoiseries	Mini croissant 25 g				Portion de 25g	0,2226	Colis de 200 unités	44,58					CDP_0431.png
+2024-11-30	Coup de pates			CDP_840821	Viennoiseries	Mini pain au chocolat 2 barres 30 g				Portion de 30g	0,22876	Colis de 200 unités	45,55					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25270	Viennoiseries	Mini pain raisin feuilleté 35 g				Portion de 35g	0,2317	Colis de 150 unités	34,76					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25957	Viennoiseries	Mini croissant prépoussé 25 g				Portion de 25g	0,59	Sachet de 75 unités	50,29					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25002	Viennoiseries	Mini croissant Sélection prépoussé 25 g				Portion de 25g	0,2296	Sachet de 75 unités	50,29					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25960	Viennoiseries	Mini pain chocolat 2 barres prépoussé 25 g				Portion de 25g	0,0365	Sachet de 125 unités	76,33					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25004	Viennoiseries	Mini pain chocolat 2 barres Sélection prépoussé 25 g				Portion de 25g	0,2656	Sachet de 125 unités	66,4					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25958	Viennoiseries	Mini pain raisin prépoussé 30 g				Portion de 30g	0,3144	Sachet de 40 unités	37,73					CDP_0431.png
+2024-11-30	Coup de pates			CDP_25003	Viennoiseries	Mini pain raisin Sélection prépoussé 30 g				Portion de 30g	0,2598	Sachet de 120 unités	31,18					CDP_0431.png
+2024-11-30	Coup de pates			CDP_841745	Viennoiseries	Mini viennoiseries assorties prépoussées				Portion de 28g	0,3251	Sachet de 50 unités par variété	48,77					CDP_0431.png
 2024-11-30	Coup de pates			CDP_70743	Traiteur salé	Quiche champignons carottes épinards Le Tourier précuite Ø 250 mm				Pièce de 1.2 kg	1,271	Colis de 4 pièces	50,85					CDP_0243.png
 2024-11-30	Coup de pates			CDP_70677	Traiteur salé	Bretzel gratiné emmental lardons				Pièce de 110 g	1,84	Colis de 15 pièces	27,62					CDP_0243.png
 2024-11-30	Coup de pates			CDP_70678	Traiteur salé	Bretzel gratiné emmental tomates				Pièce de 120 g	1,84	Colis de 15 pièces	27,62					CDP_0243.png
+2024-11-30	Coup de pates			CDP_70770	Viennoiseries	Croissant d'Hubert® 65 g				Portion de 65g	0,2962	Colis de 160 unités	47,39					CDP_0434.png
+2024-11-30	Coup de pates			CDP_70773	Viennoiseries	Pain chocolat d'Hubert® 75 g				Portion de 75g	0,3766	Colis de 160 unités	59,77					CDP_0434.png
+2024-11-30	Coup de pates			CDP_25594	Viennoiseries	Croissant prépoussé d'Hubert® 70 g				Portion de 70g	0,3535	Colis de 64 unités	22,74					CDP_0434.png
+2024-11-30	Coup de pates			CDP_25544	Viennoiseries	Pain chocolat prépoussé d'Hubert® 80 g				Portion de 80g	0,4306	Colis de 70 unités	31,71					CDP_0434.png
+2024-11-30	Coup de pates			CDP_70774	Viennoiseries	Pain raisin prépoussé d'Hubert® 130 g				Portion de 130g	0,6277	Colis de 60 unités	44,54					CDP_0434.png
+2024-11-30	Coup de pates			CDP_70650	Pâtisserie individuelle	Mini croissant prépoussé d'Hubert® 25 g				Portion de 25g	0,1179	Colis de 160 unités	27,67					CDP_0434.png
+2024-11-30	Coup de pates			CDP_70651	Pâtisserie individuelle	Mini pain chocolat prépoussé d'Hubert® 25 g				Portion de 25g	0,1886	Colis de 160 unités	30,18					CDP_0434.png
 2024-11-30	Coup de pates			CDP_826109	Pâtisserie individuelle	Fond de tartelette sucré format stick cuit				Portion de 30g	0,7945	Colis de 28 unités	44,49					CDP_0142.png
 2024-11-30	Coup de pates			CDP_70018	Pâtisserie individuelle	Fond chocolat croustillant format stick cuit				Portion de 22g	1,102	Colis de 50 unités	55,1					CDP_0142.png
 2024-11-30	Coup de pates			CDP_70279	Pâtisserie individuelle	Fond de tartelette sablé breton format stick cuit				Portion de 31g	1,146	Colis de 80 unités	91,73					CDP_0142.png
@@ -169,6 +212,10 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70152	Crèmerie	Crème légère stérilisée UHT spécial cuisson 18 % MG - Montaigu			3,99	Brique de 1 L. Pack de 6 briques.		Pack de 6 briques						CDP_0403.png
 2024-11-30	Coup de pates			CDP_14315	Crèmerie	Crème légère stérilisée UHT spéciale cuisson 18 % MG			3,55	Brique de 1 L. Pack de 6 briques.		Pack de 6 briques						CDP_0403.png
 2024-11-30	Coup de pates			CDP_70490	Crèmerie	Préparation sucrée à base de matières grasses végétales à foisonner – Gold Cup Chanty Deco			3,59	Brique de 1 L. Carton de 12 briques.		Carton de 12 briques						CDP_0403.png
+2024-11-30	Coup de pates			CDP_70691	Pâtisserie individuelle	Tarte citron meringuée prédécoupée ø 240				1 000 g	12,315	Colis de 4 unités	49,26					CDP_0518.png
+2024-11-30	Coup de pates			CDP_70692	Pâtisserie individuelle	Tarte citron prédécoupée ø 260				750 g	8,975	Colis de 8 unités	71,78					CDP_0518.png
+2024-11-30	Coup de pates			CDP_70718	Pâtisserie à portionner	Merveilleux copeaux de chocolat				90 g	2,3275	Colis de 12 unités	28,47					CDP_0518.png
+2024-11-30	Coup de pates			CDP_70717	Pâtisserie à portionner	Merveilleux copeaux de chocolat blanc				90 g	2,3017	Colis de 12 unités	27,62					CDP_0518.png
 2024-11-30	Coup de pates			CDP_841671	Pâtisserie à portionner	Mini choux lunch				Portion de 22g	0,924	Colis de 30 unités	27,72					CDP_0124.png
 2024-11-30	Coup de pates			CDP_841734	Pâtisserie à portionner	Mini choux lunch fruités				Portion de 22g	0,8627	Colis de 30 unités	25,88					CDP_0124.png
 2024-11-30	Coup de pates			CDP_841485	Traiteur sucré	Mini vol-au-vent poulet champignon				Portion de 40g	1,24	Carton de 20 unités	22,48					CDP_0074.png
@@ -201,6 +248,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_26121	Traiteur sucré	Canapés traiteur				Portion de 9g	0,725	Colis de 192 unités	139,2					CDP_0065.png
 2024-11-30	Coup de pates			CDP_26275	Traiteur sucré	Canapés traiteur Sélection				Portion de 7g	0,6565	Colis de 192 unités	108,57					CDP_0065.png
 2024-11-30	Coup de pates			CDP_841731	Traiteur sucré	Canapés réception Sélection				Portion de 5g	0,5165	Colis de 120 unités	61,98					CDP_0065.png
+2024-11-30	Coup de pates			CDP_841708	Pâtisserie à portionner	Mascotte framboise 140 g				Portion de 140g	1,33	Colis de 30 unités	42,91					CDP_0496.png
+2024-11-30	Coup de pates			CDP_841707	Pâtisserie à portionner	Mascotte parfum chocolat noisette 140 g				Portion de 140g	1,483	Colis de 30 unités	44,51					CDP_0496.png
+2024-11-30	Coup de pates			CDP_70258	Pâtisserie à portionner	Mascotte crème citron 140 g				Portion de 140g	1,416	Colis de 30 unités	42,48					CDP_0496.png
+2024-11-30	Coup de pates			CDP_70239	Pâtisserie à portionner	Mascotte pomme 140 g				Portion de 140g	1,368	Colis de 30 unités	41,05					CDP_0496.png
+2024-11-30	Coup de pates			CDP_70510	Pâtisserie à portionner	Maxi beignets® nature 90 g				Portion de 90g	0,703	Colis de 30 unités	21,25					CDP_0496.png
+2024-11-30	Coup de pates			CDP_70511	Pâtisserie à portionner	Maxi beignets® parfum chocolat noisette 130 g				Portion de 130g	1,079	Colis de 30 unités	32,38					CDP_0496.png
 2024-11-30	Coup de pates			CDP_840189	Traiteur salé	Tubes d'encre du saumon sauvages pelés				Portion de 140g		Carton de 10 sachets						CDP_0297.png
 2024-11-30	Coup de pates			CDP_837934	Traiteur salé	Petites seiches sauvages entières nettoyées				Portion de 1kg		Carton de 10 sachets						CDP_0297.png
 2024-11-30	Coup de pates			CDP_70145	Traiteur salé	Tentacule de poulpe sauvage				Portion de 140g		Carton de 18 sachets						CDP_0297.png
@@ -241,6 +294,11 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70165	Couvert	Couverture pour gobelets 10cl				Sachet de 50 couverts		Carton de 40 sachets						CDP_0237.png
 2024-11-30	Coup de pates			CDP_70377	Couvert	Couverture pour gobelets 20cl et 30cl				Sachet de 60 couverts		Carton de 30 sachets						CDP_0237.png
 2024-11-30	Coup de pates			CDP_70392	Sucre	Stick de sucre blanc				Stick de 2,5g		Carton de 1000 sticks						CDP_0237.png
+2024-11-30	Coup de pates			CDP_70564	Pâtisserie individuelle	Dôme pomme caramel				Portion de 80g	2,913	Colis de 12 unités	34,96					CDP_0526.png
+2024-11-30	Coup de pates			CDP_70566	Pâtisserie individuelle	Dôme framboise pistache				Portion de 80g	2,9875	Colis de 12 unités	35,85					CDP_0526.png
+2024-11-30	Coup de pates			CDP_70565	Pâtisserie individuelle	Dôme mangue passion coco				Portion de 80g	2,4992	Colis de 12 unités	35,39					CDP_0526.png
+2024-11-30	Coup de pates			CDP_70689	Pâtisserie à portionner	Moelleux noisette individuel Sélection Ø 100				Portion de 90g	1,2566	Colis de 32 unités	40,21					CDP_0526.png
+2024-11-30	Coup de pates			CDP_70726	Pâtisserie à portionner	Crousti'flan Ø 105				Portion de 145g	1,858	Colis de 24 unités	45,26					CDP_0526.png
 2024-11-30	Coup de pates			CDP_841476	Traiteur sucré	Mini empanadas thon et légumes				Sachet de 24 unités, 5 sachets par carton. Poids : 30 g.	0,4604	Colis de 120 unités	55,25					CDP_0088.png
 2024-11-30	Coup de pates			CDP_841475	Traiteur sucré	Mini empanadas bœuf tex mex				Sachet de 24 unités, 5 sachets par carton. Poids : 30 g.	0,4538	Colis de 120 unités	54,45					CDP_0088.png
 2024-11-30	Coup de pates			CDP_26978	Traiteur sucré	Mini pastilla poulet				Plateau de 6 unités.	0,9913	Colis de 24 unités	23,79					CDP_0088.png
@@ -255,6 +313,9 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_840717	Traiteur salé	Coquille aux noix de Saint-Jacques cuites à la Bretonne				Pièce de 120g		Carton de 2.4kg (20 pièces)						CDP_0303.png
 2024-11-30	Coup de pates			CDP_833044	Traiteur salé	Longe de thon Albacore sauvage (sans peau)				Pièce de 2kg env.		Carton de 2 pièces						CDP_0303.png
 2024-11-30	Coup de pates			CDP_70484	Traiteur salé	Joëls sauvages pour friture				Sachet de 1kg		Carton de 10 sachets						CDP_0303.png
+2024-11-30	Coup de pates			CDP_835327	Pains	La Tourte Solène® au sel de Guérande				Portion de 1kg	5,93	Colis de 4 unités	23,72					CDP_0209.png
+2024-11-30	Coup de pates			CDP_70943	Pâtisserie à portionner	L'énorme gâteau chocolat préféré 250 g						Colis de 263 à 266 unités						CDP_0460.png
+2024-11-30	Coup de pates			CDP_228782	Pâtisserie individuelle	Le cœur de l'huître				Portion de 247g								CDP_0460.png
 2024-11-30	Coup de pates			CDP_27762	Pâtisserie à portionner	1/2 cadre passion panacotta				Portion de 258g	2,8975	Colis de 1 unité	72,87					CDP_0045.png
 2024-11-30	Coup de pates			CDP_27502	Pâtisserie à portionner	1/2 cadre mandarine Cointreau®				Portion de 2500g	2,3248	Colis de 1 unité	58,12					CDP_0045.png
 2024-11-30	Coup de pates			CDP_44039	Fromages	Camembert Ambassador		13,19		Portion de 240g	0,66	Colis de 12 pièces						CDP_0389.png
@@ -286,6 +347,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70674	Traiteur salé	Mini brochette de boeuf Wagyu Excellence				Poids 25 g	2,9708	Vendu par carton de 40 unités	118,83					CDP_0058.png
 2024-11-30	Coup de pates			CDP_70683	Traiteur salé	Macaron salé magret de canard orange				Poids 15 g	0,8254	Vendu par carton de 70 unités	57,78					CDP_0058.png
 2024-11-30	Coup de pates			CDP_70681	Traiteur salé	Mini gaufre salée emmental				Poids 14 g	0,594	Vendu par carton de 60 unités	35,64					CDP_0058.png
+2024-11-30	Coup de pates			CDP_70523	Glaces	Crème glacée à la vanille - Maison Prolainat				Pot de 65 g	1,79	Carton de 12 pots	21,49					CDP_0441.png
+2024-11-30	Coup de pates			CDP_70525	Glaces	Crème glacée au chocolat - Maison Prolainat				Pot de 65 g	1,79	Carton de 12 pots	21,49					CDP_0441.png
+2024-11-30	Coup de pates			CDP_70524	Glaces	Crème glacée au caramel beurre salé - Maison Prolainat				Pot de 65 g	1,79	Carton de 12 pots	21,49					CDP_0441.png
+2024-11-30	Coup de pates			CDP_70521	Glaces	Sorbet à la fraise - Maison Prolainat				Pot de 65 g	1,79	Carton de 12 pots	21,49					CDP_0441.png
+2024-11-30	Coup de pates			CDP_70522	Glaces	Sorbet au citron - Maison Prolainat				Pot de 65 g	1,79	Carton de 12 pots	21,49					CDP_0441.png
+2024-11-30	Coup de pates			CDP_70520	Glaces	Sorbet à la poire - Maison Prolainat				Pot de 65 g	1,79	Carton de 12 pots	21,49					CDP_0441.png
 2024-11-30	Coup de pates			CDP_841730	Traiteur sucré	Bouchées vapeur				10 unités par variété	0,8308	Colis de 90 unités	74,77					CDP_0086.png
 2024-11-30	Coup de pates			CDP_822908	Traiteur sucré	Mini brochette de volaille teriyaki				Portion de 25g	0,81	Colis de 50 unités	40,5					CDP_0090.png
 2024-11-30	Coup de pates			CDP_26831	Traiteur sucré	Bouquet mandarin				Portion de 20g	0,7441	Colis de 120 unités	89,29					CDP_0091.png
@@ -322,6 +389,15 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_838151	Traiteur salé	Chorizo tranché				Barquette de 250 g		Carton de 8 barquettes						CDP_0286.png
 2024-11-30	Coup de pates			CDP_44171	Traiteur salé	Allumettes de chorizo				Barquette de 500 g		Carton de 8 barquettes						CDP_0286.png
 2024-11-30	Coup de pates			CDP_44375	Traiteur salé	Cubes de chorizo				Barquette de 500 g		Carton de 4 barquettes						CDP_0286.png
+2024-11-30	Coup de pates			CDP_84015	Traiteur sucré	Chutes de saumon Atlantique fumé				Barquette de 500 g		Carton de 10 barquettes						CDP_0279.png
+2024-11-30	Coup de pates			CDP_84018	Traiteur sucré	Chutes de saumon Atlantique fumé				Barquette de 500 g		Carton de 10 barquettes						CDP_0279.png
+2024-11-30	Coup de pates			CDP_25173	Pâtisserie individuelle	Chouquette sucré				Portion de 15g	0,144	Colis de 270 unités	38,88					CDP_0491.png
+2024-11-30	Coup de pates			CDP_27334	Pâtisserie à portionner	1/2 cadre forêt noire		54,33		24 parts	2,26375	Colis de 1 unité	54,33					CDP_0046.png
+2024-11-30	Coup de pates			CDP_25277	Pâtisserie individuelle	Donut fourré parfum caramel...		8,4425										CDP_0459.png
+2024-11-30	Coup de pates			CDP_20274	Pâtisserie individuelle	Donut fourré parfum chocolat...		8,4425										CDP_0459.png
+2024-11-30	Coup de pates			CDP_70548	Pâtisserie individuelle	Donut fourré parfum noisette...		8,4425										CDP_0459.png
+2024-11-30	Coup de pates			CDP_70627	Pâtisserie individuelle	Donut fourré parfum vanille...		8,4425										CDP_0459.png
+2024-11-30	Coup de pates			CDP_84084	Pâtisserie individuelle	Donut nature...		8,4425										CDP_0459.png
 2024-11-30	Coup de pates			CDP_22055	Pâtisserie individuelle	Mini Paris-Brest ø 40				Portion de 18g	0,6845	Colis de 48 unités	32,9					CDP_0099.png
 2024-11-30	Coup de pates			CDP_835436	Pâtisserie individuelle	Mini éclair café				Portion de 14g	0,538	Colis de 40 unités	21,52					CDP_0099.png
 2024-11-30	Coup de pates			CDP_835512	Pâtisserie individuelle	Mini éclair chocolat				Portion de 14g	0,538	Colis de 40 unités	21,52					CDP_0099.png
@@ -367,10 +443,10 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70466	Pains	Pain oriental semoule 350 g				Portion de 350g	1,638	Colis de 20 unités	32,76					CDP_0198.png
 2024-11-30	Coup de pates			CDP_841657	Pains	Pinsa Romana pliée à garnir précuit				Portion de 120g	2,5334	Colis de 35 unités	89,37					CDP_0198.png
 2024-11-30	Coup de pates			CDP_70409	Pains	Wrap's Ø 250				Portion de 61.7g	0,4261	Colis de 144 unités	61,36					CDP_0198.png
-2024-11-30	Coup de pates			CDP_832503	Pains	Pain sandwich viennois				Portion de 120g	1,616	Colis de 25 unités	29,04					CDP_0204.png
+2024-11-30	Coup de pates			CDP_832503	Pains	Pain sandwich viennois				Portion de 120g	1,1616	Colis de 25 unités	29,04					CDP_0204.png
 2024-11-30	Coup de pates			CDP_22305	Pains	Mini pain bretzel céréales cuit				Portion de 25g	0,2948	Colis de 120 unités	35,38					CDP_0204.png
 2024-11-30	Coup de pates			CDP_70762	Pains	Pain bretzel cuit				Portion de 65g	0,4391	Colis de 45 unités	19,76					CDP_0204.png
-2024-11-30	Coup de pates			CDP_22307	Pains	Pain sandwich bretzel cuit				Portion de 120g	0,573	Colis de 70 unités	52,71					CDP_0204.png
+2024-11-30	Coup de pates			CDP_22307	Pains	Pain sandwich bretzel cuit				Portion de 120g	0,753	Colis de 70 unités	52,71					CDP_0204.png
 2024-11-30	Coup de pates			CDP_18453	Pâtisserie individuelle	Religieuse chocolat		236,2		Portion de 100g	1,8619	Colis de 13 unités	23,62					CDP_0007.png
 2024-11-30	Coup de pates			CDP_27423	Pâtisserie individuelle	Religieuse café		232,2		Portion de 100g	1,7682	Colis de 13 unités	23,22					CDP_0007.png
 2024-11-30	Coup de pates			CDP_27424	Pâtisserie individuelle	Religieuse parfum vanille		235,6		Portion de 100g	1,8123	Colis de 13 unités	23,56					CDP_0007.png
@@ -380,22 +456,25 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70471	Pâtisserie individuelle	Quiche lorraine crue Les Secrets du Fournil® Ø 100 mm				Pièce de 140 g	1,4	Carton de 36 pièces	50,33					CDP_0242.png
 2024-11-30	Coup de pates			CDP_70469	Pâtisserie individuelle	Quiche aux légumes crue Les Secrets du Fournil® Ø 100 mm				Pièce de 140 g	1,4	Carton de 36 pièces	50,33					CDP_0242.png
 2024-11-30	Coup de pates			CDP_70470	Pâtisserie individuelle	Quiche aux poireaux crue Les Secrets du Fournil® Ø 100 mm				Pièce de 140 g	1,4	Carton de 36 pièces	50,33					CDP_0242.png
+2024-11-30	Coup de pates			CDP_25115	Viennoiseries	Chausson aux pommes beurre d'Isigny Sainte-Mère 100 g				Portion de 100g	0,9028	Colis de 40 unités	36,11					CDP_0438.png
+2024-11-30	Coup de pates			CDP_841566	Viennoiseries	Maxi chausson pomme beurre Charentes-Poitou AOP 150 g				Portion de 150g	1,3344	Colis de 50 unités	66,72					CDP_0438.png
+2024-11-30	Coup de pates			CDP_70225	Viennoiseries	Chausson aux pommes caramélisées Le Tourier* 120 g				Portion de 120g	1,1118	Colis de 60 unités	66,71					CDP_0438.png
+2024-11-30	Coup de pates			CDP_25288	Viennoiseries	Chausson pomme avec morceaux 120 g				Portion de 120g	0,9103	Colis de 40 unités	36,41					CDP_0438.png
+2024-11-30	Coup de pates			CDP_25139	Viennoiseries	Chausson pomme avec morceaux 100 g				Portion de 100g	0,8611	Colis de 44 unités	37,89					CDP_0438.png
 2024-11-30	Coup de pates			CDP_83460	Traiteur sucré	Burger cocktail au bacon				Plateau de 24 unités, poids 438 g	2,025	1 plateau par carton	48,06					CDP_0078.png
 2024-11-30	Coup de pates			CDP_832362	Traiteur sucré	Burger cocktail façon Rossini				Plateau de 15 unités, poids 450 g	2,047	2 plateaux par carton	60,74					CDP_0078.png
 2024-11-30	Coup de pates			CDP_822904	Traiteur sucré	Mini burgers assortis				Plateau de 24 unités, poids 350 g	1,652	1 plateau par carton	39,82					CDP_0078.png
 2024-11-30	Coup de pates			CDP_70292	Traiteur sucré	Chou/burger cocktail				Plateau de 20 unités, poids 595 g	1,033	2 plateaux par carton	44,13					CDP_0078.png
 2024-11-30	Coup de pates			CDP_70027	Traiteur sucré	Cheeseburger cocktail poulet barbecue				Plateau de 30 unités, poids 450 g	1,716	1 plateau par carton	51,49					CDP_0078.png
 2024-11-30	Coup de pates			CDP_83261	Traiteur sucré	Cheeseburger cocktail				Plateau de 15 unités, poids 450 g	1,837	2 plateaux par carton	56,51					CDP_0078.png
-2024-11-30	Coup de pates			CDP_826136	Traiteur salé	Les Bocaux d'Hubert® : colin aux légumes				Bocal en verre, 750 mL	2,79	Carton de 6 pièces	335,0					CDP_0265.png
-2024-11-30	Coup de pates			CDP_826146	Traiteur salé	Les Bocaux d'Hubert® : parmentier de confit de canard				Bocal en verre, 750 mL	2,79	Carton de 6 pièces	330,0					CDP_0265.png
-2024-11-30	Coup de pates			CDP_826137	Traiteur salé	Les Bocaux d'Hubert® : orechiettes au saumon				Bocal en verre, 750 mL	2,79	Carton de 6 pièces	335,0					CDP_0265.png
-2024-11-30	Coup de pates			CDP_826150	Traiteur salé	Les Bocaux d'Hubert® : penne à la bolognaise				Bocal en verre, 750 mL	2,79	Carton de 6 pièces	330,0					CDP_0265.png
-2024-11-30	Coup de pates			CDP_841674	Traiteur salé	Les Bocaux d'Hubert® : cassoulet				Bocal en verre, 750 mL	3,5	Carton de 6 pièces	335,0					CDP_0265.png
-2024-11-30	Coup de pates			CDP_841668	Traiteur salé	Les Bocaux d'Hubert® : joue de bœuf et purée				Bocal en verre, 750 mL	3,5	Carton de 6 pièces	355,0					CDP_0265.png
-2024-11-30	Coup de pates			CDP_826147	Traiteur salé	Les Bocaux d'Hubert® : tagliatelles carbonara				Bocal en verre, 750 mL	2,79	Carton de 6 pièces	335,0					CDP_0265.png
-2024-11-30	Coup de pates			CDP_831306	Traiteur salé	Les Bocaux d'Hubert® : le tajine				Bocal en verre, 750 mL	2,79	Carton de 6 pièces	355,0					CDP_0265.png
-2024-11-30	Coup de pates			CDP_84015	Traiteur sucré	Chutes de saumon Atlantique fumé				Barquette de 500 g		Carton de 10 barquettes						CDP_0279.png
-2024-11-30	Coup de pates			CDP_84018	Traiteur sucré	Chutes de saumon Atlantique fumé				Barquette de 500 g		Carton de 10 barquettes						CDP_0279.png
+2024-11-30	Coup de pates			CDP_826136	Traiteur salé	Les Bocaux d'Hubert® : colin aux légumes				Bocal en verre, 750 mL	4,95	Carton de 6 pièces	29,7					CDP_0265.png
+2024-11-30	Coup de pates			CDP_826146	Traiteur salé	Les Bocaux d'Hubert® : parmentier de confit de canard				Bocal en verre, 750 mL	4,95	Carton de 6 pièces	29,7					CDP_0265.png
+2024-11-30	Coup de pates			CDP_826137	Traiteur salé	Les Bocaux d'Hubert® : orechiettes au saumon				Bocal en verre, 750 mL	4,95	Carton de 6 pièces	29,7					CDP_0265.png
+2024-11-30	Coup de pates			CDP_826150	Traiteur salé	Les Bocaux d'Hubert® : penne à la bolognaise				Bocal en verre, 750 mL	4,95	Carton de 6 pièces	29,7					CDP_0265.png
+2024-11-30	Coup de pates			CDP_841674	Traiteur salé	Les Bocaux d'Hubert® : cassoulet				Bocal en verre, 750 mL	4,95	Carton de 6 pièces	29,7					CDP_0265.png
+2024-11-30	Coup de pates			CDP_841668	Traiteur salé	Les Bocaux d'Hubert® : joue de bœuf et purée				Bocal en verre, 750 mL	4,95	Carton de 6 pièces	29,7					CDP_0265.png
+2024-11-30	Coup de pates			CDP_826147	Traiteur salé	Les Bocaux d'Hubert® : tagliatelles carbonara				Bocal en verre, 750 mL	4,95	Carton de 6 pièces	29,7					CDP_0265.png
+2024-11-30	Coup de pates			CDP_831306	Traiteur salé	Les Bocaux d'Hubert® : le tajine				Bocal en verre, 750 mL	4,95	Carton de 6 pièces	29,7					CDP_0265.png
 2024-11-30	Coup de pates			CDP_84017	Traiteur sucré	Tranchette de saumon Atlantique fumé				Barquette de 500 g		Carton de 10 barquettes						CDP_0279.png
 2024-11-30	Coup de pates			CDP_84020	Traiteur sucré	Tranchette de saumon Atlantique fumé				Barquette de 500 g		Carton de 10 barquettes						CDP_0279.png
 2024-11-30	Coup de pates			CDP_84016	Traiteur sucré	Tranche de saumon Atlantique fumé				Plaque de 200 g		Carton de 10 plaques						CDP_0279.png
@@ -404,6 +483,11 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_26281	Traiteur sucré	Canapés lunch				Plateau de 48 unités	0,8792	Poids 11 g, Vendu par carton de 48 unités	42,2					CDP_0064.png
 2024-11-30	Coup de pates			CDP_22259	Traiteur salé	Canapés charcutier				Plateau de 48 unités	0,7425	Poids 7.8 g, Vendu par carton de 48 unités	35,64					CDP_0064.png
 2024-11-30	Coup de pates			CDP_841732	Traiteur salé	Canapés terroir				Plateau de 48 unités	0,7146	Poids 7.5 g, Vendu par carton de 48 unités	34,3					CDP_0064.png
+2024-11-30	Coup de pates			CDP_70322		Poche pâtissière jetable					18,99	Carton de 10 sachets						CDP_0450.png
+2024-11-30	Coup de pates			CDP_44208		Film étirable alimentaire				Rouleau de 45 cm x 300 m		Carton de 6 boîtes distributrices	72,0					CDP_0450.png
+2024-11-30	Coup de pates			CDP_40035		Serviette blanche 1 pli				Pièce de 300x300 mm	2,59	Carton de 200 pièces						CDP_0450.png
+2024-11-30	Coup de pates			CDP_18421		Feuille de papier cuisson				Feuille de 600x400 mm		Rame de 500 feuilles	33,0					CDP_0450.png
+2024-11-30	Coup de pates			CDP_835552		Kit couverts 4/1 en bois						Carton de 250 kits	63,99					CDP_0450.png
 2024-11-30	Coup de pates			CDP_70017	Pâtisserie à portionner	Moelleux tigré à garnir ø 70				Portion de 32g	0,7798	Colis de 48 unités	37,29					CDP_0170.png
 2024-11-30	Coup de pates			CDP_70014	Pâtisserie à portionner	Moelleux cacao à garnir ø 70				Portion de 32g	0,7796	Colis de 48 unités	37,29					CDP_0170.png
 2024-11-30	Coup de pates			CDP_27025	Pâtisserie à portionner	Baba au rhum Negrita à garnir ø 80				Portion de 81g	1,3172	Colis de 48 unités	63,01					CDP_0170.png
@@ -530,6 +614,14 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70583	Viennoiseries	Panettone 600 g				Portion de 600g	7,72	Colis de 5 unités	38,61					CDP_0214.png
 2024-11-30	Coup de pates			CDP_829764	Viennoiseries	Pâtón gaufre de Liège 120 g				Portion de 120g	0,6613	Colis de 130 unités	85,97					CDP_0214.png
 2024-11-30	Coup de pates			CDP_70582	Viennoiseries	Panettone individuel 80 g				Portion de 80g	1,3154	Colis de 35 unités	46,04					CDP_0214.png
+2024-11-30	Coup de pates			CDP_25517	Pâtisserie à portionner	Crêpe sucrée ø 240				Portion de 90g	0,8958	Colis de 50 unités	44,79					CDP_0489.png
+2024-11-30	Coup de pates			CDP_25385	Pâtisserie à portionner	Mini crêpe sucrée ø 100				Portion de 15g	0,2102	Colis de 180 unités	37,84					CDP_0489.png
+2024-11-30	Coup de pates			CDP_841565	Pâtisserie à portionner	Pancake nature ø 100				Portion de 35g	0,4742	Colis de 48 unités	22,76					CDP_0489.png
+2024-11-30	Coup de pates			CDP_25047	Pâtisserie à portionner	Pancake sucré ø 90				Portion de 25g	0,388	Colis de 80 unités	31,04					CDP_0489.png
+2024-11-30	Coup de pates			CDP_18434	Pâtisserie à portionner	Maxi muffin Sélection nature chunks de chocolat				Portion de 130g	1,2816	Carton de 32 unités	41,01					CDP_0506.png
+2024-11-30	Coup de pates			CDP_25031	Pâtisserie à portionner	Maxi muffin Sélection chocolat				Portion de 130g	1,3359	Carton de 32 unités	42,75					CDP_0506.png
+2024-11-30	Coup de pates			CDP_25055	Pâtisserie à portionner	Muffin Sélection chocolat fourré parfum chocolat noisette				Portion de 100g	1,134	Carton de 32 unités	22,68					CDP_0506.png
+2024-11-30	Coup de pates			CDP_25070	Pâtisserie à portionner	Muffin nature Sélection fourré parfum caramel				Portion de 100g	1,1255	Carton de 20 unités	22,51					CDP_0506.png
 2024-11-30	Coup de pates			CDP_70275	Pâtisserie à portionner	Coque de gros macaron rose Ø 70				Barquette de 12 unités, 4 barquettes par carton. Poids 2 g	0,518	Colis de 48 unités	26,79					CDP_0173.png
 2024-11-30	Coup de pates			CDP_27223	Pâtisserie à portionner	Coque de gros macaron vanille Ø 75				Barquette de 12 unités, 4 barquettes par carton. Poids 18.5 g	0,3532	Colis de 48 unités	25,69					CDP_0173.png
 2024-11-30	Coup de pates			CDP_18450	Pâtisserie à portionner	Coque de gros macaron cacao Ø 75				Barquette de 12 unités, 4 barquettes par carton. Poids 18.5 g	0,536	Colis de 48 unités	25,71					CDP_0173.png
@@ -545,10 +637,25 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_28450	Pâtisserie individuelle	Kouign amann nature individuel ø 60				Portion de 60g	2,1225	Colis de 36 unités	76,41					CDP_0051.png
 2024-11-30	Coup de pates			CDP_28452	Pâtisserie à portionner	Kouign amann nature ø 180				Portion de 80g	5,458	Colis de 10 unités	54,58					CDP_0051.png
 2024-11-30	Coup de pates			CDP_28454	Pâtisserie à portionner	Kouign amann nature plaque 320 x 260 mm				Portion de 187g	18,78	Colis de 3 unités	56,34					CDP_0051.png
+2024-11-30	Coup de pates			CDP_840720	Traiteur salé	Bouchée à la mexicaine												CDP_0464.png
+2024-11-30	Coup de pates			CDP_841230	Traiteur salé	Bouchée croustillante à la tomate et à la crème												CDP_0464.png
+2024-11-30	Coup de pates			CDP_840242	Glaces	Bûche roche noir de coco												CDP_0464.png
 2024-11-30	Coup de pates			CDP_26655	Traiteur sucré	Mini sandwiches				2 plateaux de 35 unités	1,397	Colis de 70 unités	79,78					CDP_0084.png
 2024-11-30	Coup de pates			CDP_26199	Traiteur salé	Mini bagels garnis				1 plateau de 48 unités	0,9479	Colis de 48 unités	45,5					CDP_0084.png
 2024-11-30	Coup de pates			CDP_26643	Traiteur sucré	Mini sandwiches tapas				3 plateaux de 20 unités	1,1215	Colis de 60 unités	67,29					CDP_0084.png
 2024-11-30	Coup de pates			CDP_26232	Traiteur salé	Bouchées surprise				1 plateau de 28 unités	1,2639	Colis de 84 unités	106,62					CDP_0084.png
+2024-11-30	Coup de pates			CDP_833409	Pâtisserie à portionner	Premium apple tart prédécoupée ø 280				Portion de 250g	25,42	Colis de 4 unités	101,68					CDP_0519.png
+2024-11-30	Coup de pates			CDP_840136	Pâtisserie à portionner	Premium mixed berry tart prédécoupée ø 280				Portion de 250g	29,25	Colis de 4 unités	117,0					CDP_0519.png
+2024-11-30	Coup de pates			CDP_833479	Pâtisserie à portionner	Banana bread				Portion de 500g	9,575	Colis de 4 unités	38,31					CDP_0519.png
+2024-11-30	Coup de pates			CDP_835287	Pâtisserie à portionner	Carrot cake				Portion de 440g	8,4	Colis de 4 unités	33,6					CDP_0519.png
+2024-11-30	Coup de pates			CDP_27300	Pâtisserie à portionner	Cheesecake prédécoupé ø 200				Portion de 1.500g	2,451	Colis de 2 unités	68,63					CDP_0519.png
+2024-11-30	Coup de pates			CDP_70497	Pâtisserie à portionner	Cheesecake framboise prédécoupé ø 260				Portion de 1.850g	2,932	Colis de 1 unité	41,05					CDP_0519.png
+2024-11-30	Coup de pates			CDP_25015	Pâtisserie individuelle	Brownie Sélection tout chocolat				Portion de 78g	1,2444	Colis de 50 unités	62,22					CDP_0517.png
+2024-11-30	Coup de pates			CDP_25086	Pâtisserie individuelle	Brownie				Portion de 78g	1,5816	Colis de 50 unités	79,08					CDP_0517.png
+2024-11-30	Coup de pates			CDP_25036	Pâtisserie individuelle	Brownie chocolat noix de pécan				Portion de 78g	1,581	Colis de 50 unités	79,08					CDP_0517.png
+2024-11-30	Coup de pates			CDP_25051	Pâtisserie à portionner	Mini brownies Sélection				1 plaque par carton (poids 20.8g par unité)	0,3966	Colis de 120 unités	47,71					CDP_0517.png
+2024-11-30	Coup de pates			CDP_835420	Pâtisserie individuelle	Millionaire shortbread				Portion de 85g	2,3417	Colis de 30 unités	70,25					CDP_0517.png
+2024-11-30	Coup de pates			CDP_853091	Pâtisserie individuelle	Cinnamon roll (roulé cannelle)				1 unité	0,8204	Colis de 48 unités	39,38					CDP_0517.png
 2024-11-30	Coup de pates			CDP_70684	Pâtisserie à portionner	Mini crêpe non sucrée ø 100				20 cm - 18 sachets de 10 crêpes	0,1517	Colis de 180 unités	27,31					CDP_0139.png
 2024-11-30	Coup de pates			CDP_70687	Pâtisserie à portionner	Mini roll nature prépoussé				10 mm - Vendu par carton de 108 unités			42,6					CDP_0139.png
 2024-11-30	Coup de pates			CDP_70668	Pâtisserie à portionner	Bun's viennois topping graines ø 55				30-45 mm à température ambiante - 120 unités	0,501	Colis de 120 unités	60,61					CDP_0139.png
@@ -567,6 +674,10 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_832992	Traiteur salé	Fondant de poulet farci aux cèpes				Pièce de 160 g		Carton de 48 kg						CDP_0334.png
 2024-11-30	Coup de pates			CDP_828750	Traiteur salé	Pilon de poulet				Pièce de 80/120 g		Carton de 5 kg						CDP_0334.png
 2024-11-30	Coup de pates			CDP_832990	Traiteur salé	Haut de cuisse de poulet déjointé				Pièce de 140/160 g		Carton de 5 kg						CDP_0334.png
+2024-11-30	Coup de pates			CDP_70512	Viennoiseries	Brioche mousseline prête à cuire 400 g				Portion de 40g	5,84	Colis de 10 unités	58,04					CDP_0482.png
+2024-11-30	Coup de pates			CDP_25281	Viennoiseries	Brioche tressée cuite				Portion de 33.33g	5,77	Colis de 12 unités	69,24					CDP_0482.png
+2024-11-30	Coup de pates			CDP_25354	Viennoiseries	Brioche mousseline au sucre perlé cuite				Portion de 66.67g	5,46	Colis de 6 unités	32,76					CDP_0482.png
+2024-11-30	Coup de pates			CDP_841703	Viennoiseries	Brioche Babka				Portion de 56.25g	5,45	Colis de 16 unités	87,21					CDP_0482.png
 2024-11-30	Coup de pates			CDP_27112	Pâtisserie à portionner	Bande feuilletée abricot		13,0235		Portion de 150g	2,613	Colis de 4 unités	52,13					CDP_0034.png
 2024-11-30	Coup de pates			CDP_27114	Pâtisserie à portionner	Bande feuilletée poire		12,5375		Portion de 150g	2,504	Colis de 4 unités	50,15					CDP_0034.png
 2024-11-30	Coup de pates			CDP_22214	Pâtisserie à portionner	Bande feuilletée pomme		10,1175		Portion de 150g	2,014	Colis de 4 unités	40,47					CDP_0034.png
@@ -608,7 +719,6 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_838187	Pâtisserie individuelle	Fond de tartelette sucré format stick cru				Portion de 32g	0,67	Colis de 70 unités	46,9					CDP_0149.png
 2024-11-30	Coup de pates			CDP_840154	Pâtisserie individuelle	Fond de tartelette cacao format stick cru				Portion de 32g	0,623	Colis de 70 unités	43,56					CDP_0149.png
 2024-11-30	Coup de pates			CDP_835452	Pâtisserie à portionner	Fond de tartelette sucré carré				Portion de 45g	0,738	Colis de 54 unités	39,85					CDP_0149.png
-2024-11-30	Coup de pates			CDP_832354	Pâtisserie à portionner	Sablé breton cru ø 95				Portion de 90g	1,977	Colis de 28 unités	55,37					CDP_0149.png
 2024-11-30	Coup de pates			CDP_18441	Pâtisserie à portionner	Mini fond sucré ø 55				Portion de 18g	0,338	Colis de 93 unités	31,43					CDP_0149.png
 2024-11-30	Coup de pates			CDP_26250	Pâtisserie à portionner	Mini fond sucré ø 40				Portion de 7.8g	0,229	Colis de 125 unités	28,71					CDP_0149.png
 2024-11-30	Coup de pates			CDP_70073	Traiteur sucré	Mini caroline au foie gras				Portion de 15g	1,3681	Colis de 42 unités	57,46					CDP_0067.png
@@ -619,10 +729,31 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70455	Traiteur sucré	Mini dôme foie gras mangue				Portion de 13g	1,4536	Colis de 30 unités	43,69					CDP_0067.png
 2024-11-30	Coup de pates			CDP_828892	Traiteur sucré	Mini pizza pincée				Portion de 30g	0,6081	Colis de 62 unités	37,7					CDP_0075.png
 2024-11-30	Coup de pates			CDP_823032	Traiteur sucré	Mini flammekueche				Portion de 30g	0,7285	Colis de 60 unités	43,71					CDP_0075.png
+2024-11-30	Coup de pates			CDP_70705	Pâtisserie à portionner	Les fingers Oh Oui ! : le chocolat noir truffé				Portion de 70g	2,623	Vendu par carton de 27 unités	70,82					CDP_0525.png
+2024-11-30	Coup de pates			CDP_70707	Pâtisserie à portionner	Les fingers Oh Oui ! : le fruits rouges				Portion de 83g	2,3867	Vendu par carton de 27 unités	64,44					CDP_0525.png
+2024-11-30	Coup de pates			CDP_70706	Pâtisserie à portionner	Les fingers Oh Oui ! : le pistache mandarine				Portion de 71g	2,4126	Vendu par carton de 27 unités	55,14					CDP_0525.png
+2024-11-30	Coup de pates			CDP_70690	Pâtisserie individuelle	Entremets rond Excellence vanille pécan individuel				Portion de 75g	2,915	Vendu par carton de 12 unités	34,98					CDP_0525.png
+2024-11-30	Coup de pates			CDP_840527	Pains	Sac baguette à fenêtre Fleur de Solène®					0,07	Carton de 1000 pièces	69,0					CDP_0454.png
+2024-11-30	Coup de pates			CDP_840564	Pains	Sac baguette à fenêtre la Florentine					0,04	Carton de 1000 pièces	42,0					CDP_0454.png
+2024-11-30	Coup de pates			CDP_840529	Pains	Sac baguette à fenêtre Solène® graines d'épeautre					0,08	Carton de 1000 pièces	80,0					CDP_0454.png
+2024-11-30	Coup de pates			CDP_840561	Pains	Sac baguette à fenêtre le biseau du Founil					0,05	Carton de 1000 pièces	48,0					CDP_0454.png
+2024-11-30	Coup de pates			CDP_840562	Pains	Sac baguette à fenêtre le biseau du Founil multicéréales					0,05	Carton de 1000 pièces	48,0					CDP_0454.png
+2024-11-30	Coup de pates			CDP_840560	Pains	Sac baguette à fenêtre Solène® torsadée					0,06	Carton de 1000 pièces	58,0					CDP_0454.png
+2024-11-30	Coup de pates			CDP_840528	Pains	Sac baguette à fenêtre Solène® à bouts pointus					0,07	Carton de 1000 pièces	69,0					CDP_0454.png
+2024-11-30	Coup de pates			CDP_840563	Pains	Sac baguette à fenêtre bûche du Founil					0,06	Carton de 1000 pièces	63,0					CDP_0454.png
 2024-11-30	Coup de pates			CDP_27401	Pâtisserie à portionner	Mini macarons ø 38				Portion de 36g	0,5283	Colis de 144 unités	76,08					CDP_0130.png
 2024-11-30	Coup de pates			CDP_832588	Pâtisserie à portionner	Mini macarons classiques ø 38				Portion de 12g	0,4647	Colis de 96 unités	44,61					CDP_0130.png
 2024-11-30	Coup de pates			CDP_27030	Pâtisserie à portionner	Mini macarons Sélection ø 40				Portion de 8.4g	0,4183	Colis de 144 unités	60,24					CDP_0130.png
 2024-11-30	Coup de pates			CDP_70289	Pâtisserie à portionner	Mini macarons délices des saisons ø 40				Portion de 8.4g	0,4544	Colis de 144 unités	65,43					CDP_0130.png
+2024-11-30	Coup de pates			CDP_25077	Pâtisserie individuelle	Briochette tête				Portion de 50g	0,578	Colis de 80 unités	46,24					CDP_0481.png
+2024-11-30	Coup de pates			CDP_834829	Pâtisserie individuelle	Briochette tête cuite				Portion de 45g	0,747	Colis de 45 unités	33,51					CDP_0481.png
+2024-11-30	Coup de pates			CDP_25144	Pâtisserie individuelle	Briochette boule				Portion de 60g	0,471	Colis de 150 unités	70,96					CDP_0481.png
+2024-11-30	Coup de pates			CDP_25171	Pâtisserie individuelle	Pain au lait				Portion de 70g	0,428	Colis de 90 unités	43,45					CDP_0481.png
+2024-11-30	Coup de pates			CDP_28193	Pâtisserie individuelle	Tranche de brioche perdue				Portion de 85g	1,688	Colis de 36 unités	60,77					CDP_0481.png
+2024-11-30	Coup de pates			CDP_840832	Pâtisserie individuelle	Donut Oreo®				Portion de 73g	1,3654	Colis de 48 unités	65,54					CDP_0522.png
+2024-11-30	Coup de pates			CDP_840827	Pâtisserie individuelle	Donut made with KitKat®				Portion de 73g	1,4206	Colis de 36 unités	51,14					CDP_0522.png
+2024-11-30	Coup de pates			CDP_70321	Pâtisserie individuelle	Donut Mars®				Portion de 57g	1,2397	Colis de 36 unités	44,63					CDP_0522.png
+2024-11-30	Coup de pates			CDP_70317	Pâtisserie individuelle	Donut Milka®				Portion de 65g	1,463	Colis de 48 unités	70,25					CDP_0522.png
 2024-11-30	Coup de pates			CDP_29001	Pains	Pain Solène® parisien				Colis de 10 unités	1,449	Colis de 10 unités	14,49					CDP_0190.png
 2024-11-30	Coup de pates			CDP_29432	Pains	Pain parisien 440 g				Colis de 22 unités	1,3964	Colis de 22 unités	30,72					CDP_0190.png
 2024-11-30	Coup de pates			CDP_29392	Pains	Baguette bio				Colis de 18 unités	1,3622	Colis de 18 unités	24,52					CDP_0190.png
@@ -631,6 +762,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_40011	Traiteur salé	Aiguillettes de poulet pané nature				Sachet de 2,5 kg		Carton de 2 sachets						CDP_0337.png
 2024-11-30	Coup de pates			CDP_832298	Traiteur salé	Haché de poulet rôti spécial burger				Pièce de 125 g		Carton de 4 sachets						CDP_0337.png
 2024-11-30	Coup de pates			CDP_44062	Traiteur salé	Aiguillette de poulet panée cornflakes halal				Sachet de 1 kg		Carton de 5 sachets						CDP_0337.png
+2024-11-30	Coup de pates			CDP_70047	Viennoiseries	Torsade feuilletée à partager 250 g				Portion de 250g	2,31	Carton de 20 unités	46,2					CDP_0440.png
+2024-11-30	Coup de pates			CDP_25043	Viennoiseries	Torsade pépites de chocolat beurre fin				Portion de 120g	1,099	Carton de 60 unités	65,94					CDP_0440.png
+2024-11-30	Coup de pates			CDP_70763	Viennoiseries	Torsade pépites chocolat prépoussée 110 g				Portion de 110g	1,076	Carton de 50 unités	53,98					CDP_0440.png
+2024-11-30	Coup de pates			CDP_841709	Viennoiseries	Torsade pépites chocolat prépoussée 90 g				Portion de 90g	0,7886	Carton de 50 unités	39,43					CDP_0440.png
+2024-11-30	Coup de pates			CDP_25215	Viennoiseries	Scoubichoc®				Portion de 70g	0,5548	Carton de 60 unités	33,29					CDP_0440.png
+2024-11-30	Coup de pates			CDP_25256	Viennoiseries	Mini torsade pépites de chocolat beurre fin				Portion de 28g	0,3385	Carton de 180 unités	60,93					CDP_0440.png
 2024-11-30	Coup de pates			CDP_29407	Pains	Bägels nature Ø 120				Portion de 115g	0,5603	Colis de 30 unités	16,81					CDP_0201.png
 2024-11-30	Coup de pates			CDP_70250	Pains	Bägels brioché Ø 110				Portion de 70g	0,6785	Colis de 60 unités	40,71					CDP_0201.png
 2024-11-30	Coup de pates			CDP_29408	Pains	Bägels sésame Ø 120				Portion de 115g	0,5633	Colis de 30 unités	16,9					CDP_0201.png
@@ -696,7 +833,7 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70487	Traiteur salé	Brochette de dessus de palette de bœuf saveur barbecue				Portion de 180g		Carton de 4 kg (22 pièces)						CDP_0310.png
 2024-11-30	Coup de pates			CDP_821532	Traiteur salé	Chateaubriand de bœuf (filet de bœuf)				Portion de 170/190g		Carton de 3.6 kg (20 pièces)						CDP_0310.png
 2024-11-30	Coup de pates			CDP_832929	Traiteur salé	Noix de joue de bœuf (coupée main)				Portion de 60/80g		Sachet de 2.5 kg (2 sachets)						CDP_0310.png
-2024-11-30	Coup de pates			CDP_825408	Traiteur salé	Émincés de hampe de bœuf (coupé main)						Carton de 1 kg (8 sachets)						CDP_0310.png
+2024-11-30	Coup de pates			CDP_825408	Traiteur salé	Émincé de hambur de bœuf rouge halal						Colis de 6 pièces	379					CDP_0466.png
 2024-11-30	Coup de pates			CDP_832947	Traiteur sucré	Steak haché rond sélection du boucher 15 % MG 180 g				Portion de 180g		Colis de 34 pièces						CDP_0302.png
 2024-11-30	Coup de pates			CDP_821238	Traiteur salé	Filet de bœuf Wellington				Portion de 2 kg		Carton de 4 kg (2 pièces)						CDP_0310.png
 2024-11-30	Coup de pates			CDP_29488	Pains	Figotte® Solène nature 80 g				Portion de 80g	0,5128	Colis de 50 unités	25,64					CDP_0225.png
@@ -704,6 +841,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_29599	Pains	Figotte® Solène nature				Portion de 45g	0,4239	Colis de 80 unités	38,15					CDP_0225.png
 2024-11-30	Coup de pates			CDP_29580	Pains	Petit pain Figotte® nature				Portion de 50g	0,2791	Colis de 80 unités	22,33					CDP_0225.png
 2024-11-30	Coup de pates			CDP_29625	Pains	Petit pain Figotte® cérérales				Portion de 50g	0,3061	Colis de 80 unités	24,49					CDP_0225.png
+2024-11-30	Coup de pates			CDP_70055	Pâtisserie individuelle	Muffin Carambar®				Portion de 120g	1,436	Colis de 14 unités	20,14					CDP_0520.png
+2024-11-30	Coup de pates			CDP_70052	Pâtisserie à portionner	Mini beignet sucré Carambar®				Portion de 25g	0,4151	Colis de 105 unités	43,59					CDP_0520.png
+2024-11-30	Coup de pates			CDP_25103	Viennoiseries	Maxi palmier gourmand 120 g				Portion de 120g	1,33	Colis de 60 unités	79,82					CDP_0480.png
+2024-11-30	Coup de pates			CDP_832350	Viennoiseries	Palmier gourmand 80 g				Portion de 80g	0,9944	Colis de 80 unités	79,55					CDP_0480.png
+2024-11-30	Coup de pates			CDP_25048	Viennoiseries	Mini palmier gourmand 20 g				Portion de 20g	0,334	Colis de 200 unités	66,79					CDP_0480.png
+2024-11-30	Coup de pates			CDP_28130	Viennoiseries	Paille				Portion de 75g	0,7883	Colis de 84 unités	66,22					CDP_0480.png
 2024-11-30	Coup de pates			CDP_27102	Pâtisserie individuelle	Opéra individuel		8,5288		Portion de 80g	1,8232	Colis de 30 unités	54,97					CDP_0027.png
 2024-11-30	Coup de pates			CDP_27941	Pâtisserie individuelle	Feuilletine chocolat individuel		7,3058		Portion de 60g	1,4617	Colis de 30 unités	43,85					CDP_0027.png
 2024-11-30	Coup de pates			CDP_27960	Pâtisserie individuelle	Entremets individuel façon forêt noire		7,945		Portion de 100g	2,336	Colis de 21 unités	49,11					CDP_0027.png
@@ -737,6 +880,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_821960	Traiteur salé	Chair de pincés et pattes de crabe sauvage				Pot de 454 g		Carton de 6 pots						CDP_0271.png
 2024-11-30	Coup de pates			CDP_833050	Traiteur sucré	Miettes de surimi saveur crabe				Sachet de 500 g		Carton de 10 sachets						CDP_0271.png
 2024-11-30	Coup de pates			CDP_11136	Traiteur salé	Filets d'anchois salés				Seau de 800 g		Carton de 4 seaux						CDP_0271.png
+2024-11-30	Coup de pates			CDP_840803	Pâtisserie individuelle	Madeleine fourrée chocolat noisette				Portion de 56g	0,9013	Colis de 62 unités	55,88					CDP_0493.png
+2024-11-30	Coup de pates			CDP_841466	Pâtisserie individuelle	Madeleine fourrée fraise				Portion de 66g	0,83	Colis de 62 unités	51,46					CDP_0493.png
+2024-11-30	Coup de pates			CDP_838234	Pâtisserie individuelle	Madeleine nature				Portion de 50g	0,7842	Colis de 60 unités	47,05					CDP_0493.png
+2024-11-30	Coup de pates			CDP_826166	Pâtisserie à portionner	Mini madeleine de Commercy nature				Portion de 18g	0,3436	Colis de 140 unités	48,48					CDP_0493.png
+2024-11-30	Coup de pates			CDP_826168	Pâtisserie à portionner	Mini madeleine de Commercy aux agrumes				Portion de 18g	0,3494	Colis de 140 unités	48,92					CDP_0493.png
+2024-11-30	Coup de pates			CDP_70498	Pâtisserie à portionner	Madeleines assorties				Portion de 315g	0,1419	Vendu par carton de 1260g	27,7					CDP_0493.png
 2024-11-30	Coup de pates			CDP_828294	Viennoiseries	Croissant Le Mitron® 65 g				Portion de 65g	0,4647	Colis de 168 unités	77,4					CDP_0328.png
 2024-11-30	Coup de pates			CDP_830654	Viennoiseries	Pain chocolat Le Mitron® 75 g				Portion de 75g	0,5688	Colis de 16 unités	93,53					CDP_0328.png
 2024-11-30	Coup de pates			CDP_831474	Traiteur salé	Sticks mozzarella				Sachet de 1 kg (33/35 pièces)		Carton de 6 sachets						CDP_0274.png
@@ -793,6 +942,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_840856	Traiteur sucré	Croque-monsieur pommes de terre & lardons				Portion de 220g	2,15	Colis de 18 pièces	38,75					CDP_0260.png
 2024-11-30	Coup de pates			CDP_22129	Traiteur sucré	Croque légumes				Portion de 190g	1,86	Colis de 18 pièces	33,41					CDP_0260.png
 2024-11-30	Coup de pates			CDP_26369	Traiteur sucré	Croque chèvre tomate				Portion de 180g	2,06	Colis de 24 pièces	49,38					CDP_0260.png
+2024-11-30	Coup de pates			CDP_841482	Pâtisserie individuelle	Muffin Oreo®				Portion de 110g	1,4831	Colis de 36 unités	66,35					CDP_0521.png
+2024-11-30	Coup de pates			CDP_841481	Pâtisserie individuelle	Nutella® muffin				Portion de 86g	1,5819	Colis de 48 unités	75,93					CDP_0521.png
+2024-11-30	Coup de pates			CDP_841694	Pâtisserie individuelle	Muffin Milka®				Portion de 110g	1,7619	Colis de 36 unités	63,43					CDP_0521.png
+2024-11-30	Coup de pates			CDP_70437	Pâtisserie individuelle	Cookie Twix®				Portion de 48.5g	1,3629	Colis de 24 unités	32,71					CDP_0521.png
+2024-11-30	Coup de pates			CDP_70318	Pâtisserie individuelle	Cookie Snickers®				Portion de 45g	1,3629	Colis de 24 unités	32,71					CDP_0521.png
+2024-11-30	Coup de pates			CDP_70319	Pâtisserie individuelle	Cookie M&M's® chocolat				Portion de 45g	1,3629	Colis de 24 unités	32,71					CDP_0521.png
 2024-11-30	Coup de pates			CDP_39743	Glaces	Coulis de framboises				Bouteille de 500 g	0,27	Carton de 6 bouteilles	6,69					CDP_0415.png
 2024-11-30	Coup de pates			CDP_39745	Glaces	Coulis de fruits rouges				Bouteille de 500 g	0,2	Carton de 6 bouteilles	4,99					CDP_0415.png
 2024-11-30	Coup de pates			CDP_39747	Glaces	Coulis de fruits exotiques				Bouteille de 500 g	0,18	Carton de 6 bouteilles	4,59					CDP_0415.png
@@ -806,13 +961,19 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70436	Pâtisserie à portionner	Flan coco/choco prédécoupé				Portion de 1900g	17,867	Colis de 4 pièces	71,47					CDP_0033.png
 2024-11-30	Coup de pates			CDP_70419	Pâtisserie à portionner	Flan chocolat cookie prédécoupé				Portion de 1950g	15,26	Colis de 4 unités	61,04					CDP_0033.png
 2024-11-30	Coup de pates			CDP_27311	Pâtisserie à portionner	Far aux pruneaux cuit				Portion de 550g	15,823	Colis de 3 unités	47,47					CDP_0033.png
+2024-11-30	Coup de pates			CDP_70099	Traiteur sucré	Boîte carrée en pulpe de canne avec couvercle			38,65	Pièce de 190x190 mm, Sachet de 50 pièces	0,77	Carton de 6 sachets						CDP_0442.png
+2024-11-30	Coup de pates			CDP_841802	Traiteur salé	Boîte salade carton kraft brun			14,0	Sachet de 50 pièces	0,28	Carton de 6 sachets						CDP_0442.png
+2024-11-30	Coup de pates			CDP_841803	Traiteur sucré	Couvercle boîte à salade				Sachet de 50 pièces	0,17	Carton de 6 sachets						CDP_0442.png
+2024-11-30	Coup de pates			CDP_840867	Traiteur sucré	Boîte kraft brun à fenêtre			12,89	Pièce de 13x12.5 cm, Sachet de 50 pièces	0,26	Carton de 50 pièces						CDP_0442.png
+2024-11-30	Coup de pates			CDP_840095	Traiteur salé	Boîte avec couvercle à fenêtre			100,0	Pièce de 80x125x60 mm, Carton de 210 pièces	0,48							CDP_0442.png
+2024-11-30	Coup de pates			CDP_840096	Traiteur salé	Boîte avec couvercle à fenêtre			84,0	Pièce de 125x125x60 mm, Carton de 140 pièces	0,6							CDP_0442.png
 2024-11-30	Coup de pates			CDP_21112	Traiteur sucré	Tranche de carottes grillées marinées		10,69		Portion de 50g	0,53	Carton de 4 barquettes						CDP_0356.png
 2024-11-30	Coup de pates			CDP_21083	Traiteur sucré	Tranche de courgettes grillées aux épices		13,49		Portion de 50g	0,67	Carton de 4 barquettes						CDP_0356.png
 2024-11-30	Coup de pates			CDP_21081	Traiteur sucré	Tranches d'aubergines grillées au pesto		13,45		Portion de 50g	0,67	Carton de 4 barquettes						CDP_0356.png
 2024-11-30	Coup de pates			CDP_43052	Traiteur sucré	Aubergines 1/2 lunes grillées aromatisées		12,09		Portion de 50g	0,6	Carton de 2 barquettes						CDP_0356.png
 2024-11-30	Coup de pates			CDP_21086	Traiteur sucré	Artichauts cœur marinés		16,69		Portion de 50g	0,83	Carton de 4 barquettes						CDP_0356.png
 2024-11-30	Coup de pates			CDP_18480	Traiteur sucré	Artichauts cœur marinés		15,19		Portion de 50g	0,76	Carton de 4 barquettes						CDP_0356.png
-2024-11-30	Coup de pates			CDP_26348	Traiteur sucré	Mini brochette de chapon				Portion de 25g	1,928	Colis de 40 unités	95,42					CDP_0090.png
+2024-11-30	Coup de pates			CDP_26348	Traiteur sucré	Mini brochette de chapon				Portion de 25g	1,1928	Colis de 40 unités	95,42					CDP_0090.png
 2024-11-30	Coup de pates			CDP_26058	Traiteur sucré	Mini brochette de porc marinée				Portion de 30g	1,015	Colis de 30 unités	30,45					CDP_0090.png
 2024-11-30	Coup de pates			CDP_831286	Traiteur sucré	Mini brochette poulet tandoori				Portion de 35g	0,912	Colis de 40 unités	45,6					CDP_0090.png
 2024-11-30	Coup de pates			CDP_853219	Pains	Petit pain losange du Fournil nature				Portion de 50g	0,2257	Colis de 200 unités	45,14					CDP_0226.png
@@ -821,26 +982,57 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70230	Pains	Petit pain losange multi-graines				Portion de 50g	0,3206	Colis de 80 unités	25,65					CDP_0226.png
 2024-11-30	Coup de pates			CDP_826188	Pains	Petit pain carré du Fournil				Portion de 60g	0,2475	Colis de 160 unités	39,6					CDP_0226.png
 2024-11-30	Coup de pates			CDP_29487	Pains	Bûchette nature du Fournil				Portion de 40g	0,3172	Colis de 60 unités	18,76					CDP_0226.png
-2024-11-30	Coup de pates			CDP_835299	Pains	Baguette viennoise				Portion de 290g		Colis de 40 unités	47,34					CDP_0188.png
+2024-11-30	Coup de pates			CDP_851856	Traiteur sucré	Émincé de pastirma de bœuf						Colis de 1 unité	356					CDP_0466.png
+2024-11-30	Coup de pates			CDP_832180	Traiteur sucré	Framboise						Colis de 1 unité	467					CDP_0466.png
+2024-11-30	Coup de pates			CDP_832794	Pâtisserie individuelle	Frites de patates douces						Colis de 1 unité	424					CDP_0466.png
+2024-11-30	Coup de pates			CDP_832906	Pâtisserie à portionner	Frites Xtra - Coupées 7/8 B-temperature						Colis de 1 unité	424					CDP_0466.png
+2024-11-30	Coup de pates			CDP_840743	Glaces	Fromage frais à la vanille Isigny-Ste-Mère		6,15		Seau de 3 kg	0,62							CDP_0421.png
+2024-11-30	Coup de pates			CDP_840747	Traiteur sucré	Fromage râpé à la vallée sig						Colis de 1 unité	481					CDP_0466.png
+2024-11-30	Coup de pates			CDP_16109	Glaces	Fromage frais à la fraise Isigny-Ste-Mère		5,69		Seau de 3 kg	0,57							CDP_0421.png
+2024-11-30	Coup de pates			CDP_16113	Glaces	Fromage frais à la framboise Isigny-Ste-Mère		5,69		Seau de 3 kg	0,57							CDP_0421.png
+2024-11-30	Coup de pates			CDP_28122	Viennoiseries	Bottereaux				Portion de 20g	0,382	Colis de 97 unités	37,05					CDP_0497.png
+2024-11-30	Coup de pates			CDP_840982	Pâtisserie individuelle	Roulé aux pralines prépoussé				Portion de 130g	1,6482	Colis de 28 unités	46,15					CDP_0497.png
+2024-11-30	Coup de pates			CDP_28113	Pâtisserie individuelle	Croissant aux amandes				Portion de 85g	0,7687	Colis de 60 unités	69,18					CDP_0497.png
+2024-11-30	Coup de pates			CDP_28150	Pâtisserie à portionner	Mouna				Portion de 550g	5,135	Colis de 12 unités	61,62					CDP_0497.png
+2024-11-30	Coup de pates			CDP_28108	Pâtisserie à portionner	Kougelhopf sucré				Portion de 400g	4,98	Colis de 10 unités	49,8					CDP_0497.png
+2024-11-30	Coup de pates			CDP_22161	Pâtisserie à portionner	Croix de Savoie à la crème pâtissière				Portion de 120g	1,3724	Colis de 48 unités	61,76					CDP_0497.png
+2024-11-30	Coup de pates			CDP_835299	Viennoiseries	Baguette viennoise				Portion de 290g	1,1835	Colis de 40 unités	47,34					CDP_0484.png
 2024-11-30	Coup de pates			CDP_29113	Pains	Pain parisien 64 cm				Portion de 523g	0,8852	Colis de 25 unités	22,13					CDP_0188.png
 2024-11-30	Coup de pates			CDP_826189	Pains	1/2 baguette Sélection				Portion de 150g	0,6014	Colis de 50 unités	30,07					CDP_0191.png
 2024-11-30	Coup de pates			CDP_29441	Pains	1/2 baguette sandwich				Portion de 140g	0,4796	Colis de 50 unités	23,98					CDP_0191.png
 2024-11-30	Coup de pates			CDP_832597	Pains	1/2 baguette				Portion de 140g	0,478	Colis de 60 unités	28,68					CDP_0191.png
 2024-11-30	Coup de pates			CDP_835325	Pains	1/2 baguette Les Secrets du Fournil® prétranchée				Portion de 130g	0,8404	Colis de 24 unités	20,17					CDP_0191.png
+2024-11-30	Coup de pates			CDP_70049	Viennoiseries	Croissant courbé margarine 85 g				Portion de 85g	0,43	Colis de 84 unités	36,12					CDP_0435.png
+2024-11-30	Coup de pates			CDP_831294	Viennoiseries	Croissant courbé margarine 70 g				Portion de 70g	0,273	Colis de 120 unités	32,76					CDP_0435.png
+2024-11-30	Coup de pates			CDP_70648	Viennoiseries	Croissant pur beurre prépoussé bio 70 g				Portion de 70g	0,6977	Colis de 60 unités	41,86					CDP_0435.png
+2024-11-30	Coup de pates			CDP_70579	Viennoiseries	Pain chocolat 2 barres pour beurre prépoussé bio 75 g				Portion de 75g	0,8979	Colis de 70 unités	61,58					CDP_0435.png
+2024-11-30	Coup de pates			CDP_22122	Viennoiseries	Croissant multigrains prépoussé 80 g				Portion de 80g	0,8291	Colis de 55 unités	45,6					CDP_0435.png
 2024-11-30	Coup de pates			CDP_25112	Viennoiseries	Croissant beurre d'Isigny Ste-Mère 70 g				Portion de 70g	0,63424	Colis de 150 unités	94,86					CDP_0220.png
-2024-11-30	Coup de pates			CDP_25113	Viennoiseries	Pain chocolat 2 barres beurre d'Isigny Ste-Mère 80 g				Portion de 80g	1,109	Colis de 150 unités	57,55					CDP_0220.png
-2024-11-30	Coup de pates			CDP_25258	Viennoiseries	Mini croissant beurre d'Isigny Ste-Mère 25 g				Portion de 25g		Colis de 200 unités	12,9					CDP_0220.png
+2024-11-30	Coup de pates			CDP_25113	Viennoiseries	Pain chocolat 2 barres beurre d'Isigny Ste-Mère 80 g				Portion de 80g	0,7399	Colis de 150 unités	57,55					CDP_0220.png
+2024-11-30	Coup de pates			CDP_25258	Viennoiseries	Mini croissant beurre d'Isigny Ste-Mère 25 g				Portion de 25g	0,2878	Colis de 200 unités	57,55					CDP_0220.png
 2024-11-30	Coup de pates			CDP_25259	Viennoiseries	Mini pain chocolat 2 barres beurre d'Isigny Ste-Mère 30 g				Portion de 30g	0,3347	Colis de 210 unités	66,93					CDP_0220.png
-2024-11-30	Coup de pates			CDP_25965	Viennoiseries	Croissant prépoussé beurre d'Isigny Ste-Mère 75 g				Portion de 75g		Colis de 60 unités	44,8					CDP_0220.png
-2024-11-30	Coup de pates			CDP_25989	Viennoiseries	Pain chocolat 2 barres prépoussé beurre 85 g				Portion de 85g	0,891	Colis de 64 unités	577,16					CDP_0220.png
+2024-11-30	Coup de pates			CDP_25965	Viennoiseries	Croissant prépoussé beurre d'Isigny Ste-Mère 75 g				Portion de 75g	0,7467	Colis de 60 unités	44,8					CDP_0220.png
+2024-11-30	Coup de pates			CDP_25989	Viennoiseries	Pain chocolat 2 barres prépoussé beurre 85 g				Portion de 85g	0,8931	Colis de 64 unités	57,16					CDP_0220.png
 2024-11-30	Coup de pates			CDP_25977	Viennoiseries	Mini croissant prépoussé beurre d'Isigny Ste-Mère 30 g				Portion de 30g	0,3966	Colis de 210 unités	83,29					CDP_0220.png
-2024-11-30	Coup de pates			CDP_25978	Viennoiseries	Mini pain chocolat 2 barres prépoussé beurre d'Isigny Ste-Mère 40 g				Portion de 40g	0,4656	Colis de 170 unités	79,3					CDP_0220.png
-2024-11-30	Coup de pates			CDP_835433	Viennoiseries	Sachet pour viennoiserie au beurre d'Isigny AOP (2-3 pièces)						Colis de 1000 pièces	22,0					CDP_0220.png
+2024-11-30	Coup de pates			CDP_25978	Viennoiseries	Mini pain chocolat 2 barres prépoussé beurre d'Isigny Ste-Mère 40 g				Portion de 40g	0,4665	Colis de 170 unités	79,3					CDP_0220.png
+2024-11-30	Coup de pates			CDP_835433	Viennoiseries	Sachet pour viennoiserie au beurre Isigny AOP (2-3 pièces)				Portion de 70g	0,02	Carton de 1000 pièces	22,0					CDP_0456.png
 2024-11-30	Coup de pates			CDP_70071	Traiteur salé	Wings de poulet pané				Sachet de 2,5 kg		Carton de 2 sachets						CDP_0277.png
 2024-11-30	Coup de pates			CDP_835106	Traiteur salé	Onion rings				Sachet de 600 g		Carton de 9 sachets						CDP_0277.png
 2024-11-30	Coup de pates			CDP_841589	Traiteur salé	Beignets à la romaine				Sachet de 1 kg		Carton de 8 sachets						CDP_0277.png
 2024-11-30	Coup de pates			CDP_825578	Traiteur salé	Mini-involtinis au fromage de chèvre et speck				Pot de 1 kg		Carton de 4 pots						CDP_0277.png
 2024-11-30	Coup de pates			CDP_831411	Traiteur salé	Rabas panés (lanières de calamars panées)				Sachet de 1 kg		Carton de 4 sachets						CDP_0277.png
+2024-11-30	Coup de pates			CDP_837751	Glaces	Sorbet plein fruit citron				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837710	Glaces	Sorbet plein fruit citron vert				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837735	Glaces	Sorbet plein fruit poire				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837736	Glaces	Sorbet plein fruit pomme verte				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837703	Glaces	Sorbet plein fruit abricot bergeron				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_840299	Glaces	Sorbet pêche jaune				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837724	Glaces	Sorbet plein fruit melon				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837726	Glaces	Sorbet plein fruit mirabelles				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837718	Glaces	Sorbet plein fruit fruit de la passion				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837722	Glaces	Sorbet plein fruit mangue				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837705	Glaces	Sorbet plein fruit banane				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
+2024-11-30	Coup de pates			CDP_837738	Glaces	Sorbet rhubarbe				Bac de 2,5 L	18,29	Colis de 4 bacs	18,29					CDP_0445.png
 2024-11-30	Coup de pates			CDP_832853	Traiteur sucré	Gratin à la dauphinoise		7,85		Pièce de 100 g env.	0,79	Carton de 2 sachets						CDP_0363.png
 2024-11-30	Coup de pates			CDP_832665	Traiteur sucré	Gratin de pommes de terre façon sarladaise		9,55		Pièce de 100 g env.	0,9	Carton de 2 sachets						CDP_0363.png
 2024-11-30	Coup de pates			CDP_70198	Traiteur sucré	Gratin aux 4 légumes		9,45		Pièce de 100 g env.	0,95	Carton de 2 sachets						CDP_0363.png
@@ -852,6 +1044,11 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_26107	Pains	Briochain® ø 45				Portion de 110g	0,2582	Colis de 100 unités	25,82					CDP_0159.png
 2024-11-30	Coup de pates			CDP_28200	Pâtisserie à portionner	Chou lunch à garnir ø 54				Portion de 6g	0,1311	Colis de 320 unités	41,95					CDP_0171.png
 2024-11-30	Coup de pates			CDP_70423	Pains	Bao plié lunch cuit 41 g				Portion de 41g	0,8263	Colis de 30 unités	24,79					CDP_0152.png
+2024-11-30	Coup de pates			CDP_70464	Viennoiseries	Mini roulé pépites de chocolat prépoussé Le Tourier 38 g				Portion de 38g	0,5053	Colis de 72 unités	36,38					CDP_0437.png
+2024-11-30	Coup de pates			CDP_70463	Viennoiseries	Mini roll caramel au beurre d'Isigny Ste-Mère prépoussé 30 g				Portion de 30g	0,5125	Colis de 72 unités	36,9					CDP_0437.png
+2024-11-30	Coup de pates			CDP_70053	Viennoiseries	Roll caramel au beurre d'Isigny Ste-Mère prépoussé 100 g				Portion de 100g	1,033	Colis de 36 unités	46,92					CDP_0437.png
+2024-11-30	Coup de pates			CDP_70226	Viennoiseries	Roll nature cuit				Portion de 58g	1,3275	Colis de 24 unités	31,86					CDP_0437.png
+2024-11-30	Coup de pates			CDP_848108	Viennoiseries	Pain chocolat noisette prépoussé 120 g				Portion de 120g	1,2408	Colis de 36 unités	44,67					CDP_0437.png
 2024-11-30	Coup de pates			CDP_70346	Sauces	Ketchup				Flacon de 950 g, Carton de 12 flacons	0,15	Colis de 12 unités	4,69					CDP_0378.png
 2024-11-30	Coup de pates			CDP_70489	Sauces	Sauce béarnaise				Flacon de 920 g, Carton de 12 flacons	0,12	Colis de 12 unités	5,39					CDP_0378.png
 2024-11-30	Coup de pates			CDP_70348	Sauces	Sauce au poivre				Flacon de 950 g, Carton de 12 flacons	0,14	Colis de 12 unités	5,49					CDP_0378.png
@@ -883,6 +1080,11 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27420	Pâtisserie individuelle	Éclair parfum vanille		22,9067		Portion de 75g	1,2271	Carton de 14 unités	17,18					CDP_0006.png
 2024-11-30	Coup de pates			CDP_70010	Pâtisserie individuelle	Éclair mangue passion		28,2796		Portion de 75g	1,5157	Carton de 14 unités	21,22					CDP_0006.png
 2024-11-30	Coup de pates			CDP_70012	Pâtisserie individuelle	Éclair framboise		28,2053		Portion de 75g	1,5507	Carton de 14 unités	21,71					CDP_0006.png
+2024-11-30	Coup de pates			CDP_451103	Pâtisserie individuelle	Assortiment de cookies crus ø 70				Portion de 58g	1,2371	Colis de 96 unités	118,76					CDP_0511.png
+2024-11-30	Coup de pates			CDP_25269	Pâtisserie individuelle	Maxi cookie pépites de chocolat ø 70				Portion de 85g	1,2592	Colis de 48 unités	60,44					CDP_0511.png
+2024-11-30	Coup de pates			CDP_25268	Pâtisserie individuelle	Maxi cookie saveur chocolat chunks blanc et pépites de chocolat ø 70				Portion de 85g	1,1442	Colis de 48 unités	54,92					CDP_0511.png
+2024-11-30	Coup de pates			CDP_25267	Pâtisserie individuelle	Maxi cookie chunks blancs noix de macadamia ø 70				Portion de 85g	1,34	Colis de 48 unités	64,32					CDP_0511.png
+2024-11-30	Coup de pates			CDP_25082	Pâtisserie individuelle	Cookie pépites de chocolat ø 65				Portion de 50g	0,858	Colis de 90 unités	52,72					CDP_0511.png
 2024-11-30	Coup de pates			CDP_70698	Pâtisserie individuelle	Petits fours sucrés				Plateau de 58 unités	0,6776	Colis de 116 unités	78,6					CDP_0119.png
 2024-11-30	Coup de pates			CDP_70697	Pâtisserie individuelle	Petits fours sucrés Sélection				Plateau de 56 unités	0,5232	Colis de 112 unités	61,86					CDP_0119.png
 2024-11-30	Coup de pates			CDP_70169	Pâtisserie individuelle	Petits fours tradition				Plateau de 48 unités	0,6194	Colis de 96 unités	59,46					CDP_0119.png
@@ -892,6 +1094,10 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_840883	Pâtisserie individuelle	Panna cotta mangue		232,5		Portion de 100g	1,9375	Colis de 12 unités	23,25					CDP_0020.png
 2024-11-30	Coup de pates			CDP_840837	Pâtisserie individuelle	Crumble pomme fruits rouges		231,25		Portion de 100g	1,2929	Colis de 12 unités	23,15					CDP_0020.png
 2024-11-30	Coup de pates			CDP_841463	Pâtisserie individuelle	Graines de chia au lait de coco et coulis de fruits rouges		235,25		Portion de 100g	1,9608	Colis de 12 unités	23,53					CDP_0020.png
+2024-11-30	Coup de pates			CDP_873795	Pâtisserie individuelle	Pain de mozzarella												CDP_0468.png
+2024-11-30	Coup de pates			CDP_831795	Pâtisserie individuelle	Pâté de chêvre cuit												CDP_0468.png
+2024-11-30	Coup de pates			CDP_837073	Glaces	Pédia glace au caramel												CDP_0468.png
+2024-11-30	Coup de pates			CDP_840801	Pâtisserie individuelle	Pommes dauphine												CDP_0468.png
 2024-11-30	Coup de pates			CDP_70345	Traiteur sucré	Dés d'ananas		5,65		Sachet de 1kg	0,45	Carton de 5 sachets						CDP_0414.png
 2024-11-30	Coup de pates			CDP_841586	Traiteur sucré	Dés de mangues		5,69		Sachet de 1kg	0,46	Carton de 5 sachets						CDP_0414.png
 2024-11-30	Coup de pates			CDP_39692	Traiteur sucré	Dés de pommes		4,99		Sachet de 1kg	0,4	Carton de 5 sachets						CDP_0414.png
@@ -915,8 +1121,17 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27446	Pâtisserie individuelle	Mignardises				Plateau de 40 unités	0,8023	Colis de 40 unités	32,99					CDP_0120.png
 2024-11-30	Coup de pates			CDP_70168	Pâtisserie individuelle					Plateau de 48 unités	0,7785	Colis de 96 unités	74,74					CDP_0120.png
 2024-11-30	Coup de pates			CDP_70432	Pâtisserie individuelle	Petits fours délices chocolatés				Plateau de 50 unités	1,0516	Colis de 50 unités	52,58					CDP_0120.png
+2024-11-30	Coup de pates			CDP_819747		Boîte à hamburger			22,5	Sachet de 100 pièces	0,23	Carton de 4 sachets						CDP_0451.png
+2024-11-30	Coup de pates			CDP_827028		Box à pâtes			12,25	Sachet de 50 pièces	0,25	Carton de 9 sachets						CDP_0451.png
+2024-11-30	Coup de pates			CDP_835551		Pot à soupe			30,4	Sachet de 50 pièces	0,61	Carton de 5 sachets						CDP_0451.png
 2024-11-30	Coup de pates			CDP_70704	Pâtisserie individuelle	Mendiant croustillant chocolat noir ø 30				Portion de 8g	0,401	Colis de 162 unités	64,96					CDP_0098.png
 2024-11-30	Coup de pates			CDP_70699	Pâtisserie individuelle	Mendiant croustillant chocolat lait ø 30				Portion de 8g	0,3992	Colis de 162 unités	64,67					CDP_0098.png
+2024-11-30	Coup de pates			CDP_70649	Viennoiseries	Triangle aux amandes beurre fin				Portion de 100g	0,931	Colis de 84 unités	78,21					CDP_0479.png
+2024-11-30	Coup de pates			CDP_70095	Viennoiseries	Carré feuilleté crème d'amandes fruits rouges 110 x 110 mm				Portion de 115g	2,1138	Colis de 24 unités	50,73					CDP_0479.png
+2024-11-30	Coup de pates			CDP_70647	Viennoiseries	Patte d'ours préposée parfum chocolat noisette				Portion de 100g	1,3432	Colis de 35 unités	46,98					CDP_0479.png
+2024-11-30	Coup de pates			CDP_25168	Pâtisserie individuelle	Sacristain glace royale				Portion de 120g	1,2173	Colis de 40 unités	48,69					CDP_0479.png
+2024-11-30	Coup de pates			CDP_25079	Pâtisserie à portionner	Jésuite 180 g				Portion de 180g	1,3692	Colis de 25 unités	34,23					CDP_0479.png
+2024-11-30	Coup de pates			CDP_22209	Pâtisserie individuelle	Mini jésuite				Portion de 30g	0,4544	Colis de 72 unités	32,72					CDP_0479.png
 2024-11-30	Coup de pates			CDP_70371	Traiteur salé	Émincés d'aiguillette de poulet rôti halal				Sachet de 2.5 kg		Carton de 4 sachets						CDP_0312.png
 2024-11-30	Coup de pates			CDP_82851	Traiteur salé	Émincés d'aiguillette de poulet rôti halal				Sachet de 1 kg		Carton de 5 sachets						CDP_0312.png
 2024-11-30	Coup de pates			CDP_831401	Traiteur salé	Émincés de filet de poulet rôti				Sachet de 1 kg		Carton de 5 sachets						CDP_0312.png
@@ -931,13 +1146,24 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_835592	Traiteur salé	Filet de poulet rôti halal				Pièce de 110 g, Sachet de 2.5 kg		Carton de 4 sachets						CDP_0333.png
 2024-11-30	Coup de pates			CDP_831542	Traiteur salé	Filet de poulet				Sachet (sous-vide) de 1.25 kg (8 pièces)		Carton de 6 sachets						CDP_0333.png
 2024-11-30	Coup de pates			CDP_831546	Traiteur salé	Filet de poulet rôti				Sachet (sous-vide) de 1 kg		Carton de 6 sachets						CDP_0333.png
+2024-11-30	Coup de pates			CDP_25198	Pâtisserie à portionner	Brownie chocolat plaque prédécoupée				Plaque de 85g	1,4707	Colis de 30 unités	44,12					CDP_0516.png
+2024-11-30	Coup de pates			CDP_25197	Pâtisserie à portionner	Brownie chocolat noix de pécan plaque prédécoupée				Plaque de 85g	1,603	Colis de 30 unités	48,04					CDP_0516.png
+2024-11-30	Coup de pates			CDP_840135	Pâtisserie à portionner	Brownie chocolat caramel et fruits secs plaque prédécoupée				Plaque de 80g	1,4991	Colis de 35 unités	52,47					CDP_0516.png
+2024-11-30	Coup de pates			CDP_833477	Pâtisserie à portionner	Brookie plaque prédécoupée				Plaque de 88g	1,459	Colis de 30 unités	43,77					CDP_0516.png
+2024-11-30	Coup de pates			CDP_70057	Pâtisserie à portionner	Brownie crispy/popcorn plaque prédécoupée				Plaque de 78g	2,0723	Colis de 30 unités	62,17					CDP_0516.png
+2024-11-30	Coup de pates			CDP_840885	Pains	Sac kraft brun pour 1/2 baguette				Colis de 1000 pièces	0,06	Colis de 1000 pièces	56,0					CDP_0455.png
+2024-11-30	Coup de pates			CDP_840886	Pains	Sac kraft brun pour baguette				Colis de 1000 pièces	0,1	Colis de 1000 pièces	95,0					CDP_0455.png
+2024-11-30	Coup de pates			CDP_840463	Pains	Sac kraft brun pour baguette				Colis de 1000 pièces	0,06	Colis de 1000 pièces	64,0					CDP_0455.png
+2024-11-30	Coup de pates			CDP_21012	Pains	Sachet à pain kraft				Colis de 1000 pièces	0,04	Colis de 1000 pièces	40,0					CDP_0455.png
+2024-11-30	Coup de pates			CDP_840092	Traiteur salé	Sachet street food avec ouverture en L				Pièce de 140x140 mm	0,03	Colis de 2000 pièces	50,0					CDP_0455.png
+2024-11-30	Coup de pates			CDP_828764	Traiteur salé	Sac à sandwich grill bag				Pièce de 320x150 mm	0,14	Colis de 600 pièces	81,0					CDP_0455.png
+2024-11-30	Coup de pates			CDP_832668	Pâtisserie à portionner	Sac cabas kraft				Pièce de 260x250 mm	0,16	Colis de 250 pièces	41,0					CDP_0455.png
 2024-11-30	Coup de pates			CDP_70367	Traiteur sucré	Mini navette cuite noire décor sésame				Portion de 12 pièces	0,3176	Colis de 108 unités	34,3					CDP_0158.png
 2024-11-30	Coup de pates			CDP_825765	Pains	Mini pain pita pour kebab Ø 60				Portion de 18g	0,334	Colis de 220 unités	73,48					CDP_0158.png
 2024-11-30	Coup de pates			CDP_70461	Pâtisserie à portionner	Mini pain naan cuit Ø 45				Portion de 10g	0,3112	Colis de 200 unités	62,24					CDP_0158.png
 2024-11-30	Coup de pates			CDP_822893	Pains	Mini bagel sésame Ø 50				Portion de 10g	0,2577	Colis de 264 unités	68,02					CDP_0158.png
 2024-11-30	Coup de pates			CDP_70414	Pâtisserie individuelle	Micro donuts Sélection fourrés assortis				Portion de 22g	0,3527	Colis de 112 unités	39,5					CDP_0126.png
 2024-11-30	Coup de pates			CDP_25052	Pâtisserie à portionner	Assortiment mini cookies Sélection cuit Ø 50				Portion de 14g	0,2837	Colis de 120 unités	34,04					CDP_0126.png
-2024-11-30	Coup de pates			CDP_25051	Pâtisserie à portionner	Mini brownies Sélection				Plaque de 208g	0,396	Colis de 120 unités	47,71					CDP_0126.png
 2024-11-30	Coup de pates			CDP_25415	Pâtisserie à portionner	Mini muffin Sélection assortis				Portion de 17.5g	0,2878	Colis de 96 unités	27,63					CDP_0126.png
 2024-11-30	Coup de pates			CDP_832339	Pâtisserie à portionner	Mini muffin Excellence fourré caramel beurre salé				Portion de 26g	0,6669	Colis de 42 unités	28,01					CDP_0127.png
 2024-11-30	Coup de pates			CDP_832340	Pâtisserie à portionner	Mini muffin Excellence fourré parfum chocolat noisette				Portion de 26g	0,6733	Colis de 42 unités	28,28					CDP_0127.png
@@ -953,6 +1179,7 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_841474	Traiteur salé	Mini croque au comté et à la truffe blanche d'été saveur trufle				Langue de 8 unités, 9.1 g par unité		Vendu par carton de 12 unités	54,4					CDP_0085.png
 2024-11-30	Coup de pates			CDP_26271	Traiteur salé	Mini clubs sandwiches assortis				Plateau de 40 unités, 10.5 g par unité	0,7183	Vendu par carton de 40 unités	28,73					CDP_0085.png
 2024-11-30	Coup de pates			CDP_834624	Traiteur salé	Sandwichs cocktail nordique				Plateau de 24 unités, 20 g par unité	1,2575	Vendu par carton de 24 unités	60,36					CDP_0085.png
+2024-11-30	Coup de pates			CDP_70720	Pâtisserie individuelle	Maxi muffin pistache				Portion de 120g	1,6625	Colis de 28 unités	46,55					CDP_0501.png
 2024-11-30	Coup de pates			CDP_40604	Traiteur salé	Dés de jambon DD standard				Dé de 5x5 mm env.		Carton de 2 kg						CDP_0285.png
 2024-11-30	Coup de pates			CDP_841784	Traiteur salé	Lardons de volaille halal fumés				Lardon de 5x5x25 mm env.		Sachet de 2 kg, Carton de 5 sachets						CDP_0285.png
 2024-11-30	Coup de pates			CDP_821965	Traiteur salé	Lardons nature				Barquette de 1 kg		Carton de 8 barquettes						CDP_0285.png
@@ -979,6 +1206,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_44273	Traiteur salé	Égrené pur bœuf halal 20 % MG				Sachet de 1 kg		Carton de 6 sachets						CDP_0314.png
 2024-11-30	Coup de pates			CDP_40006	Traiteur salé	Steak haché format «baguette» 20 % MG 38 g				Portion de 38g		Carton de 4,5 kg						CDP_0314.png
 2024-11-30	Coup de pates			CDP_832824	Traiteur salé	Égrené de bœuf 15 % MG				Sachet de 1 kg		Carton de 6 sachets						CDP_0314.png
+2024-11-30	Coup de pates			CDP_826157	Viennoiseries	Croissant parfum chocolat bicolore prépoussé 90 g				Portion de 90g	1,113	Colis de 36 unités	40,07					CDP_0436.png
+2024-11-30	Coup de pates			CDP_826161	Viennoiseries	Croissant framboise bicolore prépoussé 90 g				Portion de 90g	1,061	Colis de 36 unités	38,2					CDP_0436.png
+2024-11-30	Coup de pates			CDP_25334	Viennoiseries	Croissant parfum chocolat noisette prépoussé 100 g				Portion de 100g	0,9975	Colis de 32 unités	31,92					CDP_0436.png
+2024-11-30	Coup de pates			CDP_25336	Viennoiseries	Croissant framboise prépoussé 100 g				Portion de 100g	0,9525	Colis de 32 unités	30,48					CDP_0436.png
+2024-11-30	Coup de pates			CDP_70652	Viennoiseries	Croissant abricot 125 g				Portion de 125g	1,046	Colis de 70 unités	73,24					CDP_0436.png
+2024-11-30	Coup de pates			CDP_841739	Viennoiseries	Croissant abricot prépoussé 120 g				Portion de 120g	1,511	Colis de 35 unités	54,29					CDP_0436.png
 2024-11-30	Coup de pates			CDP_832813	Traiteur sucré	Tartare de boeuf aux couteaux				Sachet (sous-vide) de 180 g		Carton de 16 pièces						CDP_0283.png
 2024-11-30	Coup de pates			CDP_832816	Traiteur sucré	Tartare de saumon express assaisonné				Sachet (sous-vide) de 100 g		Carton de 40 pièces						CDP_0283.png
 2024-11-30	Coup de pates			CDP_835145	Traiteur sucré	Tartare de saumon mariné au citron et aneth				Poche de 300 g		Carton de 6 poches						CDP_0283.png
@@ -1016,7 +1249,6 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_42604	Traiteur sucré	Tomatade				Pot de 500 g	0,43	Carton de 6 pots	7,19					CDP_0376.png
 2024-11-30	Coup de pates			CDP_44298	Traiteur sucré	Caviar d'aubergines				Pot de 500 g	0,39	Carton de 6 pots	6,49					CDP_0376.png
 2024-11-30	Coup de pates			CDP_825510	Traiteur sucré	Caviar d'aubergines				Pot de 450 g	0,4	Carton de 6 pots	5,99					CDP_0376.png
-2024-11-30	Coup de pates			CDP_835327	Pains	La Tourte Solène® au sel de Guérande				Portion de 1kg	5,93	Colis de 4 unités	23,72					CDP_0209.png
 2024-11-30	Coup de pates			CDP_835440	Pains	Le gros pain Solène® aux fruits secs				Portion de 800g	5,03	Colis de 7 unités	35,21					CDP_0209.png
 2024-11-30	Coup de pates			CDP_29078	Pains	Pain long du Fournil				Portion de 680g	2,817	Colis de 10 unités	28,17					CDP_0209.png
 2024-11-30	Coup de pates			CDP_22337	Pains	Maxi pain polka Solène®				Portion de 1kg	7,33	Colis de 6 unités	43,98					CDP_0209.png
@@ -1032,10 +1264,8 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_840148	Pâtisserie individuelle	Éclair Sélection café		13,125		Portion de 80g	1,167	Carton de 30 unités	33,5					CDP_0005.png
 2024-11-30	Coup de pates			CDP_840149	Pâtisserie individuelle	Éclair Sélection vanille		13,125		Portion de 80g	1,167	Carton de 30 unités	33,5					CDP_0005.png
 2024-11-30	Coup de pates			CDP_841676	Pâtisserie individuelle	Mini macaron pistache Ø 43				Portion de 18g	0,7836	Vendu par carton de 36 unités	28,21					CDP_0128.png
-2024-11-30	Coup de pates			CDP_70498	Pâtisserie individuelle	Madelinettes assorties				Saché de 160 unités	0,1419	1 sachet par carton	22,7					CDP_0123.png
 2024-11-30	Coup de pates			CDP_27924	Pâtisserie individuelle	Mini cœur coulant sélection chocolat ø 30												CDP_0133.png
 2024-11-30	Coup de pates			CDP_826132	Pâtisserie individuelle	Mini financier Sélection				Portion de 6g	0,2791	Colis de 80 unités	22,33					CDP_0092.png
-2024-11-30	Coup de pates			CDP_25247	Pâtisserie individuelle	Canelé bouchée				Portion de 17g	0,3071	Colis de 150 unités	46,07					CDP_0122.png
 2024-11-30	Coup de pates			CDP_835319	Pains	Baguette Fleur de Solène				Poids 280 g	1,073	Colis de 30 unités	33,22					CDP_0185.png
 2024-11-30	Coup de pates			CDP_18463	Pains	Baguette Solène® à bouts pointus				Poids 280 g	1,094	Colis de 20 unités	21,88					CDP_0185.png
 2024-11-30	Coup de pates			CDP_836789	Pains	Baguette Solène® torsadée				Poids 280 g	1,208	Colis de 30 unités	36,24					CDP_0185.png
@@ -1043,6 +1273,15 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27516	Pâtisserie à portionner	1/2 cadre caramel poire		9,5914		Portion de 50g	0,4105	Colis de 1 unité	41,05					CDP_0047.png
 2024-11-30	Coup de pates			CDP_833540	Pâtisserie à portionner	1/2 cadre opéra chocolat café sérigraphié		9,0217		Portion de 50g	0,5084	Colis de 1 unité	50,84					CDP_0047.png
 2024-11-30	Coup de pates			CDP_833359	Pâtisserie à portionner	1/2 cadre chocolat praliné rocher		29,75		Portion de 50g	0,5955	Colis de 1 unité	59,55					CDP_0047.png
+2024-11-30	Coup de pates			CDP_22074	Pâtisserie individuelle	Donut fourré parfum chocolat				Portion de 74g	0,8339	Colis de 36 unités	30,02					CDP_0512.png
+2024-11-30	Coup de pates			CDP_25774	Pâtisserie individuelle	Donut fourré parfum caramel aromatisé				Portion de 71g	0,786	Colis de 48 unités	37,73					CDP_0512.png
+2024-11-30	Coup de pates			CDP_25772	Pâtisserie individuelle	Donut fourré parfum chocolat noisette				Portion de 72g	0,8542	Colis de 48 unités	41,0					CDP_0512.png
+2024-11-30	Coup de pates			CDP_833482	Pâtisserie individuelle	Donut façon cheesecake				Portion de 68g	0,7735	Colis de 48 unités	37,13					CDP_0512.png
+2024-11-30	Coup de pates			CDP_25007	Pâtisserie individuelle	Donut fourré crème				Portion de 73g	0,6411	Colis de 36 unités	23,08					CDP_0512.png
+2024-11-30	Coup de pates			CDP_25130	Viennoiseries	Chausson pomme 100 g				Portion de 100g	0,783	Colis de 54 unités	42,28					CDP_0439.png
+2024-11-30	Coup de pates			CDP_25132	Viennoiseries	Chausson pomme framboise 100 g				Portion de 100g	0,8044	Colis de 54 unités	45,38					CDP_0439.png
+2024-11-30	Coup de pates			CDP_25417	Viennoiseries	Chausson pomme d'Hubert 120 g				Portion de 120g	0,5945	Colis de 40 unités	23,78					CDP_0439.png
+2024-11-30	Coup de pates			CDP_25275	Viennoiseries	Mini chausson pomme beurre fin 40 g				Portion de 40g	0,3974	Colis de 150 unités	59,61					CDP_0439.png
 2024-11-30	Coup de pates			CDP_27160	Pâtisserie à portionner	Pâté feuilleté (4 tours)		36,45		Portion de 500g	3,642	Colis de 4 unités	72,9					CDP_0141.png
 2024-11-30	Coup de pates			CDP_27869	Pâtisserie à portionner	Plaque feuilletée beurre d'Isigny AOP 3,5 mm				Portion de 900g	8,8417	Colis de 12 unités	106,1					CDP_0141.png
 2024-11-30	Coup de pates			CDP_825588	Pâtisserie à portionner	Plaque feuilletée beurre Charentes-Poitou AOP 3,5 mm				Portion de 900g	9,9332	Colis de 12 unités	151,12					CDP_0141.png
@@ -1051,6 +1290,9 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_826115	Pâtisserie à portionner	Plaque feuilletée beurre non piquée 2,8 mm num2				Portion de 400g	5,99	Colis de 20 unités	119,8					CDP_0141.png
 2024-11-30	Coup de pates			CDP_27215	Pâtisserie à portionner	Plaque feuilletée beurre piquée 3 mm				Portion de 900g	7,873	Colis de 16 unités	126,0					CDP_0141.png
 2024-11-30	Coup de pates			CDP_27870	Pâtisserie à portionner	Plaque feuilletée Sélection margarine 2,5 mm				Portion de 625g	4,9363	Colis de 24 unités	105,51					CDP_0141.png
+2024-11-30	Coup de pates			CDP_70724	Pâtisserie individuelle	Maxi muffin chocolat fourré cacao noisette				Portion de 130g	1,6964	Colis de 28 unités	47,5					CDP_0503.png
+2024-11-30	Coup de pates			CDP_70721	Pâtisserie individuelle	Maxi muffin chocolat intense				Portion de 130g	1,6975	Colis de 28 unités	47,53					CDP_0503.png
+2024-11-30	Coup de pates			CDP_838226	Pâtisserie individuelle	Maxi muffin tulipe fourré cacao noisettes				Portion de 120g	1,6729	Colis de 14 unités	23,42					CDP_0503.png
 2024-11-30	Coup de pates			CDP_826095	Pains	Bâtard au maïs				Portion de 350g	2,3839	Colis de 18 unités	42,91					CDP_0202.png
 2024-11-30	Coup de pates			CDP_29051	Pains	Boule bio				Portion de 500g	2,3682	Colis de 11 unités	26,05					CDP_0202.png
 2024-11-30	Coup de pates			CDP_29049	Pains	Bâtard aux céréales bio				Portion de 350g	2,1667	Colis de 15 unités	32,5					CDP_0202.png
@@ -1072,6 +1314,14 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_19703	Traiteur sucré	Chutes de jambon DD				Pièce de 1 kg env.		Carton de 9 pièces						CDP_0284.png
 2024-11-30	Coup de pates			CDP_19383	Traiteur sucré	Jambon de dinde halal				Pièce de 3,630 kg		Carton de 2 pièces						CDP_0284.png
 2024-11-30	Coup de pates			CDP_19404	Traiteur sucré	Jambon de dinde tranché halal				Barquette de 500 g (20 tranches)		Carton de 10 barquettes						CDP_0284.png
+2024-11-30	Coup de pates			CDP_837774	Glaces	Café				Bac de 2,5 L - Carton de 4 bacs	13,25	null						CDP_0446.png
+2024-11-30	Coup de pates			CDP_837776	Glaces	Chocolat				Bac de 2,5 L - Carton de 4 bacs	13,25	null						CDP_0446.png
+2024-11-30	Coup de pates			CDP_837781	Glaces	Pistache				Bac de 2,5 L - Carton de 4 bacs	13,25	null						CDP_0446.png
+2024-11-30	Coup de pates			CDP_837786	Glaces	Vanille grand arôme				Bac de 5 L - Carton de 2 bacs	26,25	null						CDP_0446.png
+2024-11-30	Coup de pates			CDP_837533	Glaces	Café				Bac de 5 L - Carton de 2 bacs	19,75	null						CDP_0446.png
+2024-11-30	Coup de pates			CDP_837534	Glaces	Chocolat				Bac de 5 L - Carton de 2 bacs	19,75	null						CDP_0446.png
+2024-11-30	Coup de pates			CDP_837535	Glaces	Fraise				Bac de 5 L - Carton de 2 bacs	19,75	null						CDP_0446.png
+2024-11-30	Coup de pates			CDP_837538	Glaces	Vanille				Bac de 5 L - Carton de 2 bacs	19,75	null						CDP_0446.png
 2024-11-30	Coup de pates			CDP_12372	Glaces	Coulis de fruits rouges				Portion de 20 cl	0,32	Carton de 12 bouteilles	5,85					CDP_0416.png
 2024-11-30	Coup de pates			CDP_12332	Glaces	Coulis de mangues et passion				Portion de 20 cl	0,27	Carton de 12 bouteilles	6,85					CDP_0416.png
 2024-11-30	Coup de pates			CDP_12333	Glaces	Coulis de framboises				Portion de 20 cl	0,26	Carton de 12 bouteilles	6,55					CDP_0416.png
@@ -1085,6 +1335,9 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_22022	Traiteur sucré	Cœur de focaccia au saumon fumé				Portion de 13.9g	0,9857	Colis de 49 unités	48,3					CDP_0070.png
 2024-11-30	Coup de pates			CDP_26279	Traiteur sucré	Canapés saumon fumé				Portion de 12.5g	1,1713	Colis de 48 unités	56,22					CDP_0070.png
 2024-11-30	Coup de pates			CDP_26278	Traiteur sucré	Canapés noix de jambon salée séchée				Portion de 12.5g	1,0923	Colis de 48 unités	52,43					CDP_0070.png
+2024-11-30	Coup de pates			CDP_835393	Pâtisserie individuelle	Mini cookies kids salsas assorties						Colis de 24 unités	252					CDP_0452.png
+2024-11-30	Coup de pates			CDP_834175	Pâtisserie individuelle	Mini cookies noisettes & amandes assorties						Colis de 24 unités	244					CDP_0452.png
+2024-11-30	Coup de pates			CDP_274701	Pâtisserie individuelle	Mini macarons à sésame doux							209					CDP_0452.png
 2024-11-30	Coup de pates			CDP_27467	Pâtisserie individuelle	Charlotte au chocolat 80 g		3,04125		Portion de 80g	2,0342	Colis de 12 unités	24,41					CDP_0016.png
 2024-11-30	Coup de pates			CDP_27460	Pâtisserie individuelle	Charlotte poire 80 g		4,25833		Portion de 120g	2,175	Colis de 12 unités	26,1					CDP_0016.png
 2024-11-30	Coup de pates			CDP_27463	Pâtisserie individuelle	Charlotte aux fruits rouges 80 g		4,65455		Portion de 110g	2,05242	Colis de 12 unités	24,65					CDP_0016.png
@@ -1100,6 +1353,10 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_26370	Traiteur salé	Baguette garnie façon franc comtoise				Portion de 170g	2,06	Carton de 18 pièces	37,0					CDP_0263.png
 2024-11-30	Coup de pates			CDP_823594	Traiteur salé	Baguette garnie hot-dog				Portion de 200g	2,34	Carton de 18 pièces	42,18					CDP_0263.png
 2024-11-30	Coup de pates			CDP_26013	Traiteur salé	Baguette garnie kebab				Portion de 170g	1,97	Carton de 18 pièces	35,45					CDP_0263.png
+2024-11-30	Coup de pates			CDP_18430	Pâtisserie individuelle	Muffin chocolat extrême				Portion de 110g	1,5595	Colis de 20 unités	31,19					CDP_0505.png
+2024-11-30	Coup de pates			CDP_22037	Pâtisserie individuelle	Muffin fourré myrtille				Portion de 110g	1,2335	Colis de 20 unités	24,67					CDP_0505.png
+2024-11-30	Coup de pates			CDP_22088	Pâtisserie individuelle	Muffin parfum chocolat noisette				Portion de 93g	1,3605	Colis de 20 unités	27,21					CDP_0505.png
+2024-11-30	Coup de pates			CDP_22072	Pâtisserie individuelle	Muffin caramel noix de pécan				Portion de 110g	1,4085	Colis de 20 unités	28,17					CDP_0505.png
 2024-11-30	Coup de pates			CDP_25096	Viennoiseries	Croissant Les Secrets du Fournil® 70 g				Portion de 70g	0,5838	Colis de 160 unités	93,41					CDP_0324.png
 2024-11-30	Coup de pates			CDP_25228	Viennoiseries	Croissant Les Secrets du Fournil® 80 g				Portion de 80g	0,6167	Colis de 135 unités	83,33					CDP_0324.png
 2024-11-30	Coup de pates			CDP_22071	Viennoiseries	Croissant courbé Les Secrets du Fournil® 70 g				Portion de 70g	0,6069	Colis de 95 unités	100,49					CDP_0324.png
@@ -1109,9 +1366,9 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_840806	Viennoiseries	Mini croissant prépoussé Les Secrets du Fournil® 30 g				Portion de 30g	0,309	Colis de 195 unités	60,26					CDP_0324.png
 2024-11-30	Coup de pates			CDP_840807	Viennoiseries	Mini pain au chocolat 2 barres prépoussé Les Secrets du Fournil® 35 g				Portion de 35g	0,3591	Colis de 210 unités	75,42					CDP_0324.png
 2024-11-30	Coup de pates			CDP_838179	Pâtisserie à portionner	Tarte pomme cuite nappée Ø 230		69,1538		Portion de 72g	5,054	Colis de 10 unités	50,54					CDP_0036.png
-2024-11-30	Coup de pates			CDP_70160	Pâtisserie à portionner	Tarte pomme cuite façon normande Ø 230		56,4444		Portion de 72g	4,224	Colis de 5 unités	30,4					CDP_0036.png
-2024-11-30	Coup de pates			CDP_27294	Pâtisserie à portionner	Tarte rustique pomme crumble Ø 270		46,7607		Portion de 283g	8,823	Colis de 6 unités	79,37					CDP_0036.png
-2024-11-30	Coup de pates			CDP_27244	Pâtisserie à portionner	Tarte tatin Ø 200		62,0471		Portion de 142g	8,901	Colis de 6 unités	53,46					CDP_0036.png
+2024-11-30	Coup de pates			CDP_70166	Pâtisserie à portionner	Tarte pomme cuite façon normande Ø 230		56,4444		Portion de 72g	6,08	Colis de 5 unités	30,4					CDP_0036.png
+2024-11-30	Coup de pates			CDP_27249	Pâtisserie à portionner	Tarte rustique pomme crumble Ø 270		46,7607		Portion de 283g	13,2283	Colis de 6 unités	79,37					CDP_0036.png
+2024-11-30	Coup de pates			CDP_27244	Pâtisserie à portionner	Tarte tatin Ø 200		62,0471		Portion de 142g	8,91	Colis de 6 unités	53,46					CDP_0036.png
 2024-11-30	Coup de pates			CDP_822884	Pâtisserie à portionner	Tarte tatin sur sablé breton Ø 220		73,4176		Portion de 130g	14,665	Colis de 4 unités	58,66					CDP_0036.png
 2024-11-30	Coup de pates			CDP_832584	Pâtisserie individuelle	Éclair façon Paris Brest		35,91		Portion de 100g	2,56	Colis de 14 unités	35,91					CDP_0008.png
 2024-11-30	Coup de pates			CDP_70435	Pâtisserie individuelle	Éclair citron praliné		30,47		Portion de 100g	2,53	Colis de 12 pièces	30,47					CDP_0008.png
@@ -1161,6 +1418,10 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27588	Pâtisserie individuelle	Gros macaron vanille Ø 75				Barquette de 6 pièces, 4 barquettes par carton	1,592	Colis de 24 unités	38,26					CDP_0019.png
 2024-11-30	Coup de pates			CDP_22219	Pains	La boulanguette précuite 280 g				Portion de 280g	1,0197	Colis de 30 unités	30,59					CDP_0189.png
 2024-11-30	Coup de pates			CDP_834604	Pains	La Florentine				Portion de 280g	1,113	Colis de 30 unités	33,4					CDP_0189.png
+2024-11-30	Coup de pates			CDP_25411	Viennoiseries	Maxi brioche tressée cuite				Portion de 2500g	37,07	Colis de 1 unité	37,07					CDP_0483.png
+2024-11-30	Coup de pates			CDP_841442	Viennoiseries	Brioche multigrains				Portion de 350g	5,1967	Colis de 6 unités	31,18					CDP_0483.png
+2024-11-30	Coup de pates			CDP_833155	Pâtisserie à portionner	Brioche Nanterre aux pralines				Portion de 400g	6,0638	Colis de 8 unités	48,51					CDP_0483.png
+2024-11-30	Coup de pates			CDP_70427	Viennoiseries	Brioche cacao et pépites de chocolat cuite				Portion de 600g	8,1433	Colis de 6 unités	48,86					CDP_0483.png
 2024-11-30	Coup de pates			CDP_832873	Traiteur salé	Haricots verts extra-fins - Minute		2,236		Sachet de 2.5 kg	0,84	Carton de 4 sachets	5,59					CDP_0345.png
 2024-11-30	Coup de pates			CDP_841484	Traiteur salé	Carottes en rondelles - Minute		1,22		Sachet de 2.5 kg	0,46	Carton de 6 sachets	3,05					CDP_0345.png
 2024-11-30	Coup de pates			CDP_820934	Traiteur salé	Mélange de légumes - Minute		1,33		Sachet de 2.5 kg	0,48	Carton de 6 sachets	3,19					CDP_0345.png
@@ -1185,6 +1446,19 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27286	Pâtisserie individuelle	Framboisier individuel		6,5843		Portion de 70g	1,5297	Colis de 30 unités	45,89					CDP_0028.png
 2024-11-30	Coup de pates			CDP_27778	Pâtisserie individuelle	Bavarois individuel Sélection fruits rouges ø 70		4,3513		Portion de 80g	2,1756	Colis de 16 unités	34,81					CDP_0028.png
 2024-11-30	Coup de pates			CDP_27639	Pâtisserie individuelle	Bavarois individuel Sélection vanille caramel ø 70		4,4678		Portion de 87g	2,405	Colis de 16 unités	38,48					CDP_0028.png
+2024-11-30	Coup de pates			CDP_25314	Viennoiseries	Suisse aux pépites de chocolat				Portion de 120g	0,7346	Colis de 90 unités	66,11					CDP_0432.png
+2024-11-30	Coup de pates			CDP_25287	Viennoiseries	Suisse aux pépites de chocolat prépoussé				Portion de 110g	1,038	Colis de 60 unités	62,28					CDP_0432.png
+2024-11-30	Coup de pates			CDP_826177	Viennoiseries	Tresse noix de pécan				Portion de 95g	1,038	Colis de 48 unités	49,84					CDP_0432.png
+2024-11-30	Coup de pates			CDP_828905	Viennoiseries	Mini tresse noix de pécan				Sachet de 42g	0,4448	Colis de 120 unités	53,37					CDP_0432.png
+2024-11-30	Coup de pates			CDP_25273	Viennoiseries	Bretzel fourré crème pâtissière décor sucre amandes				Portion de 149g	1,3888	Colis de 32 unités	44,44					CDP_0432.png
+2024-11-30	Coup de pates			CDP_840123	Viennoiseries	Bretzel fourré crème chocolat				Portion de 120g	1,3338	Colis de 32 unités	42,68					CDP_0432.png
+2024-11-30	Coup de pates			CDP_25083	Pâtisserie à portionner	Gaufre bruxelloise				Portion de 80g	0,8744	Colis de 50 unités	43,72					CDP_0478.png
+2024-11-30	Coup de pates			CDP_833822	Pâtisserie à portionner	Gaufre bruxelloise				Portion de 80g	0,8638	Colis de 24 unités	20,73					CDP_0478.png
+2024-11-30	Coup de pates			CDP_70048	Pâtisserie à portionner	Gaufre bruxelloise 45 g				Portion de 45g	0,4304	Colis de 48 unités	20,66					CDP_0478.png
+2024-11-30	Coup de pates			CDP_25284	Pâtisserie à portionner	Mini gaufre au sucre perlé				Portion de 12g	0,3377	Colis de 120 unités	40,52					CDP_0478.png
+2024-11-30	Coup de pates			CDP_25999	Pâtisserie à portionner	Gaufre liégeoise				Portion de 100g	0,8467	Colis de 27 unités	22,86					CDP_0478.png
+2024-11-30	Coup de pates			CDP_853874		Charlotte noix de coco 80 g												CDP_0458.png
+2024-11-30	Coup de pates			CDP_27462	Pâtisserie à portionner	Charlotte fruits rouges Ø 180		53,56		Portion de 750g	13,39	Colis de 3 unités	40,17					CDP_0042.png
 2024-11-30	Coup de pates			CDP_835110	Traiteur salé	Frites 10/10 avec peau		2,49		Sachet de 2.5 kg	0,5	Carton de 4 sachets						CDP_0365.png
 2024-11-30	Coup de pates			CDP_832902	Traiteur salé	Frites Xtra+ - Coupe 10/10 Bi-température		2,29		Sachet de 2.5 kg	0,46	Carton de 4 sachets						CDP_0365.png
 2024-11-30	Coup de pates			CDP_832904	Traiteur salé	Frites Xtra+ - Coupe 7/7 Bi-température		2,29		Sachet de 2.5 kg	0,46	Carton de 4 sachets						CDP_0365.png
@@ -1205,11 +1479,21 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_841724	Pâtisserie individuelle	Tartelettes aux pommes Ø 100		24,008		Portion de 125g	2,0007	Colis de 15 unités	30,01					CDP_0015.png
 2024-11-30	Coup de pates			CDP_841726	Pâtisserie individuelle	Tartelettes aux framboises Ø 100		27,8015		Portion de 135g	2,504	Colis de 15 unités	37,56					CDP_0015.png
 2024-11-30	Coup de pates			CDP_835434	Pâtisserie individuelle	Tartelettes noix de pecan Ø 100		44,0		Portion de 110g	2,6911	Colis de 18 unités	48,44					CDP_0015.png
+2024-11-30	Coup de pates			CDP_25235	Pâtisserie individuelle	Mini beignet sucré				Portion de 19g	0,232	Vendu par carton de 105 unités	23,24					CDP_0494.png
+2024-11-30	Coup de pates			CDP_25239	Pâtisserie individuelle	Mini beignet sucré parfum caramel				Portion de 27g	0,4103	Vendu par carton de 105 unités	43,08					CDP_0494.png
+2024-11-30	Coup de pates			CDP_25236	Pâtisserie individuelle	Mini beignet sucré saveur pomme				Portion de 27g	0,4054	Vendu par carton de 105 unités	42,57					CDP_0494.png
+2024-11-30	Coup de pates			CDP_25241	Pâtisserie individuelle	Mini beignet sucré fourré chocolat noisette				Portion de 27g	0,414	Vendu par carton de 105 unités	43,47					CDP_0494.png
+2024-11-30	Coup de pates			CDP_22274	Pâtisserie individuelle	Mini beignet sucré abricot				Portion de 27g	0,3696	Vendu par carton de 105 unités	33,83					CDP_0494.png
+2024-11-30	Coup de pates			CDP_25237	Pâtisserie individuelle	Mini beignet sucré fraise				Portion de 27g	0,4086	Vendu par carton de 105 unités	42,9					CDP_0494.png
 2024-11-30	Coup de pates			CDP_841654	Pâtisserie individuelle	Mini fond sucré rectangle cuit				Portion de 10g	0,3275	Vendu par carton de 144 unités	47,16					CDP_0151.png
 2024-11-30	Coup de pates			CDP_841653	Pâtisserie individuelle	Mini fond cacao rectangle cuit				Portion de 10g	0,3275	Vendu par carton de 144 unités	47,16					CDP_0151.png
 2024-11-30	Coup de pates			CDP_70276	Pâtisserie individuelle	Mini fond sablé breton cuit Ø 50				Portion de 12g	0,4654	Vendu par carton de 120 unités	55,85					CDP_0151.png
 2024-11-30	Coup de pates			CDP_828938	Pâtisserie à portionner	Mini fond sucré cuit Ø 38				Portion de 9g	0,2725	Vendu par carton de 192 unités	52,83					CDP_0151.png
 2024-11-30	Coup de pates			CDP_835431	Pâtisserie à portionner	Mini fond parfum chocolat cuit Ø 38				Portion de 9g	0,2878	Vendu par carton de 192 unités	55,25					CDP_0151.png
+2024-11-30	Coup de pates			CDP_833287	Pâtisserie individuelle	Maxi cookie bicolore cuit ø 110				Portion de 80g	1,3271	Colis de 48 unités	63,7					CDP_0510.png
+2024-11-30	Coup de pates			CDP_25066	Pâtisserie individuelle	Cookie saveur chocolat cuit ø 83				Portion de 45g	0,8315	Colis de 60 unités	49,89					CDP_0510.png
+2024-11-30	Coup de pates			CDP_25065	Pâtisserie individuelle	Cookie pépites de chocolat cuit ø 83				Portion de 45g	0,8205	Colis de 60 unités	49,23					CDP_0510.png
+2024-11-30	Coup de pates			CDP_70428	Pâtisserie à portionner	Cookie barre avoine-cranberry plaque prédécoupée				Plaque de 55g	0,9146	Colis de 50 unités	45,73					CDP_0510.png
 2024-11-30	Coup de pates			CDP_70086	Pâtisserie individuelle	Dôme citron pistache		44,4375		Portion de 80g	2,9625	Vendu par carton de 12 unités	35,55					CDP_0025.png
 2024-11-30	Coup de pates			CDP_840158	Pâtisserie individuelle	Dôme impératrice		40,207		Portion de 72g	2,485	Vendu par carton de 12 unités	29,82					CDP_0025.png
 2024-11-30	Coup de pates			CDP_840160	Pâtisserie individuelle	Dôme rubis		40,3544		Portion de 90g	3,0267	Vendu par carton de 12 unités	36,32					CDP_0025.png
@@ -1249,6 +1533,8 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_831597	Traiteur salé	Dos de colin lieu sauvage (sans peau, sans arête)				Pièce de 140/160 g		Carton de 5 kg (31 à 35 pièces)						CDP_0301.png
 2024-11-30	Coup de pates			CDP_70589	Traiteur salé	Dos de colin Listao sauvage (sans peau, sans arête)				Pièce de 120-140 g		Carton de 3 kg (21 à 25 pièces)						CDP_0301.png
 2024-11-30	Coup de pates			CDP_841773	Traiteur salé	Portion de filet d'églefin sauvage (sans peau, sans arête)				Pièce de 140/160 g		Carton de 5 kg (31 à 36 pièces)						CDP_0301.png
+2024-11-30	Coup de pates			CDP_70320	Pâtisserie individuelle	Brownie cream’n’choc plaque prédécoupée				Portion de 90g	1,839	Colis de 30 unités	55,17					CDP_0508.png
+2024-11-30	Coup de pates			CDP_70420	Pâtisserie individuelle	Brownie crémeux noisette plaque prédécoupée				Portion de 75g	1,5811	Colis de 35 unités	53,34					CDP_0508.png
 2024-11-30	Coup de pates			CDP_838166	Pains	Le rustique Solène®				Colis de 350g		Colis de 18 unités	28,65					CDP_0207.png
 2024-11-30	Coup de pates			CDP_22221	Pains	Pain Solène® multigraines				Colis de 450g	2,3857	Colis de 28 unités	66,8					CDP_0207.png
 2024-11-30	Coup de pates			CDP_70263	Pains	Le caractère Solène®				Colis de 510g	2,9367	Colis de 9 unités	26,43					CDP_0207.png
@@ -1264,9 +1550,22 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_822892	Traiteur salé	Le bol d'Hubert				Poids 125g	1,542	Colis de 44 unités	67,99					CDP_0168.png
 2024-11-30	Coup de pates			CDP_836780	Pâtisserie à portionner	Crêpe au blé noir ø 310				Pile de 70g	0,7065	Colis de 40 unités	28,26					CDP_0168.png
 2024-11-30	Coup de pates			CDP_835427	Pâtisserie à portionner	Galette de sarrasin ø 340				Poids 80g	0,797	Colis de 40 unités	31,88					CDP_0168.png
+2024-11-30	Coup de pates			CDP_27378	Pâtisserie à portionner	Tarte citron meringuée à 240 g				Portion de 240g		Colis de 6 unités						CDP_0463.png
+2024-11-30	Coup de pates			CDP_70703	Pâtisserie à portionner	Tartelette pomme crumble 220 g				Portion de 220g		Colis de 12 unités						CDP_0463.png
+2024-11-30	Coup de pates			CDP_84072	Pâtisserie individuelle	Tarte millefeuille 230 g				Portion de 230g		Colis de 12 unités						CDP_0463.png
+2024-11-30	Coup de pates			CDP_25358	Pâtisserie individuelle	Mini donut parfum chocolat				Portion de 30g	0,2629	Colis de 80 unités	21,51					CDP_0515.png
+2024-11-30	Coup de pates			CDP_25689	Pâtisserie individuelle	Mini donut				Portion de 28g	0,2389	Colis de 80 unités	19,11					CDP_0515.png
+2024-11-30	Coup de pates			CDP_22013	Pâtisserie à portionner	Mini donut Sélection fourrés assortis				Portion de 30g	0,5381	Colis de 72 unités	38,74					CDP_0515.png
+2024-11-30	Coup de pates			CDP_25295	Pâtisserie à portionner	Mini donuts assortis				Portion de 30g	0,4126	Colis de 72 unités	29,71					CDP_0515.png
 2024-11-30	Coup de pates			CDP_27511	Pâtisserie à portionner	1/2 cadre framboisier				Portion de 51.63€	51,63	Colis de 1 unité	51,63					CDP_0043.png
 2024-11-30	Coup de pates			CDP_833376	Pâtisserie à portionner	1/2 cadre macaron framboise noix de coco				Portion de 64.59€	64,59	Colis de 1 unité	64,59					CDP_0043.png
 2024-11-30	Coup de pates			CDP_27513	Pâtisserie à portionner	1/2 cadre mangue passion				Portion de 42.30€	42,3	Colis de 1 unité	42,3					CDP_0043.png
+2024-11-30	Coup de pates			CDP_25177	Pâtisserie individuelle	Donut				Portion de 70g	0,6088	Colis de 48 unités	29,22					CDP_0514.png
+2024-11-30	Coup de pates			CDP_840831	Pâtisserie individuelle	Donut sucré				Portion de 48g	0,4248	Colis de 48 unités	20,39					CDP_0514.png
+2024-11-30	Coup de pates			CDP_841697	Pâtisserie individuelle	Donut nature				Portion de 45g	0,3628	Colis de 72 unités	26,12					CDP_0514.png
+2024-11-30	Coup de pates			CDP_25180	Pâtisserie individuelle	Donut chocolat				Portion de 55g	0,7128	Colis de 60 unités	42,77					CDP_0514.png
+2024-11-30	Coup de pates			CDP_25342	Pâtisserie individuelle	Donut fiesta				Portion de 60g	0,7456	Colis de 36 unités	26,84					CDP_0514.png
+2024-11-30	Coup de pates			CDP_25347	Pâtisserie individuelle	Donut parfum fraise				Portion de 60g	0,7625	Colis de 36 unités	27,45					CDP_0514.png
 2024-11-30	Coup de pates			CDP_833270	Traiteur sucré	Falafel				Produit de 16 g env. Sachet de 2,5 kg		Carton de 2 sachets						CDP_0275.png
 2024-11-30	Coup de pates			CDP_70679	Traiteur salé	Les tacos d'Hubert® : bœuf sauce burger				Pièce de 210 g	2,95	Carton de 20 pièces	58,98					CDP_0244.png
 2024-11-30	Coup de pates			CDP_70680	Traiteur salé	Les tacos d'Hubert® : poulet sauce tikka				Pièce de 210 g	2,95	Carton de 20 pièces	58,98					CDP_0244.png
@@ -1317,6 +1616,11 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27440	Pâtisserie individuelle	Baba crème fouettée vanille ø 65				Portion de 160g	1,7902	Colis de 12 unités	20,51					CDP_0030.png
 2024-11-30	Coup de pates			CDP_22110	Pâtisserie individuelle	Cochon en pâte d’amande				Portion de 110g	3,4956	Colis de 9 unités	31,46					CDP_0030.png
 2024-11-30	Coup de pates			CDP_27389	Pâtisserie individuelle	Figue en pâte d’amande				Portion de 120g	3,2056	Colis de 9 unités	28,85					CDP_0030.png
+2024-11-30	Coup de pates			CDP_25326	Viennoiseries	Jalousie pomme				Portion de 110g	0,6885	Colis de 46 unités	31,67					CDP_0477.png
+2024-11-30	Coup de pates			CDP_840816	Viennoiseries	Jalousie framboise				Portion de 110g	0,723	Colis de 80 unités	57,86					CDP_0477.png
+2024-11-30	Coup de pates			CDP_70456	Pâtisserie individuelle	Micro jalousie Sélection prépoussée cacao				Portion de 15g	0,173	Colis de 220 unités	38,05					CDP_0477.png
+2024-11-30	Coup de pates			CDP_70457	Pâtisserie individuelle	Micro jalousie Sélection prépoussée crème pâtissière				Portion de 15g	0,1677	Colis de 220 unités	36,89					CDP_0477.png
+2024-11-30	Coup de pates			CDP_70458	Pâtisserie individuelle	Micro jalousie Sélection prépoussée fraise				Portion de 15g	0,18	Colis de 220 unités	39,6					CDP_0477.png
 2024-11-30	Coup de pates			CDP_837855	Traiteur sucré	Œuf frais daté calibre M 53-63				Carton de 360 œufs.		Carton de 360 œufs.						CDP_0406.png
 2024-11-30	Coup de pates			CDP_837856	Traiteur sucré	Œuf frais daté calibre L 63-73				Carton de 360 œufs.		Carton de 360 œufs.						CDP_0406.png
 2024-11-30	Coup de pates			CDP_837859	Traiteur sucré	Œuf frais daté calibre L 63-73				Carton de 180 œufs.		Carton de 180 œufs.						CDP_0406.png
@@ -1389,6 +1693,11 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_19568	Traiteur sucré	Mme Loik ail et fines herbes 24 % MG		6,89		Pot de 600 g	0,41	Carton de 4 pots						CDP_0399.png
 2024-11-30	Coup de pates			CDP_70661	Pains	1/2 baguette Solène® noire				Colis de 50 unités	0,6906	Colis de 50 unités	34,53					CDP_0179.png
 2024-11-30	Coup de pates			CDP_70658	Pains	Baguette biseautée Sélection multicéréales précuite 275 g				Portion de 275g	0,8078	Colis de 32 unités	25,85					CDP_0179.png
+2024-11-30	Coup de pates			CDP_70723	Pâtisserie individuelle	Maxi muffin citron				Portion de 130g	1,7	Colis de 28 unités	47,61					CDP_0504.png
+2024-11-30	Coup de pates			CDP_70722	Pâtisserie individuelle	Maxi muffin aux myrtilles				Portion de 130g	1,7	Colis de 28 unités	47,61					CDP_0504.png
+2024-11-30	Coup de pates			CDP_841741	Pâtisserie individuelle	Maxi muffin fruits rouges				Portion de 130g	1,444	Colis de 24 unités	34,66					CDP_0504.png
+2024-11-30	Coup de pates			CDP_841692	Pâtisserie individuelle	Maxi muffin banoffee				Portion de 130g	1,694	Colis de 24 unités	40,66					CDP_0504.png
+2024-11-30	Coup de pates			CDP_841470	Pâtisserie individuelle	Maxi muffin façon carrot cake				Portion de 130g	1,77	Colis de 24 unités	42,48					CDP_0504.png
 2024-11-30	Coup de pates			CDP_840857	Traiteur salé	Les croq’ronds d'Hubert : le montagnard				Portion de 225g	3,23	Carton de 18 pièces	58,15					CDP_0252.png
 2024-11-30	Coup de pates			CDP_70045	Traiteur salé	Hot-dog volailles				Portion de 130g	2,29	Carton de 12 pièces	27,46					CDP_0252.png
 2024-11-30	Coup de pates			CDP_840858	Traiteur salé	Les croq’ronds d'Hubert : façon burger cheddar				Portion de 225g	3,63	Carton de 18 pièces	65,28					CDP_0252.png
@@ -1403,6 +1712,13 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_26074	Traiteur salé	Plaque de pâte à pizza 585 x 390 mm				Portion de 250g	5,832	Colis de 10 unités	58,32					CDP_0175.png
 2024-11-30	Coup de pates			CDP_26389	Traiteur salé	Plaque de pâte à pizza 570 x 370 mm				Portion de 110g	5,82	Colis de 10 unités	58,25					CDP_0175.png
 2024-11-30	Coup de pates			CDP_26075	Traiteur salé	Plaque de pâte à pizza prépoussée				Portion de 1015g	1,2	Colis de 5 unités	25,6					CDP_0175.png
+2024-11-30	Coup de pates			CDP_833160	Pâtisserie individuelle	Mini tartelette citron meringuée 3				Portion de 80g		Colis de 16 unités	196					CDP_0461.png
+2024-11-30	Coup de pates			CDP_873642	Pâtisserie à portionner	Mini tartelette framboise				Portion de 80g		Colis de 16 unités	197					CDP_0461.png
+2024-11-30	Coup de pates			CDP_873634	Pâtisserie à portionner	Mini tartelette pomme				Portion de 80g		Colis de 16 unités	196					CDP_0461.png
+2024-11-30	Coup de pates			CDP_226136	Pâtisserie à portionner	Mini tartelette framboise				Portion de 80g		Colis de 16 unités	197					CDP_0461.png
+2024-11-30	Coup de pates			CDP_862135	Pâtisserie individuelle	Mini tartelette poire				Portion de 80g		Colis de 16 unités	196					CDP_0461.png
+2024-11-30	Coup de pates			CDP_252646	Pâtisserie à portionner	Mini tartelette pistache				Portion de 80g		Colis de 16 unités	197					CDP_0461.png
+2024-11-30	Coup de pates			CDP_881375	Glaces	Glace vanille aromatisée				Portion de 100g		Colis de 12 unités	65					CDP_0461.png
 2024-11-30	Coup de pates			CDP_70474	Traiteur sucré	Tapena olives Kalamata				Pot de 500g, Carton de 6 pots	0,58	Carton de 6 pots	77,75					CDP_0375.png
 2024-11-30	Coup de pates			CDP_42660	Traiteur sucré	Tapena olives et tomates				Pot de 500g, Carton de 6 pots	0,42	Carton de 6 pots	6,95					CDP_0375.png
 2024-11-30	Coup de pates			CDP_12626	Traiteur sucré	Tapenade aux olives noires				Barquette de 1kg, Carton de 4 barquettes	0,4	Carton de 4 barquettes	13,29					CDP_0375.png
@@ -1443,9 +1759,10 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27242	Pâtisserie individuelle	Millefeuille pâtissier sans alcool				Portion de 140g	2,02	Colis de 12 unités	32,32					CDP_0017.png
 2024-11-30	Coup de pates			CDP_826098	Pâtisserie individuelle	Millefeuille renversé caramel beurre salé				Portion de 100g	3,1333	Colis de 12 unités	37,6					CDP_0017.png
 2024-11-30	Coup de pates			CDP_22430	Pâtisserie individuelle	Mini pastel de nata Ø 55				Portion de 35.5g	0,4304	Colis de 120 unités	51,65					CDP_0092.png
-2024-11-30	Coup de pates			CDP_25263	Pâtisserie individuelle	Mini rocher coco Sélection				Portion de 10g	0,1919	Colis de 200 unités	38,38					CDP_0092.png
 2024-11-30	Coup de pates			CDP_27366	Pâtisserie individuelle	Mini crème à brûler				Portion de 22g	1,5993	Colis de 30 unités	47,98					CDP_0092.png
 2024-11-30	Coup de pates			CDP_833351	Pâtisserie individuelle	Mini clafoutis cerise				Portion de 20g	0,6355	Colis de 40 unités	25,42					CDP_0092.png
+2024-11-30	Coup de pates			CDP_840882	Viennoiseries	Sacherie d'Hubert® pour croissant (1-2 pièces)				Portion de 50g	0,02	Carton de 1000 pièces	20,0					CDP_0456.png
+2024-11-30	Coup de pates			CDP_840884	Viennoiseries	Sacherie d'Hubert® pour croissant (6-8 pièces)				Portion de 70g	0,06	Carton de 1000 pièces	60,0					CDP_0456.png
 2024-11-30	Coup de pates			CDP_836781	Pains	Pain burger sésame façon bretzel ø 110				Portion de 65g	0,9306	Colis de 35 unités	32,57					CDP_0192.png
 2024-11-30	Coup de pates			CDP_826089	Pains	Pain burger prétranché ø 115				Portion de 100g	0,4834	Colis de 80 unités	38,67					CDP_0192.png
 2024-11-30	Coup de pates			CDP_826190	Pains	Faluche carrée				Portion de 110g	0,5538	Colis de 60 unités	33,23					CDP_0192.png
@@ -1455,6 +1772,8 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_838185	Pâtisserie à portionner	Fond de tartelette brisé à bord haut ø 100				Portion de 55g	0,85	Colis de 40 unités	34,0					CDP_0144.png
 2024-11-30	Coup de pates			CDP_27454	Pâtisserie à portionner	Fond de tartelette brisé ø 100				Portion de 55g	0,5259	Colis de 70 unités	36,81					CDP_0144.png
 2024-11-30	Coup de pates			CDP_27815	Pâtisserie à portionner	Fond de tartelette brisé ø 120				Portion de 70g	0,7726	Colis de 50 unités	38,63					CDP_0144.png
+2024-11-30	Coup de pates			CDP_70693	Pâtisserie à portionner	Layer cake chocolat prédécoupé ø 250				Portion de 1/16	2,8206	Colis de 1 unité	45,13					CDP_0502.png
+2024-11-30	Coup de pates			CDP_70710	Pâtisserie individuelle	Fondant choco cookie pie ø 82				Portion de 1		Colis de 42 unités	71,39					CDP_0502.png
 2024-11-30	Coup de pates			CDP_70732	Traiteur salé	Poêlée Marrakech		7,19		Portion de 150g	1,08	Carton de 4 sachets						CDP_0343.png
 2024-11-30	Coup de pates			CDP_70731	Traiteur salé	Salade de riz noir, soja, avocat, tomates et haricots rouges azuki		8,15		Portion de 150g	1,22	Carton de 4 sachets						CDP_0343.png
 2024-11-30	Coup de pates			CDP_70745	Traiteur salé	Nugget végétarien		18,49		Portion de 19g	0,35	Carton de 3 sachets						CDP_0343.png
@@ -1462,7 +1781,6 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70013	Pâtisserie à portionner	Paris-Brest Ø 215				Portion de 550g	13,515	Colis de 6 unités	81,09					CDP_0042.png
 2024-11-30	Coup de pates			CDP_27459	Pâtisserie à portionner	Charlotte chocolat Ø 180		61,12		Portion de 750g	15,6133	Colis de 3 unités	46,84					CDP_0042.png
 2024-11-30	Coup de pates			CDP_27461	Pâtisserie à portionner	Charlotte poire Ø 180		54,08		Portion de 750g	13,52	Colis de 3 unités	40,56					CDP_0042.png
-2024-11-30	Coup de pates			CDP_27462	Pâtisserie à portionner	Charlotte fruits rouges Ø 180		53,56		Portion de 750g	13,39	Colis de 3 unités	40,17					CDP_0042.png
 2024-11-30	Coup de pates			CDP_26574	Traiteur salé	Quiche Lorraine Le Tourier® précuite o 250 mm				Pièce de 1200g	13,24	Colis de 4 pièces	52,94					CDP_0250.png
 2024-11-30	Coup de pates			CDP_26570	Traiteur salé	Quiche chèvre tomate Le Tourier® précuite o 250 mm				Pièce de 1200g	13,71	Colis de 4 pièces	54,85					CDP_0250.png
 2024-11-30	Coup de pates			CDP_70526	Pains	Pain suédois carré				Sachet de 30 unités	0,2904	Sachet de 30 unités, 6 sachets par carton	53,28					CDP_0199.png
@@ -1509,6 +1827,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70659	Pains	Petit pain Solène® maïs				Portion de 100g	0,4178	Colis de 45 unités	18,8					CDP_0180.png
 2024-11-30	Coup de pates			CDP_70662	Pains	Pain torsadé multicéréales				Portion de 600g	2,768	Colis de 10 unités	27,68					CDP_0180.png
 2024-11-30	Coup de pates			CDP_70663	Pains	Pain libanais ø 250				Portion de 70g	0,5598	Colis de 100 unités	55,98					CDP_0180.png
+2024-11-30	Coup de pates			CDP_42015		Pot transparent			5,5	Contenance 17 cl	0,11	Sachet de 50 pièces						CDP_0453.png
+2024-11-30	Coup de pates			CDP_42017		Couvercle dôme transparent				Sachet de 100 pièces	0,09	Carton de 10 sachets	5,65					CDP_0453.png
+2024-11-30	Coup de pates			CDP_70364		Pot à smoothie			5,55	Contenance 40 cl	0,11	Sachet de 50 pièces						CDP_0453.png
+2024-11-30	Coup de pates			CDP_70365		Couvercle dôme avec trou				Diamètre 95 mm	0,07	Carton de 16 sachets	3,45					CDP_0453.png
+2024-11-30	Coup de pates			CDP_84009		Papier hamburger				Pièce de 400x305 mm	0,12	Carton de 500 pièces	62,0					CDP_0453.png
+2024-11-30	Coup de pates			CDP_70098		Barquette à frites				Pièce de 162x69x41 mm	0,12	Sachet de 250 pièces	30,0					CDP_0453.png
 2024-11-30	Coup de pates			CDP_840067	Traiteur salé	Carpaccio de bœuf pré-mariné en tranche individuelle				Tranche de 10 g		Boîte de 800 g, Carton de 10 boîtes						CDP_0281.png
 2024-11-30	Coup de pates			CDP_841780	Traiteur salé	Carpaccio de saumon				Sachet de 350 g (5 pièces)		Carton de 4 sachets						CDP_0281.png
 2024-11-30	Coup de pates			CDP_835146	Traiteur salé	Carpaccio de bœuf				Pièce de 70 g (7 tranches)		Boîte de 1.4 kg (20 assiettes), Carton de 5 boîtes						CDP_0281.png
@@ -1534,7 +1858,6 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_840809	Pâtisserie individuelle	Mini croissant Le Tourier®				Portion de 25g	0,2437	Colis de 200 unités	48,74					CDP_0327.png
 2024-11-30	Coup de pates			CDP_25261	Pâtisserie individuelle	Mini pain chocolat 2 barres Le Tourier®				Portion de 30g	0,3064	Colis de 200 unités	61,28					CDP_0327.png
 2024-11-30	Coup de pates			CDP_25014	Pâtisserie à portionner	Pain aux raisins réchauffé Le Tourier®				Portion de 130g	1,2534	Colis de 50 unités	61,77					CDP_0327.png
-2024-11-30	Coup de pates			CDP_70464	Pâtisserie à portionner	Mini roulé pépites de chocolat prépoussé Le Tourier®				Portion de 38g	0,5053	Colis de 72 unités	36,38					CDP_0327.png
 2024-11-30	Coup de pates			CDP_83298	Traiteur salé	Cuisse de poulet blanc déjointée				Pièce de 180/200 g		Carton de 5 kg						CDP_0335.png
 2024-11-30	Coup de pates			CDP_70242	Traiteur salé	Cuisse de poulet issu de poulet fermier				Pièce de 200/300 g		Carton de 5 kg						CDP_0335.png
 2024-11-30	Coup de pates			CDP_40028	Traiteur salé	Aiguillettes de poulet rôti				Pièce de 15 g env.		Carton de 4 sachets						CDP_0335.png
@@ -1558,10 +1881,20 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_836148	Traiteur salé	Les boîtes d'Hubert® : gratin de Crozets (abondance comté et jambon fumé)				Portion de 300g	5,54	Carton de 10 barquettes	55,4					CDP_0266.png
 2024-11-30	Coup de pates			CDP_840851	Traiteur salé	Les boîtes d'Hubert® : crumble ricotta épinards & graines				Portion de 350g	5,77	Carton de 10 barquettes	57,68					CDP_0266.png
 2024-11-30	Coup de pates			CDP_840852	Traiteur salé	Les boîtes d'Hubert® : tartelette au reblochon				Portion de 330g	6,96	Carton de 10 barquettes	65,54					CDP_0266.png
+2024-11-30	Coup de pates			CDP_27294	Pâtisserie individuelle	Tartelettte framboise coques de chocolat blanc Le Tourier® ø 90				Portion de 110g	2,376	Colis de 30 unités	71,3					CDP_0002.png
 2024-11-30	Coup de pates			CDP_840144	Pâtisserie individuelle	Tartelettte aux pommes Le Tourier® ø 90				Portion de 114g	1,627	Colis de 30 unités	48,82					CDP_0002.png
 2024-11-30	Coup de pates			CDP_70415	Pâtisserie individuelle	Tartelettte normande Le Tourier® ø 90				Portion de 75g	1,6647	Colis de 32 unités	53,27					CDP_0002.png
 2024-11-30	Coup de pates			CDP_70519	Pâtisserie individuelle	Tartelettte citron Le Tourier® ø 90				Portion de 80g	1,6928	Colis de 32 unités	54,17					CDP_0002.png
 2024-11-30	Coup de pates			CDP_27295	Pâtisserie individuelle	Tartelettte citron meringuée Le Tourier® ø 90				Portion de 95g	1,85	Colis de 30 unités	55,5					CDP_0002.png
+2024-11-30	Coup de pates			CDP_832312	Traiteur sucré	Tarte à l'oignon Totiure 120 mm												CDP_0470.png
+2024-11-30	Coup de pates			CDP_840370	Traiteur salé	Tarte aux tomates cerises et oignons caramélisés												CDP_0470.png
+2024-11-30	Coup de pates			CDP_700376	Pâtisserie individuelle	Tartelette aux pommes de terre et poivrons												CDP_0470.png
+2024-11-30	Coup de pates			CDP_266134	Pâtisserie individuelle	Tartelette à la meringue												CDP_0470.png
+2024-11-30	Coup de pates			CDP_264571	Traiteur sucré	Tartin'Pâtes au cacao												CDP_0470.png
+2024-11-30	Coup de pates			CDP_261731	Pâtisserie à portionner	Tartine royale												CDP_0470.png
+2024-11-30	Coup de pates			CDP_168767	Traiteur salé	Tartelette brisée												CDP_0470.png
+2024-11-30	Coup de pates			CDP_232378	Pâtisserie à portionner	Tarte framboise												CDP_0470.png
+2024-11-30	Coup de pates			CDP_707876	Traiteur sucré	Tarte de poire lent hallal												CDP_0470.png
 2024-11-30	Coup de pates			CDP_13319	Traiteur sucré	Jambon sec tranché				Barquette de 500 g (20 tranches)		Carton de 10 barquettes						CDP_0289.png
 2024-11-30	Coup de pates			CDP_44226	Traiteur sucré	Jambon Serrano tranché				Barquette de 500 g (25 tranches avec intercalaires)		Carton de 10 barquettes						CDP_0289.png
 2024-11-30	Coup de pates			CDP_840750	Traiteur sucré	Jambon sec noir du Périgord tranché				Tranche de 25 g, Barquette de 250 g (10 tranches avec intercalaires)		Carton de 10 barquettes						CDP_0289.png
@@ -1569,11 +1902,14 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_18409	Glaces	Fromage frais allégé 0 % MG		2,75		Seau de 5 kg	0,28							CDP_0421.png
 2024-11-30	Coup de pates			CDP_16104	Glaces	Fromage frais lissé 20 % MG		2,89		Seau de 5 kg	0,29							CDP_0421.png
 2024-11-30	Coup de pates			CDP_16107	Glaces	Fromage frais onctueux 40 % MG		3,35		Seau de 5 kg	0,34							CDP_0421.png
-2024-11-30	Coup de pates			CDP_840743	Glaces	Fromage frais à la vanille Isigny-Ste-Mère		6,15		Seau de 3 kg	0,62							CDP_0421.png
-2024-11-30	Coup de pates			CDP_16109	Glaces	Fromage frais à la fraise Isigny-Ste-Mère		5,69		Seau de 3 kg	0,57							CDP_0421.png
-2024-11-30	Coup de pates			CDP_16113	Glaces	Fromage frais à la framboise Isigny-Ste-Mère		5,69		Seau de 3 kg	0,57							CDP_0421.png
 2024-11-30	Coup de pates			CDP_702565	Glaces	Fromage frais à la poire Isigny-Ste-Mère		5,55		Seau de 5 kg	0,56							CDP_0421.png
 2024-11-30	Coup de pates			CDP_18406	Glaces	Fromage frais aux pommes caramélisées Isigny-Ste-Mère		5,69		Seau de 3 kg	0,57							CDP_0421.png
+2024-11-30	Coup de pates			CDP_25519	Pâtisserie à portionner	Crêpe neutre Ø 270				Portion de 55g	0,649	Colis de 50 unités	32,43					CDP_0487.png
+2024-11-30	Coup de pates			CDP_25510	Pâtisserie à portionner	Crêpe fine nature Ø 270 (pliée en deux)				Portion de 50g	0,675	Colis de 50 unités	33,75					CDP_0487.png
+2024-11-30	Coup de pates			CDP_25518	Pâtisserie à portionner	Crêpe fine nature Ø 310 (pliée en deux)				Portion de 70g	0,636	Colis de 50 unités	43,15					CDP_0487.png
+2024-11-30	Coup de pates			CDP_831281	Pâtisserie à portionner	Crêpe sucrée Ø 340				Portion de 100g	1,212	Colis de 40 unités	48,51					CDP_0487.png
+2024-11-30	Coup de pates			CDP_25513	Pâtisserie à portionner	Crêpe fine nature saveur fleur d'oranger Ø 270 (pliée en deux)				Portion de 50g	0,7	Colis de 50 unités	35,03					CDP_0487.png
+2024-11-30	Coup de pates			CDP_25514	Pâtisserie à portionner	Crêpe fine sucrée au rhum Negrita® Ø 270 (pliée en quatre)				Portion de 55g	0,736	Colis de 50 unités	36,8					CDP_0487.png
 2024-11-30	Coup de pates			CDP_834625	Traiteur sucré	Mini tortillas garnies				Plateau de 48 unités	0,6869	Colis de 96 unités	65,94					CDP_0052.png
 2024-11-30	Coup de pates			CDP_841663	Traiteur sucré	Poème de saveurs moelleuses				Plateau de 30 unités	0,712	Colis de 60 unités	43,03					CDP_0052.png
 2024-11-30	Coup de pates			CDP_826118	Traiteur salé	Le végétarien				Plateau de 20 unités	1,695	Colis de 40 unités	67,8					CDP_0052.png
@@ -1586,6 +1922,7 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70776	Traiteur salé	Purée de pommes de terre		2,79		Sachet de 2.5 kg, Carton de 4 sachets	0,42	Carton de 4 sachets						CDP_0362.png
 2024-11-30	Coup de pates			CDP_825498	Traiteur salé	Purée de patates douces		3,29		Sachet de 1 kg, Carton de 10 sachets	0,49	Carton de 10 sachets						CDP_0362.png
 2024-11-30	Coup de pates			CDP_84158	Traiteur salé	Gratin à la dauphinoise		5,19		Sachet de 2.5 kg, Carton de 4 sachets	0,78	Carton de 4 sachets						CDP_0362.png
+2024-11-30	Coup de pates			CDP_70744		Boîte tacos				Pièce de 225x110 mm	0,17	Carton de 100 pièces	17,0					CDP_0449.png
 2024-11-30	Coup de pates			CDP_70442	Traiteur sucré	Mini hot-dog de volaille				Plateau de 40 unités	1,2235	Colis de 40 unités	48,94					CDP_0077.png
 2024-11-30	Coup de pates			CDP_828949	Traiteur sucré	Mini rösti burger				2 hamburgers par carton	1,2273	Colis de 48 unités	58,91					CDP_0077.png
 2024-11-30	Coup de pates			CDP_70494	Traiteur sucré	Mini cheeseburger				Plateau de 30 unités	1,2167	Colis de 30 unités	36,5					CDP_0077.png
@@ -1596,8 +1933,8 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70399	Pâtisserie à portionner	Mozzarella et Emmental râpés				Sachet de 1 kg, Carton de 10 sachets.								CDP_0394.png
 2024-11-30	Coup de pates			CDP_44259	Pâtisserie à portionner	Mozzarella râpée				Sachet de 2,5 Kg, Carton de 4 sachets.	0,81		8,09					CDP_0394.png
 2024-11-30	Coup de pates			CDP_44297	Pâtisserie à portionner	Mozzarella en cossette		7,99		Sachet de 2,5 Kg, Carton de 4 sachets.	0,8							CDP_0394.png
-2024-11-30	Coup de pates			CDP_838180	Pâtisserie à portionner	1/2 cadre framboise passion craquant				Portion de 280g	2,775	Colis de 1 unité	75,31					CDP_0044.png
-2024-11-30	Coup de pates			CDP_70446	Pâtisserie à portionner	1/2 cadre mousse vanillée et fruits du verger				Portion de 450g	2,79	Colis de 1 pièce	50,1					CDP_0044.png
+2024-11-30	Coup de pates			CDP_838180	Pâtisserie à portionner	1/2 cadre framboise passion craquant				Portion de 2830g	75,31	Colis de 1 unité	75,31					CDP_0044.png
+2024-11-30	Coup de pates			CDP_70446	Pâtisserie à portionner	1/2 cadre mousse vanillée et fruits du verger				Portion de 2450g	50,1	Colis de 1 pièce	50,1					CDP_0044.png
 2024-11-30	Coup de pates			CDP_30030	Glaces	Flûte glacée limoncello				Portion de 150ml	3,84	Carton de 8 pièces	30,69					CDP_0427.png
 2024-11-30	Coup de pates			CDP_831247	Glaces	Flûte glacée fruits rouges				Portion de 150ml	3,84	Carton de 8 pièces	30,69					CDP_0427.png
 2024-11-30	Coup de pates			CDP_70195	Glaces	Profiterole				Portion de 26g	0,58	Carton de 50 pièces	28,99					CDP_0427.png
@@ -1631,19 +1968,32 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70716	Traiteur sucré	Kouglof de champignons		16,95		Pièce de 70 g	1,19	Carton de 1.68 kg (36 pièces)						CDP_0361.png
 2024-11-30	Coup de pates			CDP_70159	Traiteur sucré	Panier aux noix de Saint-Jacques et aux asperges vertes		14,9		Pièce de 100 g	1,49	Carton de 3 kg (30 pièces)						CDP_0361.png
 2024-11-30	Coup de pates			CDP_840730	Traiteur sucré	Tarte tatin aux tomates confites et oignons caramélisés		26,45		Pièce de 90 g	2,38	Carton de 18 (20 pièces)						CDP_0361.png
+2024-11-30	Coup de pates			CDP_25010	Pâtisserie individuelle	Chouquette Sélection				Portion de 14g	0,1264	Colis de 486 unités	61,44					CDP_0491.png
+2024-11-30	Coup de pates			CDP_18433	Pâtisserie à portionner	Mini meringues assorties				Portion de 5g	0,1243	Colis de 200 unités	24,86					CDP_0491.png
+2024-11-30	Coup de pates			CDP_25721	Pâtisserie à portionner	Meringue pâtissière				Portion de null	0,9248	Colis de 48 unités	44,39					CDP_0491.png
+2024-11-30	Coup de pates			CDP_25011	Pâtisserie à portionner	Meringues pâtissières assorties				Portion de 70g	1,0735	Colis de 48 unités	51,53					CDP_0491.png
 2024-11-30	Coup de pates			CDP_841757		Mimolette en allumettes		14,15		Portion de 50g	0,71	Carton de 8 barquettes						CDP_0393.png
 2024-11-30	Coup de pates			CDP_840741		Cheddar rouge râpé		10,99		Portion de 50g	0,55	Carton de 10 sachets						CDP_0393.png
 2024-11-30	Coup de pates			CDP_44245		Emmental râpé						Carton de 10 sachets						CDP_0393.png
 2024-11-30	Coup de pates			CDP_832121		Emmental râpé						Carton de 10 sachets						CDP_0393.png
 2024-11-30	Coup de pates			CDP_8159		Emmental râpé		9,15		Portion de 50g	0,46	Carton de 10 sachets						CDP_0393.png
 2024-11-30	Coup de pates			CDP_841769		Emmental râpé		14,19		Portion de 100g	1,42	Carton de 10 sachets						CDP_0393.png
+2024-11-30	Coup de pates			CDP_25371	Pâtisserie individuelle	Maxi beignet nature 95 g				Portion de 95g	0,8513	Colis de 24 unités	20,43					CDP_0488.png
+2024-11-30	Coup de pates			CDP_25373	Pâtisserie individuelle	Maxi beignet fourré chocolat noisette 125 g				Portion de 125g	1,1867	Colis de 24 unités	28,48					CDP_0488.png
+2024-11-30	Coup de pates			CDP_25377	Pâtisserie individuelle	Maxi beignet aux pommes avec morceaux 125 g				Portion de 125g	1,7775	Colis de 24 unités	28,26					CDP_0488.png
+2024-11-30	Coup de pates			CDP_25001	Pâtisserie individuelle	Beignet bretzel 70 g				Portion de 70g	1,0492	Colis de 48 unités	50,36					CDP_0488.png
+2024-11-30	Coup de pates			CDP_70750	Pâtisserie à portionner	Bugne de carnaval		0,527		Portion de 3000g		Vendu par carton de 3 kg	41,95					CDP_0488.png
+2024-11-30	Coup de pates			CDP_70751	Pâtisserie à portionner	Bugne saveur fleur d'oranger		0,2589		Portion de 3000g		Vendu par carton de 3 kg	43,23					CDP_0488.png
 2024-11-30	Coup de pates			CDP_26023	Traiteur sucré	Mini fond moelleux citron aneth Ø 38				Portion de 6g	0,324	Carton de 200 unités	64,79					CDP_0164.png
 2024-11-30	Coup de pates			CDP_26024	Traiteur sucré	Mini fond moelleux olive noire Ø 38				Portion de 6g	0,3202	Carton de 200 unités	64,03					CDP_0164.png
 2024-11-30	Coup de pates			CDP_26282	Traiteur sucré	Mini fond moelleux poivron Ø 38				Portion de 7g	0,3102	Carton de 200 unités	62,04					CDP_0164.png
 2024-11-30	Coup de pates			CDP_26284	Traiteur sucré	Mini fond moelleux légumes verts Ø 38				Portion de 7g	0,3157	Carton de 200 unités	63,14					CDP_0164.png
 2024-11-30	Coup de pates			CDP_26930	Traiteur salé	Mini sablés salés assortis Ø 30				Portion de 4.2g	0,202	Carton de 210 unités	43,47					CDP_0164.png
 2024-11-30	Coup de pates			CDP_70465	Traiteur salé	Mini sablés salés moutarde				Portion de 4g	0,1975	Carton de 210 unités	41,47					CDP_0164.png
-2024-11-30	Coup de pates			CDP_40035	Traiteur salé	Poké Poulet				300g	5,22							CDP_0234.png
+2024-11-30	Coup de pates			CDP_837605	Glaces	Cacahuète épouse Caramel				Pot de 62 (100 mL)	1,85	Carton de 12 pièces	22,19					CDP_0430.png
+2024-11-30	Coup de pates			CDP_837602	Glaces	Banane en Folie				Pot de 63 (100 mL)	1,85	Carton de 12 pièces	22,19					CDP_0430.png
+2024-11-30	Coup de pates			CDP_837604	Glaces	Vanille croque Macadamia				Pot de 61 (100 mL)	1,85	Carton de 12 pièces	22,19					CDP_0430.png
+2024-11-30	Coup de pates			CDP_837603	Glaces	Chocolat Dynamite				Pot de 71 (100 mL)	1,85	Carton de 12 pièces	22,19					CDP_0430.png
 2024-11-30	Coup de pates			CDP_83214	Traiteur salé	Bol salade carbon brun				1 pièce								CDP_0234.png
 2024-11-30	Coup de pates			CDP_826179	Pâtisserie à portionner	Mini financiers assortis				Plateau de 48 unités	0,3629	5 plateaux par carton	87,09					CDP_0123.png
 2024-11-30	Coup de pates			CDP_70293	Pâtisserie individuelle	Mini millefeuilles crème diplomate sans alcool				Plateau de 96 unités	0,5816	6 plateaux par carton	53,83					CDP_0123.png
@@ -1652,6 +2002,12 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_841644	Pâtisserie à portionner	Tarte croustillante abricot amande ø 240		37,0		Portion de 90g	3,39	Colis de 3 unités	33,9					CDP_0035.png
 2024-11-30	Coup de pates			CDP_841645	Pâtisserie à portionner	Tarte croustillante aux pommes ø 240		32,0		Portion de 90g	3,6263	Colis de 3 unités	29,01					CDP_0035.png
 2024-11-30	Coup de pates			CDP_27271	Pâtisserie à portionner	Tarte poire amande aromatisée ø 230		75,6471		Portion de 85g	10,8933	Colis de 6 unités	65,36					CDP_0035.png
+2024-11-30	Coup de pates			CDP_25264	Pâtisserie individuelle	Maxi cookie aux 3 chocolats cuit ø 110				Portion de 80g	1,2431	Colis de 48 unités	59,67					CDP_0509.png
+2024-11-30	Coup de pates			CDP_838235	Pâtisserie individuelle	Maxi cookie aux 3 chocolats cuit ø 110				Portion de 80g	1,1898	Colis de 40 unités	47,59					CDP_0509.png
+2024-11-30	Coup de pates			CDP_25294	Pâtisserie individuelle	Maxi cookie saveur chocolat aux pépites de chocolat noir cuit ø 110				Portion de 80g	1,1277	Colis de 48 unités	54,13					CDP_0509.png
+2024-11-30	Coup de pates			CDP_25032	Pâtisserie individuelle	Maxi cookie pépites de chocolat blanc noix de macadamia cuit ø 105				Portion de 80g	1,3355	Colis de 48 unités	64,97					CDP_0509.png
+2024-11-30	Coup de pates			CDP_70429	Pâtisserie individuelle	Maxi cookie matcha chocolat blanc cuit ø 110				Portion de 80g	1,2388	Colis de 48 unités	59,46					CDP_0509.png
+2024-11-30	Coup de pates			CDP_25265	Pâtisserie individuelle	Maxi cookie aux éclats de Daim® cuit ø 120				Portion de 80g	1,3238	Colis de 42 unités	55,6					CDP_0509.png
 2024-11-30	Coup de pates			CDP_70499	Traiteur sucré	Galette façon petit pois à la française		14,69		Portion de 100g	1,47	Colis de 2 unités						CDP_0352.png
 2024-11-30	Coup de pates			CDP_826964	Traiteur sucré	Galette végétarienne aux patates douces 90 mm		17,39		Portion de 100g	1,74	Colis de 24 kg (24 pièces)						CDP_0352.png
 2024-11-30	Coup de pates			CDP_826963	Traiteur sucré	Galette végétarienne aux lentilles 90 mm		17,19		Portion de 100g	1,72	Colis de 24 kg (24 pièces)						CDP_0352.png
@@ -1697,8 +2053,6 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_26723	Traiteur sucré	Explosion de saveurs				Portion de 9.9g	2,76818	Colis de 40 unités	10,47					CDP_0059.png
 2024-11-30	Coup de pates			CDP_26680	Traiteur sucré	Révélation de saveurs				Portion de 11.5g	1,99	Colis de 40 unités	79,6					CDP_0059.png
 2024-11-30	Coup de pates			CDP_822919	Pâtisserie individuelle	Canelé lunch				Portion de 30g	0,4851	Colis de 72 unités	34,93					CDP_0122.png
-2024-11-30	Coup de pates			CDP_25243	Pâtisserie individuelle	Canelé bouchée Grand Marnier				Portion de 15g	0,3023	Colis de 150 unités	43,34					CDP_0122.png
-2024-11-30	Coup de pates			CDP_22159	Pâtisserie individuelle	Canelé bouchée Grand Siècle				Portion de 17g	0,3839	Colis de 150 unités	57,59					CDP_0122.png
 2024-11-30	Coup de pates			CDP_838206	Pâtisserie individuelle	Canelé bouchée sans alcool				Portion de 17g	0,2817	Colis de 150 unités	42,26					CDP_0122.png
 2024-11-30	Coup de pates			CDP_70741	Traiteur sucré	Ganache au foie gras de canard				Poche de 500g		Carton de 4 poches						CDP_0262.png
 2024-11-30	Coup de pates			CDP_70740	Traiteur salé	Plaque de foie gras de canard éviné				Plaque de 4kg		Carton de 4 plaques						CDP_0262.png
@@ -1712,7 +2066,6 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_841679	Traiteur salé	Pizza épinards ricotta 1/2 plaque				Portion de 1065g	14,47	Colis de 6 pièces	57,89					CDP_0255.png
 2024-11-30	Coup de pates			CDP_840849	Pains	1/2 baguette Fleur de Solène® céréales				Portion de 150g	0,6774	Colis de 50 unités	33,87					CDP_0193.png
 2024-11-30	Coup de pates			CDP_841702	Pains	1/2 baguette Solène® bio				Portion de 170g	0,9323	Colis de 60 unités	55,94					CDP_0193.png
-2024-11-30	Coup de pates			CDP_70047	Pains	Torsade feuilletée à partager 250 g				Portion de 250g	2,31	Colis de 20 unités	46,2					CDP_0193.png
 2024-11-30	Coup de pates			CDP_841434	Pains	1/2 baguette saveur’n’crack				Portion de 150g	0,6886	Colis de 50 unités	34,43					CDP_0193.png
 2024-11-30	Coup de pates			CDP_840848	Pains	1/2 baguette saveur aux céréales				Portion de 140g	0,6062	Colis de 50 unités	33,01					CDP_0193.png
 2024-11-30	Coup de pates			CDP_29395	Pains	1/2 baguette énergie				Portion de 150g	0,9944	Colis de 25 unités	24,86					CDP_0193.png
@@ -1732,6 +2085,11 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_70189	Traiteur sucré	Foie gras de canard mi-cuit				Barquette de 1 kg		Carton de 3 barquettes						CDP_0272.png
 2024-11-30	Coup de pates			CDP_841819	Traiteur sucré	Palet de bloc de foie gras de canard o 36 mm				Pièce de 8 g		Carton de 2 sachets						CDP_0272.png
 2024-11-30	Coup de pates			CDP_832980	Traiteur sucré	Escalope de foie gras de canard				Pièce de 40/60 g		Carton de 20 pièces env.						CDP_0272.png
+2024-11-30	Coup de pates			CDP_834585	Pâtisserie individuelle	Cake citron cuit				Portion de 140g	6,31	Colis de 4 unités	25,24					CDP_0485.png
+2024-11-30	Coup de pates			CDP_834586	Pâtisserie individuelle	Cake marbré cuit				Portion de 115g	5,6025	Colis de 4 unités	22,41					CDP_0485.png
+2024-11-30	Coup de pates			CDP_835418	Pâtisserie individuelle	Cake aux fruits confits				Portion de 130g	6,11	Colis de 4 unités	24,44					CDP_0485.png
+2024-11-30	Coup de pates			CDP_837288	Pâtisserie individuelle	Cake aux graines et aux baies de Goji				Portion de 187.5g	8,275	Colis de 4 unités	33,09					CDP_0485.png
+2024-11-30	Coup de pates			CDP_834610	Pâtisserie individuelle	Cake pain d'épices cuit				Portion de 115g	6,26	Colis de 4 unités	25,04					CDP_0485.png
 2024-11-30	Coup de pates			CDP_832909	Traiteur sucré	Pommes de terre Anna		69,83		Portion de 60g	1,26	Carton de 8 sachets	20,95					CDP_0364.png
 2024-11-30	Coup de pates			CDP_841742	Traiteur sucré	Pommes darphin		9,49		Portion de 100g	0,95	Carton de 2 sachets						CDP_0364.png
 2024-11-30	Coup de pates			CDP_70764	Traiteur sucré	Crumble de légumes		5,43		Portion de 75g	1,1	Carton de 2.7 kg	14,65					CDP_0364.png
@@ -1746,6 +2104,9 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_26669	Traiteur sucré	Cygne surprise				Portion de 250g	0,9081	Colis de 48 unités	43,59					CDP_0093.png
 2024-11-30	Coup de pates			CDP_26648	Traiteur sucré	Coquille surprise				Portion de 1000g	0,9973	Colis de 44 unités	43,88					CDP_0093.png
 2024-11-30	Coup de pates			CDP_26122	Traiteur sucré	Crocodile surprise				Portion de 1320g	0,8504	Colis de 48 unités	40,82					CDP_0093.png
+2024-11-30	Coup de pates			CDP_70447	Pâtisserie individuelle	Cake fondant chocolat poire Belle-Hélène				Portion de 440g	13,0235	Vendu par carton de 4 unités	52,13					CDP_0486.png
+2024-11-30	Coup de pates			CDP_70448	Pâtisserie individuelle	Cake fondant pommes caramel				Portion de 410g	11,97	Vendu par carton de 4 unités	47,88					CDP_0486.png
+2024-11-30	Coup de pates			CDP_18458	Pâtisserie à portionner	Financier				Portion de 35g	0,8231	Vendu par carton de 72 unités	59,26					CDP_0486.png
 2024-11-30	Coup de pates			CDP_70072	Traiteur salé	Ribs de porc cuit sous-vide mariné à la mexicaine				Pièce (sous-vide) de 600 g env.		Carton de 6 kg (10 pièces)						CDP_0320.png
 2024-11-30	Coup de pates			CDP_832949	Traiteur salé	Sauté d’épaule de porc				Pièce de 60/80 g		Carton de 5 kg						CDP_0320.png
 2024-11-30	Coup de pates			CDP_841453	Traiteur salé	Filet mignon de porc (sans chaîne)				Pièce (sous-vide) de 450 g		Carton de 5 kg (11 pièces)						CDP_0320.png
@@ -1770,25 +2131,54 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_27110	Pâtisserie à portionner	Fondant chocolat Ø 265		45,13		Portion de 90g	1,3753	Colis de 3 unités	41,26					CDP_0040.png
 2024-11-30	Coup de pates			CDP_27104	Pâtisserie à portionner	Moelleux noisette Ø 260		87,1		Portion de 100g	1,42	Colis de 4 unités	69,68					CDP_0040.png
 2024-11-30	Coup de pates			CDP_27635	Pâtisserie à portionner	Moelleux chocolat prédécoupé Ø 300		65,13		Portion de 106.25g	1,221	Colis de 4 unités	111,72					CDP_0040.png
+2024-11-30	Coup de pates			CDP_70285	Viennoiseries	Viennoise pépites de chocolat				Portion de 150g	0,9878	Colis de 80 unités	79,02					CDP_0484.png
+2024-11-30	Coup de pates			CDP_841705	Pâtisserie à portionner	Cake citron pavot Les Secrets du Fournil 1000 g				Portion de 1000g	16,4233	Colis de 3 unités	49,27					CDP_0484.png
+2024-11-30	Coup de pates			CDP_841704	Pâtisserie à portionner	Cake marbré glacage rocher				Portion de 550g	9,44	Colis de 5 unités	47,22					CDP_0484.png
+2024-11-30	Coup de pates			CDP_841706	Pâtisserie à portionner	Cake pistache, graines de chia et amandes Les Secrets du Fournil 1000 g				Portion de 1000g	18,0733	Colis de 3 unités	54,22					CDP_0484.png
 2024-11-30	Coup de pates			CDP_70240	Pâtisserie à portionner	1/2 cadre fraiser		23,524		Portion de 130g	3,2432	Colis de 1 unité	77,78					CDP_0041.png
 2024-11-30	Coup de pates			CDP_27487	Pâtisserie à portionner	1/2 cadre fraise des bois		21,293		Portion de 200g	2,5155	Colis de 1 unité	50,31					CDP_0041.png
 2024-11-30	Coup de pates			CDP_840833	Pâtisserie à portionner	1/2 cadre vanille fruits rouges		19,8667		Portion de 250g	2,29	Colis de 1 unité	45,58					CDP_0041.png
+2024-11-30	Coup de pates			CDP_70316	Pâtisserie individuelle	Donut spéculoos				Portion de 68g	0,8873	Colis de 48 unités	42,59					CDP_0513.png
+2024-11-30	Coup de pates			CDP_70054	Pâtisserie individuelle	Donut citron éclats de meringues				Portion de 72g	0,7363	Colis de 48 unités	35,34					CDP_0513.png
+2024-11-30	Coup de pates			CDP_70056	Pâtisserie individuelle	Donut fourré parfum fraise				Portion de 68g	0,8004	Colis de 48 unités	38,42					CDP_0513.png
+2024-11-30	Coup de pates			CDP_70315	Pâtisserie individuelle	Mochi Donut				Portion de 45g	1,1965	Colis de 20 unités	23,93					CDP_0513.png
 2024-11-30	Coup de pates			CDP_25092	Viennoiseries	Croissant Le Tourier® 70 g				Portion de 70g	0,5832	Colis de 120 unités	69,98					CDP_0326.png
-2024-11-30	Coup de pates			CDP_25218	Viennoiseries	Croissant Le Tourier® 80 g				Portion de 80g	0,5675	Colis de 110 unités	67,85					CDP_0326.png
+2024-11-30	Coup de pates			CDP_25218	Viennoiseries	Croissant Le Tourier® 80 g				Portion de 80g	0,6168	Colis de 110 unités	67,85					CDP_0326.png
 2024-11-30	Coup de pates			CDP_25229	Viennoiseries	Croissant Le Tourier® courbé 70 g				Portion de 70g	0,5993	Colis de 162 unités	96,11					CDP_0326.png
-2024-11-30	Coup de pates			CDP_25091	Viennoiseries	Pain chocolat 2 barres Le Tourier® 70 g				Portion de 70g	0,6342	Colis de 140 unités	88,8					CDP_0326.png
+2024-11-30	Coup de pates			CDP_25091	Viennoiseries	Pain chocolat 2 barres Le Tourier® 70 g				Portion de 70g	0,6343	Colis de 140 unités	88,8					CDP_0326.png
 2024-11-30	Coup de pates			CDP_25093	Viennoiseries	Pain chocolat 2 barres Le Tourier® 80 g				Portion de 80g	0,635	Colis de 120 unités	76,2					CDP_0326.png
 2024-11-30	Coup de pates			CDP_840822	Viennoiseries	Le Tourier® 90 g				Portion de 90g	0,679	Colis de 90 unités	91,67					CDP_0326.png
 2024-11-30	Coup de pates			CDP_25124	Viennoiseries	Big choco 2 barres Le Tourier® 120 g				Portion de 120g	1,027	Colis de 90 unités	92,43					CDP_0326.png
 2024-11-30	Coup de pates			CDP_25970	Viennoiseries	Croissant prépoussé Le Tourier® 70 g				Portion de 70g	0,6816	Colis de 70 unités	47,71					CDP_0326.png
-2024-11-30	Coup de pates			CDP_22229	Viennoiseries	Croissant courbé prépoussé Le Tourier® 70 g				Portion de 70g	0,6946	Colis de 69 unités	47,92					CDP_0326.png
-2024-11-30	Coup de pates			CDP_25971	Viennoiseries	Pain chocolat 2 barres prépoussé Le Tourier® 80 g				Portion de 80g	0,7733	Colis de 70 unités	54,27					CDP_0326.png
+2024-11-30	Coup de pates			CDP_22229	Viennoiseries	Croissant courbé prépoussé Le Tourier® 70 g				Portion de 70g	0,6945	Colis de 69 unités	47,92					CDP_0326.png
+2024-11-30	Coup de pates			CDP_25971	Viennoiseries	Pain chocolat 2 barres prépoussé Le Tourier® 80 g				Portion de 80g	0,7753	Colis de 70 unités	54,27					CDP_0326.png
+2024-11-30	Coup de pates			CDP_837627	Glaces	Crème glacée cookies				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837665	Glaces	Crème glacée façon rocher				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837674	Glaces	Crème glacée stracciatella				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837702	Glaces	Crème glacée biscuit Oreo®				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837691	Glaces	Crème glacée marron				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837652	Glaces	Crème glacée noisette				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837678	Glaces	Crème glacée rhum-raisin				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837744	Glaces	Sorbet plein fruit framboise				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837706	Glaces	Sorbet plein fruit cassis				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837729	Glaces	Sorbet plein fruit myrtille				Bac de 2.5 L. Carton de 4 bacs	18,29	Carton de 4 bacs	18,29					CDP_0444.png
+2024-11-30	Coup de pates			CDP_837775	Glaces	Sorbet fraise bio				Bac de 2.5 L. Carton de 4 bacs	24,49	Carton de 4 bacs	24,49					CDP_0444.png
 2024-11-30	Coup de pates			CDP_818829	Traiteur sucré	Boulgour		7,65		Sachet de 1 kg, Portion de 150 g	1,15	Carton de 5 sachets						CDP_0369.png
 2024-11-30	Coup de pates			CDP_840132	Traiteur sucré	Quinoa		6,75		Sachet de 1 kg, Portion de 150 g	1,01	Carton de 6 sachets						CDP_0369.png
 2024-11-30	Coup de pates			CDP_832891	Traiteur sucré	Mélange de riz blanc et de riz sauvage		3,49		Sachet de 2.5 kg, Portion de 150 g	0,52	Carton de 4 sachets						CDP_0369.png
 2024-11-30	Coup de pates			CDP_840293	Traiteur sucré	Risotto aux légumes verts		6,29		Sachet de 2.5 kg, Portion de 150 g	1,26	Carton de 4 sachets						CDP_0369.png
 2024-11-30	Coup de pates			CDP_26684	Traiteur sucré	Mini croûte de bouchée cuite ø 35												CDP_0167.png
 2024-11-30	Coup de pates			CDP_29932	Pains	Baguette Bio 300 g				Portion de 300g	1,3622	Colis de 24 unités	24,52					CDP_0184.png
+2024-11-30	Coup de pates			CDP_837697	Glaces	Crème glacée vanille bio				Bac de 2.5 L, Carton de 4 bacs	24,49	Colis de 4 bacs	24,49					CDP_0443.png
+2024-11-30	Coup de pates			CDP_837688	Glaces	Crème glacée vanille bourbon				Bac de 2.5 L, Carton de 4 bacs	18,29	Colis de 4 bacs	18,29					CDP_0443.png
+2024-11-30	Coup de pates			CDP_837698	Glaces	Crème glacée chocolat				Bac de 2.5 L, Carton de 4 bacs	34,35	Colis de 4 bacs	34,35					CDP_0443.png
+2024-11-30	Coup de pates			CDP_837699	Glaces	Crème glacée chocolat blanc				Bac de 2.5 L, Carton de 4 bacs	18,29	Colis de 4 bacs	18,29					CDP_0443.png
+2024-11-30	Coup de pates			CDP_840182	Glaces	Crème glacée crème fraîche d'Isigny AOP				Bac de 2.5 L, Carton de 4 bacs	18,29	Colis de 4 bacs	18,29					CDP_0443.png
+2024-11-30	Coup de pates			CDP_837616	Glaces	Crème glacée caramel au beurre salé				Bac de 2.5 L, Carton de 4 bacs	18,29	Colis de 4 bacs	18,29					CDP_0443.png
+2024-11-30	Coup de pates			CDP_837659	Glaces	Crème glacée pistache				Bac de 2.5 L, Carton de 4 bacs	18,29	Colis de 4 bacs	18,29					CDP_0443.png
+2024-11-30	Coup de pates			CDP_837680	Glaces	Crème glacée yaourt				Bac de 2.5 L, Carton de 4 bacs	18,29	Colis de 4 bacs	18,29					CDP_0443.png
+2024-11-30	Coup de pates			CDP_837684	Glaces	Crème glacée vanille-noix de macadamia				Bac de 2.5 L, Carton de 4 bacs	18,29	Colis de 4 bacs	18,29					CDP_0443.png
+2024-11-30	Coup de pates			CDP_837623	Glaces	Crème glacée chocolat Milka®				Bac de 2.5 L, Carton de 4 bacs	17,79	Colis de 4 bacs	17,79					CDP_0443.png
 2024-11-30	Coup de pates			CDP_840187	Pains	Petit pain Solène® bio				Vendu par carton de 180 unités	0,2261	Colis de 180 unités	40,69					CDP_0224.png
 2024-11-30	Coup de pates			CDP_841720	Pains	Petit pain sans gluten				Vendu par carton de 24 unités	1,5505	Colis de 24 unités	36,12					CDP_0224.png
 2024-11-30	Coup de pates			CDP_29079	Pains	Petit pain sans sel				Vendu par carton de 50 unités	0,3386	Colis de 50 unités	16,93					CDP_0224.png
@@ -1798,7 +2188,6 @@ Date	Entreprise	Ville	Métier	Code	Catégorie	Produit	Marque Fournisseur	Prix Kg
 2024-11-30	Coup de pates			CDP_840164	Pâtisserie individuelle	Macaron Excellence chocolat cœur coulant caramel Ø 75				Portion de 80g	2,1546	Colis de 24 unités	51,71					CDP_0018.png
 2024-11-30	Coup de pates			CDP_27436	Pâtisserie individuelle	Macaron noisette				Portion de 85g	3,7767	Colis de 12 unités	45,32					CDP_0018.png
 2024-11-30	Coup de pates			CDP_27533	Pâtisserie à portionner	1/2 cadre feuilletant chocolat		48,9		24 parts	2,0375	Colis de 1 unité	48,9					CDP_0046.png
-2024-11-30	Coup de pates			CDP_27334	Pâtisserie à portionner	1/2 cadre forêt noire		54,33		24 parts	2,26375	Colis de 1 unité	54,33					CDP_0046.png
 2024-11-30	Coup de pates			CDP_833339	Pâtisserie à portionner	1/2 cadre craquant 3 chocolats		56,5		24 parts	2,35417	Colis de 1 unité	56,5					CDP_0046.png
 2024-11-30	Coup de pates			CDP_841760	Traiteur sucré	Tranche de mozzarella pour panini				Barquette de 1 kg	0,33	Carton de 8 barquettes	13,15					CDP_0396.png
 2024-11-30	Coup de pates			CDP_18478	Traiteur sucré	Tranche de mozzarella		17,29		Boîte de 500 g	0,22	Carton de 8 boîtes						CDP_0396.png

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 25411,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Maxi brioche tressée cuite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 2500g",
+        "Prix portion": 37.07,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 37.07,
+        "Image": "CDP_0483.png"
+    },
+    {
+        "Code": 841442,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Brioche multigrains",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 5.1967,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 31.18,
+        "Image": "CDP_0483.png"
+    },
+    {
+        "Code": 833155,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Brioche Nanterre aux pralines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 6.0638,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 48.51,
+        "Image": "CDP_0483.png"
+    },
+    {
+        "Code": 70427,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Brioche cacao et pépites de chocolat cuite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 600g",
+        "Prix portion": 8.1433,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 48.86,
+        "Image": "CDP_0483.png"
+    }
+]

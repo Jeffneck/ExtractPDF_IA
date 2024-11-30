@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 25371,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi beignet nature 95 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 95g",
+        "Prix portion": 0.8513,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 20.43,
+        "Image": "CDP_0488.png"
+    },
+    {
+        "Code": 25373,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi beignet fourré chocolat noisette 125 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 125g",
+        "Prix portion": 1.1867,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 28.48,
+        "Image": "CDP_0488.png"
+    },
+    {
+        "Code": 25377,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi beignet aux pommes avec morceaux 125 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 125g",
+        "Prix portion": 1.7775,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 28.26,
+        "Image": "CDP_0488.png"
+    },
+    {
+        "Code": 25001,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Beignet bretzel 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.0492,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 50.36,
+        "Image": "CDP_0488.png"
+    },
+    {
+        "Code": 70750,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Bugne de carnaval",
+        "Prix Kg": 0.527,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 3000g",
+        "Prix portion": null,
+        "Colisage": "Vendu par carton de 3 kg",
+        "Prix colis": 41.95,
+        "Image": "CDP_0488.png"
+    },
+    {
+        "Code": 70751,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Bugne saveur fleur d'oranger",
+        "Prix Kg": 0.2589,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 3000g",
+        "Prix portion": null,
+        "Colisage": "Vendu par carton de 3 kg",
+        "Prix colis": 43.23,
+        "Image": "CDP_0488.png"
+    }
+]

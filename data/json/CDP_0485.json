@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 834585,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cake citron cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 6.31,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 25.24,
+        "Image": "CDP_0485.png"
+    },
+    {
+        "Code": 834586,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cake marbré cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 115g",
+        "Prix portion": 5.6025,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 22.41,
+        "Image": "CDP_0485.png"
+    },
+    {
+        "Code": 835418,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cake aux fruits confits",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 6.11,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 24.44,
+        "Image": "CDP_0485.png"
+    },
+    {
+        "Code": 837288,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cake aux graines et aux baies de Goji",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 187.5g",
+        "Prix portion": 8.275,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 33.09,
+        "Image": "CDP_0485.png"
+    },
+    {
+        "Code": 834610,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cake pain d'épices cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 115g",
+        "Prix portion": 6.26,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 25.04,
+        "Image": "CDP_0485.png"
+    }
+]

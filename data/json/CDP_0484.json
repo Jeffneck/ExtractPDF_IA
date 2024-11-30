@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70285,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Viennoise pépites de chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.9878,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 79.02,
+        "Image": "CDP_0484.png"
+    },
+    {
+        "Code": 832503,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain sandwich viennois",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.1616,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 29.04,
+        "Image": "CDP_0484.png"
+    },
+    {
+        "Code": 835299,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Baguette viennoise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 290g",
+        "Prix portion": 1.1835,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 47.34,
+        "Image": "CDP_0484.png"
+    },
+    {
+        "Code": 841705,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Cake citron pavot Les Secrets du Fournil 1000 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1000g",
+        "Prix portion": 16.4233,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 49.27,
+        "Image": "CDP_0484.png"
+    },
+    {
+        "Code": 841704,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Cake marbré glacage rocher",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 550g",
+        "Prix portion": 9.44,
+        "Colisage": "Colis de 5 unités",
+        "Prix colis": 47.22,
+        "Image": "CDP_0484.png"
+    },
+    {
+        "Code": 841706,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Cake pistache, graines de chia et amandes Les Secrets du Fournil 1000 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1000g",
+        "Prix portion": 18.0733,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 54.22,
+        "Image": "CDP_0484.png"
+    }
+]

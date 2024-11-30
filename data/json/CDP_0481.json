@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 25077,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Briochette tête",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.578,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 46.24,
+        "Image": "CDP_0481.png"
+    },
+    {
+        "Code": 834829,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Briochette tête cuite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 0.747,
+        "Colisage": "Colis de 45 unités",
+        "Prix colis": 33.51,
+        "Image": "CDP_0481.png"
+    },
+    {
+        "Code": 25144,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Briochette boule",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 0.471,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 70.96,
+        "Image": "CDP_0481.png"
+    },
+    {
+        "Code": 25171,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pain au lait",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.428,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 43.45,
+        "Image": "CDP_0481.png"
+    },
+    {
+        "Code": 28193,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tranche de brioche perdue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 1.688,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 60.77,
+        "Image": "CDP_0481.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 840832,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut Oreo®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 73g",
+        "Prix portion": 1.3654,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 65.54,
+        "Image": "CDP_0522.png"
+    },
+    {
+        "Code": 840827,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut made with KitKat®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 73g",
+        "Prix portion": 1.4206,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 51.14,
+        "Image": "CDP_0522.png"
+    },
+    {
+        "Code": 70321,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut Mars®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 57g",
+        "Prix portion": 1.2397,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 44.63,
+        "Image": "CDP_0522.png"
+    },
+    {
+        "Code": 70317,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut Milka®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 65g",
+        "Prix portion": 1.463,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 70.25,
+        "Image": "CDP_0522.png"
+    }
+]

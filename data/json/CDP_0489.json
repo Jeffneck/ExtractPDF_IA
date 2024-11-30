@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 25517,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crêpe sucrée ø 240",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 0.8958,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 44.79,
+        "Image": "CDP_0489.png"
+    },
+    {
+        "Code": 25385,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini crêpe sucrée ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 0.2102,
+        "Colisage": "Colis de 180 unités",
+        "Prix colis": 37.84,
+        "Image": "CDP_0489.png"
+    },
+    {
+        "Code": 841565,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pancake nature ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.4742,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 22.76,
+        "Image": "CDP_0489.png"
+    },
+    {
+        "Code": 25047,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pancake sucré ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.388,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 31.04,
+        "Image": "CDP_0489.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 22159,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Canelé bouchée Grand Siècle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17g",
+        "Prix portion": 0.389,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 57.59,
+        "Image": "CDP_0490.png"
+    },
+    {
+        "Code": 25476,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Canelé Grand Siècle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 0.731,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 35.12,
+        "Image": "CDP_0490.png"
+    },
+    {
+        "Code": 25243,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Canelé bouchée Grand Mariner®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 0.3032,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 45.34,
+        "Image": "CDP_0490.png"
+    },
+    {
+        "Code": 25169,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Canelé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 0.738,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 33.78,
+        "Image": "CDP_0490.png"
+    },
+    {
+        "Code": 25247,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Canelé bouchée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17g",
+        "Prix portion": 0.3071,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 46.07,
+        "Image": "CDP_0490.png"
+    }
+]

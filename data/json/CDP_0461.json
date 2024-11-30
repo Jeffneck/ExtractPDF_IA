@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 833160,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette citron meringuée 3",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 196,
+        "Image": "CDP_0461.png"
+    },
+    {
+        "Code": 873642,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini tartelette framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 197,
+        "Image": "CDP_0461.png"
+    },
+    {
+        "Code": 873634,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini tartelette pomme",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 196,
+        "Image": "CDP_0461.png"
+    },
+    {
+        "Code": 226136,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini tartelette framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 197,
+        "Image": "CDP_0461.png"
+    },
+    {
+        "Code": 862135,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette poire",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 196,
+        "Image": "CDP_0461.png"
+    },
+    {
+        "Code": 252646,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini tartelette pistache",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 197,
+        "Image": "CDP_0461.png"
+    },
+    {
+        "Code": 881375,
+        "Catégorie": "Glaces",
+        "Produit": "Glace vanille aromatisée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": null,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 65,
+        "Image": "CDP_0461.png"
+    }
+]

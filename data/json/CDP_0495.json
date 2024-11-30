@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 833582,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Beignet parfum chocolat noisette 75 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.5073,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 20.29,
+        "Image": "CDP_0495.png"
+    },
+    {
+        "Code": 833580,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Beignet pomme 75 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.4788,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 19.11,
+        "Image": "CDP_0495.png"
+    },
+    {
+        "Code": 833578,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Beignet framboise 75 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.5075,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 20.3,
+        "Image": "CDP_0495.png"
+    },
+    {
+        "Code": 833579,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Beignet nature 55 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 55g",
+        "Prix portion": 0.3813,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 15.25,
+        "Image": "CDP_0495.png"
+    },
+    {
+        "Code": 831180,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mascotte foire",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.423,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 56.92,
+        "Image": "CDP_0495.png"
+    },
+    {
+        "Code": 840808,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mascotte 140 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 1.276,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 51.04,
+        "Image": "CDP_0495.png"
+    }
+]

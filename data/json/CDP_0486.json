@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70447,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cake fondant chocolat poire Belle-Hélène",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 440g",
+        "Prix portion": 13.0235,
+        "Colisage": "Vendu par carton de 4 unités",
+        "Prix colis": 52.13,
+        "Image": "CDP_0486.png"
+    },
+    {
+        "Code": 70448,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cake fondant pommes caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 410g",
+        "Prix portion": 11.97,
+        "Colisage": "Vendu par carton de 4 unités",
+        "Prix colis": 47.88,
+        "Image": "CDP_0486.png"
+    },
+    {
+        "Code": 18458,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Financier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.8231,
+        "Colisage": "Vendu par carton de 72 unités",
+        "Prix colis": 59.26,
+        "Image": "CDP_0486.png"
+    },
+    {
+        "Code": 70410,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Finger cake chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.5194,
+        "Colisage": "Vendu par carton de 16 unités",
+        "Prix colis": 24.31,
+        "Image": "CDP_0486.png"
+    },
+    {
+        "Code": 70411,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Finger cake fruits rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.4925,
+        "Colisage": "Vendu par carton de 16 unités",
+        "Prix colis": 23.88,
+        "Image": "CDP_0486.png"
+    },
+    {
+        "Code": 70235,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Finger cake caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.6348,
+        "Colisage": "Vendu par carton de 16 unités",
+        "Prix colis": 26.39,
+        "Image": "CDP_0486.png"
+    }
+]

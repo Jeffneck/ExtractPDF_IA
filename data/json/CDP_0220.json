@@ -18,7 +18,7 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion de 80g",
-        "Prix portion": 1.109,
+        "Prix portion": 0.7399,
         "Colisage": "Colis de 150 unités",
         "Prix colis": 57.55,
         "Image": "CDP_0220.png"
@@ -30,9 +30,9 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion de 25g",
-        "Prix portion": null,
+        "Prix portion": 0.2878,
         "Colisage": "Colis de 200 unités",
-        "Prix colis": 12.9,
+        "Prix colis": 57.55,
         "Image": "CDP_0220.png"
     },
     {
@@ -54,7 +54,7 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion de 75g",
-        "Prix portion": null,
+        "Prix portion": 0.7467,
         "Colisage": "Colis de 60 unités",
         "Prix colis": 44.8,
         "Image": "CDP_0220.png"
@@ -66,9 +66,9 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion de 85g",
-        "Prix portion": 0.891,
+        "Prix portion": 0.8931,
         "Colisage": "Colis de 64 unités",
-        "Prix colis": 577.16,
+        "Prix colis": 57.16,
         "Image": "CDP_0220.png"
     },
     {
@@ -90,7 +90,7 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": "Portion de 40g",
-        "Prix portion": 0.4656,
+        "Prix portion": 0.4665,
         "Colisage": "Colis de 170 unités",
         "Prix colis": 79.3,
         "Image": "CDP_0220.png"
@@ -102,7 +102,7 @@
         "Prix Kg": null,
         "Prix Litre": null,
         "Portionnement": null,
-        "Prix portion": null,
+        "Prix portion": 0.0220,
         "Colisage": "Colis de 1000 pièces",
         "Prix colis": 22.0,
         "Image": "CDP_0220.png"

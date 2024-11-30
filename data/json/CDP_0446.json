@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 837774,
+        "Catégorie": "Glaces",
+        "Produit": "Café",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2,5 L - Carton de 4 bacs",
+        "Prix portion": 13.25,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0446.png"
+    },
+    {
+        "Code": 837776,
+        "Catégorie": "Glaces",
+        "Produit": "Chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2,5 L - Carton de 4 bacs",
+        "Prix portion": 13.25,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0446.png"
+    },
+    {
+        "Code": 837781,
+        "Catégorie": "Glaces",
+        "Produit": "Pistache",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2,5 L - Carton de 4 bacs",
+        "Prix portion": 13.25,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0446.png"
+    },
+    {
+        "Code": 837786,
+        "Catégorie": "Glaces",
+        "Produit": "Vanille grand arôme",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 5 L - Carton de 2 bacs",
+        "Prix portion": 26.25,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0446.png"
+    },
+    {
+        "Code": 837533,
+        "Catégorie": "Glaces",
+        "Produit": "Café",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 5 L - Carton de 2 bacs",
+        "Prix portion": 19.75,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0446.png"
+    },
+    {
+        "Code": 837534,
+        "Catégorie": "Glaces",
+        "Produit": "Chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 5 L - Carton de 2 bacs",
+        "Prix portion": 19.75,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0446.png"
+    },
+    {
+        "Code": 837535,
+        "Catégorie": "Glaces",
+        "Produit": "Fraise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 5 L - Carton de 2 bacs",
+        "Prix portion": 19.75,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0446.png"
+    },
+    {
+        "Code": 837538,
+        "Catégorie": "Glaces",
+        "Produit": "Vanille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 5 L - Carton de 2 bacs",
+        "Prix portion": 19.75,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0446.png"
+    }
+]

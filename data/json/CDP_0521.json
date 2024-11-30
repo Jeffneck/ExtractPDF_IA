@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841482,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Muffin Oreo®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.4831,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 66.35,
+        "Image": "CDP_0521.png"
+    },
+    {
+        "Code": 841481,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Nutella® muffin",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 86g",
+        "Prix portion": 1.5819,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 75.93,
+        "Image": "CDP_0521.png"
+    },
+    {
+        "Code": 841694,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Muffin Milka®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.7619,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 63.43,
+        "Image": "CDP_0521.png"
+    },
+    {
+        "Code": 70437,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cookie Twix®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 48.5g",
+        "Prix portion": 1.3629,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 32.71,
+        "Image": "CDP_0521.png"
+    },
+    {
+        "Code": 70318,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cookie Snickers®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 1.3629,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 32.71,
+        "Image": "CDP_0521.png"
+    },
+    {
+        "Code": 70319,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cookie M&M's® chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 1.3629,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 32.71,
+        "Image": "CDP_0521.png"
+    }
+]

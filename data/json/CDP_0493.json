@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 840803,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Madeleine fourrée chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 56g",
+        "Prix portion": 0.9013,
+        "Colisage": "Colis de 62 unités",
+        "Prix colis": 55.88,
+        "Image": "CDP_0493.png"
+    },
+    {
+        "Code": 841466,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Madeleine fourrée fraise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 66g",
+        "Prix portion": 0.83,
+        "Colisage": "Colis de 62 unités",
+        "Prix colis": 51.46,
+        "Image": "CDP_0493.png"
+    },
+    {
+        "Code": 838234,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Madeleine nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.7842,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 47.05,
+        "Image": "CDP_0493.png"
+    },
+    {
+        "Code": 826166,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini madeleine de Commercy nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.3436,
+        "Colisage": "Colis de 140 unités",
+        "Prix colis": 48.48,
+        "Image": "CDP_0493.png"
+    },
+    {
+        "Code": 826168,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini madeleine de Commercy aux agrumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.3494,
+        "Colisage": "Colis de 140 unités",
+        "Prix colis": 48.92,
+        "Image": "CDP_0493.png"
+    },
+    {
+        "Code": 70498,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Madeleines assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 315g",
+        "Prix portion": 0.1419,
+        "Colisage": "Vendu par carton de 1260g",
+        "Prix colis": 27.7,
+        "Image": "CDP_0493.png"
+    }
+]

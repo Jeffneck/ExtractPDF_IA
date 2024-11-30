@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70047,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Torsade feuilletée à partager 250 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 2.31,
+        "Colisage": "Carton de 20 unités",
+        "Prix colis": 46.2,
+        "Image": "CDP_0440.png"
+    },
+    {
+        "Code": 25043,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Torsade pépites de chocolat beurre fin",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.099,
+        "Colisage": "Carton de 60 unités",
+        "Prix colis": 65.94,
+        "Image": "CDP_0440.png"
+    },
+    {
+        "Code": 70763,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Torsade pépites chocolat prépoussée 110 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.076,
+        "Colisage": "Carton de 50 unités",
+        "Prix colis": 53.98,
+        "Image": "CDP_0440.png"
+    },
+    {
+        "Code": 841709,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Torsade pépites chocolat prépoussée 90 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 0.7886,
+        "Colisage": "Carton de 50 unités",
+        "Prix colis": 39.43,
+        "Image": "CDP_0440.png"
+    },
+    {
+        "Code": 25215,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Scoubichoc®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.5548,
+        "Colisage": "Carton de 60 unités",
+        "Prix colis": 33.29,
+        "Image": "CDP_0440.png"
+    },
+    {
+        "Code": 25256,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini torsade pépites de chocolat beurre fin",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 28g",
+        "Prix portion": 0.3385,
+        "Colisage": "Carton de 180 unités",
+        "Prix colis": 60.93,
+        "Image": "CDP_0440.png"
+    }
+]

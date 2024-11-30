@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 840720,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchée à la mexicaine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0464.png"
+    },
+    {
+        "Code": 841230,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchée croustillante à la tomate et à la crème",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0464.png"
+    },
+    {
+        "Code": 841440,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchée croustillante au jambon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0464.png"
+    },
+    {
+        "Code": 841746,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchée aux cerneaux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0464.png"
+    },
+    {
+        "Code": 840242,
+        "Catégorie": "Glaces",
+        "Produit": "Bûche roche noir de coco",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0464.png"
+    }
+]

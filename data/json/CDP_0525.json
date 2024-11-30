@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70705,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Les fingers Oh Oui ! : le chocolat noir truffé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 2.623,
+        "Colisage": "Vendu par carton de 27 unités",
+        "Prix colis": 70.82,
+        "Image": "CDP_0525.png"
+    },
+    {
+        "Code": 70707,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Les fingers Oh Oui ! : le fruits rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 83g",
+        "Prix portion": 2.3867,
+        "Colisage": "Vendu par carton de 27 unités",
+        "Prix colis": 64.44,
+        "Image": "CDP_0525.png"
+    },
+    {
+        "Code": 70706,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Les fingers Oh Oui ! : le pistache mandarine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 71g",
+        "Prix portion": 2.4126,
+        "Colisage": "Vendu par carton de 27 unités",
+        "Prix colis": 55.14,
+        "Image": "CDP_0525.png"
+    },
+    {
+        "Code": 70690,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Entremets rond Excellence vanille pécan individuel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 2.915,
+        "Colisage": "Vendu par carton de 12 unités",
+        "Prix colis": 34.98,
+        "Image": "CDP_0525.png"
+    }
+]

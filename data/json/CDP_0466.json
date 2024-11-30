@@ -1,0 +1,122 @@
+[
+    {
+        "Code": 825408,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincé de hambur de bœuf rouge halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 6 pièces",
+        "Prix colis": 379,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 851856,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Émincé de pastirma de bœuf",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 356,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 841503,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Framboise Willer entière",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 471,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 832180,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 467,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 832794,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Frites de patates douces",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 424,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 832906,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Frites Xtra - Coupées 7/8 B-temperature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 424,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 840743,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fromage râpé à la vraie sign",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 481,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 840747,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fromage râpé à la vallée sig",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 481,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 16109,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fromage à la vraie Isigny Ste-Mère",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 481,
+        "Image": "CDP_0466.png"
+    },
+    {
+        "Code": 16113,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fromage frais à la framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 481,
+        "Image": "CDP_0466.png"
+    }
+]

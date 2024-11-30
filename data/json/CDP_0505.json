@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 18430,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Muffin chocolat extrême",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.5595,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 31.19,
+        "Image": "CDP_0505.png"
+    },
+    {
+        "Code": 22037,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Muffin fourré myrtille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.2335,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 24.67,
+        "Image": "CDP_0505.png"
+    },
+    {
+        "Code": 22088,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Muffin parfum chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 93g",
+        "Prix portion": 1.3605,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 27.21,
+        "Image": "CDP_0505.png"
+    },
+    {
+        "Code": 22072,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Muffin caramel noix de pécan",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.4085,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 28.17,
+        "Image": "CDP_0505.png"
+    }
+]

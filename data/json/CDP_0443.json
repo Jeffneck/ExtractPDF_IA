@@ -1,0 +1,122 @@
+[
+    {
+        "Code": 837697,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée vanille bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 24.49,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 24.49,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 837688,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée vanille bourbon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 18.29,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 18.29,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 837698,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 34.35,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 34.35,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 837699,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée chocolat blanc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 18.29,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 18.29,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 840182,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée crème fraîche d'Isigny AOP",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 18.29,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 18.29,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 837616,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée caramel au beurre salé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 18.29,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 18.29,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 837659,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée pistache",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 18.29,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 18.29,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 837680,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée yaourt",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 18.29,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 18.29,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 837684,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée vanille-noix de macadamia",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 18.29,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 18.29,
+        "Image": "CDP_0443.png"
+    },
+    {
+        "Code": 837623,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée chocolat Milka®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bac de 2.5 L, Carton de 4 bacs",
+        "Prix portion": 17.79,
+        "Colisage": "Colis de 4 bacs",
+        "Prix colis": 17.79,
+        "Image": "CDP_0443.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 28122,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Bottereaux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.382,
+        "Colisage": "Colis de 97 unités",
+        "Prix colis": 37.05,
+        "Image": "CDP_0497.png"
+    },
+    {
+        "Code": 840982,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Roulé aux pralines prépoussé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.6482,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 46.15,
+        "Image": "CDP_0497.png"
+    },
+    {
+        "Code": 28113,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Croissant aux amandes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 0.7687,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 69.18,
+        "Image": "CDP_0497.png"
+    },
+    {
+        "Code": 28150,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mouna",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 550g",
+        "Prix portion": 5.135,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 61.62,
+        "Image": "CDP_0497.png"
+    },
+    {
+        "Code": 28108,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Kougelhopf sucré",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 4.98,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 49.8,
+        "Image": "CDP_0497.png"
+    },
+    {
+        "Code": 22161,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Croix de Savoie à la crème pâtissière",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.3724,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 61.76,
+        "Image": "CDP_0497.png"
+    }
+]

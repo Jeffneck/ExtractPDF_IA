@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70512,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Brioche mousseline prête à cuire 400 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 5.84,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 58.04,
+        "Image": "CDP_0482.png"
+    },
+    {
+        "Code": 25281,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Brioche tressée cuite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 33.33g",
+        "Prix portion": 5.77,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 69.24,
+        "Image": "CDP_0482.png"
+    },
+    {
+        "Code": 25354,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Brioche mousseline au sucre perlé cuite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 66.67g",
+        "Prix portion": 5.46,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 32.76,
+        "Image": "CDP_0482.png"
+    },
+    {
+        "Code": 841703,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Brioche Babka",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 56.25g",
+        "Prix portion": 5.45,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 87.21,
+        "Image": "CDP_0482.png"
+    }
+]

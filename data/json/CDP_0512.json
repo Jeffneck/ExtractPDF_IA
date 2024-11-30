@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 22074,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut fourré parfum chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 74g",
+        "Prix portion": 0.8339,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 30.02,
+        "Image": "CDP_0512.png"
+    },
+    {
+        "Code": 25774,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut fourré parfum caramel aromatisé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 71g",
+        "Prix portion": 0.786,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 37.73,
+        "Image": "CDP_0512.png"
+    },
+    {
+        "Code": 25772,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut fourré parfum chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 72g",
+        "Prix portion": 0.8542,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 41.0,
+        "Image": "CDP_0512.png"
+    },
+    {
+        "Code": 833482,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut façon cheesecake",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 68g",
+        "Prix portion": 0.7735,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 37.13,
+        "Image": "CDP_0512.png"
+    },
+    {
+        "Code": 25007,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut fourré crème",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 73g",
+        "Prix portion": 0.6411,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 23.08,
+        "Image": "CDP_0512.png"
+    }
+]

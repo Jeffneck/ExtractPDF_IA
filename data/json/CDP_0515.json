@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 25358,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini donut parfum chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.2629,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 21.51,
+        "Image": "CDP_0515.png"
+    },
+    {
+        "Code": 25689,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini donut",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 28g",
+        "Prix portion": 0.2389,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 19.11,
+        "Image": "CDP_0515.png"
+    },
+    {
+        "Code": 22013,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini donut Sélection fourrés assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.5381,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 38.74,
+        "Image": "CDP_0515.png"
+    },
+    {
+        "Code": 25295,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini donuts assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.4126,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 29.71,
+        "Image": "CDP_0515.png"
+    },
+    {
+        "Code": 70414,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Micro donuts Sélection fourrés assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.3527,
+        "Colisage": "Colis de 112 unités",
+        "Prix colis": 39.5,
+        "Image": "CDP_0515.png"
+    }
+]

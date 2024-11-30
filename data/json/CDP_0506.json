@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 18434,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Maxi muffin Sélection nature chunks de chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.2816,
+        "Colisage": "Carton de 32 unités",
+        "Prix colis": 41.01,
+        "Image": "CDP_0506.png"
+    },
+    {
+        "Code": 25031,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Maxi muffin Sélection chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.3359,
+        "Colisage": "Carton de 32 unités",
+        "Prix colis": 42.75,
+        "Image": "CDP_0506.png"
+    },
+    {
+        "Code": 25055,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Muffin Sélection chocolat fourré parfum chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.134,
+        "Colisage": "Carton de 32 unités",
+        "Prix colis": 22.68,
+        "Image": "CDP_0506.png"
+    },
+    {
+        "Code": 25070,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Muffin nature Sélection fourré parfum caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.1255,
+        "Colisage": "Carton de 20 unités",
+        "Prix colis": 22.51,
+        "Image": "CDP_0506.png"
+    }
+]

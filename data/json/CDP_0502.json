@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 70693,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Layer cake chocolat prédécoupé ø 250",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1/16",
+        "Prix portion": 2.8206,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 45.13,
+        "Image": "CDP_0502.png"
+    },
+    {
+        "Code": 70710,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fondant choco cookie pie ø 82",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1",
+        "Prix portion": null,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 71.39,
+        "Image": "CDP_0502.png"
+    }
+]

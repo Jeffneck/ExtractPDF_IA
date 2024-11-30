@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 25010,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Chouquette Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 14g",
+        "Prix portion": 0.1264,
+        "Colisage": "Colis de 486 unités",
+        "Prix colis": 61.44,
+        "Image": "CDP_0491.png"
+    },
+    {
+        "Code": 25173,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Chouquette sucré",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 0.144,
+        "Colisage": "Colis de 270 unités",
+        "Prix colis": 38.88,
+        "Image": "CDP_0491.png"
+    },
+    {
+        "Code": 18433,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini meringues assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 5g",
+        "Prix portion": 0.1243,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 24.86,
+        "Image": "CDP_0491.png"
+    },
+    {
+        "Code": 25721,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Meringue pâtissière",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de null",
+        "Prix portion": 0.9248,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 44.39,
+        "Image": "CDP_0491.png"
+    },
+    {
+        "Code": 25011,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Meringues pâtissières assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.0735,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 51.53,
+        "Image": "CDP_0491.png"
+    }
+]

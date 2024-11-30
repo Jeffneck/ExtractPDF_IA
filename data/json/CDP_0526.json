@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70564,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme pomme caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.913,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 34.96,
+        "Image": "CDP_0526.png"
+    },
+    {
+        "Code": 70566,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme framboise pistache",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.9875,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 35.85,
+        "Image": "CDP_0526.png"
+    },
+    {
+        "Code": 70565,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme mangue passion coco",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.4992,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 35.39,
+        "Image": "CDP_0526.png"
+    },
+    {
+        "Code": 70689,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Moelleux noisette individuel Sélection Ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.2566,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 40.21,
+        "Image": "CDP_0526.png"
+    },
+    {
+        "Code": 70726,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crousti'flan Ø 105",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 145g",
+        "Prix portion": 1.858,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 45.26,
+        "Image": "CDP_0526.png"
+    }
+]
