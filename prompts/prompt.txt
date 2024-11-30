@@ -1,18 +1,16 @@
-Voici une image avec des informations sur des produits. Extrais les données au format JSON pour chaque produit.
+Voici une image extraite d'un catalogue de vente contenant des informations sur des produits. Extrais les données au format JSON pour chaque produit.
 
 Informations recherchées :
 
 Code : Référence du produit (entier)
 Catégorie : Nom de la catégorie (string, à choisir dans la liste ci-dessous)
 Produit : Nom du produit (string)
-Portionnement : (Format de portionnement + poids par portion, string)
-Prix par portion : (nombre flottant)
+Prix Kg : (nombre flottant)
+Prix Litre : (nombre flottant)
+Portionnement : (Format de portionnement + poids par portion(g)/ volume(en mL si present), string)
+Prix portion : (nombre flottant)
 Colisage : Nombre d'unités par colis ou poids par colis (string)
-Prix colis : Prix par carton (nombre flottant)
-Surgelé : (Si le logo Surgelé est visible)
-Promotion : Indique "OUI" si le mot "Promotion"  est visible sur l'image du produit. Si le mot n'est pas clairement visible ou absent, indique "NON".
-Nouveauté : Indique "OUI" si le mot "Nouveauté"  est visible sur l'image du produit. Si le mot n'est pas clairement visible ou absent, indique "NON".
-
+Prix colis : Prix par carton/colis (nombre flottant)
 
 Liste des catégories possibles :
 
@@ -27,29 +25,27 @@ Si une information est manquante, mets sa valeur à null. Déduis la catégorie 
 
 Exemple de réponse attendue :
 [
-  {
-    "Code": 840806,
-    "Catégorie": "Viennoiseries",
-    "Produit": "Mini croissant prépoussé Les Secrets du Fournil 30 g",
-    "Portionnement": Par pièce de 30 g,
-    "Prix par portion": 0.2888,
-    "Colisage": Colis de 150 pièces,
-    "Prix colis": 56.31,
-    "Surgelé": "OUI",
-    "Promotion": "NON",
-    "Nouveauté": "OUI"
-  },
-  {
-    "Code": 840807,
-    "Catégorie": "Glaces",
-    "Produit": "CRÈME GLACÉE AU CARAMEL ET MORCEAUX DE BROWNIE MAISON",
-    "Portionnement": Par bac de 2,5 L / 1,625 kg,
-    "Prix par portion": 0.3096,
-    "Colisage": Colis de 4 bacs,
-    "Prix colis": 65.01,
-    "Surgelé": "OUI",
-    "Promotion": "OUI",
-    "Nouveauté": "NON"
-  }
+    {
+        "Code": 25113,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres beurre d'Isigny Ste-Mère 80 g",
+        "Prix Kg": 8.4425,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.6754,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 101.31,
+    },
+    {
+        "Code": 835318,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Fleur de Solène",
+        "Prix Kg": 4.2213,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.6332,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 31.66,
+    }
 ]
 Réponds uniquement en fournissant le JSON, sans aucune explication supplémentaire ni balises de code.
