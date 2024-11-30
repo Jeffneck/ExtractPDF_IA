@@ -73,7 +73,7 @@ def json_to_csv(input_file, output_file):
             new_item[new_field] = value
 
         # Remplacer les points par des virgules dans les champs de prix
-        price_fields = ["Prix au kg", "Prix au Litre", "Prix par portion", "Prix par colis"]
+        price_fields = ["Prix Kg", "Prix Litre", "Prix portion", "Prix colis"]
         for field in price_fields:
             if field in new_item and new_item[field]:
                 # Convertir en chaîne et remplacer le point par une virgule
