@@ -19,12 +19,12 @@ def json_to_csv(input_file, output_file):
         "Catégorie",
         "Produit",
         "Marque Fournisseur",
-        "Prix au kg",
-        "Prix au Litre",
+        "Prix Kg",
+        "Prix Litre",
         "Portionnement",
-        "Prix par portion",
+        "Prix portion",
         "Colisage",
-        "Prix par colis",
+        "Prix colis",
         "Disponibilité",
         "Surgelé",
         "Promotion",
@@ -40,7 +40,7 @@ def json_to_csv(input_file, output_file):
         "Prix Kg": "Prix Kg",
         "Prix Litre": "Prix Litre",
         "Portionnement": "Portionnement",
-        "Prix portion": "Prix Portion",
+        "Prix portion": "Prix portion",
         "Colisage": "Colisage",
         "Prix colis": "Prix colis",
         "Disponibilité": "Disponibilité",
@@ -73,13 +73,21 @@ def json_to_csv(input_file, output_file):
             new_item[new_field] = value
 
         # Remplacer les points par des virgules dans les champs de prix
-        price_fields = ["Prix Kg", "Prix Litre", "Prix Portion", "Prix Colis"]
+        price_fields = ["Prix Kg", "Prix Litre", "Prix portion", "Prix colis"]
         for field in price_fields:
             if field in new_item and new_item[field]:
                 # Convertir en chaîne et remplacer le point par une virgule
                 new_item[field] = str(new_item[field]).replace('.', ',')
             else:
                 new_item[field] = ""
+        
+        # Ajouter un préfixe au code produit
+        code_field = "Code"
+        if new_item.get(code_field, ""):
+            # Ajouter le préfixe "CDP_"
+            new_item[code_field] = "CDP_" + str(new_item[code_field])
+        else:
+            new_item[code_field] = ""
 
         # Ajouter l'élément transformé à la liste
         processed_data.append(new_item)
