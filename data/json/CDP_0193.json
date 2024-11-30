@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 840849,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Fleur de Solène® céréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.6774,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 33.87,
+        "Image": "CDP_0193.png"
+    },
+    {
+        "Code": 841702,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Solène® bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 0.9323,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 55.94,
+        "Image": "CDP_0193.png"
+    },
+    {
+        "Code": 70047,
+        "Catégorie": "Pains",
+        "Produit": "Torsade feuilletée à partager 250 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 2.31,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 46.2,
+        "Image": "CDP_0193.png"
+    },
+    {
+        "Code": 841434,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette saveur’n’crack",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.6886,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 34.43,
+        "Image": "CDP_0193.png"
+    },
+    {
+        "Code": 840848,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette saveur aux céréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 0.6062,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 33.01,
+        "Image": "CDP_0193.png"
+    },
+    {
+        "Code": 29395,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette énergie",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.9944,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 24.86,
+        "Image": "CDP_0193.png"
+    }
+]

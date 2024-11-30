@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 840187,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène® bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 180 unités",
+        "Prix portion": 0.2261,
+        "Colisage": "Colis de 180 unités",
+        "Prix colis": 40.69,
+        "Image": "CDP_0224.png"
+    },
+    {
+        "Code": 841720,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain sans gluten",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 24 unités",
+        "Prix portion": 1.5505,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 36.12,
+        "Image": "CDP_0224.png"
+    },
+    {
+        "Code": 29079,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain sans sel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 50 unités",
+        "Prix portion": 0.3386,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 16.93,
+        "Image": "CDP_0224.png"
+    }
+]

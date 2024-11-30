@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70741,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Ganache au foie gras de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 500g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 poches",
+        "Prix colis": null,
+        "Image": "CDP_0262.png"
+    },
+    {
+        "Code": 70740,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Plaque de foie gras de canard éviné",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 4kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 plaques",
+        "Prix colis": null,
+        "Image": "CDP_0262.png"
+    },
+    {
+        "Code": 70742,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Escalope de foie gras de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 25/40g en Poche de 1kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 poches",
+        "Prix colis": null,
+        "Image": "CDP_0262.png"
+    }
+]

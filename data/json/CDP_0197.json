@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 29384,
+        "Catégorie": "Pains",
+        "Produit": "Ciabatta sandwich 160 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 160g",
+        "Prix portion": 0.7657,
+        "Colisage": "Colis de 44 unités",
+        "Prix colis": 33.69,
+        "Image": "CDP_0197.png"
+    },
+    {
+        "Code": 70078,
+        "Catégorie": "Pains",
+        "Produit": "Ciabatta sandwich 140 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 0.6135,
+        "Colisage": "Colis de 65 unités",
+        "Prix colis": 39.88,
+        "Image": "CDP_0197.png"
+    },
+    {
+        "Code": 854659,
+        "Catégorie": "Pains",
+        "Produit": "Ciabatta sandwich 160 g n°2",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 160g",
+        "Prix portion": 0.6068,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 36.41,
+        "Image": "CDP_0197.png"
+    },
+    {
+        "Code": 70248,
+        "Catégorie": "Pains",
+        "Produit": "Focaccia sandwich prétranchée 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.8256,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 26.42,
+        "Image": "CDP_0197.png"
+    },
+    {
+        "Code": 29474,
+        "Catégorie": "Pains",
+        "Produit": "Focaccia nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.835,
+        "Colisage": "Colis de 64 unités",
+        "Prix colis": 53.44,
+        "Image": "CDP_0197.png"
+    },
+    {
+        "Code": 29475,
+        "Catégorie": "Pains",
+        "Produit": "Focaccia au romarin",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.8717,
+        "Colisage": "Colis de 64 unités",
+        "Prix colis": 55.79,
+        "Image": "CDP_0197.png"
+    }
+]

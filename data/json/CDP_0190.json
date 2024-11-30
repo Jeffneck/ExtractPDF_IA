@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 29001,
+        "Catégorie": "Pains",
+        "Produit": "Pain Solène® parisien",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 10 unités",
+        "Prix portion": 1.449,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 14.49,
+        "Image": "CDP_0190.png"
+    },
+    {
+        "Code": 29432,
+        "Catégorie": "Pains",
+        "Produit": "Pain parisien 440 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 22 unités",
+        "Prix portion": 1.3964,
+        "Colisage": "Colis de 22 unités",
+        "Prix colis": 30.72,
+        "Image": "CDP_0190.png"
+    },
+    {
+        "Code": 29392,
+        "Catégorie": "Pains",
+        "Produit": "Baguette bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 18 unités",
+        "Prix portion": 1.3622,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 24.52,
+        "Image": "CDP_0190.png"
+    },
+    {
+        "Code": 822796,
+        "Catégorie": "Pains",
+        "Produit": "Baguette bio aux céréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 16 unités",
+        "Prix portion": 1.5306,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 24.49,
+        "Image": "CDP_0190.png"
+    }
+]

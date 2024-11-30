@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 835327,
+        "Catégorie": "Pains",
+        "Produit": "La Tourte Solène® au sel de Guérande",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1kg",
+        "Prix portion": 5.93,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 23.72,
+        "Image": "CDP_0209.png"
+    },
+    {
+        "Code": 835440,
+        "Catégorie": "Pains",
+        "Produit": "Le gros pain Solène® aux fruits secs",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 800g",
+        "Prix portion": 5.03,
+        "Colisage": "Colis de 7 unités",
+        "Prix colis": 35.21,
+        "Image": "CDP_0209.png"
+    },
+    {
+        "Code": 29078,
+        "Catégorie": "Pains",
+        "Produit": "Pain long du Fournil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 680g",
+        "Prix portion": 2.817,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 28.17,
+        "Image": "CDP_0209.png"
+    },
+    {
+        "Code": 22337,
+        "Catégorie": "Pains",
+        "Produit": "Maxi pain polka Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1kg",
+        "Prix portion": 7.33,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 43.98,
+        "Image": "CDP_0209.png"
+    },
+    {
+        "Code": 29500,
+        "Catégorie": "Pains",
+        "Produit": "Maxi pain Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1.7kg",
+        "Prix portion": 6.9114,
+        "Colisage": "Colis de 7 unités",
+        "Prix colis": 48.38,
+        "Image": "CDP_0209.png"
+    },
+    {
+        "Code": 822797,
+        "Catégorie": "Pains",
+        "Produit": "Maxi pavé Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 800g",
+        "Prix portion": 8.66,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 51.96,
+        "Image": "CDP_0209.png"
+    }
+]

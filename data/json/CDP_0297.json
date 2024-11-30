@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 840189,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tubes d'encre du saumon sauvages pelés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0297.png"
+    },
+    {
+        "Code": 837934,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Petites seiches sauvages entières nettoyées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0297.png"
+    },
+    {
+        "Code": 70145,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tentacule de poulpe sauvage",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": null,
+        "Colisage": "Carton de 18 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0297.png"
+    },
+    {
+        "Code": 841793,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cocktail de fruits de mer",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0297.png"
+    },
+    {
+        "Code": 831410,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Anneaux d'encornets sauvages",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0297.png"
+    },
+    {
+        "Code": 831605,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Moules du Pacifique entières 60/80",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0297.png"
+    }
+]

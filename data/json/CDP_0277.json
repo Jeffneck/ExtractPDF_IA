@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70071,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Wings de poulet pané",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2,5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0277.png"
+    },
+    {
+        "Code": 835106,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Onion rings",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 600 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 9 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0277.png"
+    },
+    {
+        "Code": 841589,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Beignets à la romaine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0277.png"
+    },
+    {
+        "Code": 825578,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini-involtinis au fromage de chèvre et speck",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 pots",
+        "Prix colis": null,
+        "Image": "CDP_0277.png"
+    },
+    {
+        "Code": 831411,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Rabas panés (lanières de calamars panées)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0277.png"
+    }
+]

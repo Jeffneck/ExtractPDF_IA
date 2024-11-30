@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 40035,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poké Poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "300g",
+        "Prix portion": 5.22,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0234.png"
+    },
+    {
+        "Code": 83214,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bol salade carbon brun",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 pièce",
+        "Prix portion": 0.0,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0234.png"
+    }
+]

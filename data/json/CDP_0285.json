@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 40604,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Dés de jambon DD standard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Dé de 5x5 mm env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 kg",
+        "Prix colis": null,
+        "Image": "CDP_0285.png"
+    },
+    {
+        "Code": 841784,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Lardons de volaille halal fumés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Lardon de 5x5x25 mm env.",
+        "Prix portion": null,
+        "Colisage": "Sachet de 2 kg, Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0285.png"
+    },
+    {
+        "Code": 821965,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Lardons nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0285.png"
+    },
+    {
+        "Code": 18417,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Lardons fumés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0285.png"
+    },
+    {
+        "Code": 18473,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Lardons fumés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Lardon de 5x5x25 mm env.",
+        "Prix portion": null,
+        "Colisage": "Sachet de 1 kg, Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0285.png"
+    },
+    {
+        "Code": 40752,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Lardons fumés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Lardon de 5x5x25 mm env.",
+        "Prix portion": null,
+        "Colisage": "Sachet de 1 kg, Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0285.png"
+    }
+]

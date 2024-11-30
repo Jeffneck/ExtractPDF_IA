@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 26044,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Baguette garnie tomates mozzarella",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 1.9,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 34.15,
+        "Image": "CDP_0263.png"
+    },
+    {
+        "Code": 26294,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Baguette garnie chèvre amandes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 2.0,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 35.97,
+        "Image": "CDP_0263.png"
+    },
+    {
+        "Code": 70769,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Baguette garnie façon savoyarde",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 1.68,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 30.15,
+        "Image": "CDP_0263.png"
+    },
+    {
+        "Code": 70768,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Baguette garnie flambée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 1.71,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 30.8,
+        "Image": "CDP_0263.png"
+    },
+    {
+        "Code": 26370,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Baguette garnie façon franc comtoise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 2.06,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 37.0,
+        "Image": "CDP_0263.png"
+    },
+    {
+        "Code": 823594,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Baguette garnie hot-dog",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 200g",
+        "Prix portion": 2.34,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 42.18,
+        "Image": "CDP_0263.png"
+    },
+    {
+        "Code": 26013,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Baguette garnie kebab",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 1.97,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 35.45,
+        "Image": "CDP_0263.png"
+    }
+]

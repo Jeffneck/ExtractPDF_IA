@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 840115,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les bun's burgers : le Everything",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0311.png"
+    },
+    {
+        "Code": 44446,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tomates rondelles mi-séchées aromatisées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0311.png"
+    },
+    {
+        "Code": 826183,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pain sandwich hamburger prétranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0311.png"
+    },
+    {
+        "Code": 832507,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tranchette de bacon crispy",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0311.png"
+    },
+    {
+        "Code": 841768,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tranche de cheddar",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0311.png"
+    },
+    {
+        "Code": 832298,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Haché de poulet rôti spécial burger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0311.png"
+    },
+    {
+        "Code": 42608,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Täpena'poivrons rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0311.png"
+    }
+]

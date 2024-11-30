@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 26068,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Trio de mini tartares",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 1.6528,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 59.5,
+        "Image": "CDP_0072.png"
+    },
+    {
+        "Code": 26259,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Duo tartares saumon et noix de Saint-Jacques",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 2.4972,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 89.9,
+        "Image": "CDP_0072.png"
+    },
+    {
+        "Code": 828985,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Verrine lentilles saumon fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 2.8103,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 84.31,
+        "Image": "CDP_0072.png"
+    },
+    {
+        "Code": 826119,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bocal vegan",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 2.1595,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 43.19,
+        "Image": "CDP_0072.png"
+    },
+    {
+        "Code": 828984,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Verrine méditerranéenne",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 2.5377,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 76.07,
+        "Image": "CDP_0072.png"
+    },
+    {
+        "Code": 841733,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Découverte de saveurs en mini boîtes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 2.115,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 84.6,
+        "Image": "CDP_0072.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 26723,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Explosion de saveurs",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 9.9g",
+        "Prix portion": 2.76818,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 10.47,
+        "Image": "CDP_0059.png"
+    },
+    {
+        "Code": 26680,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Révélation de saveurs",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 11.5g",
+        "Prix portion": 1.99,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 79.6,
+        "Image": "CDP_0059.png"
+    }
+]

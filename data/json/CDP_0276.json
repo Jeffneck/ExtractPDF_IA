@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841441,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Bouchée croustillante au fromage",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 29 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets.",
+        "Prix colis": null,
+        "Image": "CDP_0276.png"
+    },
+    {
+        "Code": 70478,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Boulette panée façon thaï",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 18 g, Sachet de 2.5 kg.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets.",
+        "Prix colis": null,
+        "Image": "CDP_0276.png"
+    },
+    {
+        "Code": 841439,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Bouchée croustillante à la tomate et à la crème",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 30 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets.",
+        "Prix colis": null,
+        "Image": "CDP_0276.png"
+    },
+    {
+        "Code": 840723,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Bouchée à la mexicaine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 25 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets.",
+        "Prix colis": null,
+        "Image": "CDP_0276.png"
+    },
+    {
+        "Code": 841440,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Bouchée croustillante au jambon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 30 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets.",
+        "Prix colis": null,
+        "Image": "CDP_0276.png"
+    }
+]

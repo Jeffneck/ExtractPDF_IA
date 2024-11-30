@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 26911,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarti'pizza napolitaine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 300 g",
+        "Prix portion": 2.54,
+        "Colisage": "Colis de 22 pièces",
+        "Prix colis": 55.84,
+        "Image": "CDP_0253.png"
+    },
+    {
+        "Code": 26935,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarti'pizza royale",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 300 g",
+        "Prix portion": 2.67,
+        "Colisage": "Colis de 22 pièces",
+        "Prix colis": 58.78,
+        "Image": "CDP_0253.png"
+    },
+    {
+        "Code": 26924,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarti'pizza chèvre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 280 g",
+        "Prix portion": 2.58,
+        "Colisage": "Colis de 22 pièces",
+        "Prix colis": 56.71,
+        "Image": "CDP_0253.png"
+    },
+    {
+        "Code": 26845,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarti'pizza 4 fromages",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 280 g",
+        "Prix portion": 2.74,
+        "Colisage": "Colis de 22 pièces",
+        "Prix colis": 60.27,
+        "Image": "CDP_0253.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70671,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de pâte à pizza ovale",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.6288,
+        "Colisage": "Colis de 56 unités",
+        "Prix colis": 35.21,
+        "Image": "CDP_0140.png"
+    },
+    {
+        "Code": 70670,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque feuilleté Sélection non piqué à garnir ø 220",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 145g",
+        "Prix portion": 0.9,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 63.0,
+        "Image": "CDP_0140.png"
+    },
+    {
+        "Code": 70761,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette Sélection sucré à bord droit ø 82",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.419,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 16.78,
+        "Image": "CDP_0140.png"
+    },
+    {
+        "Code": 70708,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette Sélection sucré à bord droit cru ø 82",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.566,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 22.64,
+        "Image": "CDP_0140.png"
+    },
+    {
+        "Code": 70709,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette cookie à bord droit ø 82",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.383,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 21.53,
+        "Image": "CDP_0140.png"
+    }
+]

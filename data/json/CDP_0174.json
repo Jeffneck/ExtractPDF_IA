@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 826105,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pavlova vanille individuelle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids de 65 g, Vendu par carton de 12 unités",
+        "Prix portion": 2.498,
+        "Colisage": "Carton de 12 unités",
+        "Prix colis": 29.89,
+        "Image": "CDP_0174.png"
+    },
+    {
+        "Code": 840153,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini pavlova Ø 42",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids de 10 g, Vendu par carton de 35 unités",
+        "Prix portion": 1.0274,
+        "Colisage": "Carton de 35 unités",
+        "Prix colis": 35.96,
+        "Image": "CDP_0174.png"
+    },
+    {
+        "Code": 70433,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond croustillant chocolat blanc Ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids de 85 g, Vendu par carton de 144 unités",
+        "Prix portion": 0.3835,
+        "Colisage": "Carton de 144 unités",
+        "Prix colis": 55.22,
+        "Image": "CDP_0174.png"
+    },
+    {
+        "Code": 70434,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond croustillant chocolat noir Ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids de 85 g, Vendu par carton de 144 unités",
+        "Prix portion": 0.3835,
+        "Colisage": "Carton de 144 unités",
+        "Prix colis": 55.22,
+        "Image": "CDP_0174.png"
+    },
+    {
+        "Code": 26303,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Kit décors chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids de 310 g, Vendu par carton de 6 unités",
+        "Prix portion": 0.2891,
+        "Colisage": "Carton de 6 unités",
+        "Prix colis": 89.62,
+        "Image": "CDP_0174.png"
+    },
+    {
+        "Code": 27894,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Petite cuillère chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids de 8 g, Vendu par carton de 84 unités",
+        "Prix portion": 0.6415,
+        "Colisage": "Carton de 84 unités",
+        "Prix colis": 38.77,
+        "Image": "CDP_0174.png"
+    }
+]

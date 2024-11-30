@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 70280,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Finger fromage",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 90g",
+        "Prix portion": 0.96,
+        "Colisage": "Colis de 60 pièces",
+        "Prix colis": 57.54,
+        "Image": "CDP_0257.png"
+    },
+    {
+        "Code": 840862,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les torsadées salées : fromage oignons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 90g",
+        "Prix portion": 0.88,
+        "Colisage": "Colis de 70 pièces",
+        "Prix colis": 61.38,
+        "Image": "CDP_0257.png"
+    },
+    {
+        "Code": 840863,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les torsadées salées : tomate olives noires champignons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 90g",
+        "Prix portion": 0.88,
+        "Colisage": "Colis de 70 pièces",
+        "Prix colis": 61.38,
+        "Image": "CDP_0257.png"
+    },
+    {
+        "Code": 26511,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Feuilleté fromage 110 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 110g",
+        "Prix portion": 0.9,
+        "Colisage": "Colis de 40 pièces",
+        "Prix colis": 53.93,
+        "Image": "CDP_0257.png"
+    },
+    {
+        "Code": 70074,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Feuilleté viande",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 120g",
+        "Prix portion": 1.33,
+        "Colisage": "Colis de 30 pièces",
+        "Prix colis": 39.88,
+        "Image": "CDP_0257.png"
+    },
+    {
+        "Code": 70046,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Maxi feuilleté bœuf à la mexicaine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 200g",
+        "Prix portion": 2.11,
+        "Colisage": "Colis de 24 pièces",
+        "Prix colis": 50.73,
+        "Image": "CDP_0257.png"
+    },
+    {
+        "Code": 70296,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Enveloppé au thon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 135g",
+        "Prix portion": 1.05,
+        "Colisage": "Colis de 56 pièces",
+        "Prix colis": 58.53,
+        "Image": "CDP_0257.png"
+    },
+    {
+        "Code": 26592,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Maxi feuilleté Comté AOP",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 200g",
+        "Prix portion": 1.99,
+        "Colisage": "Colis de 20 pièces",
+        "Prix colis": 39.86,
+        "Image": "CDP_0257.png"
+    }
+]

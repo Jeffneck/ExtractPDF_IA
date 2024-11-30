@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 832581,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Verrine escabèche aux écrevisses",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 2.0877,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 62.63,
+        "Image": "CDP_0081.png"
+    },
+    {
+        "Code": 832582,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Verrine nouilles soba et crevette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 2.054,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 61.62,
+        "Image": "CDP_0081.png"
+    },
+    {
+        "Code": 70031,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Verrine saumon et purée de vitelottes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 2.0197,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 60.59,
+        "Image": "CDP_0081.png"
+    },
+    {
+        "Code": 841664,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Verrine de parmentier de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 2.1857,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 65.57,
+        "Image": "CDP_0081.png"
+    }
+]

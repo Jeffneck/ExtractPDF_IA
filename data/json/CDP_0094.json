@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 26135,
+        "Catégorie": "Pains",
+        "Produit": "Pain nordique surprise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "200g",
+        "Prix portion": 0.779,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 99.31,
+        "Image": "CDP_0094.png"
+    },
+    {
+        "Code": 26133,
+        "Catégorie": "Pains",
+        "Produit": "Pain complet surprise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "150g",
+        "Prix portion": 0.7163,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 71.63,
+        "Image": "CDP_0094.png"
+    },
+    {
+        "Code": 26728,
+        "Catégorie": "Pains",
+        "Produit": "Duo surprises bicolores",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "140g",
+        "Prix portion": 0.5961,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 71.53,
+        "Image": "CDP_0094.png"
+    },
+    {
+        "Code": 26009,
+        "Catégorie": "Pains",
+        "Produit": "Pain long surprise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "550g",
+        "Prix portion": 0.6688,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 68.22,
+        "Image": "CDP_0094.png"
+    },
+    {
+        "Code": 834573,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Cake jambon fromage cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "300g",
+        "Prix portion": 4.583,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 26.75,
+        "Image": "CDP_0094.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 826095,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard au maïs",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 2.3839,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 42.91,
+        "Image": "CDP_0202.png"
+    },
+    {
+        "Code": 29051,
+        "Catégorie": "Pains",
+        "Produit": "Boule bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 500g",
+        "Prix portion": 2.3682,
+        "Colisage": "Colis de 11 unités",
+        "Prix colis": 26.05,
+        "Image": "CDP_0202.png"
+    },
+    {
+        "Code": 29049,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard aux céréales bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 2.1667,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 32.5,
+        "Image": "CDP_0202.png"
+    },
+    {
+        "Code": 29050,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 1.9534,
+        "Colisage": "Colis de 14 unités",
+        "Prix colis": 27.36,
+        "Image": "CDP_0202.png"
+    }
+]

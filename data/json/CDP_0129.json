@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70291,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron café ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7836,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 28.21,
+        "Image": "CDP_0129.png"
+    },
+    {
+        "Code": 70472,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron citron fraise ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7966,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 27.88,
+        "Image": "CDP_0129.png"
+    },
+    {
+        "Code": 70473,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron vanille myrtille ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7966,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 27.88,
+        "Image": "CDP_0129.png"
+    }
+]

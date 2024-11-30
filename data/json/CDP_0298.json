@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70176,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de limande du nord sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 180/200 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0298.png"
+    },
+    {
+        "Code": 84179,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de sole tropicale sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 80/120 g",
+        "Prix portion": null,
+        "Colisage": "Boite de 2 kg, Carton de 6 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0298.png"
+    },
+    {
+        "Code": 841795,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de raie sauvage (sans peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Filet de 200/400 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0298.png"
+    },
+    {
+        "Code": 841588,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aile de raie sauvage (sans peau, ébarbée)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Aile de raie pelée et ébarbée",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (6 à 12 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0298.png"
+    },
+    {
+        "Code": 840297,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de lotte sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Filet emballé individuellement (IWP)",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (6 à 12 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0298.png"
+    },
+    {
+        "Code": 841797,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de brochet sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 200/400 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg",
+        "Prix colis": null,
+        "Image": "CDP_0298.png"
+    }
+]

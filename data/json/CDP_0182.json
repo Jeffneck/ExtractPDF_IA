@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 835318,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Fleur de Solène",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.06416,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 32.08,
+        "Image": "CDP_0182.png"
+    },
+    {
+        "Code": 29338,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Solène",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 0.06328,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 25.31,
+        "Image": "CDP_0182.png"
+    },
+    {
+        "Code": 70001,
+        "Catégorie": "Pains",
+        "Produit": "Pain sandwich moelleux Les Secrets du Fournil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 0.0605,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 18.15,
+        "Image": "CDP_0182.png"
+    },
+    {
+        "Code": 29018,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette saveur",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.056,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 28.0,
+        "Image": "CDP_0182.png"
+    }
+]

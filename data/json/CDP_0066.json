@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 822903,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bruschetta légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0066.png"
+    },
+    {
+        "Code": 70453,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini délice Excellence chèvre abricot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0066.png"
+    },
+    {
+        "Code": 828984,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Verrine méditerranéenne",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0066.png"
+    },
+    {
+        "Code": 826121,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini tatins légumes assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0066.png"
+    }
+]

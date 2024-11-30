@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 840844,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Coque de chou craquelin ø 80",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.8419,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 30.31,
+        "Image": "CDP_0171.png"
+    },
+    {
+        "Code": 70016,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Coque de chou craquelin lunch ø 50",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.2836,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 42.54,
+        "Image": "CDP_0171.png"
+    },
+    {
+        "Code": 28203,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Chou à garnir ø 80",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17g",
+        "Prix portion": 0.2561,
+        "Colisage": "Colis de 110 unités",
+        "Prix colis": 28.17,
+        "Image": "CDP_0171.png"
+    },
+    {
+        "Code": 28200,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Chou lunch à garnir ø 54",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 6g",
+        "Prix portion": 0.1311,
+        "Colisage": "Colis de 320 unités",
+        "Prix colis": 41.95,
+        "Image": "CDP_0171.png"
+    },
+    {
+        "Code": 835435,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini chou à garnir ø 45",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 3.3g",
+        "Prix portion": 0.0965,
+        "Colisage": "Colis de 220 unités",
+        "Prix colis": 21.23,
+        "Image": "CDP_0171.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 841671,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini choux lunch",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.924,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 27.72,
+        "Image": "CDP_0124.png"
+    },
+    {
+        "Code": 841734,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini choux lunch fruités",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.8627,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 25.88,
+        "Image": "CDP_0124.png"
+    }
+]

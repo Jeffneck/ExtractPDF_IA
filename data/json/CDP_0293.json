@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 40032,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillette de filet de colin d'Alaska panée citron (sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0293.png"
+    },
+    {
+        "Code": 70354,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Sauce fish (sauce tartare)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0293.png"
+    },
+    {
+        "Code": 841768,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tranche de cheddar",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0293.png"
+    },
+    {
+        "Code": 29642,
+        "Catégorie": "Pains",
+        "Produit": "Panini prémarqué découpé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0293.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 26268,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Chouquette au comté",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 16g",
+        "Prix portion": 0.3023,
+        "Colisage": "Carton de 144 unités",
+        "Prix colis": 43.53,
+        "Image": "CDP_0062.png"
+    },
+    {
+        "Code": 26269,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Chouquette emmental",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 16g",
+        "Prix portion": 0.2721,
+        "Colisage": "Carton de 144 unités",
+        "Prix colis": 39.18,
+        "Image": "CDP_0062.png"
+    },
+    {
+        "Code": 26732,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini feuilleté saucisse cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17.5g",
+        "Prix portion": 0.367,
+        "Colisage": "Carton de 160 unités",
+        "Prix colis": 58.72,
+        "Image": "CDP_0062.png"
+    },
+    {
+        "Code": 841440,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchée croustillante au jambon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.223,
+        "Colisage": "Carton de 150 pièces",
+        "Prix colis": 33.45,
+        "Image": "CDP_0062.png"
+    },
+    {
+        "Code": 841441,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchée croustillante au fromage",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 29g",
+        "Prix portion": 0.1909,
+        "Colisage": "Carton de 100 pièces",
+        "Prix colis": 19.09,
+        "Image": "CDP_0062.png"
+    },
+    {
+        "Code": 841439,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchée croustillante à la tomate et à la crème",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.1639,
+        "Colisage": "Carton de 115 unités",
+        "Prix colis": 18.85,
+        "Image": "CDP_0062.png"
+    }
+]

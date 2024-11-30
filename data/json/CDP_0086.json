@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 26297,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini nems assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "3 dosettes de 40g",
+        "Prix portion": 0.629,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 29.85,
+        "Image": "CDP_0086.png"
+    },
+    {
+        "Code": 26607,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini samossas assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "4 dosettes de 20g",
+        "Prix portion": 0.5802,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 27.85,
+        "Image": "CDP_0086.png"
+    },
+    {
+        "Code": 831313,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini rouleau de printemps aux légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 pièce de 40g",
+        "Prix portion": 1.048,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 52.44,
+        "Image": "CDP_0086.png"
+    },
+    {
+        "Code": 841730,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Bouchées vapeur",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "10 unités par variété",
+        "Prix portion": 0.8308,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 74.77,
+        "Image": "CDP_0086.png"
+    }
+]

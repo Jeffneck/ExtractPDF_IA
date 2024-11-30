@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70398,
+        "Catégorie": "Pains",
+        "Produit": "Briochain® lunch ø 65",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion non spécifié",
+        "Prix portion": 0.3051,
+        "Colisage": "Colis de 170 unités",
+        "Prix colis": 51.86,
+        "Image": "CDP_0159.png"
+    },
+    {
+        "Code": 841778,
+        "Catégorie": "Pains",
+        "Produit": "Bun’s lunch noir ø 55",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion non spécifié",
+        "Prix portion": 0.5045,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 60.54,
+        "Image": "CDP_0159.png"
+    },
+    {
+        "Code": 26107,
+        "Catégorie": "Pains",
+        "Produit": "Briochain® ø 45",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 0.2582,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 25.82,
+        "Image": "CDP_0159.png"
+    },
+    {
+        "Code": 26962,
+        "Catégorie": "Pains",
+        "Produit": "Briochain® assortis ø 45",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 0.2958,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 26.62,
+        "Image": "CDP_0159.png"
+    },
+    {
+        "Code": 70426,
+        "Catégorie": "Pains",
+        "Produit": "Briochain® assortis colorés ø 45",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion non spécifié",
+        "Prix portion": 0.5363,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 53.63,
+        "Image": "CDP_0159.png"
+    },
+    {
+        "Code": 831248,
+        "Catégorie": "Pains",
+        "Produit": "Bun sésame ø 50",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 0.5386,
+        "Colisage": "Colis de 140 unités",
+        "Prix colis": 50.21,
+        "Image": "CDP_0159.png"
+    }
+]

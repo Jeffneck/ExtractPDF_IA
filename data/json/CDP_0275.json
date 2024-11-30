@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 833270,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Falafel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Produit de 16 g env. Sachet de 2,5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0275.png"
+    },
+    {
+        "Code": 26206,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Acras de morue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 12,5 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 kg (160 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0275.png"
+    },
+    {
+        "Code": 841476,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini empanadas thon et légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 30 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0275.png"
+    },
+    {
+        "Code": 841475,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini empanadas boeuf tex mex",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 30 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0275.png"
+    },
+    {
+        "Code": 26978,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini pastilla poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 25 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 plateaux",
+        "Prix colis": null,
+        "Image": "CDP_0275.png"
+    },
+    {
+        "Code": 835395,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Assortiment de mini tacos",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 14 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0275.png"
+    },
+    {
+        "Code": 822903,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bruschetta légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 19 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 380 g (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0275.png"
+    }
+]

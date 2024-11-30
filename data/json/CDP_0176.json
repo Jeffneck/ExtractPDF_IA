@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 26022,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pâtón à pizza 160 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 160g",
+        "Prix portion": 0.4312,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 25.87,
+        "Image": "CDP_0176.png"
+    },
+    {
+        "Code": 22092,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque de pâte à pizza Ø 270",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 200g",
+        "Prix portion": 0.8577,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 25.73,
+        "Image": "CDP_0176.png"
+    },
+    {
+        "Code": 835426,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque de pâte à pizza Ø 300",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 220g",
+        "Prix portion": 0.9934,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 34.8,
+        "Image": "CDP_0176.png"
+    },
+    {
+        "Code": 822887,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque de pâte à pizza précuit Ø 160",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.3883,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 41.65,
+        "Image": "CDP_0176.png"
+    },
+    {
+        "Code": 26689,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque de pâte à pizza précuit tomaté Ø 270",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 300g",
+        "Prix portion": 2.0887,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 31.33,
+        "Image": "CDP_0176.png"
+    },
+    {
+        "Code": 838194,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque de pâte à pizza précuit créme Ø 270",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 300g",
+        "Prix portion": 2.4833,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 37.25,
+        "Image": "CDP_0176.png"
+    }
+]

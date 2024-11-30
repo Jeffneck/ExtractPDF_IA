@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70743,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Quiche champignons carottes épinards Le Tourier précuite Ø 250 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 1.2 kg",
+        "Prix portion": 1.271,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": 50.85,
+        "Image": "CDP_0243.png"
+    },
+    {
+        "Code": 70677,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bretzel gratiné emmental lardons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 110 g",
+        "Prix portion": 1.84,
+        "Colisage": "Colis de 15 pièces",
+        "Prix colis": 27.62,
+        "Image": "CDP_0243.png"
+    },
+    {
+        "Code": 70678,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bretzel gratiné emmental tomates",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120 g",
+        "Prix portion": 1.84,
+        "Colisage": "Colis de 15 pièces",
+        "Prix colis": 27.62,
+        "Image": "CDP_0243.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841729,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Allumette feuilletée emmental",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 16g",
+        "Prix portion": 0.3615,
+        "Colisage": "Colis de 160 unités",
+        "Prix colis": 57.84,
+        "Image": "CDP_0071.png"
+    },
+    {
+        "Code": 832464,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Chouquette emmental pavot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.596,
+        "Colisage": "Colis de 144 unités",
+        "Prix colis": 82.02,
+        "Image": "CDP_0071.png"
+    },
+    {
+        "Code": 18440,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini paniers feuilletés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 14g",
+        "Prix portion": 0.3987,
+        "Colisage": "Colis de 160 unités",
+        "Prix colis": 63.79,
+        "Image": "CDP_0071.png"
+    },
+    {
+        "Code": 26676,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Feuilletés cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.4652,
+        "Colisage": "Colis de 128 unités",
+        "Prix colis": 59.54,
+        "Image": "CDP_0071.png"
+    },
+    {
+        "Code": 832596,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Petits fours feuilletés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 14g",
+        "Prix portion": 0.3462,
+        "Colisage": "Colis de 208 unités",
+        "Prix colis": 72.0,
+        "Image": "CDP_0071.png"
+    },
+    {
+        "Code": 26033,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Petits fours feuilletés Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 11.5g",
+        "Prix portion": 0.2639,
+        "Colisage": "Colis de 208 unités",
+        "Prix colis": 56.02,
+        "Image": "CDP_0071.png"
+    }
+]

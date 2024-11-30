@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70453,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini délice Excellence chèvre abricot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 11g",
+        "Prix portion": 1.418,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 49.63,
+        "Image": "CDP_0068.png"
+    },
+    {
+        "Code": 83455,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini cœur miroir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 14g",
+        "Prix portion": 2.2975,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 110.28,
+        "Image": "CDP_0068.png"
+    },
+    {
+        "Code": 841662,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini succete de bloc de foie gras et chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 7.5g",
+        "Prix portion": 2.1833,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 87.33,
+        "Image": "CDP_0068.png"
+    },
+    {
+        "Code": 70029,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini dôme Excellence saumon et pistache",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 9.8g",
+        "Prix portion": 1.9739,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 79.17,
+        "Image": "CDP_0068.png"
+    },
+    {
+        "Code": 70254,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Paletino",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 2.2729,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 54.55,
+        "Image": "CDP_0068.png"
+    },
+    {
+        "Code": 835394,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini roses de crevettes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 1.007,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 60.44,
+        "Image": "CDP_0068.png"
+    }
+]

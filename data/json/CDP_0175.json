@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841657,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pinsa Romana pliée à garnir précuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 2.5534,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 89.37,
+        "Image": "CDP_0175.png"
+    },
+    {
+        "Code": 70468,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pinsa Romana ovale à garnir précuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 230g",
+        "Prix portion": 2.8631,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 45.81,
+        "Image": "CDP_0175.png"
+    },
+    {
+        "Code": 26074,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Plaque de pâte à pizza 585 x 390 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 5.832,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 58.32,
+        "Image": "CDP_0175.png"
+    },
+    {
+        "Code": 26389,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Plaque de pâte à pizza 570 x 370 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 5.82,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 58.25,
+        "Image": "CDP_0175.png"
+    },
+    {
+        "Code": 26075,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Plaque de pâte à pizza prépoussée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1015g",
+        "Prix portion": 1.2,
+        "Colisage": "Colis de 5 unités",
+        "Prix colis": 25.6,
+        "Image": "CDP_0175.png"
+    }
+]

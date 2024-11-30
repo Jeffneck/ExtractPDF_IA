@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 26073,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapin® tomate plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0154.png"
+    },
+    {
+        "Code": 834575,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini cornets salés à garnir assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0154.png"
+    },
+    {
+        "Code": 70426,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Briochain® assortis colorés ø 45",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0154.png"
+    }
+]

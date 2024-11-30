@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 840157,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de rouge barbet cinnabare sauvage 40/60 g (avec peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40/60g",
+        "Prix portion": null,
+        "Colisage": "Colis de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0300.png"
+    },
+    {
+        "Code": 841808,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de truite (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150/230g",
+        "Prix portion": null,
+        "Colisage": "Colis de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0300.png"
+    },
+    {
+        "Code": 832803,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet d'ombre chevalier (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400/600g",
+        "Prix portion": null,
+        "Colisage": "Colis de 5 kg (8 à 12 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0300.png"
+    },
+    {
+        "Code": 841809,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de saumon Atlantique (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 900/400g",
+        "Prix portion": null,
+        "Colisage": "Colis de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0300.png"
+    },
+    {
+        "Code": 70483,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de vive sauvage (avec peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20/40g",
+        "Prix portion": null,
+        "Colisage": "Colis de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0300.png"
+    },
+    {
+        "Code": 70485,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de sardine sauvage (avec peau, coupe papillon)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 207g",
+        "Prix portion": null,
+        "Colisage": "Colis de 3 kg",
+        "Prix colis": null,
+        "Image": "CDP_0300.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70039,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tarte fine provençale 1/2 plaque",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 16.49,
+        "Colisage": "Colis de 6 pièces",
+        "Prix colis": 65.96,
+        "Image": "CDP_0255.png"
+    },
+    {
+        "Code": 841677,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza margherita 1/2 plaque",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 975g",
+        "Prix portion": 9.04,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": 36.17,
+        "Image": "CDP_0255.png"
+    },
+    {
+        "Code": 841678,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza regina 1/2 plaque",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1100g",
+        "Prix portion": 12.96,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": 51.83,
+        "Image": "CDP_0255.png"
+    },
+    {
+        "Code": 841738,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pissaladière 1/2 plaque",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1000g",
+        "Prix portion": 16.61,
+        "Colisage": "Colis de 6 pièces",
+        "Prix colis": 66.43,
+        "Image": "CDP_0255.png"
+    },
+    {
+        "Code": 841679,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza épinards ricotta 1/2 plaque",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1065g",
+        "Prix portion": 14.47,
+        "Colisage": "Colis de 6 pièces",
+        "Prix colis": 57.89,
+        "Image": "CDP_0255.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 26655,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini sandwiches",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "2 plateaux de 35 unités",
+        "Prix portion": 1.397,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 79.78,
+        "Image": "CDP_0084.png"
+    },
+    {
+        "Code": 26199,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini bagels garnis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 plateau de 48 unités",
+        "Prix portion": 0.9479,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 45.5,
+        "Image": "CDP_0084.png"
+    },
+    {
+        "Code": 26643,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini sandwiches tapas",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "3 plateaux de 20 unités",
+        "Prix portion": 1.1215,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 67.29,
+        "Image": "CDP_0084.png"
+    },
+    {
+        "Code": 26232,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchées surprise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 plateau de 28 unités",
+        "Prix portion": 1.2639,
+        "Colisage": "Colis de 84 unités",
+        "Prix colis": 106.62,
+        "Image": "CDP_0084.png"
+    }
+]

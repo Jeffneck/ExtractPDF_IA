@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 26161,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pain campagne spécial surprise à garnir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 50 sandwiches",
+        "Prix portion": 14.11,
+        "Colisage": "Vendu par carton de 2 unités",
+        "Prix colis": 28.22,
+        "Image": "CDP_0166.png"
+    },
+    {
+        "Code": 26180,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pain surprise aux céréales tranché à garnir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 50 sandwiches",
+        "Prix portion": 11.22,
+        "Colisage": "Vendu par carton de 2 unités",
+        "Prix colis": 22.44,
+        "Image": "CDP_0166.png"
+    },
+    {
+        "Code": 841655,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pain au seigle surprise à garnir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 40 sandwiches",
+        "Prix portion": 11.62,
+        "Colisage": "Vendu par carton de 2 unités",
+        "Prix colis": 23.24,
+        "Image": "CDP_0166.png"
+    },
+    {
+        "Code": 840847,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bille au bloc de foie gras et compotée d'oignon rouge",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 60 pièces",
+        "Prix portion": 0.88,
+        "Colisage": "Vendu par carton de 120 unités",
+        "Prix colis": 105.81,
+        "Image": "CDP_0166.png"
+    },
+    {
+        "Code": 834575,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini cornets salés à garnir assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 45 unités par variété",
+        "Prix portion": 0.3664,
+        "Colisage": "Vendu par carton de 2 plateaux",
+        "Prix colis": 65.96,
+        "Image": "CDP_0166.png"
+    },
+    {
+        "Code": 834576,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini cornets sucrés enrobés de cacao à garnir assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 45 unités par variété",
+        "Prix portion": 0.3849,
+        "Colisage": "Vendu par carton de 4 plateaux",
+        "Prix colis": 69.28,
+        "Image": "CDP_0166.png"
+    }
+]

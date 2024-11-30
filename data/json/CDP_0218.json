@@ -1,0 +1,38 @@
+[
+    {
+        "Code": null,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0218.png"
+    },
+    {
+        "Code": null,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pain au chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0218.png"
+    },
+    {
+        "Code": null,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pain aux raisins",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0218.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 26664,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini croque jambon fromage",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 2 unités, 12.5 g par unité",
+        "Prix portion": 0.4339,
+        "Colisage": "Vendu par carton de 120 unités",
+        "Prix colis": 52.31,
+        "Image": "CDP_0085.png"
+    },
+    {
+        "Code": 841474,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini croque au comté et à la truffe blanche d'été saveur trufle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Langue de 8 unités, 9.1 g par unité",
+        "Prix portion": null,
+        "Colisage": "Vendu par carton de 12 unités",
+        "Prix colis": 54.4,
+        "Image": "CDP_0085.png"
+    },
+    {
+        "Code": 70028,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Croque-monsieur bacon cheddar cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Stick de pain de mie, 30 g par unité",
+        "Prix portion": 0.9341,
+        "Colisage": "Vendu par carton de 36 unités",
+        "Prix colis": 33.95,
+        "Image": "CDP_0085.png"
+    },
+    {
+        "Code": 26271,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini clubs sandwiches assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 40 unités, 10.5 g par unité",
+        "Prix portion": 0.7183,
+        "Colisage": "Vendu par carton de 40 unités",
+        "Prix colis": 28.73,
+        "Image": "CDP_0085.png"
+    },
+    {
+        "Code": 834624,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sandwichs cocktail nordique",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 24 unités, 20 g par unité",
+        "Prix portion": 1.2575,
+        "Colisage": "Vendu par carton de 24 unités",
+        "Prix colis": 60.36,
+        "Image": "CDP_0085.png"
+    }
+]

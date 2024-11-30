@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70440,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Les Tart' fines d'Hubert® : chèvre épinard et tomates",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": 2.22,
+        "Colisage": "Carton de 10 pièces",
+        "Prix colis": 22.2,
+        "Image": "CDP_0259.png"
+    },
+    {
+        "Code": 70441,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Les Tart' fines d'Hubert® : jambon emmental",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": 2.22,
+        "Colisage": "Carton de 10 pièces",
+        "Prix colis": 22.2,
+        "Image": "CDP_0259.png"
+    },
+    {
+        "Code": 28178,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Bretzel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 95 g",
+        "Prix portion": 0.44,
+        "Colisage": "Carton de 80 pièces",
+        "Prix colis": 34.86,
+        "Image": "CDP_0259.png"
+    },
+    {
+        "Code": 834573,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cake jambon fromage cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 300 g",
+        "Prix portion": 4.37,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 26.23,
+        "Image": "CDP_0259.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70275,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Coque de gros macaron rose Ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 4 barquettes par carton. Poids 2 g",
+        "Prix portion": 0.518,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 26.79,
+        "Image": "CDP_0173.png"
+    },
+    {
+        "Code": 27223,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Coque de gros macaron vanille Ø 75",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 4 barquettes par carton. Poids 18.5 g",
+        "Prix portion": 0.3532,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 25.69,
+        "Image": "CDP_0173.png"
+    },
+    {
+        "Code": 18450,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Coque de gros macaron cacao Ø 75",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 4 barquettes par carton. Poids 18.5 g",
+        "Prix portion": 0.536,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 25.71,
+        "Image": "CDP_0173.png"
+    },
+    {
+        "Code": 70076,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini coques de macarons assorties Ø 39",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 4 barquettes par carton. Poids 3.6 g",
+        "Prix portion": 0.1307,
+        "Colisage": "Colis de 288 unités",
+        "Prix colis": 37.63,
+        "Image": "CDP_0173.png"
+    },
+    {
+        "Code": 70015,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 sphère en chocolat Ø 58",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Chocolat noir 70% (cacao origine Équateur). Poids 12 g",
+        "Prix portion": 1.0625,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 51.0,
+        "Image": "CDP_0173.png"
+    },
+    {
+        "Code": 27616,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Lanières de guimauve assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Variétés : vanille, framboise, saveur citron meringué. Dimensions 175 x 30 mm. Épaisseur 30 mm",
+        "Prix portion": 2.828,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 41.09,
+        "Image": "CDP_0173.png"
+    }
+]

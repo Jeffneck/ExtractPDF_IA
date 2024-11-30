@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 22547,
+        "Catégorie": "Pâtisserie sucré",
+        "Produit": "Mini tartelette au citron de Sicile",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 4 barquettes par carton. Poids 18 g.",
+        "Prix portion": 0.8963,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 43.02,
+        "Image": "CDP_0117.png"
+    },
+    {
+        "Code": 837365,
+        "Catégorie": "Pâtisserie sucré",
+        "Produit": "Mini tartelette chocolat noir belge",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 4 barquettes par carton. Poids 17 g.",
+        "Prix portion": 0.9223,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 44.27,
+        "Image": "CDP_0117.png"
+    },
+    {
+        "Code": 837366,
+        "Catégorie": "Pâtisserie sucré",
+        "Produit": "Mini tartelette crémeux framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 4 barquettes par carton. Poids 17 g.",
+        "Prix portion": 0.8963,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 43.02,
+        "Image": "CDP_0117.png"
+    },
+    {
+        "Code": 838213,
+        "Catégorie": "Pâtisserie sucré",
+        "Produit": "Mini tartelette caramel fleur de sel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 4 barquettes par carton. Poids 18 g.",
+        "Prix portion": 0.9532,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 44.89,
+        "Image": "CDP_0117.png"
+    },
+    {
+        "Code": 833360,
+        "Catégorie": "Pâtisserie sucré",
+        "Produit": "Mini tartelette citron meringuée Ø 33",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 18 g.",
+        "Prix portion": 0.9243,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 64.7,
+        "Image": "CDP_0117.png"
+    },
+    {
+        "Code": 22592,
+        "Catégorie": "Pâtisserie sucré",
+        "Produit": "Mini tartelette banane caramel façon banoffee Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 6 unités, 1 plateau par carton. Poids 22.2 g.",
+        "Prix portion": 0.8375,
+        "Colisage": "Colis de 63 unités",
+        "Prix colis": 52.76,
+        "Image": "CDP_0117.png"
+    }
+]

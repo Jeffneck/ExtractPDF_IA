@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 833538,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini ballotin fromage saumon aneth",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.3476,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 27.81,
+        "Image": "CDP_0080.png"
+    },
+    {
+        "Code": 26629,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pic'apéro champêtre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12.25g",
+        "Prix portion": 1.2428,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 49.71,
+        "Image": "CDP_0080.png"
+    },
+    {
+        "Code": 22203,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Les douceurs salées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 302g",
+        "Prix portion": 1.5895,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 63.58,
+        "Image": "CDP_0080.png"
+    }
+]

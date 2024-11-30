@@ -8,7 +8,7 @@ Produit : Nom du produit (string)
 Prix Kg : (nombre flottant)
 Prix Litre : (nombre flottant)
 Portionnement : (Format de portionnement + poids par portion(g)/ volume(en mL si present), string)
-Prix portion : (nombre flottant)
+Prix portion : Prix indicatif piece (nombre flottant)
 Colisage : Nombre d'unités par colis ou poids par colis (string)
 Prix colis : Prix par carton/colis (nombre flottant)
 
@@ -48,4 +48,5 @@ Exemple de réponse attendue :
         "Prix colis": 31.66,
     }
 ]
+N'effectue aucun calcul pour deduire les prix, s'ils ne sont pas explicitement visibles(ce qui est souvent les cas pour le prix Kg et Prix Litre), indique null.
 Réponds uniquement en fournissant le JSON, sans aucune explication supplémentaire ni balises de code.

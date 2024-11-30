@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 834625,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini tortillas garnies",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 48 unités",
+        "Prix portion": 0.6869,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 65.94,
+        "Image": "CDP_0052.png"
+    },
+    {
+        "Code": 841663,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Poème de saveurs moelleuses",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 30 unités",
+        "Prix portion": 0.712,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 43.03,
+        "Image": "CDP_0052.png"
+    },
+    {
+        "Code": 826118,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Le végétarien",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 20 unités",
+        "Prix portion": 1.695,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 67.8,
+        "Image": "CDP_0052.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 833030,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Dos de cabillaud sauvage 140/160 g (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0301.png"
+    },
+    {
+        "Code": 841805,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Dos de cabillaud sauvage 170/190 g (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 170/190 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0301.png"
+    },
+    {
+        "Code": 840470,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Dos de colin d'Alaska sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100/120 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (45 pièces env.)",
+        "Prix colis": null,
+        "Image": "CDP_0301.png"
+    },
+    {
+        "Code": 831597,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Dos de colin lieu sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (31 à 35 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0301.png"
+    },
+    {
+        "Code": 70589,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Dos de colin Listao sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120-140 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (21 à 25 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0301.png"
+    },
+    {
+        "Code": 841773,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Portion de filet d'églefin sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (31 à 36 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0301.png"
+    }
+]

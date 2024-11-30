@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 70443,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Les Tartes Bistrot d'Hubert : bœuf à la mexicaine Ø 120 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 190g",
+        "Prix portion": 2.99,
+        "Colisage": "Carton de 20 pièces",
+        "Prix colis": 59.82,
+        "Image": "CDP_0247.png"
+    },
+    {
+        "Code": 70444,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Les Tartes Bistrot d'Hubert : poulet créme façon blanquette Ø 120 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": 2.77,
+        "Colisage": "Carton de 20 pièces",
+        "Prix colis": 55.35,
+        "Image": "CDP_0247.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 841385,
+        "Catégorie": "Pains",
+        "Produit": "Petits pains gourmets Les Secrets du Fournil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 0.2827,
+        "Colisage": "Colis de 105 unités",
+        "Prix colis": 29.68,
+        "Image": "CDP_0228.png"
+    },
+    {
+        "Code": 29481,
+        "Catégorie": "Pains",
+        "Produit": "Bâchettes du Fournil assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 0.3598,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 21.05,
+        "Image": "CDP_0228.png"
+    },
+    {
+        "Code": 29480,
+        "Catégorie": "Pains",
+        "Produit": "4 petits pains brochette assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.3372,
+        "Colisage": "Colis de 180 unités",
+        "Prix colis": 60.69,
+        "Image": "CDP_0228.png"
+    },
+    {
+        "Code": 29472,
+        "Catégorie": "Pains",
+        "Produit": "Petits pains fantaisie assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 48g",
+        "Prix portion": 0.2297,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 34.45,
+        "Image": "CDP_0228.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841562,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de Saint Jacques avec corail 10/20",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (10-20 pièces par LB)",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0296.png"
+    },
+    {
+        "Code": 841806,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de Saint-Jacques sauvages sans corail 10/20",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (10-20 pièces par LB)",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0296.png"
+    },
+    {
+        "Code": 841640,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de Saint-Jacques sauvages avec corail 20/40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (20-40 pièces par LB)",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0296.png"
+    },
+    {
+        "Code": 831611,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de Saint-Jacques sauvages sans corail 80/120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (80-120 pièces par LB)",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0296.png"
+    },
+    {
+        "Code": 841807,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de Saint-Jacques sauvages sans corail 20/40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (20-40 pièces par LB)",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0296.png"
+    }
+]

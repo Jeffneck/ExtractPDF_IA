@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 828937,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bol d’Hubert",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0167.png"
+    },
+    {
+        "Code": 833382,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini panier de pommes de terre à garnir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0167.png"
+    },
+    {
+        "Code": 70452,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini croûte de bouchée cuite carrée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0167.png"
+    },
+    {
+        "Code": 840847,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Bille au bloc de foie gras et compotée d’oignon rouge",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0167.png"
+    },
+    {
+        "Code": 26684,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini croûte de bouchée cuite ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0167.png"
+    }
+]

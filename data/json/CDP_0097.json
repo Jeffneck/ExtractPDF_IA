@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 70725,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini macarons douceurs ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.4489,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 32.32,
+        "Image": "CDP_0097.png"
+    },
+    {
+        "Code": 70696,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Les petits moelleux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.7202,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 69.14,
+        "Image": "CDP_0097.png"
+    }
+]

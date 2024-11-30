@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 840846,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque brioche cru Ø 220",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 430g",
+        "Prix portion": 2.38,
+        "Colisage": "Colis de 22 unités",
+        "Prix colis": 52.38,
+        "Image": "CDP_0146.png"
+    },
+    {
+        "Code": 841459,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte sucré couronne Ø 230",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 220g",
+        "Prix portion": 3.101,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 24.81,
+        "Image": "CDP_0146.png"
+    },
+    {
+        "Code": 27148,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte sucré Ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 320g",
+        "Prix portion": 3.648,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 29.19,
+        "Image": "CDP_0146.png"
+    },
+    {
+        "Code": 70255,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte sucré à bord haut Ø 220",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 3.48,
+        "Colisage": "Colis de 7 unités",
+        "Prix colis": 24.36,
+        "Image": "CDP_0146.png"
+    },
+    {
+        "Code": 27146,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte sucré Ø 220",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 220g",
+        "Prix portion": 2.975,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 23.82,
+        "Image": "CDP_0146.png"
+    },
+    {
+        "Code": 835429,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte sucré Ø 180",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 2.07,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 41.4,
+        "Image": "CDP_0146.png"
+    }
+]

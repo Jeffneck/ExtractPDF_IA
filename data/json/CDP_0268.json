@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 83134,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Nomade Box® : penne lardons champignons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 300 g",
+        "Prix portion": 3.61,
+        "Colisage": "Carton de 10 pièces",
+        "Prix colis": 36.05,
+        "Image": "CDP_0268.png"
+    },
+    {
+        "Code": 28339,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Nomade Box® : penne bolognaise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 300 g",
+        "Prix portion": 3.64,
+        "Colisage": "Carton de 10 pièces",
+        "Prix colis": 36.41,
+        "Image": "CDP_0268.png"
+    },
+    {
+        "Code": 28377,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Nomade Box® : penne saumon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 300 g",
+        "Prix portion": 3.66,
+        "Colisage": "Carton de 10 pièces",
+        "Prix colis": 36.56,
+        "Image": "CDP_0268.png"
+    }
+]

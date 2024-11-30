@@ -13,7 +13,7 @@ python main.py --test-prompt ./data/images/img.png
 Analyser les images et créer les JSON (analyser tout ou seulement une range) :
 
 python main.py --analyze-images
-python main.py --analyze-images 105 110
+
 
 Transformer les données en CSV :
 python main.py --transform-data

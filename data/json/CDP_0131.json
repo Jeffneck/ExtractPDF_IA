@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 22280,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini mousse au chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 20 verrines, 3 plateaux par carton.",
+        "Prix portion": 1.01,
+        "Colisage": "Vendu par carton de 60 unités.",
+        "Prix colis": 60.66,
+        "Image": "CDP_0131.png"
+    },
+    {
+        "Code": 833527,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Les gourmandises sucrées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 32 unités.",
+        "Prix portion": 2.33,
+        "Colisage": null,
+        "Prix colis": 74.6,
+        "Image": "CDP_0131.png"
+    },
+    {
+        "Code": 840842,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Trio de verrines douceur",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 30 unités.",
+        "Prix portion": 1.28,
+        "Colisage": null,
+        "Prix colis": 38.46,
+        "Image": "CDP_0131.png"
+    },
+    {
+        "Code": 27609,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Rose des sables",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 120 unités.",
+        "Prix portion": 0.5755,
+        "Colisage": null,
+        "Prix colis": 69.06,
+        "Image": "CDP_0131.png"
+    },
+    {
+        "Code": 27616,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Lanières de guimauve assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 18 unités.",
+        "Prix portion": 2.8282,
+        "Colisage": null,
+        "Prix colis": 41.99,
+        "Image": "CDP_0131.png"
+    }
+]

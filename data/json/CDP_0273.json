@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 26206,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Acra de morue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0273.png"
+    },
+    {
+        "Code": 26978,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini pastilla poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0273.png"
+    },
+    {
+        "Code": 835395,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Assortiment de mini tacos",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0273.png"
+    },
+    {
+        "Code": 822903,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bruschetta légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0273.png"
+    }
+]

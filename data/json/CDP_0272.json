@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 832983,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Foie gras de canard extra évié - IGP Sud-Ouest",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 9 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0272.png"
+    },
+    {
+        "Code": 841812,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Foie gras de canard évié",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0272.png"
+    },
+    {
+        "Code": 825744,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Foie gras de canard évié",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 450/700 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0272.png"
+    },
+    {
+        "Code": 70189,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Foie gras de canard mi-cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0272.png"
+    },
+    {
+        "Code": 841819,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Palet de bloc de foie gras de canard o 36 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 8 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0272.png"
+    },
+    {
+        "Code": 832980,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Escalope de foie gras de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 40/60 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 20 pièces env.",
+        "Prix colis": null,
+        "Image": "CDP_0272.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 26348,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini brochette de chapon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 1.928,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 95.42,
+        "Image": "CDP_0090.png"
+    },
+    {
+        "Code": 26058,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini brochette de porc marinée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 1.015,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 30.45,
+        "Image": "CDP_0090.png"
+    },
+    {
+        "Code": 831286,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini brochette poulet tandoori",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.912,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 45.6,
+        "Image": "CDP_0090.png"
+    },
+    {
+        "Code": 822908,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini brochette de volaille teriyaki",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.81,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 40.5,
+        "Image": "CDP_0090.png"
+    }
+]

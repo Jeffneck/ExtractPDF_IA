@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841476,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini empanadas thon et légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 24 unités, 5 sachets par carton. Poids : 30 g.",
+        "Prix portion": 0.4604,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 55.25,
+        "Image": "CDP_0088.png"
+    },
+    {
+        "Code": 841475,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini empanadas bœuf tex mex",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 24 unités, 5 sachets par carton. Poids : 30 g.",
+        "Prix portion": 0.4538,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 54.45,
+        "Image": "CDP_0088.png"
+    },
+    {
+        "Code": 26978,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini pastilla poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 6 unités.",
+        "Prix portion": 0.9913,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 23.79,
+        "Image": "CDP_0088.png"
+    },
+    {
+        "Code": 835395,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Assortiment de mini tacos",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "3 variétés de 12 mini tacos, poids : 1,4 kg.",
+        "Prix portion": 1.2803,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 46.09,
+        "Image": "CDP_0088.png"
+    },
+    {
+        "Code": 822903,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bruschetta légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 20 unités.",
+        "Prix portion": 1.5445,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 30.89,
+        "Image": "CDP_0088.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 835416,
+        "Catégorie": "Pains",
+        "Produit": "Petit pavé Solène",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.2787,
+        "Colisage": "Colis de 45 unités",
+        "Prix colis": 12.54,
+        "Image": "CDP_0221.png"
+    },
+    {
+        "Code": 29610,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.2973,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 44.6,
+        "Image": "CDP_0221.png"
+    },
+    {
+        "Code": 832688,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 0.1764,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 35.28,
+        "Image": "CDP_0221.png"
+    }
+]

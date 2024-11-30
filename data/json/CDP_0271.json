@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 837852,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Miettes de thon Listao",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 16 poches",
+        "Prix colis": null,
+        "Image": "CDP_0271.png"
+    },
+    {
+        "Code": 818865,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Morceaux de thon Listao au naturel - Entreprises",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 16 poches",
+        "Prix colis": null,
+        "Image": "CDP_0271.png"
+    },
+    {
+        "Code": 821960,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Chair de pincés et pattes de crabe sauvage",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 454 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": null,
+        "Image": "CDP_0271.png"
+    },
+    {
+        "Code": 833050,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Miettes de surimi saveur crabe",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0271.png"
+    },
+    {
+        "Code": 11136,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filets d'anchois salés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 800 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 seaux",
+        "Prix colis": null,
+        "Image": "CDP_0271.png"
+    }
+]

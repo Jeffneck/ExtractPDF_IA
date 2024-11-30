@@ -1,0 +1,110 @@
+[
+    {
+        "Code": 840129,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque-monsieur gourmet premium",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 4.5,
+        "Colisage": "Colis de 12 pièces",
+        "Prix colis": 53.97,
+        "Image": "CDP_0260.png"
+    },
+    {
+        "Code": 835314,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque-monsieur premium",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 4.65,
+        "Colisage": "Colis de 10 pièces",
+        "Prix colis": 46.51,
+        "Image": "CDP_0260.png"
+    },
+    {
+        "Code": 26317,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque-monsieur traiteur",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 220g",
+        "Prix portion": 1.96,
+        "Colisage": "Colis de 21 pièces",
+        "Prix colis": 41.24,
+        "Image": "CDP_0260.png"
+    },
+    {
+        "Code": 26308,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque-monsieur",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 200g",
+        "Prix portion": 1.54,
+        "Colisage": "Colis de 24 pièces",
+        "Prix colis": 36.92,
+        "Image": "CDP_0260.png"
+    },
+    {
+        "Code": 26312,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque-monsieur sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170g",
+        "Prix portion": 1.41,
+        "Colisage": "Colis de 24 pièces",
+        "Prix colis": 33.86,
+        "Image": "CDP_0260.png"
+    },
+    {
+        "Code": 26321,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque-monsieur poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 200g",
+        "Prix portion": 1.73,
+        "Colisage": "Colis de 24 pièces",
+        "Prix colis": 41.41,
+        "Image": "CDP_0260.png"
+    },
+    {
+        "Code": 840856,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque-monsieur pommes de terre & lardons",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 220g",
+        "Prix portion": 2.15,
+        "Colisage": "Colis de 18 pièces",
+        "Prix colis": 38.75,
+        "Image": "CDP_0260.png"
+    },
+    {
+        "Code": 22129,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 190g",
+        "Prix portion": 1.86,
+        "Colisage": "Colis de 18 pièces",
+        "Prix colis": 33.41,
+        "Image": "CDP_0260.png"
+    },
+    {
+        "Code": 26369,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Croque chèvre tomate",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": 2.06,
+        "Colisage": "Colis de 24 pièces",
+        "Prix colis": 49.38,
+        "Image": "CDP_0260.png"
+    }
+]

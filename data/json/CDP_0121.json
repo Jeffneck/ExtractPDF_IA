@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 27425,
+        "Catégorie": "Pâtisserie sucrée",
+        "Produit": "Petits fours confiseur",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 510 unités",
+        "Prix portion": 0.7455,
+        "Colisage": "Colis de 2 plateaux",
+        "Prix colis": 74.55,
+        "Image": "CDP_0121.png"
+    },
+    {
+        "Code": 822910,
+        "Catégorie": "Pâtisserie sucrée",
+        "Produit": "Mignardises fruitées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 48 unités",
+        "Prix portion": 0.741,
+        "Colisage": "Colis de 2 plateaux",
+        "Prix colis": 71.14,
+        "Image": "CDP_0121.png"
+    },
+    {
+        "Code": 840843,
+        "Catégorie": "Pâtisserie sucrée",
+        "Produit": "Les petits gourmands",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 6 unités",
+        "Prix portion": 0.6997,
+        "Colisage": "Colis de 1 plateau",
+        "Prix colis": 44.78,
+        "Image": "CDP_0121.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 29624,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Sélection 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.3223,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 32.23,
+        "Image": "CDP_0227.png"
+    },
+    {
+        "Code": 29549,
+        "Catégorie": "Pains",
+        "Produit": "Mini ciabatta",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 0.2749,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 21.99,
+        "Image": "CDP_0227.png"
+    },
+    {
+        "Code": 70081,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain opéra Sélection 55 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 55g",
+        "Prix portion": 0.1985,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 19.85,
+        "Image": "CDP_0227.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 832813,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartare de boeuf aux couteaux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet (sous-vide) de 180 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 16 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0283.png"
+    },
+    {
+        "Code": 840065,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Cubes de saumon pré-mariné",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 300 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0283.png"
+    },
+    {
+        "Code": 832816,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartare de saumon express assaisonné",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet (sous-vide) de 100 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 40 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0283.png"
+    },
+    {
+        "Code": 835145,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartare de saumon mariné au citron et aneth",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 300 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0283.png"
+    },
+    {
+        "Code": 835130,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tartare de Saint-Jacques mariné au citron et coriandre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 300 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 poches",
+        "Prix colis": null,
+        "Image": "CDP_0283.png"
+    }
+]

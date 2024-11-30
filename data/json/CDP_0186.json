@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841437,
+        "Catégorie": "Pains",
+        "Produit": "Baguette céréales et blé torréfié Fleur de Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.3877,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 461.63,
+        "Image": "CDP_0186.png"
+    },
+    {
+        "Code": 840118,
+        "Catégorie": "Pains",
+        "Produit": "Baguette céréales Fleur de Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.3823,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 41.47,
+        "Image": "CDP_0186.png"
+    },
+    {
+        "Code": 22385,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Solène® campagne",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 1.0008,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 25.02,
+        "Image": "CDP_0186.png"
+    },
+    {
+        "Code": 29073,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Solène® multicéréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.2763,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 38.29,
+        "Image": "CDP_0186.png"
+    },
+    {
+        "Code": 22387,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Solène® multigraines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 1.228,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 30.7,
+        "Image": "CDP_0186.png"
+    },
+    {
+        "Code": 83256,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Solène® aux graines d'épeautre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.3772,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 34.43,
+        "Image": "CDP_0186.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 83172,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Brochette d'onglet de bœuf",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3.6 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0310.png"
+    },
+    {
+        "Code": 70487,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Brochette de dessus de palette de bœuf saveur barbecue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 kg (22 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0310.png"
+    },
+    {
+        "Code": 821532,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Chateaubriand de bœuf (filet de bœuf)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 170/190g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3.6 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0310.png"
+    },
+    {
+        "Code": 832929,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de joue de bœuf (coupée main)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60/80g",
+        "Prix portion": null,
+        "Colisage": "Sachet de 2.5 kg (2 sachets)",
+        "Prix colis": null,
+        "Image": "CDP_0310.png"
+    },
+    {
+        "Code": 825408,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de hampe de bœuf (coupé main)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Carton de 1 kg (8 sachets)",
+        "Prix colis": null,
+        "Image": "CDP_0310.png"
+    },
+    {
+        "Code": 832947,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Boulette au bœuf",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0310.png"
+    },
+    {
+        "Code": 821238,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de bœuf Wellington",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 2 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 kg (2 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0310.png"
+    }
+]

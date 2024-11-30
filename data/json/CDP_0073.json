@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70462,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini pissaladière sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0073.png"
+    },
+    {
+        "Code": 70028,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Croque-monsieur bacon cheddar cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0073.png"
+    },
+    {
+        "Code": 70449,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini chou escargot gratiné",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0073.png"
+    },
+    {
+        "Code": 70257,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Quiche lorraine cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0073.png"
+    },
+    {
+        "Code": 26629,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pic'apéro champêtre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0073.png"
+    }
+]

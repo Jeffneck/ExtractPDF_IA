@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 70595,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant Le Fleuron du Fournil 70g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6281,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 94.22,
+        "Image": "CDP_0213.png"
+    },
+    {
+        "Code": 70596,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain au chocolat Le Fleuron du Fournil 80g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.6812,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 102.18,
+        "Image": "CDP_0213.png"
+    }
+]

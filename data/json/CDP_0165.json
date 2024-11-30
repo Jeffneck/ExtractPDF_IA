@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 26675,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini corolle croustillante à garnir ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 3g",
+        "Prix portion": 0.01579,
+        "Colisage": "Colis de 144 unités",
+        "Prix colis": 22.74,
+        "Image": "CDP_0165.png"
+    },
+    {
+        "Code": 26953,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini fond carré cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 5g",
+        "Prix portion": 0.0314,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 30.14,
+        "Image": "CDP_0165.png"
+    },
+    {
+        "Code": 26952,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini fonds carrés multicolores cuits",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 5g",
+        "Prix portion": 0.03239,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 31.09,
+        "Image": "CDP_0165.png"
+    }
+]

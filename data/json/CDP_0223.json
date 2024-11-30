@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 832355,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène® aux graines d'épeautre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.4218,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 21.09,
+        "Image": "CDP_0223.png"
+    },
+    {
+        "Code": 29611,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène® céréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.3728,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 55.92,
+        "Image": "CDP_0223.png"
+    },
+    {
+        "Code": 841701,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène® figue abricot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.4546,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 19.09,
+        "Image": "CDP_0223.png"
+    },
+    {
+        "Code": 70004,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène® aux raisins et cranberries",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.4836,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 20.34,
+        "Image": "CDP_0223.png"
+    },
+    {
+        "Code": 70002,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène® aux noix",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.4843,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 20.34,
+        "Image": "CDP_0223.png"
+    },
+    {
+        "Code": 70253,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène® carottes et graines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.461,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 19.36,
+        "Image": "CDP_0223.png"
+    }
+]

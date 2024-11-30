@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 29103,
+        "Catégorie": "Pains",
+        "Produit": "Baguette 56 cm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 340g",
+        "Prix portion": 0.5208,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 20.83,
+        "Image": "CDP_0188.png"
+    },
+    {
+        "Code": 836108,
+        "Catégorie": "Pains",
+        "Produit": "Baguette 62/64 cm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 330g",
+        "Prix portion": 0.527,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 21.08,
+        "Image": "CDP_0188.png"
+    },
+    {
+        "Code": 29107,
+        "Catégorie": "Pains",
+        "Produit": "Baguette 67 cm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 340g",
+        "Prix portion": 0.5368,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 21.47,
+        "Image": "CDP_0188.png"
+    },
+    {
+        "Code": 835299,
+        "Catégorie": "Pains",
+        "Produit": "Baguette viennoise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 290g",
+        "Prix portion": null,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 47.34,
+        "Image": "CDP_0188.png"
+    },
+    {
+        "Code": 29113,
+        "Catégorie": "Pains",
+        "Produit": "Pain parisien 64 cm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 523g",
+        "Prix portion": 0.8852,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 22.13,
+        "Image": "CDP_0188.png"
+    }
+]

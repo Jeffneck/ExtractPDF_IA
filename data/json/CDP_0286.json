@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 84136,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bacon de bœuf fumé halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0286.png"
+    },
+    {
+        "Code": 832507,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tranchette de bacon crispy",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0286.png"
+    },
+    {
+        "Code": 717,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de bacon tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0286.png"
+    },
+    {
+        "Code": 838151,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Chorizo tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 250 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0286.png"
+    },
+    {
+        "Code": 44171,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Allumettes de chorizo",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0286.png"
+    },
+    {
+        "Code": 44375,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cubes de chorizo",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0286.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 22043,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini noix de Saint-Jacques à la bretonne",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachets de 24 unités, 12 g par unité",
+        "Prix portion": 0.8525,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 61.38,
+        "Image": "CDP_0079.png"
+    },
+    {
+        "Code": 26154,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini brioche escargot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités, 13 g par unité",
+        "Prix portion": 0.7063,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 50.85,
+        "Image": "CDP_0079.png"
+    },
+    {
+        "Code": 70290,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini noix de Saint-Jacques au beurre persillé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Mini noix de Saint-Jacques, 12 g par unité",
+        "Prix portion": 0.87,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 62.71,
+        "Image": "CDP_0079.png"
+    },
+    {
+        "Code": 70449,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini chou escargot gratiné",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 24 unités, 12 g par unité",
+        "Prix portion": 0.7113,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 34.14,
+        "Image": "CDP_0079.png"
+    },
+    {
+        "Code": 70288,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Moule beurre persillé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Moule au beurre, 10.4 g par unité",
+        "Prix portion": 0.476,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 71.14,
+        "Image": "CDP_0079.png"
+    },
+    {
+        "Code": 26301,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Croustillant escargot de Bourgogne",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 12 unités, 15 g par unité",
+        "Prix portion": 0.6531,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 31.35,
+        "Image": "CDP_0079.png"
+    }
+]

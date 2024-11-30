@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 826109,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette sucré format stick cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.7945,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 44.49,
+        "Image": "CDP_0142.png"
+    },
+    {
+        "Code": 70018,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond chocolat croustillant format stick cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 1.102,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 55.1,
+        "Image": "CDP_0142.png"
+    },
+    {
+        "Code": 70279,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette sablé breton format stick cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 31g",
+        "Prix portion": 1.146,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 91.73,
+        "Image": "CDP_0142.png"
+    },
+    {
+        "Code": 828890,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini plaque feuilletée caramélisée cuite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 13.6667,
+        "Colisage": "Colis de 84 unités",
+        "Prix colis": 82.0,
+        "Image": "CDP_0142.png"
+    }
+]

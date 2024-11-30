@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 831315,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque feuilleté non piqué à garnir Ø 320",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 270g",
+        "Prix portion": 2.2135,
+        "Colisage": "Colis de 34 unités",
+        "Prix colis": 75.32,
+        "Image": "CDP_0132.png"
+    },
+    {
+        "Code": 27139,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque feuilleté non piqué à garnir Ø 290",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 235g",
+        "Prix portion": 1.9947,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 59.84,
+        "Image": "CDP_0132.png"
+    },
+    {
+        "Code": 27136,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque feuilleté non piqué à garnir Ø 230",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 145g",
+        "Prix portion": 1.4193,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 42.58,
+        "Image": "CDP_0132.png"
+    },
+    {
+        "Code": 27130,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque feuilleté non piqué à garnir Ø 180",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.3135,
+        "Colisage": "Colis de 75 unités",
+        "Prix colis": 84.86,
+        "Image": "CDP_0132.png"
+    },
+    {
+        "Code": 840128,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque feuilleté non piqué à garnir Ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 290g",
+        "Prix portion": 1.84,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 54.12,
+        "Image": "CDP_0132.png"
+    },
+    {
+        "Code": 27940,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Disque feuilleté non piqué à garnir Ø 120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.4922,
+        "Colisage": "Colis de 130 unités",
+        "Prix colis": 63.98,
+        "Image": "CDP_0132.png"
+    }
+]

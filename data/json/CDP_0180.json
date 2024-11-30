@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70657,
+        "Catégorie": "Pains",
+        "Produit": "Les pavés Solène® maïs",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 1.3,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 24.3,
+        "Image": "CDP_0180.png"
+    },
+    {
+        "Code": 70659,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Solène® maïs",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.4178,
+        "Colisage": "Colis de 45 unités",
+        "Prix colis": 18.8,
+        "Image": "CDP_0180.png"
+    },
+    {
+        "Code": 70662,
+        "Catégorie": "Pains",
+        "Produit": "Pain torsadé multicéréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 600g",
+        "Prix portion": 2.768,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 27.68,
+        "Image": "CDP_0180.png"
+    },
+    {
+        "Code": 70663,
+        "Catégorie": "Pains",
+        "Produit": "Pain libanais ø 250",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.5598,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 55.98,
+        "Image": "CDP_0180.png"
+    }
+]

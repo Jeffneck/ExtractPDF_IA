@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70679,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les tacos d'Hubert® : bœuf sauce burger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 210 g",
+        "Prix portion": 2.95,
+        "Colisage": "Carton de 20 pièces",
+        "Prix colis": 58.98,
+        "Image": "CDP_0244.png"
+    },
+    {
+        "Code": 70680,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les tacos d'Hubert® : poulet sauce tikka",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 210 g",
+        "Prix portion": 2.95,
+        "Colisage": "Carton de 20 pièces",
+        "Prix colis": 58.98,
+        "Image": "CDP_0244.png"
+    },
+    {
+        "Code": 70676,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pizza chèvre ø 260 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 400 g",
+        "Prix portion": 3.81,
+        "Colisage": "Carton de 10 pièces",
+        "Prix colis": 38.08,
+        "Image": "CDP_0244.png"
+    },
+    {
+        "Code": 70688,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Quiche au thon crue Les Secrets du Fournil® ø 100 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 g",
+        "Prix portion": 1.4,
+        "Colisage": "Carton de 36 pièces",
+        "Prix colis": 50.33,
+        "Image": "CDP_0244.png"
+    }
+]

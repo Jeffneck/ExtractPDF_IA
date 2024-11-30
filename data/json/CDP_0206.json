@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 835320,
+        "Catégorie": "Pains",
+        "Produit": "Ravé Fleur de Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 1.6072,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 40.18,
+        "Image": "CDP_0206.png"
+    },
+    {
+        "Code": 832357,
+        "Catégorie": "Pains",
+        "Produit": "Pain Solène® aux graines d'épeautre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 450g",
+        "Prix portion": 2.021,
+        "Colisage": "Colis de 14 unités",
+        "Prix colis": 29.15,
+        "Image": "CDP_0206.png"
+    },
+    {
+        "Code": 29138,
+        "Catégorie": "Pains",
+        "Produit": "Pain Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 450g",
+        "Prix portion": 1.9548,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 48.87,
+        "Image": "CDP_0206.png"
+    }
+]

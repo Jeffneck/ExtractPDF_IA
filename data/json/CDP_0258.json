@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 26535,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Feuilleté hot-dog",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 145 g",
+        "Prix portion": 1.32,
+        "Colisage": "Carton de 30 pièces",
+        "Prix colis": 39.6,
+        "Image": "CDP_0258.png"
+    },
+    {
+        "Code": 70297,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Grillage chèvre épinard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": 2.1,
+        "Colisage": "Carton de 20 pièces",
+        "Prix colis": 42.06,
+        "Image": "CDP_0258.png"
+    },
+    {
+        "Code": 841456,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Feuilleté chèvre épinards",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120 g",
+        "Prix portion": 2.38,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 57.21,
+        "Image": "CDP_0258.png"
+    },
+    {
+        "Code": 841669,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les empanadas d'Hubert : poulet curry",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": 1.77,
+        "Colisage": "Carton de 32 pièces",
+        "Prix colis": 56.62,
+        "Image": "CDP_0258.png"
+    },
+    {
+        "Code": 840131,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les empanadas d'Hubert : bœuf Tex Mex",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": 1.84,
+        "Colisage": "Carton de 32 pièces",
+        "Prix colis": 58.73,
+        "Image": "CDP_0258.png"
+    },
+    {
+        "Code": 28310,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frita/chausson basquaise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": 1.14,
+        "Colisage": "Carton de 40 pièces",
+        "Prix colis": 45.44,
+        "Image": "CDP_0258.png"
+    },
+    {
+        "Code": 18442,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tielle à la sétoise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 110 g",
+        "Prix portion": 1.56,
+        "Colisage": "Carton de 2 pièces",
+        "Prix colis": 31.18,
+        "Image": "CDP_0258.png"
+    }
+]

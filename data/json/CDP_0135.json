@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 27474,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cœur noisette chocolat blanc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Moule de 54 unités, 3 moules par carton, Poids : 10 g",
+        "Prix portion": 0.528,
+        "Colisage": "Colis de 162 unités",
+        "Prix colis": 83.61,
+        "Image": "CDP_0135.png"
+    },
+    {
+        "Code": 27476,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Praliné pétillant chocolat noir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Moule de 63 unités, 3 moules par carton, Poids : 8 g",
+        "Prix portion": 0.4338,
+        "Colisage": "Colis de 189 unités",
+        "Prix colis": 81.98,
+        "Image": "CDP_0135.png"
+    },
+    {
+        "Code": 27607,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Aiguilles orange chocolat noir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 273 g environ, 5 unités",
+        "Prix portion": 0.3422,
+        "Colisage": "Barquettes par carton",
+        "Prix colis": 97.27,
+        "Image": "CDP_0135.png"
+    },
+    {
+        "Code": 831302,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cœur chocolat lait fourré framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Moule de 63 unités, 2 moules par carton, Poids : 8.3 g",
+        "Prix portion": 0.4363,
+        "Colisage": "Colis de 126 unités",
+        "Prix colis": 54.98,
+        "Image": "CDP_0135.png"
+    },
+    {
+        "Code": 834571,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cœur chocolat lait fourré caramel vanille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Moule de 45 unités, 3 moules par carton, Poids : 9 g",
+        "Prix portion": 0.4219,
+        "Colisage": "Colis de 135 unités",
+        "Prix colis": 56.95,
+        "Image": "CDP_0135.png"
+    },
+    {
+        "Code": 833821,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Palet chocolat noir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g, 2 barquettes par carton, Poids : 10 g",
+        "Prix portion": 0.4685,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 46.85,
+        "Image": "CDP_0135.png"
+    }
+]

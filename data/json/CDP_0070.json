@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 838196,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapé malicette saumon et œufs de truite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12.5g",
+        "Prix portion": 1.2514,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 35.94,
+        "Image": "CDP_0070.png"
+    },
+    {
+        "Code": 22022,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Cœur de focaccia au saumon fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 13.9g",
+        "Prix portion": 0.9857,
+        "Colisage": "Colis de 49 unités",
+        "Prix colis": 48.3,
+        "Image": "CDP_0070.png"
+    },
+    {
+        "Code": 26279,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapés saumon fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12.5g",
+        "Prix portion": 1.1713,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 56.22,
+        "Image": "CDP_0070.png"
+    },
+    {
+        "Code": 26278,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapés noix de jambon salée séchée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12.5g",
+        "Prix portion": 1.0923,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 52.43,
+        "Image": "CDP_0070.png"
+    }
+]

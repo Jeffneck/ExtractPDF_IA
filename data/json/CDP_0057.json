@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70673,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini tortilla garnie tomate mozza",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 10g",
+        "Prix portion": 0.5315,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 25.51,
+        "Image": "CDP_0057.png"
+    },
+    {
+        "Code": 70682,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini tortilla garnie jambon cru pesto",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 11g",
+        "Prix portion": 0.5817,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 27.99,
+        "Image": "CDP_0057.png"
+    },
+    {
+        "Code": 70686,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini pide Sélection margherita",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 0.6862,
+        "Colisage": "Colis de 84 unités",
+        "Prix colis": 57.64,
+        "Image": "CDP_0057.png"
+    },
+    {
+        "Code": 70675,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini cookies salés lardons emmental",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 0.6362,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 76.34,
+        "Image": "CDP_0057.png"
+    }
+]

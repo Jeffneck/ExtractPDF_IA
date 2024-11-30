@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 841465,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Le jardin des gourmandises",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 48 unités, 15,8 kg",
+        "Prix portion": 1.0733,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 51.52,
+        "Image": "CDP_0061.png"
+    },
+    {
+        "Code": 841658,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Canapés méditerranéen",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 37 unités, 10,8 kg",
+        "Prix portion": 0.0811,
+        "Colisage": "Colis de 37 unités",
+        "Prix colis": 31.49,
+        "Image": "CDP_0061.png"
+    },
+    {
+        "Code": 22115,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Plaisir en mini crêpes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 24 unités, 13 kg",
+        "Prix portion": 1.033,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 52.96,
+        "Image": "CDP_0061.png"
+    }
+]

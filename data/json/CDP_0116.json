@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 840839,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarlette lunch citron meringuée Ø 50",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.795,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 71.55,
+        "Image": "CDP_0116.png"
+    },
+    {
+        "Code": 840840,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarlette lunch framboise saveur pistache Ø 50",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.846,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 77.81,
+        "Image": "CDP_0116.png"
+    },
+    {
+        "Code": 841672,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarlette lunch chocolat Ø 50",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.723,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 65.1,
+        "Image": "CDP_0116.png"
+    },
+    {
+        "Code": 70032,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarlette lunch exotique Ø 50",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.864,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 72.58,
+        "Image": "CDP_0116.png"
+    },
+    {
+        "Code": 70034,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarlette lunch aux pommes Ø 50",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.712,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 63.92,
+        "Image": "CDP_0116.png"
+    }
+]

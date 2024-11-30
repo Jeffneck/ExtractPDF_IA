@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 832339,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini muffin Excellence fourré caramel beurre salé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 26g",
+        "Prix portion": 0.6669,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 28.01,
+        "Image": "CDP_0127.png"
+    },
+    {
+        "Code": 832340,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini muffin Excellence fourré parfum chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 26g",
+        "Prix portion": 0.6733,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 28.28,
+        "Image": "CDP_0127.png"
+    },
+    {
+        "Code": 22277,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini muffins Sélection assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.4256,
+        "Colisage": "Colis de 84 unités",
+        "Prix colis": 35.75,
+        "Image": "CDP_0127.png"
+    },
+    {
+        "Code": 25283,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini muffins fourrés assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.6661,
+        "Colisage": "Colis de 46 unités",
+        "Prix colis": 30.64,
+        "Image": "CDP_0127.png"
+    },
+    {
+        "Code": 70173,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini muffins pâtissiers",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.8,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 28.8,
+        "Image": "CDP_0127.png"
+    }
+]

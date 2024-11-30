@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 22197,
+        "Catégorie": "Pains",
+        "Produit": "Pain kebab",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.0464,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 52.32,
+        "Image": "CDP_0198.png"
+    },
+    {
+        "Code": 70227,
+        "Catégorie": "Pains",
+        "Produit": "Pain kebab rond ø 180",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 165g",
+        "Prix portion": 1.5758,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 56.73,
+        "Image": "CDP_0198.png"
+    },
+    {
+        "Code": 70466,
+        "Catégorie": "Pains",
+        "Produit": "Pain oriental semoule 350 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 1.638,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 32.76,
+        "Image": "CDP_0198.png"
+    },
+    {
+        "Code": 841657,
+        "Catégorie": "Pains",
+        "Produit": "Pinsa Romana pliée à garnir précuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 2.5334,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 89.37,
+        "Image": "CDP_0198.png"
+    },
+    {
+        "Code": 70409,
+        "Catégorie": "Pains",
+        "Produit": "Wrap's Ø 250",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 61.7g",
+        "Prix portion": 0.4261,
+        "Colisage": "Colis de 144 unités",
+        "Prix colis": 61.36,
+        "Image": "CDP_0198.png"
+    },
+    {
+        "Code": 29083,
+        "Catégorie": "Pains",
+        "Produit": "Wrap's Ø 300",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 92g",
+        "Prix portion": 0.4838,
+        "Colisage": "Colis de 144 unités",
+        "Prix colis": 69.67,
+        "Image": "CDP_0198.png"
+    }
+]

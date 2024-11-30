@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 832503,
+        "Catégorie": "Pains",
+        "Produit": "Pain sandwich viennois",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.616,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 29.04,
+        "Image": "CDP_0204.png"
+    },
+    {
+        "Code": 22305,
+        "Catégorie": "Pains",
+        "Produit": "Mini pain bretzel céréales cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.2948,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 35.38,
+        "Image": "CDP_0204.png"
+    },
+    {
+        "Code": 70762,
+        "Catégorie": "Pains",
+        "Produit": "Pain bretzel cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 65g",
+        "Prix portion": 0.4391,
+        "Colisage": "Colis de 45 unités",
+        "Prix colis": 19.76,
+        "Image": "CDP_0204.png"
+    },
+    {
+        "Code": 22307,
+        "Catégorie": "Pains",
+        "Produit": "Pain sandwich bretzel cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 0.573,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 52.71,
+        "Image": "CDP_0204.png"
+    }
+]

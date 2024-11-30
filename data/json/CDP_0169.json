@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 27886,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Feuille de génoise nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 480g",
+        "Prix portion": 3.4625,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 41.55,
+        "Image": "CDP_0169.png"
+    },
+    {
+        "Code": 27884,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Feuille de génoise parfum chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 480g",
+        "Prix portion": 3.788,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 45.43,
+        "Image": "CDP_0169.png"
+    },
+    {
+        "Code": 22443,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Feuille de biscuit cuiller",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 560g",
+        "Prix portion": 8.635,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 51.81,
+        "Image": "CDP_0169.png"
+    },
+    {
+        "Code": 833485,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Feuille de dacquoise amande",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 650g",
+        "Prix portion": 10.38,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 62.28,
+        "Image": "CDP_0169.png"
+    }
+]

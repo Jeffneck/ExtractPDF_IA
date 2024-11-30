@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 29063,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard campagne",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 1.575,
+        "Colisage": "Colis de 14 unités",
+        "Prix colis": 22.06,
+        "Image": "CDP_0210.png"
+    },
+    {
+        "Code": 29047,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard au seigle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 530g",
+        "Prix portion": 1.487,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 21.73,
+        "Image": "CDP_0210.png"
+    },
+    {
+        "Code": 29064,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard complet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 1.746,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 26.2,
+        "Image": "CDP_0210.png"
+    },
+    {
+        "Code": 29062,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard aux graines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 1.534,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 23.02,
+        "Image": "CDP_0210.png"
+    },
+    {
+        "Code": 70424,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard caractère Solène multigraines précuit 400 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 1.948,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 29.23,
+        "Image": "CDP_0210.png"
+    },
+    {
+        "Code": 70496,
+        "Catégorie": "Pains",
+        "Produit": "Bâtard Solène muesli précuit 400 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 2.658,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 39.88,
+        "Image": "CDP_0210.png"
+    }
+]

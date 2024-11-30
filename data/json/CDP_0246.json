@@ -1,0 +1,26 @@
+[
+    {
+        "Code": null,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte crue Ø 100mm, 140 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": null,
+        "Colisage": "Colis de 36 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0246.png"
+    },
+    {
+        "Code": null,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte précuite Ø 120mm, 150 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": null,
+        "Colisage": "Colis de 15 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0246.png"
+    }
+]

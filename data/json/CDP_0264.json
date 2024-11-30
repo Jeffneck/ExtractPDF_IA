@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 70041,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Calamars à la catalane",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 240g",
+        "Prix portion": 4.3,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": 17.91,
+        "Image": "CDP_0264.png"
+    },
+    {
+        "Code": 833348,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poulet basquaise",
+        "Prix Kg": 15.24,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 4.27,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0264.png"
+    },
+    {
+        "Code": 833347,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Blanquette de veau",
+        "Prix Kg": 18.67,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 310g",
+        "Prix portion": 5.79,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0264.png"
+    },
+    {
+        "Code": 841716,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Boeuf bourguignon",
+        "Prix Kg": 17.14,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 290g",
+        "Prix portion": 4.97,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0264.png"
+    },
+    {
+        "Code": 70043,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Boeuf sauce paprika",
+        "Prix Kg": 19.57,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 240g",
+        "Prix portion": 4.7,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0264.png"
+    },
+    {
+        "Code": 833346,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillettes de poulet à la normande",
+        "Prix Kg": 16.72,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": 3.09,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0264.png"
+    },
+    {
+        "Code": 70042,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poulet coriandre gingembre",
+        "Prix Kg": 14.32,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 240g",
+        "Prix portion": 3.44,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0264.png"
+    }
+]

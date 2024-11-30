@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 29067,
+        "Catégorie": "Pains",
+        "Produit": "Maxi panini",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.6028,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 30.14,
+        "Image": "CDP_0196.png"
+    },
+    {
+        "Code": 841471,
+        "Catégorie": "Pains",
+        "Produit": "Maxi panini prémarqué",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.7278,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 36.39,
+        "Image": "CDP_0196.png"
+    },
+    {
+        "Code": 29066,
+        "Catégorie": "Pains",
+        "Produit": "Maxi panini sésame",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.6848,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 34.24,
+        "Image": "CDP_0196.png"
+    },
+    {
+        "Code": 29055,
+        "Catégorie": "Pains",
+        "Produit": "Maxi panini multigraines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.6886,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 34.43,
+        "Image": "CDP_0196.png"
+    }
+]

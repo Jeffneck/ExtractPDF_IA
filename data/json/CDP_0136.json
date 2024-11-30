@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 22482,
+        "Catégorie": "Chocolats",
+        "Produit": "Caramel à la fleur de sel chocolat lait",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Moule de 63 unités, 3 moulées par carton, Poids : 8.7 g",
+        "Prix portion": 0.4605,
+        "Colisage": "Vendu par carton de 189 unités",
+        "Prix colis": 87.04,
+        "Image": "CDP_0136.png"
+    },
+    {
+        "Code": 27071,
+        "Catégorie": "Chocolats",
+        "Produit": "Feuilleté noisette chocolat noir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g, 2 barquettes par carton, Poids : 10 g",
+        "Prix portion": 0.5086,
+        "Colisage": "Vendu par carton de 100 unités",
+        "Prix colis": 50.86,
+        "Image": "CDP_0136.png"
+    },
+    {
+        "Code": 27072,
+        "Catégorie": "Chocolats",
+        "Produit": "Malakoff chocolat lait",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g, 2 barquettes par carton, Poids : 10 g",
+        "Prix portion": 0.523,
+        "Colisage": "Vendu par carton de 100 unités",
+        "Prix colis": 52.3,
+        "Image": "CDP_0136.png"
+    },
+    {
+        "Code": 27075,
+        "Catégorie": "Chocolats",
+        "Produit": "Truffe chocolat noir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g, 2 barquettes par carton, Poids : 10 g",
+        "Prix portion": 0.5435,
+        "Colisage": "Vendu par carton de 100 unités",
+        "Prix colis": 54.35,
+        "Image": "CDP_0136.png"
+    },
+    {
+        "Code": 27472,
+        "Catégorie": "Chocolats",
+        "Produit": "Vénézuela chocolat lait",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Moule de 81 unités, 2 moulés par carton, Poids : 7.8 g",
+        "Prix portion": 0.363,
+        "Colisage": "Vendu par carton de 162 unités",
+        "Prix colis": 59.13,
+        "Image": "CDP_0136.png"
+    },
+    {
+        "Code": 834570,
+        "Catégorie": "Chocolats",
+        "Produit": "Chocolat lait fourré praliné noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Moule de 63 unités, 3 moulées par carton, Poids : 8 g",
+        "Prix portion": 0.5073,
+        "Colisage": "Vendu par carton de 189 unités",
+        "Prix colis": 95.88,
+        "Image": "CDP_0136.png"
+    }
+]

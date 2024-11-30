@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 44230,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Timbres de jambon sec",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0290.png"
+    },
+    {
+        "Code": 838149,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Allumettes de jambon cru",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0290.png"
+    },
+    {
+        "Code": 44159,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pétales de jambon sec",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0290.png"
+    },
+    {
+        "Code": 840566,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de bresaola",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0290.png"
+    },
+    {
+        "Code": 838153,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Coppa tranchée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g (50 tranches)",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0290.png"
+    },
+    {
+        "Code": 7154,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Rosette pur porc tranchée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 500 g (50 tranches)",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 plateaux",
+        "Prix colis": null,
+        "Image": "CDP_0290.png"
+    }
+]

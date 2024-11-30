@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70442,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini hot-dog de volaille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 40 unités",
+        "Prix portion": 1.2235,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 48.94,
+        "Image": "CDP_0077.png"
+    },
+    {
+        "Code": 828949,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini rösti burger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "2 hamburgers par carton",
+        "Prix portion": 1.2273,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 58.91,
+        "Image": "CDP_0077.png"
+    },
+    {
+        "Code": 70494,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini cheeseburger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 30 unités",
+        "Prix portion": 1.2167,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 36.5,
+        "Image": "CDP_0077.png"
+    },
+    {
+        "Code": 841479,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini hot dog ketchup et moutarde",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 40 unités",
+        "Prix portion": 0.89,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 35.6,
+        "Image": "CDP_0077.png"
+    },
+    {
+        "Code": 26658,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bagnat poulet provençal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 40 unités",
+        "Prix portion": 1.6733,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 66.93,
+        "Image": "CDP_0077.png"
+    },
+    {
+        "Code": 26041,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini double cheeseburger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 40 unités",
+        "Prix portion": 1.227,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 49.08,
+        "Image": "CDP_0077.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70672,
+        "Catégorie": "Traiteur salé",
+        "Produit": "L’excursion asiatique Excellence",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 11.5 g",
+        "Prix portion": 1.3935,
+        "Colisage": "Vendu par carton de 40 unités",
+        "Prix colis": 77.58,
+        "Image": "CDP_0058.png"
+    },
+    {
+        "Code": 70674,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini brochette de boeuf Wagyu Excellence",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 25 g",
+        "Prix portion": 2.9708,
+        "Colisage": "Vendu par carton de 40 unités",
+        "Prix colis": 118.83,
+        "Image": "CDP_0058.png"
+    },
+    {
+        "Code": 70683,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Macaron salé magret de canard orange",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 15 g",
+        "Prix portion": 0.8254,
+        "Colisage": "Vendu par carton de 70 unités",
+        "Prix colis": 57.78,
+        "Image": "CDP_0058.png"
+    },
+    {
+        "Code": 70681,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini gaufre salée emmental",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 14 g",
+        "Prix portion": 0.594,
+        "Colisage": "Vendu par carton de 60 unités",
+        "Prix colis": 35.64,
+        "Image": "CDP_0058.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70738,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de joue de boeuf cuisinée à l'huile d'olive",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 275 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3.3 kg (12 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0307.png"
+    },
+    {
+        "Code": 70737,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Fondant de poulet farci aux légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 48 kg (30 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0307.png"
+    },
+    {
+        "Code": 70739,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Fondant de poulet farci aux fruits secs",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 48 kg (30 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0307.png"
+    },
+    {
+        "Code": 70728,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tender de poulet pané halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0307.png"
+    },
+    {
+        "Code": 70729,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de canette avec peau",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet (sous-vide) de 170/240 g (2 pièces par sachet)",
+        "Prix portion": null,
+        "Colisage": "Carton de 12 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0307.png"
+    }
+]

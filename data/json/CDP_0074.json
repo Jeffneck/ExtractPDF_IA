@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841485,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini vol-au-vent poulet champignon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 1.24,
+        "Colisage": "Carton de 20 unités",
+        "Prix colis": 22.48,
+        "Image": "CDP_0074.png"
+    },
+    {
+        "Code": 70462,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini pissaladière Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.5765,
+        "Colisage": "Carton de 40 unités",
+        "Prix colis": 23.06,
+        "Image": "CDP_0074.png"
+    },
+    {
+        "Code": 26975,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Trio de mini roulé cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 1.503,
+        "Colisage": "Carton de 279 unités",
+        "Prix colis": 41.93,
+        "Image": "CDP_0074.png"
+    },
+    {
+        "Code": 22585,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini muffins salés assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.7392,
+        "Colisage": "Carton de 64 unités",
+        "Prix colis": 47.31,
+        "Image": "CDP_0074.png"
+    },
+    {
+        "Code": 826120,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini canelés salés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 13g",
+        "Prix portion": 0.3331,
+        "Colisage": "Carton de 150 unités",
+        "Prix colis": 49.96,
+        "Image": "CDP_0074.png"
+    },
+    {
+        "Code": 22437,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini pastel de nata à la morue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 33g",
+        "Prix portion": 0.6208,
+        "Colisage": "Carton de 12 unités",
+        "Prix colis": 74.5,
+        "Image": "CDP_0074.png"
+    }
+]

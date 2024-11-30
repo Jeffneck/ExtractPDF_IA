@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 28450,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Kouign amann nature individuel ø 60",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 2.1225,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 76.41,
+        "Image": "CDP_0051.png"
+    },
+    {
+        "Code": 28452,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Kouign amann nature ø 180",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 5.458,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 54.58,
+        "Image": "CDP_0051.png"
+    },
+    {
+        "Code": 28454,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Kouign amann nature plaque 320 x 260 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 187g",
+        "Prix portion": 18.78,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 56.34,
+        "Image": "CDP_0051.png"
+    }
+]

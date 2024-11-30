@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70256,
+        "Catégorie": "Pains",
+        "Produit": "Plaque de gaufre salée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "220g",
+        "Prix portion": 23.5,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 71.85,
+        "Image": "CDP_0156.png"
+    },
+    {
+        "Code": 835423,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® bio plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "260g",
+        "Prix portion": 4.596,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 45.96,
+        "Image": "CDP_0156.png"
+    },
+    {
+        "Code": 841489,
+        "Catégorie": "Pains",
+        "Produit": "Plaque à focaccia",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "600g",
+        "Prix portion": 7.888,
+        "Colisage": "Colis de 9 unités",
+        "Prix colis": 71.0,
+        "Image": "CDP_0156.png"
+    },
+    {
+        "Code": 837951,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® suédois",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "175g",
+        "Prix portion": 1.5438,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 34.89,
+        "Image": "CDP_0156.png"
+    },
+    {
+        "Code": 22227,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® wrap's",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "85g",
+        "Prix portion": 0.81615,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 48.99,
+        "Image": "CDP_0156.png"
+    }
+]

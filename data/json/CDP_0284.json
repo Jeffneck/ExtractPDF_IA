@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 19339,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Jambon supérieur DD tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g (10 tranches)",
+        "Prix portion": null,
+        "Colisage": "Carton de 15 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0284.png"
+    },
+    {
+        "Code": 70797,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Jambon supérieur DD tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 720 g (16 tranches)",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0284.png"
+    },
+    {
+        "Code": 70594,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Jambon supérieur DD tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Tranche de 40 g, barquette de 1 kg (25 tranches)",
+        "Prix portion": null,
+        "Colisage": "Carton de 9 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0284.png"
+    },
+    {
+        "Code": 44150,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Jambon choix 5D",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 3,5 kg env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0284.png"
+    },
+    {
+        "Code": 19703,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Chutes de jambon DD",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 1 kg env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 9 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0284.png"
+    },
+    {
+        "Code": 19383,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Jambon de dinde halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 3,630 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0284.png"
+    },
+    {
+        "Code": 19404,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Jambon de dinde tranché halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g (20 tranches)",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0284.png"
+    }
+]
