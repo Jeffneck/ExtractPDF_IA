@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 840067,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Carpaccio de bœuf pré-mariné en tranche individuelle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Tranche de 10 g",
+        "Prix portion": null,
+        "Colisage": "Boîte de 800 g, Carton de 10 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0281.png"
+    },
+    {
+        "Code": 841780,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Carpaccio de saumon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 350 g (5 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0281.png"
+    },
+    {
+        "Code": 835146,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Carpaccio de bœuf",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 70 g (7 tranches)",
+        "Prix portion": null,
+        "Colisage": "Boîte de 1.4 kg (20 assiettes), Carton de 5 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0281.png"
+    },
+    {
+        "Code": 70477,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Carpaccio de thon albacore mariné",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 70 g (5 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0281.png"
+    },
+    {
+        "Code": 841389,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Carpaccio de bœuf charolais",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 70 g (7 tranches)",
+        "Prix portion": null,
+        "Colisage": "Boîte de 1.4 kg (20 assiettes), Carton de 5 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0281.png"
+    }
+]

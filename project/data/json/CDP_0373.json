@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 832674,
+        "Catégorie": null,
+        "Produit": "Ail en cubes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 250 g",
+        "Prix portion": 3.29,
+        "Colisage": "Carton de 8 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0373.png"
+    },
+    {
+        "Code": 832676,
+        "Catégorie": null,
+        "Produit": "Échalote en cubes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 250 g",
+        "Prix portion": 2.49,
+        "Colisage": "Carton de 8 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0373.png"
+    },
+    {
+        "Code": 835165,
+        "Catégorie": null,
+        "Produit": "Oignons émincés",
+        "Prix Kg": 2.99,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.0,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0373.png"
+    },
+    {
+        "Code": 831219,
+        "Catégorie": null,
+        "Produit": "Persillade",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 250 g",
+        "Prix portion": 3.29,
+        "Colisage": "Carton de 8 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0373.png"
+    },
+    {
+        "Code": 11124,
+        "Catégorie": null,
+        "Produit": "Cornichons calibre 80/119",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Boîtes de 1, 420 kg",
+        "Prix portion": 0.06,
+        "Colisage": "Carton de 3 boîtes",
+        "Prix colis": 12.59,
+        "Image": "CDP_0373.png"
+    },
+    {
+        "Code": 11140,
+        "Catégorie": null,
+        "Produit": "Olives noires dénoyautées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Boîtes de 4.1 kg",
+        "Prix portion": 0.07,
+        "Colisage": "Carton de 3 boîtes",
+        "Prix colis": 13.69,
+        "Image": "CDP_0373.png"
+    },
+    {
+        "Code": 832675,
+        "Catégorie": null,
+        "Produit": "Ciboulette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 250 g",
+        "Prix portion": 2.79,
+        "Colisage": "Carton de 8 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0373.png"
+    },
+    {
+        "Code": 832677,
+        "Catégorie": null,
+        "Produit": "Persil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 250 g",
+        "Prix portion": 2.15,
+        "Colisage": "Carton de 8 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0373.png"
+    }
+]

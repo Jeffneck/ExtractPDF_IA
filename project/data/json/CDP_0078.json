@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 83460,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Burger cocktail au bacon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 24 unités, poids 438 g",
+        "Prix portion": 2.025,
+        "Colisage": "1 plateau par carton",
+        "Prix colis": 48.06,
+        "Image": "CDP_0078.png"
+    },
+    {
+        "Code": 832362,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Burger cocktail façon Rossini",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 15 unités, poids 450 g",
+        "Prix portion": 2.047,
+        "Colisage": "2 plateaux par carton",
+        "Prix colis": 60.74,
+        "Image": "CDP_0078.png"
+    },
+    {
+        "Code": 822904,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini burgers assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 24 unités, poids 350 g",
+        "Prix portion": 1.652,
+        "Colisage": "1 plateau par carton",
+        "Prix colis": 39.82,
+        "Image": "CDP_0078.png"
+    },
+    {
+        "Code": 70292,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Chou/burger cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 20 unités, poids 595 g",
+        "Prix portion": 1.033,
+        "Colisage": "2 plateaux par carton",
+        "Prix colis": 44.13,
+        "Image": "CDP_0078.png"
+    },
+    {
+        "Code": 70027,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Cheeseburger cocktail poulet barbecue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 30 unités, poids 450 g",
+        "Prix portion": 1.716,
+        "Colisage": "1 plateau par carton",
+        "Prix colis": 51.49,
+        "Image": "CDP_0078.png"
+    },
+    {
+        "Code": 83261,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Cheeseburger cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 15 unités, poids 450 g",
+        "Prix portion": 1.837,
+        "Colisage": "2 plateaux par carton",
+        "Prix colis": 56.51,
+        "Image": "CDP_0078.png"
+    }
+]

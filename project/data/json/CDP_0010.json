@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841642,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarlette croustillante abricot amande ø 105",
+        "Prix Kg": 3.3141,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 145g",
+        "Prix portion": 2.0021,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 48.05,
+        "Image": "CDP_0010.png"
+    },
+    {
+        "Code": 70233,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarlette croustillante poire cacao ø 105",
+        "Prix Kg": 4.5463,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 2.2879,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 54.91,
+        "Image": "CDP_0010.png"
+    },
+    {
+        "Code": 841643,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarlette croustillante aux pommes ø 105",
+        "Prix Kg": 6.0307,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.8192,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 43.51,
+        "Image": "CDP_0010.png"
+    },
+    {
+        "Code": 70694,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarte fine pomme ø 130",
+        "Prix Kg": 4.0477,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 135g",
+        "Prix portion": 1.821,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 54.63,
+        "Image": "CDP_0010.png"
+    },
+    {
+        "Code": 841495,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarte fine pomme cuite ø 130",
+        "Prix Kg": 6.8958,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 2.3975,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 28.77,
+        "Image": "CDP_0010.png"
+    },
+    {
+        "Code": 841494,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarte fine figue cuite ø 130",
+        "Prix Kg": 6.178,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 3.0725,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 36.87,
+        "Image": "CDP_0010.png"
+    }
+]

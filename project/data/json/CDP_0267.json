@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70180,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Lasagnes à la provençale",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 300g",
+        "Prix portion": 3.48,
+        "Colisage": "Carton de 9 barquettes",
+        "Prix colis": 31.29,
+        "Image": "CDP_0267.png"
+    },
+    {
+        "Code": 70179,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Lasagnes à la bolognaise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 300g",
+        "Prix portion": 3.63,
+        "Colisage": "Carton de 9 barquettes",
+        "Prix colis": 32.63,
+        "Image": "CDP_0267.png"
+    },
+    {
+        "Code": 70425,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Brandade de morue parmentière",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 300g",
+        "Prix portion": 3.17,
+        "Colisage": "Carton de 9 barquettes",
+        "Prix colis": 28.51,
+        "Image": "CDP_0267.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841820,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poivrons verts et rouges en lanières",
+        "Prix Kg": 3.39,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 25 kg",
+        "Prix portion": 0.17,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0351.png"
+    },
+    {
+        "Code": 821565,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Courges butternut en cubes",
+        "Prix Kg": 3.19,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.48,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0351.png"
+    },
+    {
+        "Code": 832855,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Fonds d'artichauts o 50-70 mm",
+        "Prix Kg": 6.69,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 1.0,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0351.png"
+    },
+    {
+        "Code": 834815,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Topinambours en cubes",
+        "Prix Kg": 6.29,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.94,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0351.png"
+    },
+    {
+        "Code": 820967,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poireaux coupés",
+        "Prix Kg": 1.45,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": 0.22,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0351.png"
+    }
+]

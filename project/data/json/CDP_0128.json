@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841673,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron vanille Ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7836,
+        "Colisage": "Vendu par carton de 36 unités",
+        "Prix colis": 28.21,
+        "Image": "CDP_0128.png"
+    },
+    {
+        "Code": 841676,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron pistache Ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7836,
+        "Colisage": "Vendu par carton de 36 unités",
+        "Prix colis": 28.21,
+        "Image": "CDP_0128.png"
+    },
+    {
+        "Code": 841736,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron caramel salé Ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7836,
+        "Colisage": "Vendu par carton de 36 unités",
+        "Prix colis": 28.21,
+        "Image": "CDP_0128.png"
+    },
+    {
+        "Code": 841737,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron chocolat Ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7836,
+        "Colisage": "Vendu par carton de 36 unités",
+        "Prix colis": 28.21,
+        "Image": "CDP_0128.png"
+    },
+    {
+        "Code": 841674,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron citron Ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7836,
+        "Colisage": "Vendu par carton de 36 unités",
+        "Prix colis": 28.21,
+        "Image": "CDP_0128.png"
+    },
+    {
+        "Code": 841675,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macaron framboise Ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.7836,
+        "Colisage": "Vendu par carton de 36 unités",
+        "Prix colis": 28.21,
+        "Image": "CDP_0128.png"
+    }
+]

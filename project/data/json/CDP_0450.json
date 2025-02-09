@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70322,
+        "Catégorie": null,
+        "Produit": "Poche pâtissière jetable",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 18.99,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0450.png"
+    },
+    {
+        "Code": 44208,
+        "Catégorie": null,
+        "Produit": "Film étirable alimentaire",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Rouleau de 45 cm x 300 m",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 boîtes distributrices",
+        "Prix colis": 72.0,
+        "Image": "CDP_0450.png"
+    },
+    {
+        "Code": 40035,
+        "Catégorie": null,
+        "Produit": "Serviette blanche 1 pli",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 300x300 mm",
+        "Prix portion": 2.59,
+        "Colisage": "Carton de 200 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0450.png"
+    },
+    {
+        "Code": 18421,
+        "Catégorie": null,
+        "Produit": "Feuille de papier cuisson",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Feuille de 600x400 mm",
+        "Prix portion": null,
+        "Colisage": "Rame de 500 feuilles",
+        "Prix colis": 33.0,
+        "Image": "CDP_0450.png"
+    },
+    {
+        "Code": 835552,
+        "Catégorie": null,
+        "Produit": "Kit couverts 4/1 en bois",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Carton de 250 kits",
+        "Prix colis": 63.99,
+        "Image": "CDP_0450.png"
+    }
+]

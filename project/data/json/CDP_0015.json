@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841725,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes aux fraises Ø 100",
+        "Prix Kg": 25.1236,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 2.4107,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 36.16,
+        "Image": "CDP_0015.png"
+    },
+    {
+        "Code": 841723,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes aux myrtilles Ø 100",
+        "Prix Kg": 35.0769,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 2.318,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 34.77,
+        "Image": "CDP_0015.png"
+    },
+    {
+        "Code": 841722,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes abricot amande Ø 100",
+        "Prix Kg": 26.632,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 125g",
+        "Prix portion": 2.2192,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 33.29,
+        "Image": "CDP_0015.png"
+    },
+    {
+        "Code": 841724,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes aux pommes Ø 100",
+        "Prix Kg": 24.008,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 125g",
+        "Prix portion": 2.0007,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 30.01,
+        "Image": "CDP_0015.png"
+    },
+    {
+        "Code": 841726,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes aux framboises Ø 100",
+        "Prix Kg": 27.8015,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 135g",
+        "Prix portion": 2.504,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 37.56,
+        "Image": "CDP_0015.png"
+    },
+    {
+        "Code": 835434,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes noix de pecan Ø 100",
+        "Prix Kg": 44.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 2.6911,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 48.44,
+        "Image": "CDP_0015.png"
+    }
+]

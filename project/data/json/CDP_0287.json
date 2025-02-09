@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 826977,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Rôti de porc supérieur aux herbes tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g (20 tranches)",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0287.png"
+    },
+    {
+        "Code": 19092,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Smoked beef tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 300 g (24 tranches)",
+        "Prix portion": null,
+        "Colisage": "Carton de 9 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0287.png"
+    },
+    {
+        "Code": 44330,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini rôti de bœuf tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet (sous-vide) de 200 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0287.png"
+    },
+    {
+        "Code": 19816,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de pastrami de bœuf",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 300 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0287.png"
+    },
+    {
+        "Code": 44286,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de pastrami de bœuf",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0287.png"
+    }
+]

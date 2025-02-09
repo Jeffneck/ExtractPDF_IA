@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 44258,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mozzarella et Emmental râpés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Carton de 10 sachets.",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0394.png"
+    },
+    {
+        "Code": 70399,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mozzarella et Emmental râpés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Carton de 10 sachets.",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0394.png"
+    },
+    {
+        "Code": 44259,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mozzarella râpée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2,5 Kg, Carton de 4 sachets.",
+        "Prix portion": 0.81,
+        "Colisage": null,
+        "Prix colis": 8.09,
+        "Image": "CDP_0394.png"
+    },
+    {
+        "Code": 841762,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mozzarella en cossette",
+        "Prix Kg": 11.45,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1,5 Kg, Carton de 8 barquettes.",
+        "Prix portion": 1.15,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0394.png"
+    },
+    {
+        "Code": 44297,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mozzarella en cossette",
+        "Prix Kg": 7.99,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2,5 Kg, Carton de 4 sachets.",
+        "Prix portion": 0.8,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0394.png"
+    }
+]

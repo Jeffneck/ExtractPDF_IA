@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 836422,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Salade de fruits exotiques",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg (2,1 kg poids égoutté)",
+        "Prix portion": 0.39,
+        "Colisage": null,
+        "Prix colis": 14.59,
+        "Image": "CDP_0410.png"
+    },
+    {
+        "Code": 18429,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Salade de fruits exotiques",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 5 kg (3,5 kg poids égoutté)",
+        "Prix portion": 0.36,
+        "Colisage": null,
+        "Prix colis": 22.25,
+        "Image": "CDP_0410.png"
+    },
+    {
+        "Code": 840749,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Salade 5 fruits variés au sirop passion (sans pomme)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg (1,8 kg poids égoutté)",
+        "Prix portion": 0.34,
+        "Colisage": null,
+        "Prix colis": 12.89,
+        "Image": "CDP_0410.png"
+    },
+    {
+        "Code": 18481,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Salade de fruits exotiques au jus de fruits de la passion",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2,25 kg (2,5 kg poids égoutté)",
+        "Prix portion": 0.46,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": 5.75,
+        "Image": "CDP_0410.png"
+    },
+    {
+        "Code": 934,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Salade 5-6 fruits variés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg (1,8 kg poids égoutté)",
+        "Prix portion": 0.6,
+        "Colisage": null,
+        "Prix colis": 13.39,
+        "Image": "CDP_0410.png"
+    },
+    {
+        "Code": 13329,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Salade 5-6 fruits variés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 5 kg (3,5 kg poids égoutté)",
+        "Prix portion": 0.32,
+        "Colisage": null,
+        "Prix colis": 21.85,
+        "Image": "CDP_0410.png"
+    }
+]

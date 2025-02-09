@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 26126,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Beignet de crevette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.7036,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 49.25,
+        "Image": "CDP_0082.png"
+    },
+    {
+        "Code": 26586,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crevette en chemise de pommes de terre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 1.0339,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 103.39,
+        "Image": "CDP_0082.png"
+    },
+    {
+        "Code": 26173,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crevette en chemise de légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.8451,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 81.99,
+        "Image": "CDP_0082.png"
+    },
+    {
+        "Code": 26344,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crevette tempura aux saveurs d'Asie",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.7736,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 61.89,
+        "Image": "CDP_0082.png"
+    },
+    {
+        "Code": 834562,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crevette panée Panko",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Boîte de 25g",
+        "Prix portion": 0.7374,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 58.99,
+        "Image": "CDP_0082.png"
+    },
+    {
+        "Code": 26340,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crevette tempura aux saveurs japonaises",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.7736,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 61.89,
+        "Image": "CDP_0082.png"
+    }
+]

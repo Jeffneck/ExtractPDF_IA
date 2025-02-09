@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 27495,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Merveilleux coques de chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.8383,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 22.06,
+        "Image": "CDP_0012.png"
+    },
+    {
+        "Code": 27494,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Merveilleux coco",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.7133,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 20.56,
+        "Image": "CDP_0012.png"
+    },
+    {
+        "Code": 27582,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mystérieux parfum café",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 2.1267,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 25.52,
+        "Image": "CDP_0012.png"
+    },
+    {
+        "Code": 27498,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Moka parfum chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 2.09,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 25.08,
+        "Image": "CDP_0012.png"
+    },
+    {
+        "Code": 27497,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Moka café",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 2.092,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 24.35,
+        "Image": "CDP_0012.png"
+    }
+]

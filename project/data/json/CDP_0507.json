@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 832340,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini muffin Excellence fourré parfum chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 26g",
+        "Prix portion": 0.6733,
+        "Colisage": "Vendu par carton de 42 unités",
+        "Prix colis": 28.28,
+        "Image": "CDP_0507.png"
+    },
+    {
+        "Code": 832339,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini muffin Excellence fourré caramel beurre salé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 26g",
+        "Prix portion": 0.6669,
+        "Colisage": "Vendu par carton de 42 unités",
+        "Prix colis": 28.01,
+        "Image": "CDP_0507.png"
+    },
+    {
+        "Code": 25415,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini muffin Sélection assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17.5g",
+        "Prix portion": 0.2878,
+        "Colisage": "Vendu par carton de 96 unités",
+        "Prix colis": 27.63,
+        "Image": "CDP_0507.png"
+    },
+    {
+        "Code": 25283,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini muffins fourrés assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.6661,
+        "Colisage": "Vendu par carton de 46 unités",
+        "Prix colis": 30.64,
+        "Image": "CDP_0507.png"
+    },
+    {
+        "Code": 70173,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini muffins pâtissiers",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.8,
+        "Colisage": "Vendu par carton de 36 unités",
+        "Prix colis": 28.8,
+        "Image": "CDP_0507.png"
+    },
+    {
+        "Code": 22277,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini muffins Sélection assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.4256,
+        "Colisage": "Vendu par carton de 84 unités",
+        "Prix colis": 35.75,
+        "Image": "CDP_0507.png"
+    }
+]

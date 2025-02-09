@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 13142,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Beurre de baratte doux d'Isigny Ste-Mère AOP",
+        "Prix Kg": 13.89,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.276,
+        "Colisage": "Carton de 10 rouleaux",
+        "Prix colis": null,
+        "Image": "CDP_0400.png"
+    },
+    {
+        "Code": 13141,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Beurre de tourage d'Isigny Ste-Mère AOP",
+        "Prix Kg": 13.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.37,
+        "Colisage": "Carton de 10 plaques",
+        "Prix colis": null,
+        "Image": "CDP_0400.png"
+    },
+    {
+        "Code": 13134,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Beurre doux extra-fin d'Isigny Ste-Mère AOP",
+        "Prix Kg": 14.35,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.44,
+        "Colisage": "Carton de 1 pièce",
+        "Prix colis": null,
+        "Image": "CDP_0400.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 831613,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pavé de saumon 140/160 g (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0292.png"
+    },
+    {
+        "Code": 831616,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pavé de saumon 180/200 g (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 180/200 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (27 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0292.png"
+    },
+    {
+        "Code": 7077,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pavé de vivaneau malabar sauvage (avec peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0292.png"
+    },
+    {
+        "Code": 841618,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pavé de Merlu blanc du Cap sauvage (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 130/170 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0292.png"
+    },
+    {
+        "Code": 835128,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pavé de dorade coryphène sauvage (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (31 à 36 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0292.png"
+    },
+    {
+        "Code": 841796,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pavé de sandre sauvage (avec peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (18 à 21 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0292.png"
+    },
+    {
+        "Code": 833043,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pavé de loup de mer sauvage (sans peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0292.png"
+    }
+]

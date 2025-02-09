@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 853219,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain losange du Fournil nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.2257,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 45.14,
+        "Image": "CDP_0226.png"
+    },
+    {
+        "Code": 29040,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain losange du Fournil sésame",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.2642,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 52.84,
+        "Image": "CDP_0226.png"
+    },
+    {
+        "Code": 29041,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain losange du Fournil pavot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.2672,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 53.44,
+        "Image": "CDP_0226.png"
+    },
+    {
+        "Code": 70230,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain losange multi-graines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.3206,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 25.65,
+        "Image": "CDP_0226.png"
+    },
+    {
+        "Code": 826188,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain carré du Fournil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 0.2475,
+        "Colisage": "Colis de 160 unités",
+        "Prix colis": 39.6,
+        "Image": "CDP_0226.png"
+    },
+    {
+        "Code": 29487,
+        "Catégorie": "Pains",
+        "Produit": "Bûchette nature du Fournil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 0.3172,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 18.76,
+        "Image": "CDP_0226.png"
+    }
+]

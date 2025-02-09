@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 826179,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini financiers assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 48 unités",
+        "Prix portion": 0.3629,
+        "Colisage": "5 plateaux par carton",
+        "Prix colis": 87.09,
+        "Image": "CDP_0123.png"
+    },
+    {
+        "Code": 70293,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini millefeuilles crème diplomate sans alcool",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 96 unités",
+        "Prix portion": 0.5816,
+        "Colisage": "6 plateaux par carton",
+        "Prix colis": 53.83,
+        "Image": "CDP_0123.png"
+    },
+    {
+        "Code": 22083,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Douceurs orientales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 55 unités",
+        "Prix portion": 0.9345,
+        "Colisage": "1 plateau par carton",
+        "Prix colis": 51.4,
+        "Image": "CDP_0123.png"
+    },
+    {
+        "Code": 70498,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Madelinettes assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Saché de 160 unités",
+        "Prix portion": 0.1419,
+        "Colisage": "1 sachet par carton",
+        "Prix colis": 22.7,
+        "Image": "CDP_0123.png"
+    }
+]

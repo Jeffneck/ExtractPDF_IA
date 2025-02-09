@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 44039,
+        "Catégorie": "Fromages",
+        "Produit": "Camembert Ambassador",
+        "Prix Kg": 13.19,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 240g",
+        "Prix portion": 0.66,
+        "Colisage": "Colis de 12 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0389.png"
+    },
+    {
+        "Code": 16318,
+        "Catégorie": "Fromages",
+        "Produit": "Brie 60 % MG",
+        "Prix Kg": 9.85,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.49,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0389.png"
+    },
+    {
+        "Code": 83143,
+        "Catégorie": "Fromages",
+        "Produit": "Brie de Meaux AOP",
+        "Prix Kg": 18.19,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.91,
+        "Colisage": "Colis de 1 pièce",
+        "Prix colis": null,
+        "Image": "CDP_0389.png"
+    },
+    {
+        "Code": 8320,
+        "Catégorie": "Fromages",
+        "Produit": "Reblochon de Savoie AOP",
+        "Prix Kg": 24.89,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 450g",
+        "Prix portion": 1.24,
+        "Colisage": "Colis de 6 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0389.png"
+    },
+    {
+        "Code": 8310,
+        "Catégorie": "Fromages",
+        "Produit": "Comté AOP doux 1/2 meule",
+        "Prix Kg": 18.29,
+        "Prix Litre": null,
+        "Portionnement": "Portion non spécifiée",
+        "Prix portion": 0.91,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0389.png"
+    },
+    {
+        "Code": 44455,
+        "Catégorie": "Fromages",
+        "Produit": "Emmental bloc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bloc de 2 à 3 kg",
+        "Prix portion": null,
+        "Colisage": "Colis de 6 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0389.png"
+    }
+]

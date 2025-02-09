@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 833083,
+        "Catégorie": "Pains",
+        "Produit": "Pain bagnat brioché Ø 140",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 98g",
+        "Prix portion": 1.106,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 33.18,
+        "Image": "CDP_0203.png"
+    },
+    {
+        "Code": 22082,
+        "Catégorie": "Pains",
+        "Produit": "Pain bagnat brioché Ø 140",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 98g",
+        "Prix portion": 1.064,
+        "Colisage": "Colis de 22 unités",
+        "Prix colis": 24.34,
+        "Image": "CDP_0203.png"
+    },
+    {
+        "Code": 70079,
+        "Catégorie": "Pains",
+        "Produit": "Pain bagnat Ø 120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 160g",
+        "Prix portion": 0.85,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 28.98,
+        "Image": "CDP_0203.png"
+    },
+    {
+        "Code": 70404,
+        "Catégorie": "Pains",
+        "Produit": "Navette sandwich 45g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 0.3297,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 32.97,
+        "Image": "CDP_0203.png"
+    },
+    {
+        "Code": 841483,
+        "Catégorie": "Pains",
+        "Produit": "Pain brioché pour lobster roll",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 500g",
+        "Prix portion": 7.527,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 30.11,
+        "Image": "CDP_0203.png"
+    },
+    {
+        "Code": 70234,
+        "Catégorie": "Pains",
+        "Produit": "Pain hot dog brioché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 55g",
+        "Prix portion": 0.6161,
+        "Colisage": "Colis de 64 unités",
+        "Prix colis": 39.43,
+        "Image": "CDP_0203.png"
+    }
+]

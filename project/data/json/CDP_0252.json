@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 840857,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les croq’ronds d'Hubert : le montagnard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 225g",
+        "Prix portion": 3.23,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 58.15,
+        "Image": "CDP_0252.png"
+    },
+    {
+        "Code": 70045,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Hot-dog volailles",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 2.29,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 27.46,
+        "Image": "CDP_0252.png"
+    },
+    {
+        "Code": 840858,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les croq’ronds d'Hubert : façon burger cheddar",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 225g",
+        "Prix portion": 3.63,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": 65.28,
+        "Image": "CDP_0252.png"
+    },
+    {
+        "Code": 70044,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Burger poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.59,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 38.09,
+        "Image": "CDP_0252.png"
+    },
+    {
+        "Code": 40018,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cheeseburger micro-ondable",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 1.72,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 41.35,
+        "Image": "CDP_0252.png"
+    }
+]

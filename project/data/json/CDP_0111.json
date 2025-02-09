@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841477,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini entremets croustillant chocolat caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 1.0878,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 43.51,
+        "Image": "CDP_0111.png"
+    },
+    {
+        "Code": 27641,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Rectangle opéra",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 13g",
+        "Prix portion": 0.7285,
+        "Colisage": "Colis de 66 unités",
+        "Prix colis": 48.08,
+        "Image": "CDP_0111.png"
+    },
+    {
+        "Code": 840841,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini croustillant chocolat passion",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.8576,
+        "Colisage": "Colis de 54 unités",
+        "Prix colis": 46.31,
+        "Image": "CDP_0111.png"
+    },
+    {
+        "Code": 27212,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini moelleux chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.6683,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 64.16,
+        "Image": "CDP_0111.png"
+    },
+    {
+        "Code": 70033,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini tarte chocolat prédécoupée ø 180",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 290g",
+        "Prix portion": 0.4409,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 28.22,
+        "Image": "CDP_0111.png"
+    }
+]

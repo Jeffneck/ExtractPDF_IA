@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 833022,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Brochette duo du Pacifique espadon et thon Albacore sauvages",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Brochette de 170g",
+        "Prix portion": null,
+        "Colisage": "Carton de 18 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0303.png"
+    },
+    {
+        "Code": 833031,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak de thon Albacore sauvage",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5kg",
+        "Prix colis": null,
+        "Image": "CDP_0303.png"
+    },
+    {
+        "Code": 840717,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Coquille aux noix de Saint-Jacques cuites à la Bretonne",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120g",
+        "Prix portion": null,
+        "Colisage": "Carton de 2.4kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0303.png"
+    },
+    {
+        "Code": 833044,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Longe de thon Albacore sauvage (sans peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 2kg env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0303.png"
+    },
+    {
+        "Code": 70484,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Joëls sauvages pour friture",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0303.png"
+    }
+]

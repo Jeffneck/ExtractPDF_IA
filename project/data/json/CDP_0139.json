@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70684,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini crêpe non sucrée ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "20 cm - 18 sachets de 10 crêpes",
+        "Prix portion": 0.1517,
+        "Colisage": "Colis de 180 unités",
+        "Prix colis": 27.31,
+        "Image": "CDP_0139.png"
+    },
+    {
+        "Code": 70687,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini roll nature prépoussé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "10 mm - Vendu par carton de 108 unités",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": 42.6,
+        "Image": "CDP_0139.png"
+    },
+    {
+        "Code": 70668,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Bun's viennois topping graines ø 55",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "30-45 mm à température ambiante - 120 unités",
+        "Prix portion": 0.501,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 60.61,
+        "Image": "CDP_0139.png"
+    },
+    {
+        "Code": 70695,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond sucré carré cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1h-2h / 4°C - Vendu par carton de 96 unités",
+        "Prix portion": 0.2468,
+        "Colisage": null,
+        "Prix colis": 23.69,
+        "Image": "CDP_0139.png"
+    }
+]

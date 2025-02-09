@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 27303,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Maxi moelleux chocolat Ø 260",
+        "Prix Kg": 64.73,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 108g",
+        "Prix portion": 2.0955,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 83.82,
+        "Image": "CDP_0040.png"
+    },
+    {
+        "Code": 27115,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Moelleux chocolat Ø 260",
+        "Prix Kg": 70.36,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 112.5g",
+        "Prix portion": 1.9788,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 63.25,
+        "Image": "CDP_0040.png"
+    },
+    {
+        "Code": 27110,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fondant chocolat Ø 265",
+        "Prix Kg": 45.13,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.3753,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 41.26,
+        "Image": "CDP_0040.png"
+    },
+    {
+        "Code": 27104,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Moelleux noisette Ø 260",
+        "Prix Kg": 87.1,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.42,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 69.68,
+        "Image": "CDP_0040.png"
+    },
+    {
+        "Code": 27635,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Moelleux chocolat prédécoupé Ø 300",
+        "Prix Kg": 65.13,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 106.25g",
+        "Prix portion": 1.221,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 111.72,
+        "Image": "CDP_0040.png"
+    }
+]

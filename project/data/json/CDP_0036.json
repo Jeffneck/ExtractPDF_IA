@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 838179,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte pomme cuite nappée Ø 230",
+        "Prix Kg": 69.1538,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 72g",
+        "Prix portion": 5.054,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 50.54,
+        "Image": "CDP_0036.png"
+    },
+    {
+        "Code": 70166,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte pomme cuite façon normande Ø 230",
+        "Prix Kg": 56.4444,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 72g",
+        "Prix portion": 6.08,
+        "Colisage": "Colis de 5 unités",
+        "Prix colis": 30.4,
+        "Image": "CDP_0036.png"
+    },
+    {
+        "Code": 27249,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte rustique pomme crumble Ø 270",
+        "Prix Kg": 46.7607,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 283g",
+        "Prix portion": 13.2283,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 79.37,
+        "Image": "CDP_0036.png"
+    },
+    {
+        "Code": 27244,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte tatin Ø 200",
+        "Prix Kg": 62.0471,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 142g",
+        "Prix portion": 8.91,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 53.46,
+        "Image": "CDP_0036.png"
+    },
+    {
+        "Code": 822884,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte tatin sur sablé breton Ø 220",
+        "Prix Kg": 73.4176,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 14.665,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 58.66,
+        "Image": "CDP_0036.png"
+    }
+]

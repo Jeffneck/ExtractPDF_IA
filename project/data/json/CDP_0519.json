@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 833409,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Premium apple tart prédécoupée ø 280",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 25.42,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 101.68,
+        "Image": "CDP_0519.png"
+    },
+    {
+        "Code": 840136,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Premium mixed berry tart prédécoupée ø 280",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 29.25,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 117.0,
+        "Image": "CDP_0519.png"
+    },
+    {
+        "Code": 833479,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Banana bread",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 500g",
+        "Prix portion": 9.575,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 38.31,
+        "Image": "CDP_0519.png"
+    },
+    {
+        "Code": 835287,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Carrot cake",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 440g",
+        "Prix portion": 8.4,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 33.6,
+        "Image": "CDP_0519.png"
+    },
+    {
+        "Code": 27300,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Cheesecake prédécoupé ø 200",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1.500g",
+        "Prix portion": 2.451,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 68.63,
+        "Image": "CDP_0519.png"
+    },
+    {
+        "Code": 70497,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Cheesecake framboise prédécoupé ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1.850g",
+        "Prix portion": 2.932,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 41.05,
+        "Image": "CDP_0519.png"
+    }
+]

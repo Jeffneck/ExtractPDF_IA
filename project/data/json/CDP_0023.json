@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 840151,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fraise en trompe-l'œil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 2.638,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 21.11,
+        "Image": "CDP_0023.png"
+    },
+    {
+        "Code": 841491,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Poire en trompe-l'œil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 2.4463,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 19.57,
+        "Image": "CDP_0023.png"
+    },
+    {
+        "Code": 841492,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pomme en trompe-l'œil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.4463,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 19.57,
+        "Image": "CDP_0023.png"
+    },
+    {
+        "Code": 841452,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Douceur abricot et fleur d’oranger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 95g",
+        "Prix portion": 2.2238,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 35.58,
+        "Image": "CDP_0023.png"
+    },
+    {
+        "Code": 841540,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mont-Blanc individuel ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 2.5688,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 20.55,
+        "Image": "CDP_0023.png"
+    }
+]

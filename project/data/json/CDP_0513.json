@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70316,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut spéculoos",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 68g",
+        "Prix portion": 0.8873,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 42.59,
+        "Image": "CDP_0513.png"
+    },
+    {
+        "Code": 70054,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut citron éclats de meringues",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 72g",
+        "Prix portion": 0.7363,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 35.34,
+        "Image": "CDP_0513.png"
+    },
+    {
+        "Code": 70056,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut fourré parfum fraise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 68g",
+        "Prix portion": 0.8004,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 38.42,
+        "Image": "CDP_0513.png"
+    },
+    {
+        "Code": 70315,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mochi Donut",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 1.1965,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 23.93,
+        "Image": "CDP_0513.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 25314,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Suisse aux pépites de chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 0.7346,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 66.11,
+        "Image": "CDP_0432.png"
+    },
+    {
+        "Code": 25287,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Suisse aux pépites de chocolat prépoussé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.038,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 62.28,
+        "Image": "CDP_0432.png"
+    },
+    {
+        "Code": 826177,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Tresse noix de pécan",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 95g",
+        "Prix portion": 1.038,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 49.84,
+        "Image": "CDP_0432.png"
+    },
+    {
+        "Code": 828905,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini tresse noix de pécan",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 42g",
+        "Prix portion": 0.4448,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 53.37,
+        "Image": "CDP_0432.png"
+    },
+    {
+        "Code": 25273,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Bretzel fourré crème pâtissière décor sucre amandes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 149g",
+        "Prix portion": 1.3888,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 44.44,
+        "Image": "CDP_0432.png"
+    },
+    {
+        "Code": 840123,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Bretzel fourré crème chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.3338,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 42.68,
+        "Image": "CDP_0432.png"
+    }
+]

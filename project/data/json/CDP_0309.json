@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841772,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Côte de boeuf piquée maturée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous vide de 380 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 4.5 kg (12 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0309.png"
+    },
+    {
+        "Code": 70270,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Entrecôte piquée maturée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous vide de 250 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 6.25 kg (25 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0309.png"
+    },
+    {
+        "Code": 841811,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Faux-filet piqué maturé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous vide de 180 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 3.6 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0309.png"
+    },
+    {
+        "Code": 827066,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bavette d'aloyau maturée piquée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous vide de 170 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0309.png"
+    },
+    {
+        "Code": 70154,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de boeuf prêt à découper sans chaîne",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous vide de 18 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 20 kg",
+        "Prix colis": null,
+        "Image": "CDP_0309.png"
+    },
+    {
+        "Code": 827065,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Onglet de boeuf en bûchette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce sous vide de 180 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 3.6 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0309.png"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 70371,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés d'aiguillette de poulet rôti halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0312.png"
+    },
+    {
+        "Code": 82851,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés d'aiguillette de poulet rôti halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0312.png"
+    },
+    {
+        "Code": 831401,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de filet de poulet rôti",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0312.png"
+    },
+    {
+        "Code": 833845,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de cuisse de poulet rôti halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0312.png"
+    },
+    {
+        "Code": 70372,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de filet de poulet rôti halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0312.png"
+    },
+    {
+        "Code": 826983,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de filet de poulet rôti",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0312.png"
+    },
+    {
+        "Code": 841563,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de filet de poulet rôti",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0312.png"
+    },
+    {
+        "Code": 840441,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de cuisse de poulet halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0312.png"
+    }
+]

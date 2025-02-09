@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 27293,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes chocolat Le Tourier® Ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.7291,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 55.33,
+        "Image": "CDP_0011.png"
+    },
+    {
+        "Code": 834590,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes cœur coulant chocolat Le Tourier® Ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.7075,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 40.98,
+        "Image": "CDP_0011.png"
+    },
+    {
+        "Code": 834592,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelettes façon crème brûlée Le Tourier® Ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 82g",
+        "Prix portion": 1.9038,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 76.15,
+        "Image": "CDP_0011.png"
+    }
+]

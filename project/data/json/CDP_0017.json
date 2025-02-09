@@ -1,0 +1,110 @@
+[
+    {
+        "Code": 27315,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 2.7328,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 32.82,
+        "Image": "CDP_0017.png"
+    },
+    {
+        "Code": 27241,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille pâtissier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 145g",
+        "Prix portion": 2.0613,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 32.98,
+        "Image": "CDP_0017.png"
+    },
+    {
+        "Code": 27165,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille pâtissier crème diplomate",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 2.0169,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 32.27,
+        "Image": "CDP_0017.png"
+    },
+    {
+        "Code": 27647,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille pâtissier crème diplomate caramel beurre salé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 2.3288,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 37.26,
+        "Image": "CDP_0017.png"
+    },
+    {
+        "Code": 27162,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille pâtissier crème diplomate sans alcool",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 1.9919,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 31.87,
+        "Image": "CDP_0017.png"
+    },
+    {
+        "Code": 831285,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille renversé abricot romarin",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Longueur 12 cm, 1 unité",
+        "Prix portion": 3.2671,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 39.14,
+        "Image": "CDP_0017.png"
+    },
+    {
+        "Code": 27415,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille parfum vanille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 2.4842,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 29.81,
+        "Image": "CDP_0017.png"
+    },
+    {
+        "Code": 27242,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille pâtissier sans alcool",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 2.02,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 32.32,
+        "Image": "CDP_0017.png"
+    },
+    {
+        "Code": 826098,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millefeuille renversé caramel beurre salé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 3.1333,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 37.6,
+        "Image": "CDP_0017.png"
+    }
+]

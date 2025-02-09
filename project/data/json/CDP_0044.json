@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 838180,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre framboise passion craquant",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 2830g",
+        "Prix portion": 75.31,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 75.31,
+        "Image": "CDP_0044.png"
+    },
+    {
+        "Code": 70446,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre mousse vanillée et fruits du verger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 2450g",
+        "Prix portion": 50.1,
+        "Colisage": "Colis de 1 pièce",
+        "Prix colis": 50.1,
+        "Image": "CDP_0044.png"
+    }
+]

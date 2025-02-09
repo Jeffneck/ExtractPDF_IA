@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 833005,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Fish and chips de cabillaud sauvage (sans peau, pané)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 170/200 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0304.png"
+    },
+    {
+        "Code": 70518,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pépettes de colin d'Alaska façon fish and chips",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 20/40 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg",
+        "Prix colis": null,
+        "Image": "CDP_0304.png"
+    },
+    {
+        "Code": 40032,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillette de filet de colin d'Alaska panée citron (sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 44/62 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0304.png"
+    },
+    {
+        "Code": 828760,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Portion de filet d'Alaska sauvage façon fish and chips",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120/125 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0304.png"
+    },
+    {
+        "Code": 70064,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Saumon pané format burger ASC",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0304.png"
+    }
+]

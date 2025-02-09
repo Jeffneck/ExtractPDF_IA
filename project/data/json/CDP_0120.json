@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 27446,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mignardises",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 40 unités",
+        "Prix portion": 0.8023,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 32.99,
+        "Image": "CDP_0120.png"
+    },
+    {
+        "Code": 70168,
+        "Catégorie": "Pâtisserie individuelle",
+        " Produit": "Petits fours chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 48 unités",
+        "Prix portion": 0.7785,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 74.74,
+        "Image": "CDP_0120.png"
+    },
+    {
+        "Code": 70432,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Petits fours délices chocolatés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 50 unités",
+        "Prix portion": 1.0516,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 52.58,
+        "Image": "CDP_0120.png"
+    }
+]

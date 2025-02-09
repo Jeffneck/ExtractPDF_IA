@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 40034,
+        "Catégorie": "Pâtes",
+        "Produit": "Farfalles",
+        "Prix Kg": 2.55,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.38,
+        "Colisage": "Colis de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0367.png"
+    },
+    {
+        "Code": 825507,
+        "Catégorie": "Pâtes",
+        "Produit": "Plaques à lasagnes",
+        "Prix Kg": 6.79,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 200g",
+        "Prix portion": 1.36,
+        "Colisage": "Colis de 10 kg",
+        "Prix colis": null,
+        "Image": "CDP_0367.png"
+    },
+    {
+        "Code": 832823,
+        "Catégorie": "Pâtes",
+        "Produit": "Pennes",
+        "Prix Kg": 2.35,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.35,
+        "Colisage": "Colis de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0367.png"
+    },
+    {
+        "Code": 832822,
+        "Catégorie": "Pâtes",
+        "Produit": "Pâtes spirales",
+        "Prix Kg": 2.25,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.34,
+        "Colisage": "Colis de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0367.png"
+    },
+    {
+        "Code": 821539,
+        "Catégorie": "Pâtes",
+        "Produit": "Nid de tagliatelles fraîches",
+        "Prix Kg": 5.75,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.29,
+        "Colisage": "Colis de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0367.png"
+    }
+]

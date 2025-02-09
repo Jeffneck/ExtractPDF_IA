@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 29103,
+        "Catégorie": "Pains",
+        "Produit": "Baguette 56 cm 340 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 340g",
+        "Prix portion": 0.5208,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 20.83,
+        "Image": "CDP_0183.png"
+    },
+    {
+        "Code": 836108,
+        "Catégorie": "Pains",
+        "Produit": "Baguette 62/64 cm 330 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 330g",
+        "Prix portion": 0.527,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 21.4,
+        "Image": "CDP_0183.png"
+    },
+    {
+        "Code": 29107,
+        "Catégorie": "Pains",
+        "Produit": "Baguette 67 cm 340 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 340g",
+        "Prix portion": 0.5368,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 21.47,
+        "Image": "CDP_0183.png"
+    },
+    {
+        "Code": 70077,
+        "Catégorie": "Pains",
+        "Produit": "Baguette sélection précisée 225 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 225g",
+        "Prix portion": 0.7338,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 24.95,
+        "Image": "CDP_0183.png"
+    },
+    {
+        "Code": 70144,
+        "Catégorie": "Pains",
+        "Produit": "Baguette biscottée sélection précisée 275 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 275g",
+        "Prix portion": 0.7507,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 21.02,
+        "Image": "CDP_0183.png"
+    },
+    {
+        "Code": 29431,
+        "Catégorie": "Pains",
+        "Produit": "Baguette précisée 280 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 0.8236,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 29.65,
+        "Image": "CDP_0183.png"
+    },
+    {
+        "Code": 22384,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Solène 250 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 0.9996,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 24.99,
+        "Image": "CDP_0183.png"
+    }
+]

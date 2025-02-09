@@ -1,0 +1,110 @@
+[
+    {
+        "Code": 833229,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Omelette gastronomone nature salée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90g, Carton de 50 pièces",
+        "Prix portion": 1.09,
+        "Colisage": "Carton de 50 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0405.png"
+    },
+    {
+        "Code": 70174,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Omelette demi-lune au fromage",
+        "Prix Kg": 11.99,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90g, Carton de 60 pièces",
+        "Prix portion": 1.08,
+        "Colisage": "Carton de 60 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0405.png"
+    },
+    {
+        "Code": 833220,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Œuf brouillés plein air",
+        "Prix Kg": 9.65,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 1 kg, Carton de 4 poches",
+        "Prix portion": 0.48,
+        "Colisage": "Carton de 4 poches",
+        "Prix colis": null,
+        "Image": "CDP_0405.png"
+    },
+    {
+        "Code": 1558,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Œufs pochés moulés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 48 œufs (sous vide)",
+        "Prix portion": 0.58,
+        "Colisage": "Carton de 48 œufs",
+        "Prix colis": 28.05,
+        "Image": "CDP_0405.png"
+    },
+    {
+        "Code": 43500,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Œuf en barre prétranchée",
+        "Prix Kg": 12.15,
+        "Prix Litre": null,
+        "Portionnement": "Barre de 300g, Carton de 3 kg (10 barres)",
+        "Prix portion": 0.61,
+        "Colisage": "Carton de 10 barres",
+        "Prix colis": null,
+        "Image": "CDP_0405.png"
+    },
+    {
+        "Code": 1556,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Œufs durs de caille écalés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 100 œufs",
+        "Prix portion": 0.37,
+        "Colisage": "Seau de 100 œufs",
+        "Prix colis": 36.69,
+        "Image": "CDP_0405.png"
+    },
+    {
+        "Code": 1553,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Œufs durs écalés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 75 œufs",
+        "Prix portion": 0.28,
+        "Colisage": "Seau de 75 œufs",
+        "Prix colis": 21.09,
+        "Image": "CDP_0405.png"
+    },
+    {
+        "Code": 1551,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Œufs durs écalés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 150 œufs",
+        "Prix portion": 0.27,
+        "Colisage": "Seau de 150 œufs",
+        "Prix colis": 39.55,
+        "Image": "CDP_0405.png"
+    },
+    {
+        "Code": 18402,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Œufs durs écalés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 œufs, Carton de 6 barquettes",
+        "Prix portion": 0.28,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": 19.89,
+        "Image": "CDP_0405.png"
+    }
+]

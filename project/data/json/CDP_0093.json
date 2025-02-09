@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 26669,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Cygne surprise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 0.9081,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 43.59,
+        "Image": "CDP_0093.png"
+    },
+    {
+        "Code": 26648,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Coquille surprise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1000g",
+        "Prix portion": 0.9973,
+        "Colisage": "Colis de 44 unités",
+        "Prix colis": 43.88,
+        "Image": "CDP_0093.png"
+    },
+    {
+        "Code": 26122,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crocodile surprise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 1320g",
+        "Prix portion": 0.8504,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 40.82,
+        "Image": "CDP_0093.png"
+    }
+]

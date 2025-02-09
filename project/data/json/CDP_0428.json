@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 837600,
+        "Catégorie": "Glaces",
+        "Produit": "Omelette norvégienne vanille",
+        "Prix Kg": null,
+        "Prix Litre": 11.425,
+        "Portionnement": "Portion de 2000g",
+        "Prix portion": 22.85,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0428.png"
+    },
+    {
+        "Code": 837585,
+        "Catégorie": "Glaces",
+        "Produit": "Barre croquantin®",
+        "Prix Kg": null,
+        "Prix Litre": 12.233,
+        "Portionnement": "Portion de 2300ml",
+        "Prix portion": 28.25,
+        "Colisage": "Carton de 1 pièce",
+        "Prix colis": null,
+        "Image": "CDP_0428.png"
+    },
+    {
+        "Code": 837597,
+        "Catégorie": "Glaces",
+        "Produit": "Barre nougat glacé",
+        "Prix Kg": null,
+        "Prix Litre": 10.158,
+        "Portionnement": "Portion de 150ml",
+        "Prix portion": 15.69,
+        "Colisage": "Carton de 1 pièce",
+        "Prix colis": null,
+        "Image": "CDP_0428.png"
+    },
+    {
+        "Code": 837591,
+        "Catégorie": "Glaces",
+        "Produit": "Vacherin vanille-framboise",
+        "Prix Kg": null,
+        "Prix Litre": 12.57,
+        "Portionnement": "Portion de 3400ml",
+        "Prix portion": 43.19,
+        "Colisage": "Carton de 1 pièce",
+        "Prix colis": null,
+        "Image": "CDP_0428.png"
+    },
+    {
+        "Code": 837592,
+        "Catégorie": "Glaces",
+        "Produit": "Vacherin vanille-framboise",
+        "Prix Kg": null,
+        "Prix Litre": 14.612,
+        "Portionnement": "Portion de 1700ml",
+        "Prix portion": 24.49,
+        "Colisage": "Carton de 1 pièce",
+        "Prix colis": null,
+        "Image": "CDP_0428.png"
+    }
+]

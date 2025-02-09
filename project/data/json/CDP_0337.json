@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841559,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de poulet pané format burger halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 116 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0337.png"
+    },
+    {
+        "Code": 40011,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillettes de poulet pané nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2,5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0337.png"
+    },
+    {
+        "Code": 831406,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillettes de poulet pané multicéréales halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0337.png"
+    },
+    {
+        "Code": 832298,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Haché de poulet rôti spécial burger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 125 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0337.png"
+    },
+    {
+        "Code": 44062,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillette de poulet panée cornflakes halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0337.png"
+    }
+]

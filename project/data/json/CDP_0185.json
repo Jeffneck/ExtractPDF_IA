@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 835319,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Fleur de Solène",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 280 g",
+        "Prix portion": 1.073,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 33.22,
+        "Image": "CDP_0185.png"
+    },
+    {
+        "Code": 18463,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Solène® à bouts pointus",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 280 g",
+        "Prix portion": 1.094,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 21.88,
+        "Image": "CDP_0185.png"
+    },
+    {
+        "Code": 22384,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Solène® 250 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 250 g",
+        "Prix portion": 0.999,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 24.99,
+        "Image": "CDP_0185.png"
+    },
+    {
+        "Code": 836789,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Solène® torsadée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 280 g",
+        "Prix portion": 1.208,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 36.24,
+        "Image": "CDP_0185.png"
+    }
+]

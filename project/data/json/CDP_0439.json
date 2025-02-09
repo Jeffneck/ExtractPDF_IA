@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 25130,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Chausson pomme 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.783,
+        "Colisage": "Colis de 54 unités",
+        "Prix colis": 42.28,
+        "Image": "CDP_0439.png"
+    },
+    {
+        "Code": 25132,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Chausson pomme framboise 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.8044,
+        "Colisage": "Colis de 54 unités",
+        "Prix colis": 45.38,
+        "Image": "CDP_0439.png"
+    },
+    {
+        "Code": 25417,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Chausson pomme d'Hubert 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 0.5945,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 23.78,
+        "Image": "CDP_0439.png"
+    },
+    {
+        "Code": 25275,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini chausson pomme beurre fin 40 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 0.3974,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 59.61,
+        "Image": "CDP_0439.png"
+    }
+]

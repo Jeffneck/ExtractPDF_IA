@@ -1,0 +1,26 @@
+[
+    {
+        "Code": null,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Croissant",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0108.png"
+    },
+    {
+        "Code": null,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pain au chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0108.png"
+    }
+]

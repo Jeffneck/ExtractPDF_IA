@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 831474,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sticks mozzarella",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (33/35 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0274.png"
+    },
+    {
+        "Code": 841641,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sticks de mozzarella et tomate confite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (90 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 18 unités",
+        "Prix colis": null,
+        "Image": "CDP_0274.png"
+    },
+    {
+        "Code": 831476,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Bouchées au camembert",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (48/52 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0274.png"
+    },
+    {
+        "Code": 840786,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Nacho cheese",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 990 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0274.png"
+    },
+    {
+        "Code": 44270,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Médaillon de fromage de chèvre pané",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg (23/27 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0274.png"
+    },
+    {
+        "Code": 833535,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cromesquis de fromage herbes de Provence cœur tomate",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 500 g (40 pièces)",
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0274.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 26267,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond brisé Ø 55",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 17 g",
+        "Prix portion": 0.3239,
+        "Colisage": "Vendu par carton de 93 unités",
+        "Prix colis": 30.12,
+        "Image": "CDP_0145.png"
+    },
+    {
+        "Code": 70274,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond brisé à bord haut cuit Ø 52",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 18 g",
+        "Prix portion": 0.4606,
+        "Colisage": "Vendu par carton de 48 unités",
+        "Prix colis": 22.11,
+        "Image": "CDP_0145.png"
+    },
+    {
+        "Code": 26248,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond brisé salé à garnir Ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 25 g",
+        "Prix portion": 0.2362,
+        "Colisage": "Vendu par carton de 125 unités",
+        "Prix colis": 29.08,
+        "Image": "CDP_0145.png"
+    },
+    {
+        "Code": 70262,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond brisé sésame noir cuit Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 9 g",
+        "Prix portion": 0.3051,
+        "Colisage": "Vendu par carton de 192 unités",
+        "Prix colis": 58.57,
+        "Image": "CDP_0145.png"
+    },
+    {
+        "Code": 70260,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond brisé cuit Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 9 g",
+        "Prix portion": 0.2909,
+        "Colisage": "Vendu par carton de 192 unités",
+        "Prix colis": 55.85,
+        "Image": "CDP_0145.png"
+    },
+    {
+        "Code": 841652,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond brisé oignon cuit Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 9 g",
+        "Prix portion": 0.3039,
+        "Colisage": "Vendu par carton de 192 unités",
+        "Prix colis": 58.34,
+        "Image": "CDP_0145.png"
+    }
+]

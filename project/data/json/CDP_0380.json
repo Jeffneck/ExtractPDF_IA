@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 70353,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce curry",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Flacon de 950 g",
+        "Prix portion": 0.14,
+        "Colisage": "Carton de 12 flacons",
+        "Prix colis": 52.68,
+        "Image": "CDP_0380.png"
+    },
+    {
+        "Code": 70350,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce blanche pour kebab",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Flacon de 950 g",
+        "Prix portion": 0.34,
+        "Colisage": "Carton de 12 flacons",
+        "Prix colis": 49.08,
+        "Image": "CDP_0380.png"
+    },
+    {
+        "Code": 70346,
+        "Catégorie": "Sauces",
+        "Produit": "Ketchup",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Flacon de 950 g",
+        "Prix portion": 0.18,
+        "Colisage": "Carton de 12 flacons",
+        "Prix colis": 56.28,
+        "Image": "CDP_0380.png"
+    },
+    {
+        "Code": 70347,
+        "Catégorie": "Sauces",
+        "Produit": "Moutarde de Dijon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Flacon de 950 g",
+        "Prix portion": 0.18,
+        "Colisage": "Carton de 12 flacons",
+        "Prix colis": 66.6,
+        "Image": "CDP_0380.png"
+    },
+    {
+        "Code": 70351,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce burger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Flacon de 950 g",
+        "Prix portion": 0.16,
+        "Colisage": "Carton de 12 flacons",
+        "Prix colis": 59.88,
+        "Image": "CDP_0380.png"
+    },
+    {
+        "Code": 70348,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce au poivre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Flacon de 950 g",
+        "Prix portion": 0.14,
+        "Colisage": "Carton de 12 flacons",
+        "Prix colis": 55.68,
+        "Image": "CDP_0380.png"
+    },
+    {
+        "Code": 70489,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce béarnaise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Flacon de 920 g",
+        "Prix portion": 0.12,
+        "Colisage": "Carton de 12 flacons",
+        "Prix colis": 64.68,
+        "Image": "CDP_0380.png"
+    },
+    {
+        "Code": 70352,
+        "Catégorie": "Sauces",
+        "Produit": "Sauce caesar",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Flacon de 950 g",
+        "Prix portion": 0.19,
+        "Colisage": "Carton de 12 flacons",
+        "Prix colis": 53.4,
+        "Image": "CDP_0380.png"
+    }
+]

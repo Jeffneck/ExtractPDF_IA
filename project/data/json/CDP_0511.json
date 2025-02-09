@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 451103,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Assortiment de cookies crus ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 58g",
+        "Prix portion": 1.2371,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 118.76,
+        "Image": "CDP_0511.png"
+    },
+    {
+        "Code": 25269,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie pépites de chocolat ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 1.2592,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 60.44,
+        "Image": "CDP_0511.png"
+    },
+    {
+        "Code": 25268,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie saveur chocolat chunks blanc et pépites de chocolat ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 1.1442,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 54.92,
+        "Image": "CDP_0511.png"
+    },
+    {
+        "Code": 25267,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Maxi cookie chunks blancs noix de macadamia ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 1.34,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 64.32,
+        "Image": "CDP_0511.png"
+    },
+    {
+        "Code": 25082,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cookie pépites de chocolat ø 65",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.858,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 52.72,
+        "Image": "CDP_0511.png"
+    }
+]

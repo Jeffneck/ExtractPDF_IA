@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 828892,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini pizza pincée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.6081,
+        "Colisage": "Colis de 62 unités",
+        "Prix colis": 37.7,
+        "Image": "CDP_0075.png"
+    },
+    {
+        "Code": 823032,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini flammekueche",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.7285,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 43.71,
+        "Image": "CDP_0075.png"
+    },
+    {
+        "Code": 826121,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini tatins légumes assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.778,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 37.37,
+        "Image": "CDP_0075.png"
+    }
+]

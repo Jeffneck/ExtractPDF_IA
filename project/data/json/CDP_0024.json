@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 27023,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pyramide carrousel",
+        "Prix Kg": 46.22,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 2.8888,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 46.22,
+        "Image": "CDP_0024.png"
+    },
+    {
+        "Code": 27527,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pyramide 3 chocolats",
+        "Prix Kg": 45.99,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 2.8744,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 45.99,
+        "Image": "CDP_0024.png"
+    },
+    {
+        "Code": 841534,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Entremets 3 chocolats individuel",
+        "Prix Kg": 33.99,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 2.5757,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 33.99,
+        "Image": "CDP_0024.png"
+    },
+    {
+        "Code": 27688,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme crème brûlée",
+        "Prix Kg": 33.3,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 2.9417,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 33.3,
+        "Image": "CDP_0024.png"
+    },
+    {
+        "Code": 840159,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme royal",
+        "Prix Kg": 34.9,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 77g",
+        "Prix portion": 2.9083,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 34.9,
+        "Image": "CDP_0024.png"
+    },
+    {
+        "Code": 27544,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Dôme chocolat mandarine",
+        "Prix Kg": 28.51,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.3738,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 28.51,
+        "Image": "CDP_0024.png"
+    }
+]

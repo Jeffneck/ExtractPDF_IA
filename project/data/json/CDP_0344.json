@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70733,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Fondant de pommes de terre cœur coulant à la truffe",
+        "Prix Kg": 13.29,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g",
+        "Prix portion": 1.33,
+        "Colisage": "Carton de 24 kg",
+        "Prix colis": null,
+        "Image": "CDP_0344.png"
+    },
+    {
+        "Code": 70734,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Effilée de pommes de terre façon sarladaise",
+        "Prix Kg": 12.29,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90 g",
+        "Prix portion": 1.1,
+        "Colisage": "Carton de 2.16 kg",
+        "Prix colis": null,
+        "Image": "CDP_0344.png"
+    },
+    {
+        "Code": 70730,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Frites Dipster avec peau",
+        "Prix Kg": 2.39,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 250 g",
+        "Prix portion": 0.48,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0344.png"
+    },
+    {
+        "Code": 70735,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Houmous à la truffe",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 450 g",
+        "Prix portion": 0.5,
+        "Colisage": "Carton de 6 pots",
+        "Prix colis": 7.55,
+        "Image": "CDP_0344.png"
+    }
+]

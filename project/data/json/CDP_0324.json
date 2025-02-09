@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 25096,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant Les Secrets du Fournil® 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.5838,
+        "Colisage": "Colis de 160 unités",
+        "Prix colis": 93.41,
+        "Image": "CDP_0324.png"
+    },
+    {
+        "Code": 25228,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant Les Secrets du Fournil® 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.6167,
+        "Colisage": "Colis de 135 unités",
+        "Prix colis": 83.33,
+        "Image": "CDP_0324.png"
+    },
+    {
+        "Code": 22071,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant courbé Les Secrets du Fournil® 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6069,
+        "Colisage": "Colis de 95 unités",
+        "Prix colis": 100.49,
+        "Image": "CDP_0324.png"
+    },
+    {
+        "Code": 25097,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres Les Secrets du Fournil® 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.6462,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 99.63,
+        "Image": "CDP_0324.png"
+    },
+    {
+        "Code": 25207,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant prépoussé Les Secrets du Fournil® 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.6967,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 41.8,
+        "Image": "CDP_0324.png"
+    },
+    {
+        "Code": 25962,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres prépoussé Les Secrets du Fournil® 90 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 0.8222,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 49.33,
+        "Image": "CDP_0324.png"
+    },
+    {
+        "Code": 840806,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini croissant prépoussé Les Secrets du Fournil® 30 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.309,
+        "Colisage": "Colis de 195 unités",
+        "Prix colis": 60.26,
+        "Image": "CDP_0324.png"
+    },
+    {
+        "Code": 840807,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini pain au chocolat 2 barres prépoussé Les Secrets du Fournil® 35 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35g",
+        "Prix portion": 0.3591,
+        "Colisage": "Colis de 210 unités",
+        "Prix colis": 75.42,
+        "Image": "CDP_0324.png"
+    }
+]

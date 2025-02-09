@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 30030,
+        "Catégorie": "Glaces",
+        "Produit": "Flûte glacée limoncello",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150ml",
+        "Prix portion": 3.84,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 30.69,
+        "Image": "CDP_0427.png"
+    },
+    {
+        "Code": 831247,
+        "Catégorie": "Glaces",
+        "Produit": "Flûte glacée fruits rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150ml",
+        "Prix portion": 3.84,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 30.69,
+        "Image": "CDP_0427.png"
+    },
+    {
+        "Code": 70195,
+        "Catégorie": "Glaces",
+        "Produit": "Profiterole",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 26g",
+        "Prix portion": 0.58,
+        "Colisage": "Carton de 50 pièces",
+        "Prix colis": 28.99,
+        "Image": "CDP_0427.png"
+    },
+    {
+        "Code": 837601,
+        "Catégorie": "Glaces",
+        "Produit": "Soufflé Grand Marnier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 2.44,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 19.55,
+        "Image": "CDP_0427.png"
+    },
+    {
+        "Code": 70542,
+        "Catégorie": "Glaces",
+        "Produit": "Nougat glacé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 65g",
+        "Prix portion": 2.31,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 18.49,
+        "Image": "CDP_0427.png"
+    },
+    {
+        "Code": 837548,
+        "Catégorie": "Glaces",
+        "Produit": "Croquant® vanille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.06,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 16.45,
+        "Image": "CDP_0427.png"
+    },
+    {
+        "Code": 837549,
+        "Catégorie": "Glaces",
+        "Produit": "Kouglof marc de Gewurztraminer",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 2.02,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 16.15,
+        "Image": "CDP_0427.png"
+    },
+    {
+        "Code": 837556,
+        "Catégorie": "Glaces",
+        "Produit": "Kouglof rhum-raisin",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 2.02,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 16.15,
+        "Image": "CDP_0427.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 6117,
+        "Catégorie": "Pains",
+        "Produit": "Levé pressée standard «L'hirondelle»",
+        "Prix Kg": 3.95,
+        "Prix Litre": null,
+        "Portionnement": "Barre de 500 g",
+        "Prix portion": 0.08,
+        "Colisage": "Carton de 4 barres",
+        "Prix colis": null,
+        "Image": "CDP_0383.png"
+    },
+    {
+        "Code": 21106,
+        "Catégorie": "Pains",
+        "Produit": "Levé pressée Springer",
+        "Prix Kg": 3.99,
+        "Prix Litre": null,
+        "Portionnement": "Barre de 500 g",
+        "Prix portion": 0.08,
+        "Colisage": "Carton de 4 barres",
+        "Prix colis": null,
+        "Image": "CDP_0383.png"
+    },
+    {
+        "Code": 21009,
+        "Catégorie": "Pains",
+        "Produit": "Levé pressée Ecopack",
+        "Prix Kg": 2.95,
+        "Prix Litre": null,
+        "Portionnement": "Barre de 500 g",
+        "Prix portion": 0.06,
+        "Colisage": "Carton de 6 barres",
+        "Prix colis": null,
+        "Image": "CDP_0383.png"
+    },
+    {
+        "Code": 44103,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pralines roses concassées",
+        "Prix Kg": 6.89,
+        "Prix Litre": null,
+        "Portionnement": "Poche de 5 kg",
+        "Prix portion": 0.69,
+        "Colisage": "Carton de 5 poches",
+        "Prix colis": null,
+        "Image": "CDP_0383.png"
+    },
+    {
+        "Code": 44096,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Noix invalide arlequin noble",
+        "Prix Kg": 9.25,
+        "Prix Litre": null,
+        "Portionnement": "Sac de 2.5 kg",
+        "Prix portion": 0.93,
+        "Colisage": "Carton de 5 sacs",
+        "Prix colis": null,
+        "Image": "CDP_0383.png"
+    }
+]

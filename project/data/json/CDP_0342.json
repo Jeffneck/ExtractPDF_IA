@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 819749,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Cubés d'avocats",
+        "Prix Kg": 10.99,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 500g",
+        "Prix portion": 0.55,
+        "Colisage": "Carton de 12 sachets",
+        "Prix colis": 10.99,
+        "Image": "CDP_0342.png"
+    },
+    {
+        "Code": 837414,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Julienne de légumes",
+        "Prix Kg": 1.59,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5kg",
+        "Prix portion": 0.24,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0342.png"
+    },
+    {
+        "Code": 44018,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranches d'avocats",
+        "Prix Kg": 10.99,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 500g",
+        "Prix portion": 0.55,
+        "Colisage": "Carton de 12 sachets",
+        "Prix colis": 10.99,
+        "Image": "CDP_0342.png"
+    },
+    {
+        "Code": 832862,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Brunoise méditerranéenne",
+        "Prix Kg": 2.69,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5kg",
+        "Prix portion": 0.4,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0342.png"
+    },
+    {
+        "Code": 832293,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Demi-avocats (sans peau)",
+        "Prix Kg": 7.35,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1kg",
+        "Prix portion": 0.37,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0342.png"
+    }
+]

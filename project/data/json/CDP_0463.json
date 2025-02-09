@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70168,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Petit four chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 199g",
+        "Prix portion": null,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": null,
+        "Image": "CDP_0463.png"
+    },
+    {
+        "Code": 27378,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte citron meringuée à 240 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 240g",
+        "Prix portion": null,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": null,
+        "Image": "CDP_0463.png"
+    },
+    {
+        "Code": 70176,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte pomme cuite normande 230 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 230g",
+        "Prix portion": null,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": null,
+        "Image": "CDP_0463.png"
+    },
+    {
+        "Code": 70703,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tartelette pomme crumble 220 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 220g",
+        "Prix portion": null,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": null,
+        "Image": "CDP_0463.png"
+    },
+    {
+        "Code": 84072,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarte millefeuille 230 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 230g",
+        "Prix portion": null,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": null,
+        "Image": "CDP_0463.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 835453,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés de fromage de chèvre non affiné",
+        "Prix Kg": 20.19,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 1.01,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0382.png"
+    },
+    {
+        "Code": 841752,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés de fourme d'Ambert AOP",
+        "Prix Kg": 17.09,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.85,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0382.png"
+    },
+    {
+        "Code": 841753,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés de bleu",
+        "Prix Kg": 15.85,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.79,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0382.png"
+    },
+    {
+        "Code": 841764,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés de mimolette",
+        "Prix Kg": 13.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.67,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0382.png"
+    },
+    {
+        "Code": 841766,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés de Féta AOP",
+        "Prix Kg": 20.15,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 1.01,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0382.png"
+    },
+    {
+        "Code": 44252,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Dés d'emmental",
+        "Prix Kg": 10.45,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.52,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0382.png"
+    }
+]

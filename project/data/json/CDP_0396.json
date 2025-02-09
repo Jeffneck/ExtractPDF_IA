@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 841760,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de mozzarella pour panini",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.33,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": 13.15,
+        "Image": "CDP_0396.png"
+    },
+    {
+        "Code": 18478,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de mozzarella",
+        "Prix Kg": 17.29,
+        "Prix Litre": null,
+        "Portionnement": "Boîte de 500 g",
+        "Prix portion": 0.22,
+        "Colisage": "Carton de 8 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0396.png"
+    },
+    {
+        "Code": 828065,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche d'Emmental",
+        "Prix Kg": 10.79,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": 0.16,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0396.png"
+    },
+    {
+        "Code": 44239,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche d'Emmental format baguette",
+        "Prix Kg": 11.29,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": 0.23,
+        "Colisage": "Carton de 12 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0396.png"
+    },
+    {
+        "Code": 841751,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche d'Emmental format baguette",
+        "Prix Kg": 16.49,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.33,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0396.png"
+    },
+    {
+        "Code": 821977,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de comté AOP format baguette",
+        "Prix Kg": 21.55,
+        "Prix Litre": null,
+        "Portionnement": "Carton de 8 sachets",
+        "Prix portion": 0.32,
+        "Colisage": "Sachet de 480 g",
+        "Prix colis": null,
+        "Image": "CDP_0396.png"
+    },
+    {
+        "Code": 841767,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de Comté AOP",
+        "Prix Kg": 22.49,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1.1 kg",
+        "Prix portion": 0.45,
+        "Colisage": "Carton de 8 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0396.png"
+    }
+]

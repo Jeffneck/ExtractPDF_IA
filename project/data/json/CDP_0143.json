@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 22423,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte feuilleté à bord haut Ø 270",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 3.1046,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 37.33,
+        "Image": "CDP_0143.png"
+    },
+    {
+        "Code": 27228,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte brisé à bord haut Ø 280",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 4.875,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 39.0,
+        "Image": "CDP_0143.png"
+    },
+    {
+        "Code": 27821,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte brisé Ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 43.75g",
+        "Prix portion": 3.982,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 39.82,
+        "Image": "CDP_0143.png"
+    },
+    {
+        "Code": 27818,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte brisé Ø 220",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 38.75g",
+        "Prix portion": 2.8958,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 34.75,
+        "Image": "CDP_0143.png"
+    },
+    {
+        "Code": 822891,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette brisé format stick cru",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.6346,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 44.42,
+        "Image": "CDP_0143.png"
+    },
+    {
+        "Code": 835451,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette brisé carré",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 0.6874,
+        "Colisage": "Colis de 54 unités",
+        "Prix colis": 37.12,
+        "Image": "CDP_0143.png"
+    }
+]

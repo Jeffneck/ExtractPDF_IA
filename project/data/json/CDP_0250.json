@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 26574,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Quiche Lorraine Le Tourier® précuite o 250 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 1200g",
+        "Prix portion": 13.24,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": 52.94,
+        "Image": "CDP_0250.png"
+    },
+    {
+        "Code": 26570,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Quiche chèvre tomate Le Tourier® précuite o 250 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 1200g",
+        "Prix portion": 13.71,
+        "Colisage": "Colis de 4 pièces",
+        "Prix colis": 54.85,
+        "Image": "CDP_0250.png"
+    }
+]

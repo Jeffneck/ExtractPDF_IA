@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 27762,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre passion panacotta",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 258g",
+        "Prix portion": 2.8975,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 72.87,
+        "Image": "CDP_0045.png"
+    },
+    {
+        "Code": 27502,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "1/2 cadre mandarine Cointreau®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 2500g",
+        "Prix portion": 2.3248,
+        "Colisage": "Colis de 1 unité",
+        "Prix colis": 58.12,
+        "Image": "CDP_0045.png"
+    }
+]

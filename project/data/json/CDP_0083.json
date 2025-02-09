@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 834628,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini navettes garnies",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 16 unités",
+        "Prix portion": 0.6348,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 60.65,
+        "Image": "CDP_0083.png"
+    },
+    {
+        "Code": 70459,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini kebab",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 40 unités",
+        "Prix portion": 0.7633,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 30.53,
+        "Image": "CDP_0083.png"
+    },
+    {
+        "Code": 841660,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Malicette saumon cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 20 unités",
+        "Prix portion": 2.2715,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 45.43,
+        "Image": "CDP_0083.png"
+    },
+    {
+        "Code": 841661,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sandwich méditerranéen cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 35 unités",
+        "Prix portion": 1.2249,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 42.87,
+        "Image": "CDP_0083.png"
+    }
+]

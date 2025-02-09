@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 70395,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Thé vert Matcha ginseng",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1.5g",
+        "Prix portion": null,
+        "Colisage": "Boîtes de 20 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0238.png"
+    },
+    {
+        "Code": 70396,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Thé vert Matcha clean",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1.5g",
+        "Prix portion": null,
+        "Colisage": "Boîtes de 20 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0238.png"
+    },
+    {
+        "Code": 70394,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Infusion camomille, vanille et miel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1.5g",
+        "Prix portion": null,
+        "Colisage": "Boîtes de 20 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0238.png"
+    },
+    {
+        "Code": 70393,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Infusion aux 3 menthes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1.5g",
+        "Prix portion": null,
+        "Colisage": "Boîtes de 20 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0238.png"
+    },
+    {
+        "Code": 70397,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Thé noir Earl grey",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1.5g",
+        "Prix portion": null,
+        "Colisage": "Boîtes de 20 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0238.png"
+    },
+    {
+        "Code": 70381,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Pompe à sirops",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Dosé par pression de 8 ml",
+        "Prix portion": null,
+        "Colisage": "Pour 4 bouteilles",
+        "Prix colis": null,
+        "Image": "CDP_0238.png"
+    },
+    {
+        "Code": 70382,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Présentoir à sirops",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Pour 4 bouteilles",
+        "Prix colis": null,
+        "Image": "CDP_0238.png"
+    }
+]

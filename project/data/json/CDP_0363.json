@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 832853,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Gratin à la dauphinoise",
+        "Prix Kg": 7.85,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g env.",
+        "Prix portion": 0.79,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0363.png"
+    },
+    {
+        "Code": 832665,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Gratin de pommes de terre façon sarladaise",
+        "Prix Kg": 9.55,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g env.",
+        "Prix portion": 0.9,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0363.png"
+    },
+    {
+        "Code": 70198,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Gratin aux 4 légumes",
+        "Prix Kg": 9.45,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g env.",
+        "Prix portion": 0.95,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0363.png"
+    },
+    {
+        "Code": 832852,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Gratin de pommes de terre aux cèpes",
+        "Prix Kg": 11.25,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g env.",
+        "Prix portion": 1.13,
+        "Colisage": "Carton de 2 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0363.png"
+    },
+    {
+        "Code": 840731,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Effiloché de pommes de terre à l'emmental, au beurre et sel de Guérande",
+        "Prix Kg": 12.59,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90 g.",
+        "Prix portion": 1.13,
+        "Colisage": "Carton de 2.16 kg (24 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0363.png"
+    },
+    {
+        "Code": 840729,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Écrasé de pommes de terre au beurre d'Isigny AOP et au sel de Guérande",
+        "Prix Kg": 12.89,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90 g.",
+        "Prix portion": 1.16,
+        "Colisage": "Carton de 2.2 kg (24 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0363.png"
+    },
+    {
+        "Code": 70765,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Écrasé de pommes de terre, purée de patates douces et graines de courges",
+        "Prix Kg": 15.35,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 70 g.",
+        "Prix portion": 1.07,
+        "Colisage": "Carton de 2.52 kg (36 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0363.png"
+    },
+    {
+        "Code": 70715,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Écrasé de pommes de terre et purée de violette",
+        "Prix Kg": 16.69,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 70 g.",
+        "Prix portion": 1.17,
+        "Colisage": "Carton de 2.52 kg (36 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0363.png"
+    }
+]

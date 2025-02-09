@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 25220,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pain raisin Le Tourier®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.9987,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 69.21,
+        "Image": "CDP_0327.png"
+    },
+    {
+        "Code": 25613,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pain raisin Le Tourier®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 1.039,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 68.24,
+        "Image": "CDP_0327.png"
+    },
+    {
+        "Code": 840809,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini croissant Le Tourier®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.2437,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 48.74,
+        "Image": "CDP_0327.png"
+    },
+    {
+        "Code": 25261,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini pain chocolat 2 barres Le Tourier®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.3064,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 61.28,
+        "Image": "CDP_0327.png"
+    },
+    {
+        "Code": 25014,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pain aux raisins réchauffé Le Tourier®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.2534,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 61.77,
+        "Image": "CDP_0327.png"
+    },
+    {
+        "Code": 70464,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini roulé pépites de chocolat prépoussé Le Tourier®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 38g",
+        "Prix portion": 0.5053,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 36.38,
+        "Image": "CDP_0327.png"
+    }
+]

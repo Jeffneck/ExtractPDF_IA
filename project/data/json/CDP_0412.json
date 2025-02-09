@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 841683,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à boire vanille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 250g",
+        "Prix portion": 1.5,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": 8.99,
+        "Image": "CDP_0412.png"
+    },
+    {
+        "Code": 841710,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à boire framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 250g",
+        "Prix portion": 1.5,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": 8.99,
+        "Image": "CDP_0412.png"
+    },
+    {
+        "Code": 70491,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à boire à la cerise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 250g",
+        "Prix portion": 1.5,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": 8.99,
+        "Image": "CDP_0412.png"
+    },
+    {
+        "Code": 841711,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à boire mangue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 250g",
+        "Prix portion": 1.5,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": 8.99,
+        "Image": "CDP_0412.png"
+    },
+    {
+        "Code": 841684,
+        "Catégorie": "Desserts",
+        "Produit": "Yaourt à boire myrtille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 250g",
+        "Prix portion": 1.5,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": 8.99,
+        "Image": "CDP_0412.png"
+    }
+]

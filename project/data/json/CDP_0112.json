@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70171,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Petits fours collection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 48 unités",
+        "Prix portion": 0.8361,
+        "Colisage": "2 plateaux par carton, Vendus par carton de 96 unités",
+        "Prix colis": 80.27,
+        "Image": "CDP_0112.png"
+    },
+    {
+        "Code": 822912,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Petits fours saveurs d'enfance",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 48 unités",
+        "Prix portion": 0.716,
+        "Colisage": "2 plateaux par carton, Vendus par carton de 96 unités",
+        "Prix colis": 68.89,
+        "Image": "CDP_0112.png"
+    },
+    {
+        "Code": 70172,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Petits fours passion gourmande",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 50 unités",
+        "Prix portion": 0.8556,
+        "Colisage": "2 plateaux par carton, Vendus par carton de 100 unités",
+        "Prix colis": 85.56,
+        "Image": "CDP_0112.png"
+    }
+]

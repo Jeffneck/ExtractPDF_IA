@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70523,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée à la vanille - Maison Prolainat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0441.png"
+    },
+    {
+        "Code": 70525,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée au chocolat - Maison Prolainat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0441.png"
+    },
+    {
+        "Code": 70524,
+        "Catégorie": "Glaces",
+        "Produit": "Crème glacée au caramel beurre salé - Maison Prolainat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0441.png"
+    },
+    {
+        "Code": 70521,
+        "Catégorie": "Glaces",
+        "Produit": "Sorbet à la fraise - Maison Prolainat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0441.png"
+    },
+    {
+        "Code": 70522,
+        "Catégorie": "Glaces",
+        "Produit": "Sorbet au citron - Maison Prolainat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0441.png"
+    },
+    {
+        "Code": 70520,
+        "Catégorie": "Glaces",
+        "Produit": "Sorbet à la poire - Maison Prolainat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 65 g",
+        "Prix portion": 1.79,
+        "Colisage": "Carton de 12 pots",
+        "Prix colis": 21.49,
+        "Image": "CDP_0441.png"
+    }
+]

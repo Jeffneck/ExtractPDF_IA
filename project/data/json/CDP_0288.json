@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841814,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Magret de canard fumé tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 270g",
+        "Prix portion": null,
+        "Colisage": "Carton de 12 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0288.png"
+    },
+    {
+        "Code": 837436,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Émincés de filet de canard fumé (sans peau, sans os)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 500g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0288.png"
+    },
+    {
+        "Code": 831913,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Demi-rôti de filet de dinde tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 600g",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0288.png"
+    },
+    {
+        "Code": 70192,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salami de dinde halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 1.5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0288.png"
+    },
+    {
+        "Code": 70193,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Saucisson sec de dinde halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 1.5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0288.png"
+    },
+    {
+        "Code": 70194,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Chorizo de dinde halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 1.2 kg environ",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0288.png"
+    }
+]

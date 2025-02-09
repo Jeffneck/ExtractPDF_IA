@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 28014,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mignonette de caille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 95g",
+        "Prix portion": 0.8923,
+        "Colisage": "Colis de 15 unités",
+        "Prix colis": 84.77,
+        "Image": "CDP_0089.png"
+    },
+    {
+        "Code": 28798,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini brochette d'onglet de bœuf",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 1.9284,
+        "Colisage": "Colis de 37 unités",
+        "Prix colis": 71.35,
+        "Image": "CDP_0089.png"
+    },
+    {
+        "Code": 26059,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini brochette de bœuf marinée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 1.0508,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 31.74,
+        "Image": "CDP_0089.png"
+    },
+    {
+        "Code": 70021,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini brochette de Saint-Jacques marinées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18.5g",
+        "Prix portion": 2.1835,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 43.67,
+        "Image": "CDP_0089.png"
+    },
+    {
+        "Code": 70023,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini brochette de crevettes marinéés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 35.5g",
+        "Prix portion": 2.381,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 47.62,
+        "Image": "CDP_0089.png"
+    }
+]

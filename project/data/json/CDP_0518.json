@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70691,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarte citron meringuée prédécoupée ø 240",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 000 g",
+        "Prix portion": 12.315,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 49.26,
+        "Image": "CDP_0518.png"
+    },
+    {
+        "Code": 70692,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tarte citron prédécoupée ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "750 g",
+        "Prix portion": 8.975,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 71.78,
+        "Image": "CDP_0518.png"
+    },
+    {
+        "Code": 70718,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Merveilleux copeaux de chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "90 g",
+        "Prix portion": 2.3275,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 28.47,
+        "Image": "CDP_0518.png"
+    },
+    {
+        "Code": 70717,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Merveilleux copeaux de chocolat blanc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "90 g",
+        "Prix portion": 2.3017,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 27.62,
+        "Image": "CDP_0518.png"
+    }
+]

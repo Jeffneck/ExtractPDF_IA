@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 837605,
+        "Catégorie": "Glaces",
+        "Produit": "Cacahuète épouse Caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 62 (100 mL)",
+        "Prix portion": 1.85,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 22.19,
+        "Image": "CDP_0430.png"
+    },
+    {
+        "Code": 837602,
+        "Catégorie": "Glaces",
+        "Produit": "Banane en Folie",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 63 (100 mL)",
+        "Prix portion": 1.85,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 22.19,
+        "Image": "CDP_0430.png"
+    },
+    {
+        "Code": 837604,
+        "Catégorie": "Glaces",
+        "Produit": "Vanille croque Macadamia",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 61 (100 mL)",
+        "Prix portion": 1.85,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 22.19,
+        "Image": "CDP_0430.png"
+    },
+    {
+        "Code": 837603,
+        "Catégorie": "Glaces",
+        "Produit": "Chocolat Dynamite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pot de 71 (100 mL)",
+        "Prix portion": 1.85,
+        "Colisage": "Carton de 12 pièces",
+        "Prix colis": 22.19,
+        "Image": "CDP_0430.png"
+    }
+]

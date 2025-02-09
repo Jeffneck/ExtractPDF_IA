@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 837567,
+        "Catégorie": "Glaces",
+        "Produit": "Douceur vanille fraise bio",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 2.7,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 21.59,
+        "Image": "CDP_0426.png"
+    },
+    {
+        "Code": 837581,
+        "Catégorie": "Glaces",
+        "Produit": "Poire caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 2.65,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 21.91,
+        "Image": "CDP_0426.png"
+    },
+    {
+        "Code": 837580,
+        "Catégorie": "Glaces",
+        "Produit": "Fraise citron verveine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 2.46,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 19.65,
+        "Image": "CDP_0426.png"
+    },
+    {
+        "Code": 837574,
+        "Catégorie": "Glaces",
+        "Produit": "Éclair Paris-Brest",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 65g",
+        "Prix portion": 2.19,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 17.55,
+        "Image": "CDP_0426.png"
+    },
+    {
+        "Code": 837575,
+        "Catégorie": "Glaces",
+        "Produit": "Finger façon tarte citron",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 65g",
+        "Prix portion": 2.06,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 16.45,
+        "Image": "CDP_0426.png"
+    },
+    {
+        "Code": 70514,
+        "Catégorie": "Glaces",
+        "Produit": "Finger coco exotique",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 1.99,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 15.95,
+        "Image": "CDP_0426.png"
+    }
+]

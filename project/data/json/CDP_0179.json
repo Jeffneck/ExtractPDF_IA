@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 70661,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Solène® noire",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 50 unités",
+        "Prix portion": 0.6906,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 34.53,
+        "Image": "CDP_0179.png"
+    },
+    {
+        "Code": 70658,
+        "Catégorie": "Pains",
+        "Produit": "Baguette biseautée Sélection multicéréales précuite 275 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 275g",
+        "Prix portion": 0.8078,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 25.85,
+        "Image": "CDP_0179.png"
+    }
+]

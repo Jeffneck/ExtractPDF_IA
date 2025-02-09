@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 27160,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pâté feuilleté (4 tours)",
+        "Prix Kg": 36.45,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 500g",
+        "Prix portion": 3.642,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 72.9,
+        "Image": "CDP_0141.png"
+    },
+    {
+        "Code": 27869,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Plaque feuilletée beurre d'Isigny AOP 3,5 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 900g",
+        "Prix portion": 8.8417,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 106.1,
+        "Image": "CDP_0141.png"
+    },
+    {
+        "Code": 825588,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Plaque feuilletée beurre Charentes-Poitou AOP 3,5 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 900g",
+        "Prix portion": 9.9332,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 151.12,
+        "Image": "CDP_0141.png"
+    },
+    {
+        "Code": 27214,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Plaque feuilletée beurre non piquée 3 mm",
+        "Prix Kg": 315.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 600g",
+        "Prix portion": 7.875,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 126.0,
+        "Image": "CDP_0141.png"
+    },
+    {
+        "Code": 27875,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Plaque feuilletée beurre non piquée 2,8 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 714g",
+        "Prix portion": 7.881,
+        "Colisage": "Colis de 21 unités",
+        "Prix colis": 165.5,
+        "Image": "CDP_0141.png"
+    },
+    {
+        "Code": 826115,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Plaque feuilletée beurre non piquée 2,8 mm num2",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 5.99,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 119.8,
+        "Image": "CDP_0141.png"
+    },
+    {
+        "Code": 27215,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Plaque feuilletée beurre piquée 3 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 900g",
+        "Prix portion": 7.8730,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 126.00,
+        "Image": "CDP_0141.png"
+    },
+    {
+        "Code": 27870,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Plaque feuilletée Sélection margarine 2,5 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 625g",
+        "Prix portion": 4.9363,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 105.51,
+        "Image": "CDP_0141.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 27642,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette citron Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 14g",
+        "Prix portion": 0.7141,
+        "Colisage": "Colis de 63 unités",
+        "Prix colis": 44.99,
+        "Image": "CDP_0118.png"
+    },
+    {
+        "Code": 83328,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette ananas Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15.8g",
+        "Prix portion": 0.7533,
+        "Colisage": "Colis de 63 unités",
+        "Prix colis": 47.46,
+        "Image": "CDP_0118.png"
+    },
+    {
+        "Code": 27643,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette framboise Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 13.7g",
+        "Prix portion": 0.7954,
+        "Colisage": "Colis de 63 unités",
+        "Prix colis": 50.11,
+        "Image": "CDP_0118.png"
+    },
+    {
+        "Code": 22036,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette parfum pomme d'amour Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 13.2g",
+        "Prix portion": 0.7114,
+        "Colisage": "Colis de 63 unités",
+        "Prix colis": 44.82,
+        "Image": "CDP_0118.png"
+    },
+    {
+        "Code": 27037,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette chocolat Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 10.3g",
+        "Prix portion": 0.6604,
+        "Colisage": "Colis de 54 unités",
+        "Prix colis": 35.66,
+        "Image": "CDP_0118.png"
+    },
+    {
+        "Code": 27741,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette caramel beurre salé Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 11.5g",
+        "Prix portion": 0.6306,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 30.27,
+        "Image": "CDP_0118.png"
+    }
+]

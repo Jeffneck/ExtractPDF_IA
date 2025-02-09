@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 840834,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Merveilleux chocolat à partager",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 600g",
+        "Prix portion": 17.595,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 35.19,
+        "Image": "CDP_0050.png"
+    },
+    {
+        "Code": 840603,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Le Rocher noisette caramel au beurre salé d'Isigny A.O.P 160 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 20.0,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 80.08,
+        "Image": "CDP_0050.png"
+    },
+    {
+        "Code": 840604,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Le Rocher noisette caramel au beurre salé d'Isigny A.O.P 240 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 600g",
+        "Prix portion": 26.77,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 53.54,
+        "Image": "CDP_0050.png"
+    }
+]

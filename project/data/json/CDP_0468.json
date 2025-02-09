@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 873795,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pain de mozzarella",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0468.png"
+    },
+    {
+        "Code": 841814,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Plat de chévre grillé farci...",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0468.png"
+    },
+    {
+        "Code": 831795,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pâté de chêvre cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0468.png"
+    },
+    {
+        "Code": 837073,
+        "Catégorie": "Glaces",
+        "Produit": "Pédia glace au caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0468.png"
+    },
+    {
+        "Code": 840801,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pommes dauphine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0468.png"
+    }
+]

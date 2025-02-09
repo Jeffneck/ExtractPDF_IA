@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 840083,
+        "Catégorie": null,
+        "Produit": "Araignée de veau",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 50/100 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 kg.",
+        "Prix colis": null,
+        "Image": "CDP_0315.png"
+    },
+    {
+        "Code": 832962,
+        "Catégorie": null,
+        "Produit": "Sauté de veau (coupé main, épaule)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 60/80 g.",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg.",
+        "Prix colis": null,
+        "Image": "CDP_0315.png"
+    },
+    {
+        "Code": 841770,
+        "Catégorie": null,
+        "Produit": "Pavé cuisseau de veau (coupé main) - Label Rouge",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 140 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg.",
+        "Prix colis": null,
+        "Image": "CDP_0315.png"
+    },
+    {
+        "Code": 70158,
+        "Catégorie": null,
+        "Produit": "Ris de veau de gorge",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poche (sous-vide) de 500 g.",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 poches.",
+        "Prix colis": null,
+        "Image": "CDP_0315.png"
+    },
+    {
+        "Code": 825490,
+        "Catégorie": null,
+        "Produit": "Jarret de veau \"osso bucco\"",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 180/220 g.",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg.",
+        "Prix colis": null,
+        "Image": "CDP_0315.png"
+    },
+    {
+        "Code": 832963,
+        "Catégorie": null,
+        "Produit": "Paulette de veau du chef",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Contient du porc. Pièce de 150 g.",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (20 pièces).",
+        "Prix colis": null,
+        "Image": "CDP_0315.png"
+    }
+]

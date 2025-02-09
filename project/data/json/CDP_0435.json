@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70049,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant courbé margarine 85 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 0.43,
+        "Colisage": "Colis de 84 unités",
+        "Prix colis": 36.12,
+        "Image": "CDP_0435.png"
+    },
+    {
+        "Code": 831294,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant courbé margarine 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.273,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 32.76,
+        "Image": "CDP_0435.png"
+    },
+    {
+        "Code": 70648,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant pur beurre prépoussé bio 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6977,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 41.86,
+        "Image": "CDP_0435.png"
+    },
+    {
+        "Code": 70579,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres pour beurre prépoussé bio 75 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.8979,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 61.58,
+        "Image": "CDP_0435.png"
+    },
+    {
+        "Code": 22122,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant multigrains prépoussé 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.8291,
+        "Colisage": "Colis de 55 unités",
+        "Prix colis": 45.6,
+        "Image": "CDP_0435.png"
+    }
+]

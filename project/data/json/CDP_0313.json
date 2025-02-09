@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 831396,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché rond sélection du boucher 15 % MG 200 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 200 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 kg (30 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0313.png"
+    },
+    {
+        "Code": 836855,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché Charolais façon boucherie 15 % MG 150 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0313.png"
+    },
+    {
+        "Code": 832943,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché rond façon boucherie 15 % MG 180 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 180 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6,120 kg (24 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0313.png"
+    },
+    {
+        "Code": 831398,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché Black Angus façon boucherie 20 % MG 150 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0313.png"
+    },
+    {
+        "Code": 831399,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché rond sélection du boucher 13 % MG 150 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 kg (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0313.png"
+    },
+    {
+        "Code": 840724,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché rond façon boucherie halal 20 % MG 150 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0313.png"
+    },
+    {
+        "Code": 832938,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché rond sélection du boucher 15 % MG 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 kg (50 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0313.png"
+    }
+]

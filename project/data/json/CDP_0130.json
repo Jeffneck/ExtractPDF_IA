@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 27401,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini macarons ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 36g",
+        "Prix portion": 0.5283,
+        "Colisage": "Colis de 144 unités",
+        "Prix colis": 76.08,
+        "Image": "CDP_0130.png"
+    },
+    {
+        "Code": 832588,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini macarons classiques ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.4647,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 44.61,
+        "Image": "CDP_0130.png"
+    },
+    {
+        "Code": 27030,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini macarons Sélection ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 8.4g",
+        "Prix portion": 0.4183,
+        "Colisage": "Colis de 144 unités",
+        "Prix colis": 60.24,
+        "Image": "CDP_0130.png"
+    },
+    {
+        "Code": 70289,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini macarons délices des saisons ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 8.4g",
+        "Prix portion": 0.4544,
+        "Colisage": "Colis de 144 unités",
+        "Prix colis": 65.43,
+        "Image": "CDP_0130.png"
+    }
+]

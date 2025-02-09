@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 13122,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Sucre cristal",
+        "Prix Kg": 1.63,
+        "Prix Litre": null,
+        "Portionnement": "Sac de 25 kg",
+        "Prix portion": 0.16,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0384.png"
+    },
+    {
+        "Code": 13121,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Sucre semoule",
+        "Prix Kg": 1.69,
+        "Prix Litre": null,
+        "Portionnement": "Sac de 25 kg",
+        "Prix portion": 0.17,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0384.png"
+    },
+    {
+        "Code": 13112,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Sucre glace amyloïde",
+        "Prix Kg": 1.99,
+        "Prix Litre": null,
+        "Portionnement": "Sac de 10 kg",
+        "Prix portion": 0.2,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0384.png"
+    },
+    {
+        "Code": 44108,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Huile d'olive vierge extra",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 1 L, Carton de 15 bouteilles",
+        "Prix portion": null,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0384.png"
+    },
+    {
+        "Code": 10123,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Huile raffinée de tournesol",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 5 L, Carton de 4 bouteilles",
+        "Prix portion": null,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0384.png"
+    },
+    {
+        "Code": 44107,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Huile de friture",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bidon de 5 L, Carton de 4 bidons",
+        "Prix portion": null,
+        "Colisage": "null",
+        "Prix colis": null,
+        "Image": "CDP_0384.png"
+    }
+]

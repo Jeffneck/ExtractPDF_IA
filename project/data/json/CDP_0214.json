@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 70666,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Panier feuilleté Sélection Framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.708,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 33.8,
+        "Image": "CDP_0214.png"
+    },
+    {
+        "Code": 70665,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini panier feuilleté Sélection Framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 42g",
+        "Prix portion": 0.3662,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 43.94,
+        "Image": "CDP_0214.png"
+    },
+    {
+        "Code": 70664,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini panier feuilleté Sélection Pomme",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 42g",
+        "Prix portion": null,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": null,
+        "Image": "CDP_0214.png"
+    },
+    {
+        "Code": 70669,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Brioche tressée au sucre perlé cuite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 13.165,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 52.66,
+        "Image": "CDP_0214.png"
+    },
+    {
+        "Code": 70667,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Brioche feuilletée sucre grain",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 300g",
+        "Prix portion": 4.82,
+        "Colisage": "Colis de 2 unités",
+        "Prix colis": 33.78,
+        "Image": "CDP_0214.png"
+    },
+    {
+        "Code": 70583,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Panettone 600 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 600g",
+        "Prix portion": 7.72,
+        "Colisage": "Colis de 5 unités",
+        "Prix colis": 38.61,
+        "Image": "CDP_0214.png"
+    },
+    {
+        "Code": 829764,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pâtón gaufre de Liège 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 0.6613,
+        "Colisage": "Colis de 130 unités",
+        "Prix colis": 85.97,
+        "Image": "CDP_0214.png"
+    },
+    {
+        "Code": 70582,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Panettone individuel 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.3154,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 46.04,
+        "Image": "CDP_0214.png"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 44277,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché Grand Cru 15 % MG 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 kg (60 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0314.png"
+    },
+    {
+        "Code": 837435,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché rond 15 % MG 50 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (100 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0314.png"
+    },
+    {
+        "Code": 44028,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini steak à burger 15 % MG 30 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": null,
+        "Colisage": "Carton de 2,160 kg (72 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0314.png"
+    },
+    {
+        "Code": 841666,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché halal 15 % MG 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5,76 kg (72 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0314.png"
+    },
+    {
+        "Code": 841659,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché rond 15 % MG 45 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4,5 kg (100 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0314.png"
+    },
+    {
+        "Code": 44273,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Égrené pur bœuf halal 20 % MG",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0314.png"
+    },
+    {
+        "Code": 40006,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché format «baguette» 20 % MG 38 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 38g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4,5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0314.png"
+    },
+    {
+        "Code": 832824,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Égrené de bœuf 15 % MG",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0314.png"
+    }
+]

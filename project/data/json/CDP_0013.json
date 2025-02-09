@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 27122,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette chocolat aux éclats de Daim® Ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 115g",
+        "Prix portion": 2.8867,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 51.96,
+        "Image": "CDP_0013.png"
+    },
+    {
+        "Code": 27002,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette chocolat Milka® Ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 2.8778,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 51.8,
+        "Image": "CDP_0013.png"
+    },
+    {
+        "Code": 27435,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette meringuée Ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.9044,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 46.57,
+        "Image": "CDP_0013.png"
+    },
+    {
+        "Code": 70229,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette passion coco meringuée Ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 2.0922,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 37.66,
+        "Image": "CDP_0013.png"
+    },
+    {
+        "Code": 27272,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette citron Ø 95",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.5983,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 38.36,
+        "Image": "CDP_0013.png"
+    },
+    {
+        "Code": 840145,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tartelette citron meringuée Ø 80",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.3122,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 23.62,
+        "Image": "CDP_0013.png"
+    }
+]

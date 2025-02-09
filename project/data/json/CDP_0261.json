@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 26757,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Panini jambon fromage prémarqué",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 190g",
+        "Prix portion": 3.4,
+        "Colisage": "Colis de 18 pièces",
+        "Prix colis": 61.23,
+        "Image": "CDP_0261.png"
+    },
+    {
+        "Code": 833233,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Panini jambon sec mozzarella basilic prémarqué (non emballé)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": 3.42,
+        "Colisage": "Colis de 18 pièces",
+        "Prix colis": 61.51,
+        "Image": "CDP_0261.png"
+    },
+    {
+        "Code": 840186,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Panini 3 fromages prémarqué (non emballé)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 210g",
+        "Prix portion": 3.72,
+        "Colisage": "Colis de 12 pièces",
+        "Prix colis": 44.64,
+        "Image": "CDP_0261.png"
+    },
+    {
+        "Code": 26754,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Panini poulet fromage prémarqué",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 190g",
+        "Prix portion": 3.44,
+        "Colisage": "Colis de 18 pièces",
+        "Prix colis": 61.94,
+        "Image": "CDP_0261.png"
+    },
+    {
+        "Code": 833230,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Panini végétarien prémarqué (non emballé)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 195g",
+        "Prix portion": 2.77,
+        "Colisage": "Colis de 18 pièces",
+        "Prix colis": 49.88,
+        "Image": "CDP_0261.png"
+    }
+]

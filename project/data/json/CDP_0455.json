@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 840885,
+        "Catégorie": "Pains",
+        "Produit": "Sac kraft brun pour 1/2 baguette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 1000 pièces",
+        "Prix portion": 0.06,
+        "Colisage": "Colis de 1000 pièces",
+        "Prix colis": 56.0,
+        "Image": "CDP_0455.png"
+    },
+    {
+        "Code": 840886,
+        "Catégorie": "Pains",
+        "Produit": "Sac kraft brun pour baguette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 1000 pièces",
+        "Prix portion": 0.1,
+        "Colisage": "Colis de 1000 pièces",
+        "Prix colis": 95.0,
+        "Image": "CDP_0455.png"
+    },
+    {
+        "Code": 840463,
+        "Catégorie": "Pains",
+        "Produit": "Sac kraft brun pour baguette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 1000 pièces",
+        "Prix portion": 0.06,
+        "Colisage": "Colis de 1000 pièces",
+        "Prix colis": 64.0,
+        "Image": "CDP_0455.png"
+    },
+    {
+        "Code": 21012,
+        "Catégorie": "Pains",
+        "Produit": "Sachet à pain kraft",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 1000 pièces",
+        "Prix portion": 0.04,
+        "Colisage": "Colis de 1000 pièces",
+        "Prix colis": 40.0,
+        "Image": "CDP_0455.png"
+    },
+    {
+        "Code": 840092,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sachet street food avec ouverture en L",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140x140 mm",
+        "Prix portion": 0.03,
+        "Colisage": "Colis de 2000 pièces",
+        "Prix colis": 50.0,
+        "Image": "CDP_0455.png"
+    },
+    {
+        "Code": 828764,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sac à sandwich grill bag",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 320x150 mm",
+        "Prix portion": 0.14,
+        "Colisage": "Colis de 600 pièces",
+        "Prix colis": 81.0,
+        "Image": "CDP_0455.png"
+    },
+    {
+        "Code": 832668,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Sac cabas kraft",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 260x250 mm",
+        "Prix portion": 0.16,
+        "Colisage": "Colis de 250 pièces",
+        "Prix colis": 41.0,
+        "Image": "CDP_0455.png"
+    }
+]

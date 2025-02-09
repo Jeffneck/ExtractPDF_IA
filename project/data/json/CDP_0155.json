@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 18439,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 3.69,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 73.9,
+        "Image": "CDP_0155.png"
+    },
+    {
+        "Code": 22326,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® Sélection plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 260g",
+        "Prix portion": 3.678,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 36.78,
+        "Image": "CDP_0155.png"
+    },
+    {
+        "Code": 26072,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® campagne plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 260g",
+        "Prix portion": 3.906,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 39.06,
+        "Image": "CDP_0155.png"
+    },
+    {
+        "Code": 22315,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® multiclaires plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 260g",
+        "Prix portion": 4.026,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 40.62,
+        "Image": "CDP_0155.png"
+    },
+    {
+        "Code": 833406,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® pain d'épices",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 300g",
+        "Prix portion": 4.265,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 51.18,
+        "Image": "CDP_0155.png"
+    },
+    {
+        "Code": 70264,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® épinards plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 4.981,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 49.81,
+        "Image": "CDP_0155.png"
+    },
+    {
+        "Code": 26071,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® au cacao et à l'orge malté plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 300g",
+        "Prix portion": 4.36,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 43.65,
+        "Image": "CDP_0155.png"
+    },
+    {
+        "Code": 22292,
+        "Catégorie": "Pains",
+        "Produit": "Canapain® assortis plaque de pain de mie pour canapés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 4.36,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 43.06,
+        "Image": "CDP_0155.png"
+    }
+]

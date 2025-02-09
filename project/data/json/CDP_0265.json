@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 826136,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Bocaux d'Hubert® : colin aux légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bocal en verre, 750 mL",
+        "Prix portion": 4.95,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 29.70,
+        "Image": "CDP_0265.png"
+    },
+    {
+        "Code": 826146,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Bocaux d'Hubert® : parmentier de confit de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bocal en verre, 750 mL",
+        "Prix portion": 4.95,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 29.70,
+        "Image": "CDP_0265.png"
+    },
+    {
+        "Code": 826137,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Bocaux d'Hubert® : orechiettes au saumon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bocal en verre, 750 mL",
+        "Prix portion": 4.95,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 29.70,
+        "Image": "CDP_0265.png"
+    },
+    {
+        "Code": 826150,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Bocaux d'Hubert® : penne à la bolognaise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bocal en verre, 750 mL",
+        "Prix portion": 4.95,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 29.70,
+        "Image": "CDP_0265.png"
+    },
+    {
+        "Code": 841674,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Bocaux d'Hubert® : cassoulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bocal en verre, 750 mL",
+        "Prix portion": 4.95,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 29.70,
+        "Image": "CDP_0265.png"
+    },
+    {
+        "Code": 841668,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Bocaux d'Hubert® : joue de bœuf et purée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bocal en verre, 750 mL",
+        "Prix portion": 4.95,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 29.70,
+        "Image": "CDP_0265.png"
+    },
+    {
+        "Code": 826147,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Bocaux d'Hubert® : tagliatelles carbonara",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bocal en verre, 750 mL",
+        "Prix portion": 4.95,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 29.70,
+        "Image": "CDP_0265.png"
+    },
+    {
+        "Code": 831306,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les Bocaux d'Hubert® : le tajine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bocal en verre, 750 mL",
+        "Prix portion": 4.95,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 29.70,
+        "Image": "CDP_0265.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 7071,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pide margherita",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 150 g",
+        "Prix portion": 2.38,
+        "Colisage": "Carton de 20 pièces",
+        "Prix colis": 47.68,
+        "Image": "CDP_0256.png"
+    },
+    {
+        "Code": 7072,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pide ail mozzarella",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 150 g",
+        "Prix portion": 2.38,
+        "Colisage": "Carton de 20 pièces",
+        "Prix colis": 47.68,
+        "Image": "CDP_0256.png"
+    },
+    {
+        "Code": 7073,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pide mozzarella épinards",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 150 g",
+        "Prix portion": 2.38,
+        "Colisage": "Carton de 20 pièces",
+        "Prix colis": 47.68,
+        "Image": "CDP_0256.png"
+    },
+    {
+        "Code": 26983,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pizza sandwich nomade royale",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 160 g",
+        "Prix portion": 1.93,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 46.41,
+        "Image": "CDP_0256.png"
+    },
+    {
+        "Code": 26984,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pizza sandwich nomade 3 fromages",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 160 g",
+        "Prix portion": 1.93,
+        "Colisage": "Carton de 24 pièces",
+        "Prix colis": 46.41,
+        "Image": "CDP_0256.png"
+    },
+    {
+        "Code": 22046,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pizza pincée margherita",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 150 g",
+        "Prix portion": 2.12,
+        "Colisage": "Carton de 6 pièces",
+        "Prix colis": 63.58,
+        "Image": "CDP_0256.png"
+    },
+    {
+        "Code": 22034,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pizza pincée jambon fromage",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 150 g",
+        "Prix portion": 2.27,
+        "Colisage": "Carton de 30 pièces",
+        "Prix colis": 68.19,
+        "Image": "CDP_0256.png"
+    }
+]

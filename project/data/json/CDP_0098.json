@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 70704,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mendiant croustillant chocolat noir ø 30",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 8g",
+        "Prix portion": 0.401,
+        "Colisage": "Colis de 162 unités",
+        "Prix colis": 64.96,
+        "Image": "CDP_0098.png"
+    },
+    {
+        "Code": 70699,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mendiant croustillant chocolat lait ø 30",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 8g",
+        "Prix portion": 0.3992,
+        "Colisage": "Colis de 162 unités",
+        "Prix colis": 64.67,
+        "Image": "CDP_0098.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 841473,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini carotte",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 200g (12 pièces)",
+        "Prix portion": 0.55,
+        "Colisage": "Carton de 4 Barquettes",
+        "Prix colis": 6.55,
+        "Image": "CDP_0349.png"
+    },
+    {
+        "Code": 841472,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini betterave",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 300g (12 pièces)",
+        "Prix portion": 0.79,
+        "Colisage": "Carton de 4 Barquettes",
+        "Prix colis": 9.49,
+        "Image": "CDP_0349.png"
+    },
+    {
+        "Code": 841480,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini navet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 280g (12 pièces)",
+        "Prix portion": 0.73,
+        "Colisage": "Carton de 4 Barquettes",
+        "Prix colis": 8.79,
+        "Image": "CDP_0349.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 27583,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Gros macaron chocolat Ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 6 pièces, 4 barquettes par carton",
+        "Prix portion": 1.592,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 38.26,
+        "Image": "CDP_0019.png"
+    },
+    {
+        "Code": 27585,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Gros macaron framboise Ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 6 pièces, 4 barquettes par carton",
+        "Prix portion": 1.592,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 38.26,
+        "Image": "CDP_0019.png"
+    },
+    {
+        "Code": 27587,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Gros macaron pistache aromatisé Ø 75",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 6 pièces, 4 barquettes par carton",
+        "Prix portion": 1.592,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 38.26,
+        "Image": "CDP_0019.png"
+    },
+    {
+        "Code": 27588,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Gros macaron vanille Ø 75",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 6 pièces, 4 barquettes par carton",
+        "Prix portion": 1.592,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 38.26,
+        "Image": "CDP_0019.png"
+    }
+]

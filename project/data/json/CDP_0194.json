@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 29095,
+        "Catégorie": "Pains",
+        "Produit": "Pain sandwich aux graines de lin",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 160g",
+        "Prix portion": 0.7595,
+        "Colisage": "Colis de 45 unités",
+        "Prix colis": 34.18,
+        "Image": "CDP_0194.png"
+    },
+    {
+        "Code": 29008,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Sélection multigraines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 178g",
+        "Prix portion": 0.6765,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 40.59,
+        "Image": "CDP_0194.png"
+    },
+    {
+        "Code": 29009,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Sélection pavot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 160g",
+        "Prix portion": 0.624,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 37.44,
+        "Image": "CDP_0194.png"
+    },
+    {
+        "Code": 29057,
+        "Catégorie": "Pains",
+        "Produit": "Pain sandwich 6 céréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 160g",
+        "Prix portion": 0.6192,
+        "Colisage": "Colis de 66 unités",
+        "Prix colis": 40.87,
+        "Image": "CDP_0194.png"
+    }
+]

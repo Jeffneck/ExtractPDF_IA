@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 824814,
+        "Catégorie": "Pains",
+        "Produit": "Le bisceau du Fournil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.0403,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 31.21,
+        "Image": "CDP_0187.png"
+    },
+    {
+        "Code": 70075,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Les Secrets du Fournil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 270g",
+        "Prix portion": 1.0088,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 25.22,
+        "Image": "CDP_0187.png"
+    },
+    {
+        "Code": 29087,
+        "Catégorie": "Pains",
+        "Produit": "Le bisceau du Fournil multigrains",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.219,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 36.59,
+        "Image": "CDP_0187.png"
+    },
+    {
+        "Code": 29077,
+        "Catégorie": "Pains",
+        "Produit": "Bûche du Fournil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.037,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 30.11,
+        "Image": "CDP_0187.png"
+    }
+]

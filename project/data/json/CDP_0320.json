@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70072,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Ribs de porc cuit sous-vide mariné à la mexicaine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 600 g env.",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 kg (10 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0320.png"
+    },
+    {
+        "Code": 832949,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sauté d’épaule de porc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 60/80 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0320.png"
+    },
+    {
+        "Code": 841453,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet mignon de porc (sans chaîne)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce (sous-vide) de 450 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (11 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0320.png"
+    },
+    {
+        "Code": 826982,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Jarreton de porc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet (sous-vide) de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0320.png"
+    }
+]

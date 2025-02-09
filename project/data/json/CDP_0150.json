@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70278,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tarte sablé breton cuit ø 210",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 240 g",
+        "Prix portion": 7.239,
+        "Colisage": "Colis de 9 unités",
+        "Prix colis": 65.15,
+        "Image": "CDP_0150.png"
+    },
+    {
+        "Code": 70277,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette sablé breton cuit ø 80",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 32 g",
+        "Prix portion": 0.9226,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 88.57,
+        "Image": "CDP_0150.png"
+    },
+    {
+        "Code": 838190,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette sucré cuit ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 38 g",
+        "Prix portion": 0.6997,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 50.38,
+        "Image": "CDP_0150.png"
+    },
+    {
+        "Code": 834577,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette sucré cuit ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 36 g",
+        "Prix portion": 0.686,
+        "Colisage": "Colis de 66 unités",
+        "Prix colis": 45.45,
+        "Image": "CDP_0150.png"
+    },
+    {
+        "Code": 834578,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette noisettes caramélisées cuit ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 36 g",
+        "Prix portion": 0.8132,
+        "Colisage": "Colis de 66 unités",
+        "Prix colis": 53.67,
+        "Image": "CDP_0150.png"
+    },
+    {
+        "Code": 838189,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette sucré carré cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 33 g",
+        "Prix portion": 0.5711,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 54.83,
+        "Image": "CDP_0150.png"
+    }
+]

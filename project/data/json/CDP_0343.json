@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70732,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poêlée Marrakech",
+        "Prix Kg": 7.19,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.08,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0343.png"
+    },
+    {
+        "Code": 70731,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Salade de riz noir, soja, avocat, tomates et haricots rouges azuki",
+        "Prix Kg": 8.15,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.22,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0343.png"
+    },
+    {
+        "Code": 70745,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Nugget végétarien",
+        "Prix Kg": 18.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 19g",
+        "Prix portion": 0.35,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0343.png"
+    },
+    {
+        "Code": 70746,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Suprême pané végétarien",
+        "Prix Kg": 18.65,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.68,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0343.png"
+    }
+]

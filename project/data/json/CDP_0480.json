@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 25103,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Maxi palmier gourmand 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.33,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 79.82,
+        "Image": "CDP_0480.png"
+    },
+    {
+        "Code": 832350,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Palmier gourmand 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.9944,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 79.55,
+        "Image": "CDP_0480.png"
+    },
+    {
+        "Code": 25048,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Mini palmier gourmand 20 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.334,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 66.79,
+        "Image": "CDP_0480.png"
+    },
+    {
+        "Code": 28130,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Paille",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.7883,
+        "Colisage": "Colis de 84 unités",
+        "Prix colis": 66.22,
+        "Image": "CDP_0480.png"
+    }
+]

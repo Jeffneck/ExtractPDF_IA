@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70017,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Moelleux tigré à garnir ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 32g",
+        "Prix portion": 0.7798,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 37.29,
+        "Image": "CDP_0170.png"
+    },
+    {
+        "Code": 70014,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Moelleux cacao à garnir ø 70",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 32g",
+        "Prix portion": 0.7796,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 37.29,
+        "Image": "CDP_0170.png"
+    },
+    {
+        "Code": 27025,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Baba au rhum Negrita à garnir ø 80",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 81g",
+        "Prix portion": 1.3172,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 63.01,
+        "Image": "CDP_0170.png"
+    },
+    {
+        "Code": 22166,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini baba au rhum Negrita à garnir ø 43",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.7767,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 54.37,
+        "Image": "CDP_0170.png"
+    },
+    {
+        "Code": 27757,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Baba bouchon au rhum Negrita",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 1.639,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 39.31,
+        "Image": "CDP_0170.png"
+    }
+]

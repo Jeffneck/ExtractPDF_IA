@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 826189,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 0.6014,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 30.07,
+        "Image": "CDP_0191.png"
+    },
+    {
+        "Code": 29441,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette sandwich",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 0.4796,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 23.98,
+        "Image": "CDP_0191.png"
+    },
+    {
+        "Code": 832597,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 0.478,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 28.68,
+        "Image": "CDP_0191.png"
+    },
+    {
+        "Code": 835325,
+        "Catégorie": "Pains",
+        "Produit": "1/2 baguette Les Secrets du Fournil® prétranchée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.8404,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 20.17,
+        "Image": "CDP_0191.png"
+    }
+]

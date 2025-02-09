@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 29407,
+        "Catégorie": "Pains",
+        "Produit": "Bägels nature Ø 120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 115g",
+        "Prix portion": 0.5603,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 16.81,
+        "Image": "CDP_0201.png"
+    },
+    {
+        "Code": 70250,
+        "Catégorie": "Pains",
+        "Produit": "Bägels brioché Ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6785,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 40.71,
+        "Image": "CDP_0201.png"
+    },
+    {
+        "Code": 29408,
+        "Catégorie": "Pains",
+        "Produit": "Bägels sésame Ø 120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 115g",
+        "Prix portion": 0.5633,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 16.9,
+        "Image": "CDP_0201.png"
+    },
+    {
+        "Code": 29409,
+        "Catégorie": "Pains",
+        "Produit": "Bägels pavot Ø 120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 115g",
+        "Prix portion": 0.5623,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 16.87,
+        "Image": "CDP_0201.png"
+    },
+    {
+        "Code": 29021,
+        "Catégorie": "Pains",
+        "Produit": "Bägels sésame pavot Ø 120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 115g",
+        "Prix portion": 0.5667,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 17.0,
+        "Image": "CDP_0201.png"
+    }
+]

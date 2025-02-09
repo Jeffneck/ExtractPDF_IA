@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 25198,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Brownie chocolat plaque prédécoupée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 85g",
+        "Prix portion": 1.4707,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 44.12,
+        "Image": "CDP_0516.png"
+    },
+    {
+        "Code": 25197,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Brownie chocolat noix de pécan plaque prédécoupée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 85g",
+        "Prix portion": 1.603,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 48.04,
+        "Image": "CDP_0516.png"
+    },
+    {
+        "Code": 840135,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Brownie chocolat caramel et fruits secs plaque prédécoupée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 80g",
+        "Prix portion": 1.4991,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 52.47,
+        "Image": "CDP_0516.png"
+    },
+    {
+        "Code": 833477,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Brookie plaque prédécoupée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 88g",
+        "Prix portion": 1.459,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 43.77,
+        "Image": "CDP_0516.png"
+    },
+    {
+        "Code": 70057,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Brownie crispy/popcorn plaque prédécoupée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 78g",
+        "Prix portion": 2.0723,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 62.17,
+        "Image": "CDP_0516.png"
+    }
+]

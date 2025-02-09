@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 838166,
+        "Catégorie": "Pains",
+        "Produit": "Le rustique Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 350g",
+        "Prix portion": null,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 28.65,
+        "Image": "CDP_0207.png"
+    },
+    {
+        "Code": 22221,
+        "Catégorie": "Pains",
+        "Produit": "Pain Solène® multigraines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 450g",
+        "Prix portion": 2.3857,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 66.8,
+        "Image": "CDP_0207.png"
+    },
+    {
+        "Code": 70263,
+        "Catégorie": "Pains",
+        "Produit": "Le caractère Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 510g",
+        "Prix portion": 2.9367,
+        "Colisage": "Colis de 9 unités",
+        "Prix colis": 26.43,
+        "Image": "CDP_0207.png"
+    },
+    {
+        "Code": 70445,
+        "Catégorie": "Pains",
+        "Produit": "L'intégral Solène 380 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Colis de 380g",
+        "Prix portion": 1.4778,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 26.6,
+        "Image": "CDP_0207.png"
+    }
+]

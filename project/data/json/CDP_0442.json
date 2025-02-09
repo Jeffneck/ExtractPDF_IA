@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70099,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Boîte carrée en pulpe de canne avec couvercle",
+        "Prix Kg": null,
+        "Prix Litre": 38.65,
+        "Portionnement": "Pièce de 190x190 mm, Sachet de 50 pièces",
+        "Prix portion": 0.77,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0442.png"
+    },
+    {
+        "Code": 841802,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Boîte salade carton kraft brun",
+        "Prix Kg": null,
+        "Prix Litre": 14.0,
+        "Portionnement": "Sachet de 50 pièces",
+        "Prix portion": 0.28,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0442.png"
+    },
+    {
+        "Code": 841803,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Couvercle boîte à salade",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 50 pièces",
+        "Prix portion": 0.17,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0442.png"
+    },
+    {
+        "Code": 840867,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Boîte kraft brun à fenêtre",
+        "Prix Kg": null,
+        "Prix Litre": 12.89,
+        "Portionnement": "Pièce de 13x12.5 cm, Sachet de 50 pièces",
+        "Prix portion": 0.26,
+        "Colisage": "Carton de 50 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0442.png"
+    },
+    {
+        "Code": 840095,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Boîte avec couvercle à fenêtre",
+        "Prix Kg": null,
+        "Prix Litre": 100.0,
+        "Portionnement": "Pièce de 80x125x60 mm, Carton de 210 pièces",
+        "Prix portion": 0.48,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0442.png"
+    },
+    {
+        "Code": 840096,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Boîte avec couvercle à fenêtre",
+        "Prix Kg": null,
+        "Prix Litre": 84.0,
+        "Portionnement": "Pièce de 125x125x60 mm, Carton de 140 pièces",
+        "Prix portion": 0.6,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0442.png"
+    }
+]

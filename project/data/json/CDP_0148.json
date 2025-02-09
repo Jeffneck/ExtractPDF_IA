@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70434,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond croustillant chocolat noir ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0148.png"
+    },
+    {
+        "Code": 841653,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini fond cacao rectangle cuit",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0148.png"
+    },
+    {
+        "Code": 70433,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond croustillant chocolat blanc ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0148.png"
+    },
+    {
+        "Code": 828938,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini fond sucré cuit ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0148.png"
+    }
+]

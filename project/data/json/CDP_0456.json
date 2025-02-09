@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 840882,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Sacherie d'Hubert® pour croissant (1-2 pièces)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.02,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 20.0,
+        "Image": "CDP_0456.png"
+    },
+    {
+        "Code": 840883,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Sacherie d'Hubert® pour croissant (4 pièces)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.04,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 40.0,
+        "Image": "CDP_0456.png"
+    },
+    {
+        "Code": 840884,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Sacherie d'Hubert® pour croissant (6-8 pièces)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.06,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 60.0,
+        "Image": "CDP_0456.png"
+    },
+    {
+        "Code": 835433,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Sachet pour viennoiserie au beurre Isigny AOP (2-3 pièces)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.02,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 22.0,
+        "Image": "CDP_0456.png"
+    }
+]

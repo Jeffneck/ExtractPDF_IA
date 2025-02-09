@@ -1,0 +1,26 @@
+[
+    {
+        "Code": null,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tarte Bistrot d'Hubert",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 190g",
+        "Prix portion": null,
+        "Colisage": "Colis de 20 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0245.png"
+    },
+    {
+        "Code": null,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tarte Le Tourier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 200g",
+        "Prix portion": null,
+        "Colisage": "Colis de 12 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0245.png"
+    }
+]

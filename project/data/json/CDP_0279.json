@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 84015,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Chutes de saumon Atlantique fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0279.png"
+    },
+    {
+        "Code": 84018,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Chutes de saumon Atlantique fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0279.png"
+    },
+    {
+        "Code": 84017,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranchette de saumon Atlantique fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0279.png"
+    },
+    {
+        "Code": 84020,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranchette de saumon Atlantique fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": null,
+        "Image": "CDP_0279.png"
+    },
+    {
+        "Code": 84016,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Tranche de saumon Atlantique fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 200 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 plaques",
+        "Prix colis": null,
+        "Image": "CDP_0279.png"
+    },
+    {
+        "Code": 84019,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Saumon Atlantique fumé en bande prétranchée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plaque de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 10 plaques",
+        "Prix colis": null,
+        "Image": "CDP_0279.png"
+    },
+    {
+        "Code": 70164,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Filet de saumon gravlax",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 600 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0279.png"
+    }
+]

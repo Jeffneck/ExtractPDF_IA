@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70231,
+        "Catégorie": "Glaces",
+        "Produit": "Boule rocher noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 75 g",
+        "Prix portion": 2.38,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 19.05,
+        "Image": "CDP_0425.png"
+    },
+    {
+        "Code": 70513,
+        "Catégorie": "Glaces",
+        "Produit": "Boule rocher noix de coco",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 80 g",
+        "Prix portion": 2.38,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 19.05,
+        "Image": "CDP_0425.png"
+    },
+    {
+        "Code": 70543,
+        "Catégorie": "Glaces",
+        "Produit": "Vacherin vanille framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 75 g (110 ml)",
+        "Prix portion": 2.43,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 19.45,
+        "Image": "CDP_0425.png"
+    },
+    {
+        "Code": 70544,
+        "Catégorie": "Glaces",
+        "Produit": "Vacherin vanille caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 75 g (110 ml)",
+        "Prix portion": 2.43,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 19.45,
+        "Image": "CDP_0425.png"
+    },
+    {
+        "Code": 837553,
+        "Catégorie": "Glaces",
+        "Produit": "Mango",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 90 g (150 ml)",
+        "Prix portion": 2.15,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 17.69,
+        "Image": "CDP_0425.png"
+    },
+    {
+        "Code": 837554,
+        "Catégorie": "Glaces",
+        "Produit": "Frisson",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g (150 ml)",
+        "Prix portion": 2.21,
+        "Colisage": "Carton de 8 pièces",
+        "Prix colis": 17.69,
+        "Image": "CDP_0425.png"
+    }
+]

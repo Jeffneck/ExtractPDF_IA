@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 29488,
+        "Catégorie": "Pains",
+        "Produit": "Figotte® Solène nature 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.5128,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 25.64,
+        "Image": "CDP_0225.png"
+    },
+    {
+        "Code": 29497,
+        "Catégorie": "Pains",
+        "Produit": "Figotte® Solène cérérales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.448,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 33.84,
+        "Image": "CDP_0225.png"
+    },
+    {
+        "Code": 29599,
+        "Catégorie": "Pains",
+        "Produit": "Figotte® Solène nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 0.4239,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 38.15,
+        "Image": "CDP_0225.png"
+    },
+    {
+        "Code": 29580,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Figotte® nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.2791,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 22.33,
+        "Image": "CDP_0225.png"
+    },
+    {
+        "Code": 29625,
+        "Catégorie": "Pains",
+        "Produit": "Petit pain Figotte® cérérales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.3061,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 24.49,
+        "Image": "CDP_0225.png"
+    }
+]

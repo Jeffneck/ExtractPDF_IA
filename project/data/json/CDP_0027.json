@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 27102,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Opéra individuel",
+        "Prix Kg": 8.5288,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 1.8232,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 54.97,
+        "Image": "CDP_0027.png"
+    },
+    {
+        "Code": 27941,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Feuilletine chocolat individuel",
+        "Prix Kg": 7.3058,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 1.4617,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 43.85,
+        "Image": "CDP_0027.png"
+    },
+    {
+        "Code": 27960,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Entremets individuel façon forêt noire",
+        "Prix Kg": 7.945,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 2.336,
+        "Colisage": "Colis de 21 unités",
+        "Prix colis": 49.11,
+        "Image": "CDP_0027.png"
+    },
+    {
+        "Code": 70241,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fraisier individuel",
+        "Prix Kg": 6.387,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 105g",
+        "Prix portion": 2.6638,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 42.62,
+        "Image": "CDP_0027.png"
+    }
+]

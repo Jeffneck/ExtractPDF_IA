@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 835392,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini cookies salés au chorizo",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": 158,
+        "Image": "CDP_0452.png"
+    },
+    {
+        "Code": 835393,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini cookies kids salsas assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 252,
+        "Image": "CDP_0452.png"
+    },
+    {
+        "Code": 834175,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini cookies noisettes & amandes assorties",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 244,
+        "Image": "CDP_0452.png"
+    },
+    {
+        "Code": 274701,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini macarons à sésame doux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": 209,
+        "Image": "CDP_0452.png"
+    },
+    {
+        "Code": 274701,
+        "Catégorie": "Glaces",
+        "Produit": "Mini macarons chocolat 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": 186,
+        "Image": "CDP_0452.png"
+    }
+]

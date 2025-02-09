@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 22044,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette sucré garni crème frangipane ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 84g",
+        "Prix portion": 1.1673,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 81.71,
+        "Image": "CDP_0147.png"
+    },
+    {
+        "Code": 27145,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette sucré ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 41g",
+        "Prix portion": 0.6983,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 16.76,
+        "Image": "CDP_0147.png"
+    },
+    {
+        "Code": 840845,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette sucré à bord droit ø 82",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.408,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 19.23,
+        "Image": "CDP_0147.png"
+    },
+    {
+        "Code": 841651,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette cacao à bord droit ø 82",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.5023,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 20.09,
+        "Image": "CDP_0147.png"
+    },
+    {
+        "Code": 27142,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette sucré ø 85",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 28g",
+        "Prix portion": 0.5573,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 22.29,
+        "Image": "CDP_0147.png"
+    },
+    {
+        "Code": 828836,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette sucré triangulaire cru",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 0.7778,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 62.22,
+        "Image": "CDP_0147.png"
+    }
+]

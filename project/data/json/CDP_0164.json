@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 26023,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini fond moelleux citron aneth Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 6g",
+        "Prix portion": 0.324,
+        "Colisage": "Carton de 200 unités",
+        "Prix colis": 64.79,
+        "Image": "CDP_0164.png"
+    },
+    {
+        "Code": 26024,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini fond moelleux olive noire Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 6g",
+        "Prix portion": 0.3202,
+        "Colisage": "Carton de 200 unités",
+        "Prix colis": 64.03,
+        "Image": "CDP_0164.png"
+    },
+    {
+        "Code": 26282,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini fond moelleux poivron Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 7g",
+        "Prix portion": 0.3102,
+        "Colisage": "Carton de 200 unités",
+        "Prix colis": 62.04,
+        "Image": "CDP_0164.png"
+    },
+    {
+        "Code": 26284,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini fond moelleux légumes verts Ø 38",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 7g",
+        "Prix portion": 0.3157,
+        "Colisage": "Carton de 200 unités",
+        "Prix colis": 63.14,
+        "Image": "CDP_0164.png"
+    },
+    {
+        "Code": 26930,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini sablés salés assortis Ø 30",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 4.2g",
+        "Prix portion": 0.202,
+        "Colisage": "Carton de 210 unités",
+        "Prix colis": 43.47,
+        "Image": "CDP_0164.png"
+    },
+    {
+        "Code": 70465,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini sablés salés moutarde",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 4g",
+        "Prix portion": 0.1975,
+        "Colisage": "Carton de 210 unités",
+        "Prix colis": 41.47,
+        "Image": "CDP_0164.png"
+    }
+]

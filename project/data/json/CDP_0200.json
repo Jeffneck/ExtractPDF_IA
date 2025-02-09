@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 840114,
+        "Catégorie": "Pains",
+        "Produit": "Les bun’s burgers : le nature Ø 105",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pré-tranché, poids 62.5 g",
+        "Prix portion": 0.5208,
+        "Colisage": "Colis de 84 unités",
+        "Prix colis": 43.75,
+        "Image": "CDP_0200.png"
+    },
+    {
+        "Code": 841699,
+        "Catégorie": "Pains",
+        "Produit": "Les bun’s burgers : le paprika piment Ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pré-tranché, poids 80 g",
+        "Prix portion": 1.14,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 34.32,
+        "Image": "CDP_0200.png"
+    },
+    {
+        "Code": 826088,
+        "Catégorie": "Pains",
+        "Produit": "Les bun’s burgers : le prétranché noir Ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pré-tranché, poids 80 g",
+        "Prix portion": null,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 36.12,
+        "Image": "CDP_0200.png"
+    },
+    {
+        "Code": 840116,
+        "Catégorie": "Pains",
+        "Produit": "Les bun’s burgers : le tourbillon Ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pré-tranché, poids 75 g",
+        "Prix portion": 0.4288,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 79.66,
+        "Image": "CDP_0200.png"
+    },
+    {
+        "Code": 840115,
+        "Catégorie": "Pains",
+        "Produit": "Les bun’s burgers : le Everything Ø 105",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pré-tranché, poids 62.5 g",
+        "Prix portion": 0.6566,
+        "Colisage": "Colis de 84 unités",
+        "Prix colis": 55.91,
+        "Image": "CDP_0200.png"
+    },
+    {
+        "Code": 841698,
+        "Catégorie": "Pains",
+        "Produit": "Pain burger façon bistro Ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 75 g",
+        "Prix portion": 0.4215,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 25.29,
+        "Image": "CDP_0200.png"
+    }
+]

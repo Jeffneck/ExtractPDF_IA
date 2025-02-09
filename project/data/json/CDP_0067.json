@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70073,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini caroline au foie gras",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 1.3681,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 57.46,
+        "Image": "CDP_0067.png"
+    },
+    {
+        "Code": 22448,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini caroline au saumon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 1.2957,
+        "Colisage": "Colis de 42 unités",
+        "Prix colis": 54.42,
+        "Image": "CDP_0067.png"
+    },
+    {
+        "Code": 70252,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Briochain® au saumon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25.3g",
+        "Prix portion": 1.6385,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 67.43,
+        "Image": "CDP_0067.png"
+    },
+    {
+        "Code": 841787,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Briochain® bloc de foie gras figue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 23g",
+        "Prix portion": 1.62,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 62.48,
+        "Image": "CDP_0067.png"
+    },
+    {
+        "Code": 70454,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini dôme foie gras framboise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 13g",
+        "Prix portion": 1.4536,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 43.69,
+        "Image": "CDP_0067.png"
+    },
+    {
+        "Code": 70455,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini dôme foie gras mangue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 13g",
+        "Prix portion": 1.4536,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 43.69,
+        "Image": "CDP_0067.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Code": null,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pennes 4 fromages",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0368.png"
+    },
+    {
+        "Code": null,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Spirales poulet pesto",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0368.png"
+    },
+    {
+        "Code": 831406,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillettes de poulet pané multigrains halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0368.png"
+    },
+    {
+        "Code": null,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sauce 4 fromages",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0368.png"
+    },
+    {
+        "Code": 841762,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mozzarella en cossette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0368.png"
+    },
+    {
+        "Code": 841753,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Dés de bleu",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0368.png"
+    },
+    {
+        "Code": 42602,
+        "Catégorie": "Sauces",
+        "Produit": "Pesto basilic 34 %",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0368.png"
+    }
+]

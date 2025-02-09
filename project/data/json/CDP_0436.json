@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 826157,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant parfum chocolat bicolore prépoussé 90 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.113,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 40.07,
+        "Image": "CDP_0436.png"
+    },
+    {
+        "Code": 826161,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant framboise bicolore prépoussé 90 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.061,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 38.2,
+        "Image": "CDP_0436.png"
+    },
+    {
+        "Code": 25334,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant parfum chocolat noisette prépoussé 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.9975,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 31.92,
+        "Image": "CDP_0436.png"
+    },
+    {
+        "Code": 25336,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant framboise prépoussé 100 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.9525,
+        "Colisage": "Colis de 32 unités",
+        "Prix colis": 30.48,
+        "Image": "CDP_0436.png"
+    },
+    {
+        "Code": 70652,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant abricot 125 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 125g",
+        "Prix portion": 1.046,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 73.24,
+        "Image": "CDP_0436.png"
+    },
+    {
+        "Code": 841739,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant abricot prépoussé 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.511,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 54.29,
+        "Image": "CDP_0436.png"
+    }
+]

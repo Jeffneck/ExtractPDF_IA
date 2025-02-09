@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 29046,
+        "Catégorie": "Pains",
+        "Produit": "Panini Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 0.3613,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 21.68,
+        "Image": "CDP_0195.png"
+    },
+    {
+        "Code": 840850,
+        "Catégorie": "Pains",
+        "Produit": "Panini Sélection prémarqué prétranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 0.4885,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 29.31,
+        "Image": "CDP_0195.png"
+    },
+    {
+        "Code": 29544,
+        "Catégorie": "Pains",
+        "Produit": "Panini",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 0.4072,
+        "Colisage": "Colis de 64 unités",
+        "Prix colis": 26.06,
+        "Image": "CDP_0195.png"
+    },
+    {
+        "Code": 822941,
+        "Catégorie": "Pains",
+        "Produit": "Panini 130 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.489,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 19.56,
+        "Image": "CDP_0195.png"
+    },
+    {
+        "Code": 29642,
+        "Catégorie": "Pains",
+        "Produit": "Panini prémarqué prédécoupé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 0.67,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 40.24,
+        "Image": "CDP_0195.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 26031,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapés Sélection de saveurs",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 plateau par carton",
+        "Prix portion": 0.8325,
+        "Colisage": "Colis de 56 unités",
+        "Prix colis": 46.62,
+        "Image": "CDP_0063.png"
+    },
+    {
+        "Code": 70026,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapés gourmets",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 plateau par carton",
+        "Prix portion": 0.8315,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 39.05,
+        "Image": "CDP_0063.png"
+    }
+]

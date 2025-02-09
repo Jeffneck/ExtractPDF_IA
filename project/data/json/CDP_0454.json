@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 840527,
+        "Catégorie": "Pains",
+        "Produit": "Sac baguette à fenêtre Fleur de Solène®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 0.07,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 69.0,
+        "Image": "CDP_0454.png"
+    },
+    {
+        "Code": 840564,
+        "Catégorie": "Pains",
+        "Produit": "Sac baguette à fenêtre la Florentine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 0.04,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 42.0,
+        "Image": "CDP_0454.png"
+    },
+    {
+        "Code": 840529,
+        "Catégorie": "Pains",
+        "Produit": "Sac baguette à fenêtre Solène® graines d'épeautre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 0.08,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 80.0,
+        "Image": "CDP_0454.png"
+    },
+    {
+        "Code": 840561,
+        "Catégorie": "Pains",
+        "Produit": "Sac baguette à fenêtre le biseau du Founil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 0.05,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 48.0,
+        "Image": "CDP_0454.png"
+    },
+    {
+        "Code": 840562,
+        "Catégorie": "Pains",
+        "Produit": "Sac baguette à fenêtre le biseau du Founil multicéréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 0.05,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 48.0,
+        "Image": "CDP_0454.png"
+    },
+    {
+        "Code": 840560,
+        "Catégorie": "Pains",
+        "Produit": "Sac baguette à fenêtre Solène® torsadée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 0.06,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 58.0,
+        "Image": "CDP_0454.png"
+    },
+    {
+        "Code": 840528,
+        "Catégorie": "Pains",
+        "Produit": "Sac baguette à fenêtre Solène® à bouts pointus",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 0.07,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 69.0,
+        "Image": "CDP_0454.png"
+    },
+    {
+        "Code": 840563,
+        "Catégorie": "Pains",
+        "Produit": "Sac baguette à fenêtre bûche du Founil",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": 0.06,
+        "Colisage": "Carton de 1000 pièces",
+        "Prix colis": 63.0,
+        "Image": "CDP_0454.png"
+    }
+]

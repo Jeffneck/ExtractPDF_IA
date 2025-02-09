@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 825493,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Haricots verts extra-fins - classic",
+        "Prix Kg": 2.55,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg, Carton de 4 sachets",
+        "Prix portion": 0.38,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0348.png"
+    },
+    {
+        "Code": 837415,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Petits pois doux extra-fins",
+        "Prix Kg": 2.45,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg, Carton de 4 sachets",
+        "Prix portion": 0.37,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0348.png"
+    },
+    {
+        "Code": 832870,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Épinards branches en palet",
+        "Prix Kg": 2.89,
+        "Prix Litre": null,
+        "Portionnement": "Piece de 125 g, Sachet de 2.5 kg, Carton de 4 sachets",
+        "Prix portion": 0.43,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0348.png"
+    },
+    {
+        "Code": 837422,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pois gourmands",
+        "Prix Kg": 6.65,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Carton de 5 sachets",
+        "Prix portion": 1.0,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0348.png"
+    },
+    {
+        "Code": 834760,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Asperges vertes entières grade L",
+        "Prix Kg": 9.65,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg, Carton de 5 sachets",
+        "Prix portion": 1.45,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0348.png"
+    }
+]

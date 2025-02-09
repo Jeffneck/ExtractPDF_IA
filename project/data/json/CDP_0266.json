@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 836147,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les boîtes d'Hubert® : parmentier de bœuf",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 340g",
+        "Prix portion": 6.47,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": 64.73,
+        "Image": "CDP_0266.png"
+    },
+    {
+        "Code": 836230,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les boîtes d'Hubert® : parmentier de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 340g",
+        "Prix portion": 6.45,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": 64.53,
+        "Image": "CDP_0266.png"
+    },
+    {
+        "Code": 840853,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les boîtes d'Hubert® : gratin cabillaud & légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 7.12,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": 71.23,
+        "Image": "CDP_0266.png"
+    },
+    {
+        "Code": 836148,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les boîtes d'Hubert® : gratin de Crozets (abondance comté et jambon fumé)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 300g",
+        "Prix portion": 5.54,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": 55.4,
+        "Image": "CDP_0266.png"
+    },
+    {
+        "Code": 840851,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les boîtes d'Hubert® : crumble ricotta épinards & graines",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 350g",
+        "Prix portion": 5.77,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": 57.68,
+        "Image": "CDP_0266.png"
+    },
+    {
+        "Code": 840852,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Les boîtes d'Hubert® : tartelette au reblochon",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 330g",
+        "Prix portion": 6.96,
+        "Colisage": "Carton de 10 barquettes",
+        "Prix colis": 65.54,
+        "Image": "CDP_0266.png"
+    }
+]

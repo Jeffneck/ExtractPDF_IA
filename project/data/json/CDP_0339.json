@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 840728,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Escalope de dinde (sans peau, sans os)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 130/150 g, Carton de 5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0339.png"
+    },
+    {
+        "Code": 822939,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Suprême de pintade",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 180/220 g, Sachet de 1 kg. Carton de 5 sachets",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0339.png"
+    },
+    {
+        "Code": 840727,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Jambonette de dinde confite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 220 g, Sachet (sous-vide) de 1,6 kg. Carton de 4 sachets",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0339.png"
+    },
+    {
+        "Code": 70156,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Caille crapaudine farcie aux cèpes et aux bolets",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 160 g, Carton de 3,2 kg (20 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 3,2 kg",
+        "Prix colis": null,
+        "Image": "CDP_0339.png"
+    }
+]

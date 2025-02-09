@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70237,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte chocolat prédécoupée ø 270",
+        "Prix Kg": 11.296,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.0598,
+        "Colisage": "Colis de 8 unités",
+        "Prix colis": 84.78,
+        "Image": "CDP_0039.png"
+    },
+    {
+        "Code": 70238,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte spéciale pomme prédécoupée ø 270",
+        "Prix Kg": 6.11,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.611,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 61.1,
+        "Image": "CDP_0039.png"
+    },
+    {
+        "Code": 70236,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Tarte poire Bourdaloue prédécoupée ø 270",
+        "Prix Kg": 8.2987,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 750g",
+        "Prix portion": 0.6231,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 62.32,
+        "Image": "CDP_0039.png"
+    },
+    {
+        "Code": 27509,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Flan nature cuit prédécoupé ø 265",
+        "Prix Kg": 49.0,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 300g",
+        "Prix portion": 1.0783,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 88.79,
+        "Image": "CDP_0039.png"
+    }
+]

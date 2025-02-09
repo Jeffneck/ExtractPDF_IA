@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 18409,
+        "Catégorie": "Glaces",
+        "Produit": "Fromage frais allégé 0 % MG",
+        "Prix Kg": 2.75,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 5 kg",
+        "Prix portion": 0.28,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0421.png"
+    },
+    {
+        "Code": 16104,
+        "Catégorie": "Glaces",
+        "Produit": "Fromage frais lissé 20 % MG",
+        "Prix Kg": 2.89,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 5 kg",
+        "Prix portion": 0.29,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0421.png"
+    },
+    {
+        "Code": 16107,
+        "Catégorie": "Glaces",
+        "Produit": "Fromage frais onctueux 40 % MG",
+        "Prix Kg": 3.35,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 5 kg",
+        "Prix portion": 0.34,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0421.png"
+    },
+    {
+        "Code": 840743,
+        "Catégorie": "Glaces",
+        "Produit": "Fromage frais à la vanille Isigny-Ste-Mère",
+        "Prix Kg": 6.15,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg",
+        "Prix portion": 0.62,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0421.png"
+    },
+    {
+        "Code": 16109,
+        "Catégorie": "Glaces",
+        "Produit": "Fromage frais à la fraise Isigny-Ste-Mère",
+        "Prix Kg": 5.69,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg",
+        "Prix portion": 0.57,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0421.png"
+    },
+    {
+        "Code": 16113,
+        "Catégorie": "Glaces",
+        "Produit": "Fromage frais à la framboise Isigny-Ste-Mère",
+        "Prix Kg": 5.69,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg",
+        "Prix portion": 0.57,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0421.png"
+    },
+    {
+        "Code": 702565,
+        "Catégorie": "Glaces",
+        "Produit": "Fromage frais à la poire Isigny-Ste-Mère",
+        "Prix Kg": 5.55,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 5 kg",
+        "Prix portion": 0.56,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0421.png"
+    },
+    {
+        "Code": 18406,
+        "Catégorie": "Glaces",
+        "Produit": "Fromage frais aux pommes caramélisées Isigny-Ste-Mère",
+        "Prix Kg": 5.69,
+        "Prix Litre": null,
+        "Portionnement": "Seau de 3 kg",
+        "Prix portion": 0.57,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0421.png"
+    }
+]

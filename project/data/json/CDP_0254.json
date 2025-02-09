@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 26876,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza royale 260 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 500g",
+        "Prix portion": 3.9,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 39.02,
+        "Image": "CDP_0254.png"
+    },
+    {
+        "Code": 26987,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza 4 fromages 260 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 460g",
+        "Prix portion": 4.35,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 43.48,
+        "Image": "CDP_0254.png"
+    },
+    {
+        "Code": 26706,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza chorizo 260 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 500g",
+        "Prix portion": 4.11,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 41.48,
+        "Image": "CDP_0254.png"
+    },
+    {
+        "Code": 841680,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza saumon 260 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 4.06,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 40.63,
+        "Image": "CDP_0254.png"
+    },
+    {
+        "Code": 822924,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza végétarienne 260 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 3.93,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 39.28,
+        "Image": "CDP_0254.png"
+    },
+    {
+        "Code": 841670,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pizza épinards pecorino romano AOP 260 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 450g",
+        "Prix portion": 3.62,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 31.56,
+        "Image": "CDP_0254.png"
+    }
+]

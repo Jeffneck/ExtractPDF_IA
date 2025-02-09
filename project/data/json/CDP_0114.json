@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70283,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini croustillant exotique ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17.7g",
+        "Prix portion": 1.0954,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 52.58,
+        "Image": "CDP_0114.png"
+    },
+    {
+        "Code": 70287,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini croustillant framboise poivron ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17.7g",
+        "Prix portion": 1.0954,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 52.58,
+        "Image": "CDP_0114.png"
+    },
+    {
+        "Code": 70282,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini croustillant chocolat ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17.7g",
+        "Prix portion": 1.0954,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 52.58,
+        "Image": "CDP_0114.png"
+    },
+    {
+        "Code": 70460,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini croustillant carotte orange ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17.7g",
+        "Prix portion": 1.0954,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 52.58,
+        "Image": "CDP_0114.png"
+    },
+    {
+        "Code": 70451,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini croustillant avocat fraise ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17.7g",
+        "Prix portion": 1.0954,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 52.58,
+        "Image": "CDP_0114.png"
+    }
+]

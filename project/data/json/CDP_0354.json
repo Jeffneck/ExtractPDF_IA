@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841509,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poêlée Italia",
+        "Prix Kg": 8.55,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.28,
+        "Colisage": "Sachet de 2.5 kg. Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0354.png"
+    },
+    {
+        "Code": 841508,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poêlée España",
+        "Prix Kg": 8.75,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.31,
+        "Colisage": "Sachet de 2.5 kg. Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0354.png"
+    },
+    {
+        "Code": 841507,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poêlée ratatouille cuisinée à l'huile d'olive",
+        "Prix Kg": 7.09,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.06,
+        "Colisage": "Sachet de 2.5 kg. Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0354.png"
+    },
+    {
+        "Code": 832900,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poêlée gourmande aux légumes grillés",
+        "Prix Kg": 11.49,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.72,
+        "Colisage": "Sachet de 1 kg. Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0354.png"
+    },
+    {
+        "Code": 841520,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poêlée camarguaise",
+        "Prix Kg": 7.29,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.09,
+        "Colisage": "Sachet de 2.5 kg. Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0354.png"
+    },
+    {
+        "Code": 832894,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Poêlée gourmande aux pointes d'asperges",
+        "Prix Kg": 10.85,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 1.63,
+        "Colisage": "Sachet de 1 kg. Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0354.png"
+    }
+]

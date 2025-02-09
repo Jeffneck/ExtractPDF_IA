@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 841708,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mascotte framboise 140 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 1.33,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 42.91,
+        "Image": "CDP_0496.png"
+    },
+    {
+        "Code": 841707,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mascotte parfum chocolat noisette 140 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 1.483,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 44.51,
+        "Image": "CDP_0496.png"
+    },
+    {
+        "Code": 70258,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mascotte crème citron 140 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 1.416,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 42.48,
+        "Image": "CDP_0496.png"
+    },
+    {
+        "Code": 70239,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mascotte pomme 140 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 140g",
+        "Prix portion": 1.368,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 41.05,
+        "Image": "CDP_0496.png"
+    },
+    {
+        "Code": 70510,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Maxi beignets® nature 90 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 0.703,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 21.25,
+        "Image": "CDP_0496.png"
+    },
+    {
+        "Code": 70511,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Maxi beignets® parfum chocolat noisette 130 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 130g",
+        "Prix portion": 1.079,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 32.38,
+        "Image": "CDP_0496.png"
+    }
+]

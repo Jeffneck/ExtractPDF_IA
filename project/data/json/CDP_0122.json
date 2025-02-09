@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 822919,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Canelé lunch",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.4851,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 34.93,
+        "Image": "CDP_0122.png"
+    },
+    {
+        "Code": 25243,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Canelé bouchée Grand Marnier",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 15g",
+        "Prix portion": 0.3023,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 43.34,
+        "Image": "CDP_0122.png"
+    },
+    {
+        "Code": 22159,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Canelé bouchée Grand Siècle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17g",
+        "Prix portion": 0.3839,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 57.59,
+        "Image": "CDP_0122.png"
+    },
+    {
+        "Code": 838206,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Canelé bouchée sans alcool",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17g",
+        "Prix portion": 0.2817,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 42.26,
+        "Image": "CDP_0122.png"
+    },
+    {
+        "Code": 25247,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Canelé bouchée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17g",
+        "Prix portion": 0.3071,
+        "Colisage": "Colis de 150 unités",
+        "Prix colis": 46.07,
+        "Image": "CDP_0122.png"
+    }
+]

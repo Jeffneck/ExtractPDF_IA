@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 828294,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant Le Mitron® 65 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 65g",
+        "Prix portion": 0.4647,
+        "Colisage": "Colis de 168 unités",
+        "Prix colis": 77.4,
+        "Image": "CDP_0328.png"
+    },
+    {
+        "Code": 830654,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat Le Mitron® 75 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 0.5688,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 93.53,
+        "Image": "CDP_0328.png"
+    }
+]

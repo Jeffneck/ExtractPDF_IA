@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 27172,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Clafoutis cerise ø 105",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 1.6542,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 39.7,
+        "Image": "CDP_0030.png"
+    },
+    {
+        "Code": 27440,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Baba crème fouettée vanille ø 65",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 160g",
+        "Prix portion": 1.7902,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 20.51,
+        "Image": "CDP_0030.png"
+    },
+    {
+        "Code": 22110,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cochon en pâte d’amande",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 3.4956,
+        "Colisage": "Colis de 9 unités",
+        "Prix colis": 31.46,
+        "Image": "CDP_0030.png"
+    },
+    {
+        "Code": 27389,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Figue en pâte d’amande",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 3.2056,
+        "Colisage": "Colis de 9 unités",
+        "Prix colis": 28.85,
+        "Image": "CDP_0030.png"
+    }
+]

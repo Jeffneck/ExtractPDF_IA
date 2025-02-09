@@ -1,0 +1,98 @@
+[
+    {
+        "Code": 39743,
+        "Catégorie": "Glaces",
+        "Produit": "Coulis de framboises",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 500 g",
+        "Prix portion": 0.27,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": 6.69,
+        "Image": "CDP_0415.png"
+    },
+    {
+        "Code": 39745,
+        "Catégorie": "Glaces",
+        "Produit": "Coulis de fruits rouges",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 500 g",
+        "Prix portion": 0.2,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": 4.99,
+        "Image": "CDP_0415.png"
+    },
+    {
+        "Code": 39747,
+        "Catégorie": "Glaces",
+        "Produit": "Coulis de fruits exotiques",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Bouteille de 500 g",
+        "Prix portion": 0.18,
+        "Colisage": "Carton de 6 bouteilles",
+        "Prix colis": 4.59,
+        "Image": "CDP_0415.png"
+    },
+    {
+        "Code": 836969,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Purée de framboise sans sucre ajouté",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.63,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": 12.65,
+        "Image": "CDP_0415.png"
+    },
+    {
+        "Code": 837040,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Purée de fruits rouges sans sucre ajouté",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.42,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": 8.45,
+        "Image": "CDP_0415.png"
+    },
+    {
+        "Code": 837044,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Purée de fruits de la passion sans sucre ajouté",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.63,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": 12.85,
+        "Image": "CDP_0415.png"
+    },
+    {
+        "Code": 836967,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Purée de coco non tamisée sans sucre ajouté",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.49,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": 9.85,
+        "Image": "CDP_0415.png"
+    },
+    {
+        "Code": 39869,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Purée de fraises sucrée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 1 kg",
+        "Prix portion": 0.38,
+        "Colisage": "Carton de 6 barquettes",
+        "Prix colis": 7.59,
+        "Image": "CDP_0415.png"
+    }
+]

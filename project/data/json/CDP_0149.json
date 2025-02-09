@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 838187,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette sucré format stick cru",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 32g",
+        "Prix portion": 0.67,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 46.9,
+        "Image": "CDP_0149.png"
+    },
+    {
+        "Code": 840154,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fond de tartelette cacao format stick cru",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 32g",
+        "Prix portion": 0.623,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 43.56,
+        "Image": "CDP_0149.png"
+    },
+    {
+        "Code": 835452,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette sucré carré",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 0.738,
+        "Colisage": "Colis de 54 unités",
+        "Prix colis": 39.85,
+        "Image": "CDP_0149.png"
+    },
+    {
+        "Code": 832354,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Sablé breton cru ø 95",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.977,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 55.37,
+        "Image": "CDP_0149.png"
+    },
+    {
+        "Code": 18441,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond sucré ø 55",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.338,
+        "Colisage": "Colis de 93 unités",
+        "Prix colis": 31.43,
+        "Image": "CDP_0149.png"
+    },
+    {
+        "Code": 26250,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini fond sucré ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 7.8g",
+        "Prix portion": 0.229,
+        "Colisage": "Colis de 125 unités",
+        "Prix colis": 28.71,
+        "Image": "CDP_0149.png"
+    }
+]

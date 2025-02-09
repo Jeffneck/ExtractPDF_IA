@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 22267,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini pain burger sésame ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 6g",
+        "Prix portion": 0.2254,
+        "Colisage": "Colis de 140 unités",
+        "Prix colis": 31.56,
+        "Image": "CDP_0163.png"
+    },
+    {
+        "Code": 26052,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Duo de mini briochettes ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 7g",
+        "Prix portion": 0.2434,
+        "Colisage": "Colis de 280 unités",
+        "Prix colis": 68.39,
+        "Image": "CDP_0163.png"
+    },
+    {
+        "Code": 26260,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bagel sésame ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 9g",
+        "Prix portion": 0.246,
+        "Colisage": "Colis de 280 unités",
+        "Prix colis": 68.87,
+        "Image": "CDP_0163.png"
+    },
+    {
+        "Code": 26276,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Mini bagel pavot ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 9g",
+        "Prix portion": 0.2449,
+        "Colisage": "Colis de 280 unités",
+        "Prix colis": 68.57,
+        "Image": "CDP_0163.png"
+    }
+]

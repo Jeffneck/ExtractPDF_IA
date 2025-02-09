@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 25015,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Brownie Sélection tout chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 78g",
+        "Prix portion": 1.2444,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 62.22,
+        "Image": "CDP_0517.png"
+    },
+    {
+        "Code": 25086,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Brownie",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 78g",
+        "Prix portion": 1.5816,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 79.08,
+        "Image": "CDP_0517.png"
+    },
+    {
+        "Code": 25036,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Brownie chocolat noix de pécan",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 78g",
+        "Prix portion": 1.581,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 79.08,
+        "Image": "CDP_0517.png"
+    },
+    {
+        "Code": 25051,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini brownies Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 plaque par carton (poids 20.8g par unité)",
+        "Prix portion": 0.3966,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 47.71,
+        "Image": "CDP_0517.png"
+    },
+    {
+        "Code": 835420,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Millionaire shortbread",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 2.3417,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 70.25,
+        "Image": "CDP_0517.png"
+    },
+    {
+        "Code": 853091,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cinnamon roll (roulé cannelle)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 unité",
+        "Prix portion": 0.8204,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 39.38,
+        "Image": "CDP_0517.png"
+    }
+]

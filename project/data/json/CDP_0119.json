@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70698,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Petits fours sucrés",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 58 unités",
+        "Prix portion": 0.6776,
+        "Colisage": "Colis de 116 unités",
+        "Prix colis": 78.6,
+        "Image": "CDP_0119.png"
+    },
+    {
+        "Code": 70697,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Petits fours sucrés Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 56 unités",
+        "Prix portion": 0.5232,
+        "Colisage": "Colis de 112 unités",
+        "Prix colis": 61.86,
+        "Image": "CDP_0119.png"
+    },
+    {
+        "Code": 70169,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Petits fours tradition",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 48 unités",
+        "Prix portion": 0.6194,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 59.46,
+        "Image": "CDP_0119.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70410,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Finger cake chocolat noisette",
+        "Prix Kg": 34.74,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.4913,
+        "Colisage": "Vendu par carton de 16 unités",
+        "Prix colis": 24.31,
+        "Image": "CDP_0029.png"
+    },
+    {
+        "Code": 70235,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Finger cake caramel",
+        "Prix Kg": 37.69,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.6494,
+        "Colisage": "Vendu par carton de 16 unités",
+        "Prix colis": 26.39,
+        "Image": "CDP_0029.png"
+    },
+    {
+        "Code": 70411,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Finger cake fruits rouges",
+        "Prix Kg": 34.06,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.4925,
+        "Colisage": "Vendu par carton de 16 unités",
+        "Prix colis": 23.88,
+        "Image": "CDP_0029.png"
+    }
+]

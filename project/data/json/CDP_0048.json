@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 70009,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Entremets croustillant citron chantilly en bande",
+        "Prix Kg": 8.5085,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 99g",
+        "Prix portion": 0.6691,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 67.73,
+        "Image": "CDP_0048.png"
+    },
+    {
+        "Code": 822885,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Entremets croquant chocolat en bande",
+        "Prix Kg": 86.4,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 87.5g",
+        "Prix portion": 1.2136,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 60.48,
+        "Image": "CDP_0048.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 27112,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Bande feuilletée abricot",
+        "Prix Kg": 13.0235,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 2.613,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 52.13,
+        "Image": "CDP_0034.png"
+    },
+    {
+        "Code": 27114,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Bande feuilletée poire",
+        "Prix Kg": 12.5375,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 2.504,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 50.15,
+        "Image": "CDP_0034.png"
+    },
+    {
+        "Code": 22214,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Bande feuilletée pomme",
+        "Prix Kg": 10.1175,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 2.014,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 40.47,
+        "Image": "CDP_0034.png"
+    },
+    {
+        "Code": 27211,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Bande feuilletée multifruits",
+        "Prix Kg": 14.2775,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 150g",
+        "Prix portion": 2.991,
+        "Colisage": "Colis de 4 unités",
+        "Prix colis": 57.11,
+        "Image": "CDP_0034.png"
+    }
+]

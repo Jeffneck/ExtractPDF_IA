@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 836781,
+        "Catégorie": "Pains",
+        "Produit": "Pain burger sésame façon bretzel ø 110",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 65g",
+        "Prix portion": 0.9306,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 32.57,
+        "Image": "CDP_0192.png"
+    },
+    {
+        "Code": 826183,
+        "Catégorie": "Pains",
+        "Produit": "Pain sandwich hamburger prétranché ø 125",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.5413,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 12.99,
+        "Image": "CDP_0192.png"
+    },
+    {
+        "Code": 826089,
+        "Catégorie": "Pains",
+        "Produit": "Pain burger prétranché ø 115",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.4834,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 38.67,
+        "Image": "CDP_0192.png"
+    },
+    {
+        "Code": 826190,
+        "Catégorie": "Pains",
+        "Produit": "Faluche carrée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 110g",
+        "Prix portion": 0.5538,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 33.23,
+        "Image": "CDP_0192.png"
+    },
+    {
+        "Code": 828912,
+        "Catégorie": "Pains",
+        "Produit": "Pain sandwich feuilleté triangle",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 100g",
+        "Prix portion": 0.9784,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 48.92,
+        "Image": "CDP_0192.png"
+    },
+    {
+        "Code": 832336,
+        "Catégorie": "Pains",
+        "Produit": "Petit muffin anglais tranché",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.7375,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 29.5,
+        "Image": "CDP_0192.png"
+    }
+]

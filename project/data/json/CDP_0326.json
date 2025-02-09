@@ -1,0 +1,122 @@
+[
+    {
+        "Code": 25092,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant Le Tourier® 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.5832,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 69.98,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 25218,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant Le Tourier® 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.6168,
+        "Colisage": "Colis de 110 unités",
+        "Prix colis": 67.85,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 25229,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant Le Tourier® courbé 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.5993,
+        "Colisage": "Colis de 162 unités",
+        "Prix colis": 96.11,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 25091,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres Le Tourier® 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6343,
+        "Colisage": "Colis de 140 unités",
+        "Prix colis": 88.8,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 25093,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres Le Tourier® 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.635,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 76.2,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 840822,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Le Tourier® 90 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 0.679,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 91.67,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 25124,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Big choco 2 barres Le Tourier® 120 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 120g",
+        "Prix portion": 1.027,
+        "Colisage": "Colis de 90 unités",
+        "Prix colis": 92.43,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 25970,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant prépoussé Le Tourier® 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6816,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 47.71,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 22229,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Croissant courbé prépoussé Le Tourier® 70 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6945,
+        "Colisage": "Colis de 69 unités",
+        "Prix colis": 47.92,
+        "Image": "CDP_0326.png"
+    },
+    {
+        "Code": 25971,
+        "Catégorie": "Viennoiseries",
+        "Produit": "Pain chocolat 2 barres prépoussé Le Tourier® 80 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.7753,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 54.27,
+        "Image": "CDP_0326.png"
+    }
+]

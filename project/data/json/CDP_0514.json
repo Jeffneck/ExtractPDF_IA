@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 25177,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.6088,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 29.22,
+        "Image": "CDP_0514.png"
+    },
+    {
+        "Code": 840831,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut sucré",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 48g",
+        "Prix portion": 0.4248,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 20.39,
+        "Image": "CDP_0514.png"
+    },
+    {
+        "Code": 841697,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut nature",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 45g",
+        "Prix portion": 0.3628,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 26.12,
+        "Image": "CDP_0514.png"
+    },
+    {
+        "Code": 25180,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 55g",
+        "Prix portion": 0.7128,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 42.77,
+        "Image": "CDP_0514.png"
+    },
+    {
+        "Code": 25342,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut fiesta",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 0.7456,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 26.84,
+        "Image": "CDP_0514.png"
+    },
+    {
+        "Code": 25347,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Donut parfum fraise",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 60g",
+        "Prix portion": 0.7625,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 27.45,
+        "Image": "CDP_0514.png"
+    }
+]

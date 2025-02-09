@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70430,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Carré citron meringué",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 2.9333,
+        "Colisage": "Colis de 12 pièces",
+        "Prix colis": 35.2,
+        "Image": "CDP_0026.png"
+    },
+    {
+        "Code": 70431,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Carré rocher chocolat noisette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 3.0525,
+        "Colisage": "Colis de 12 pièces",
+        "Prix colis": 36.63,
+        "Image": "CDP_0026.png"
+    },
+    {
+        "Code": 70008,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Lingot croustillant fruits rouges litchi",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 3.1338,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 50.14,
+        "Image": "CDP_0026.png"
+    },
+    {
+        "Code": 70007,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Lingot croustillant chocolat caramel",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 3.085,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 49.36,
+        "Image": "CDP_0026.png"
+    }
+]

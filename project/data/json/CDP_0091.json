@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 26206,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Acras de morue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12.5g",
+        "Prix portion": 0.1999,
+        "Colisage": "Colis de 160 unités",
+        "Prix colis": 31.99,
+        "Image": "CDP_0091.png"
+    },
+    {
+        "Code": 26175,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Rouget-barbet du Vietnam en chemise de pommes de terre",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.6104,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 61.04,
+        "Image": "CDP_0091.png"
+    },
+    {
+        "Code": 26831,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Bouquet mandarin",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.7441,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 89.29,
+        "Image": "CDP_0091.png"
+    },
+    {
+        "Code": 833535,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Cromesquis de fromage herbes de Provence cœur tomate",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12.5g",
+        "Prix portion": 0.4632,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 18.49,
+        "Image": "CDP_0091.png"
+    }
+]

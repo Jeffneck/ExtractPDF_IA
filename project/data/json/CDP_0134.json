@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 27090,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Ballotin de chocolats grand format",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 118g",
+        "Prix portion": 8.4658,
+        "Colisage": "Colis de 12 ballotins",
+        "Prix colis": 101.59,
+        "Image": "CDP_0134.png"
+    },
+    {
+        "Code": 838207,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Ballotin de chocolats format moyen",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 37g",
+        "Prix portion": 0.7938,
+        "Colisage": "Colis de 24 ballotins",
+        "Prix colis": 76.2,
+        "Image": "CDP_0134.png"
+    },
+    {
+        "Code": 833407,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Ballotin de chocolats petit format",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 1.582,
+        "Colisage": "Colis de 40 ballotins",
+        "Prix colis": 63.28,
+        "Image": "CDP_0134.png"
+    },
+    {
+        "Code": 27543,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Trio de sucettes de chocolat fourrées",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 18 unités",
+        "Prix portion": 1.0254,
+        "Colisage": "Colis de 54 unités",
+        "Prix colis": 55.37,
+        "Image": "CDP_0134.png"
+    },
+    {
+        "Code": 27341,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Florentin caramel beurre salé ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités",
+        "Prix portion": 0.2797,
+        "Colisage": "Colis de 16 barquettes",
+        "Prix colis": 53.71,
+        "Image": "CDP_0134.png"
+    },
+    {
+        "Code": 27447,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Florentin ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités",
+        "Prix portion": 0.2628,
+        "Colisage": "Colis de 16 barquettes",
+        "Prix colis": 50.46,
+        "Image": "CDP_0134.png"
+    }
+]

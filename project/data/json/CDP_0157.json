@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70405,
+        "Catégorie": "Pains",
+        "Produit": "Navette cuite 27 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 27g",
+        "Prix portion": 0.2176,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 43.51,
+        "Image": "CDP_0157.png"
+    },
+    {
+        "Code": 70369,
+        "Catégorie": "Pains",
+        "Produit": "Mini navette cuite pavot",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.223,
+        "Colisage": "Colis de 108 unités",
+        "Prix colis": 24.08,
+        "Image": "CDP_0157.png"
+    },
+    {
+        "Code": 822936,
+        "Catégorie": "Pains",
+        "Produit": "Mini navette cuite",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.2042,
+        "Colisage": "Colis de 100 unités",
+        "Prix colis": 20.42,
+        "Image": "CDP_0157.png"
+    },
+    {
+        "Code": 70366,
+        "Catégorie": "Pains",
+        "Produit": "Mini navette cuite herbes de Provence",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.2294,
+        "Colisage": "Colis de 108 unités",
+        "Prix colis": 24.77,
+        "Image": "CDP_0157.png"
+    },
+    {
+        "Code": 26019,
+        "Catégorie": "Pains",
+        "Produit": "Mini navette Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 10g",
+        "Prix portion": 0.1572,
+        "Colisage": "Colis de 200 unités",
+        "Prix colis": 31.43,
+        "Image": "CDP_0157.png"
+    },
+    {
+        "Code": 70368,
+        "Catégorie": "Pains",
+        "Produit": "Mini navette cuite sésame",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 12g",
+        "Prix portion": 0.2208,
+        "Colisage": "Colis de 108 unités",
+        "Prix colis": 23.85,
+        "Image": "CDP_0157.png"
+    }
+]

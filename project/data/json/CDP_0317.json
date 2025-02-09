@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 828656,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Saucisse de Francfort",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 50 g, Sachet de 20 pièces",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0317.png"
+    },
+    {
+        "Code": 70771,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini saucisse de volaille et de veau",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 22 g, Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0317.png"
+    },
+    {
+        "Code": 44053,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Saucisse hot dog pur porc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 100 g, Sachet de 10 pièces",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0317.png"
+    },
+    {
+        "Code": 44227,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Saucisse de Strasbourg hot dog",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 75 g, Sachet de 19 pièces",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0317.png"
+    },
+    {
+        "Code": 70183,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Saucisse hot-dog de volaille halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 66 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (75 pièces env.)",
+        "Prix colis": null,
+        "Image": "CDP_0317.png"
+    }
+]

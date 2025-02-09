@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70181,
+        "Catégorie": "Pains",
+        "Produit": "Pain de mie blanc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 28 tranches, 5 sachets par carton",
+        "Prix portion": 0.1695,
+        "Colisage": "Colis de 140 unités",
+        "Prix colis": 23.73,
+        "Image": "CDP_0205.png"
+    },
+    {
+        "Code": 70182,
+        "Catégorie": "Pains",
+        "Produit": "Pain de mie brown",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 28 tranches, 5 sachets par carton",
+        "Prix portion": 0.1767,
+        "Colisage": "Colis de 140 unités",
+        "Prix colis": 24.74,
+        "Image": "CDP_0205.png"
+    },
+    {
+        "Code": 838686,
+        "Catégorie": "Pains",
+        "Produit": "Tartine à garnir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 18 tranches, 4 sachets par carton",
+        "Prix portion": 0.6142,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 44.22,
+        "Image": "CDP_0205.png"
+    },
+    {
+        "Code": 834201,
+        "Catégorie": "Pains",
+        "Produit": "Tartine multigraines à garnir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 18 tranches, 4 sachets par carton",
+        "Prix portion": 0.6142,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 44.22,
+        "Image": "CDP_0205.png"
+    }
+]

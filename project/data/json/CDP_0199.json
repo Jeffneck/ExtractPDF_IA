@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70526,
+        "Catégorie": "Pains",
+        "Produit": "Pain suédois carré",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 30 unités",
+        "Prix portion": 0.2904,
+        "Colisage": "Sachet de 30 unités, 6 sachets par carton",
+        "Prix colis": 53.28,
+        "Image": "CDP_0199.png"
+    },
+    {
+        "Code": 837954,
+        "Catégorie": "Pains",
+        "Produit": "Pain suédois ø 155",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 6 unités",
+        "Prix portion": 0.33,
+        "Colisage": "Sachet de 6 unités, 14 sachets par carton",
+        "Prix colis": 32.81,
+        "Image": "CDP_0199.png"
+    },
+    {
+        "Code": 837956,
+        "Catégorie": "Pains",
+        "Produit": "Pain suédois ø 165",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 6 unités",
+        "Prix portion": 0.4079,
+        "Colisage": "Sachet de 6 unités, 12 sachets par carton",
+        "Prix colis": 29.37,
+        "Image": "CDP_0199.png"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 22247,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Opéras de foie gras",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 plateau par carton, Poids 10.6 kg",
+        "Prix portion": 1.8073,
+        "Colisage": "Colis de 66 unités",
+        "Prix colis": 119.28,
+        "Image": "CDP_0060.png"
+    },
+    {
+        "Code": 26142,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Canapés Excellence",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 plateau par carton, Poids 13 kg",
+        "Prix portion": 1.1525,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 53.32,
+        "Image": "CDP_0060.png"
+    },
+    {
+        "Code": 26354,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Le gourmet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "1 plateau par carton, Poids 12.5 kg",
+        "Prix portion": 2.0025,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 80.1,
+        "Image": "CDP_0060.png"
+    }
+]

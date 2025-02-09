@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 26121,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapés traiteur",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 9g",
+        "Prix portion": 0.725,
+        "Colisage": "Colis de 192 unités",
+        "Prix colis": 139.2,
+        "Image": "CDP_0065.png"
+    },
+    {
+        "Code": 26275,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapés traiteur Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 7g",
+        "Prix portion": 0.6565,
+        "Colisage": "Colis de 192 unités",
+        "Prix colis": 108.57,
+        "Image": "CDP_0065.png"
+    },
+    {
+        "Code": 841731,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Canapés réception Sélection",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 5g",
+        "Prix portion": 0.5165,
+        "Colisage": "Colis de 120 unités",
+        "Prix colis": 61.98,
+        "Image": "CDP_0065.png"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 831420,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de poulet 140/160 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g, Sachet de 2.5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0333.png"
+    },
+    {
+        "Code": 841579,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de poulet cru 190 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 190 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0333.png"
+    },
+    {
+        "Code": 841578,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de poulet cru halal 190 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 190 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0333.png"
+    },
+    {
+        "Code": 835592,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de poulet rôti halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 110 g, Sachet de 2.5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0333.png"
+    },
+    {
+        "Code": 831542,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet (sous-vide) de 1.25 kg (8 pièces)",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0333.png"
+    },
+    {
+        "Code": 831546,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de poulet rôti",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet (sous-vide) de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 6 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0333.png"
+    }
+]

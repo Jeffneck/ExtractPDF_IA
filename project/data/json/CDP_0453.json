@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 42015,
+        "Catégorie": null,
+        "Produit": "Pot transparent",
+        "Prix Kg": null,
+        "Prix Litre": 5.5,
+        "Portionnement": "Contenance 17 cl",
+        "Prix portion": 0.11,
+        "Colisage": "Sachet de 50 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0453.png"
+    },
+    {
+        "Code": 42017,
+        "Catégorie": null,
+        "Produit": "Couvercle dôme transparent",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 100 pièces",
+        "Prix portion": 0.09,
+        "Colisage": "Carton de 10 sachets",
+        "Prix colis": 5.65,
+        "Image": "CDP_0453.png"
+    },
+    {
+        "Code": 70364,
+        "Catégorie": null,
+        "Produit": "Pot à smoothie",
+        "Prix Kg": null,
+        "Prix Litre": 5.55,
+        "Portionnement": "Contenance 40 cl",
+        "Prix portion": 0.11,
+        "Colisage": "Sachet de 50 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0453.png"
+    },
+    {
+        "Code": 70365,
+        "Catégorie": null,
+        "Produit": "Couvercle dôme avec trou",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Diamètre 95 mm",
+        "Prix portion": 0.07,
+        "Colisage": "Carton de 16 sachets",
+        "Prix colis": 3.45,
+        "Image": "CDP_0453.png"
+    },
+    {
+        "Code": 84009,
+        "Catégorie": null,
+        "Produit": "Papier hamburger",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 400x305 mm",
+        "Prix portion": 0.12,
+        "Colisage": "Carton de 500 pièces",
+        "Prix colis": 62.0,
+        "Image": "CDP_0453.png"
+    },
+    {
+        "Code": 70098,
+        "Catégorie": null,
+        "Produit": "Barquette à frites",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 162x69x41 mm",
+        "Prix portion": 0.12,
+        "Colisage": "Sachet de 250 pièces",
+        "Prix colis": 30.0,
+        "Image": "CDP_0453.png"
+    }
+]

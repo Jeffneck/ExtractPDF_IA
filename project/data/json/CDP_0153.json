@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 26299,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Croûte de bouchée crue ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.9243,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 66.55,
+        "Image": "CDP_0153.png"
+    },
+    {
+        "Code": 26287,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Croûte de bouchée crue carrée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 0.96,
+        "Colisage": "Colis de 80 unités",
+        "Prix colis": 76.8,
+        "Image": "CDP_0153.png"
+    },
+    {
+        "Code": 26884,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini croûte de bouchée cuite ø 35",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 5g",
+        "Prix portion": 0.3566,
+        "Colisage": "Colis de 192 unités",
+        "Prix colis": 68.47,
+        "Image": "CDP_0153.png"
+    },
+    {
+        "Code": 70452,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini croûte de bouchée cuite carrée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 5g",
+        "Prix portion": 0.2594,
+        "Colisage": "Colis de 240 unités",
+        "Prix colis": 62.26,
+        "Image": "CDP_0153.png"
+    }
+]

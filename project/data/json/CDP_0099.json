@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 22055,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini Paris-Brest ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.6845,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 32.9,
+        "Image": "CDP_0099.png"
+    },
+    {
+        "Code": 835436,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini éclair café",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 14g",
+        "Prix portion": 0.538,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 21.52,
+        "Image": "CDP_0099.png"
+    },
+    {
+        "Code": 835512,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini éclair chocolat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 14g",
+        "Prix portion": 0.538,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 21.52,
+        "Image": "CDP_0099.png"
+    },
+    {
+        "Code": 841735,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini choux chantilly",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 18g",
+        "Prix portion": 0.729,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 21.87,
+        "Image": "CDP_0099.png"
+    },
+    {
+        "Code": 27140,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini baba crème fouettée vanille ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.8827,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 52.96,
+        "Image": "CDP_0099.png"
+    },
+    {
+        "Code": 831279,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini baba crémeux mojito ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 1.0148,
+        "Colisage": "Colis de 60 unités",
+        "Prix colis": 60.89,
+        "Image": "CDP_0099.png"
+    }
+]

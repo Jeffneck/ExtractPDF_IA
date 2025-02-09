@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 29431,
+        "Catégorie": "Pains",
+        "Produit": "Baguette précuite 280 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 0.8236,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 29.65,
+        "Image": "CDP_0189.png"
+    },
+    {
+        "Code": 70077,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Sélection précuite 225 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 225g",
+        "Prix portion": 0.7338,
+        "Colisage": "Colis de 34 unités",
+        "Prix colis": 24.95,
+        "Image": "CDP_0189.png"
+    },
+    {
+        "Code": 70144,
+        "Catégorie": "Pains",
+        "Produit": "Baguette bisautée Sélection précuite 275 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 275g",
+        "Prix portion": 0.7507,
+        "Colisage": "Colis de 28 unités",
+        "Prix colis": 21.02,
+        "Image": "CDP_0189.png"
+    },
+    {
+        "Code": 22219,
+        "Catégorie": "Pains",
+        "Produit": "La boulanguette précuite 280 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.0197,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 30.59,
+        "Image": "CDP_0189.png"
+    },
+    {
+        "Code": 834604,
+        "Catégorie": "Pains",
+        "Produit": "La Florentine",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.113,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 33.4,
+        "Image": "CDP_0189.png"
+    }
+]

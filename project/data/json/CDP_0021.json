@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 34501,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Cheesecake individuel",
+        "Prix Kg": 22.75,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 2.075,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 41.5,
+        "Image": "CDP_0021.png"
+    },
+    {
+        "Code": 27485,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Aumônière pomme caramel beurre salé",
+        "Prix Kg": 34.9,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.745,
+        "Colisage": "Colis de 20 unités",
+        "Prix colis": 34.9,
+        "Image": "CDP_0021.png"
+    },
+    {
+        "Code": 826105,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Pavlova vanille individuelle",
+        "Prix Kg": 45.67,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 65g",
+        "Prix portion": 2.4908,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 29.89,
+        "Image": "CDP_0021.png"
+    },
+    {
+        "Code": 22015,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Tiramisu individuel",
+        "Prix Kg": 17.79,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.779,
+        "Colisage": "Colis de 10 unités",
+        "Prix colis": 17.79,
+        "Image": "CDP_0021.png"
+    }
+]

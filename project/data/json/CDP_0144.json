@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 22426,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette feuilleté à bord haut ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 50g",
+        "Prix portion": 1.158,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 40.17,
+        "Image": "CDP_0144.png"
+    },
+    {
+        "Code": 838185,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette brisé à bord haut ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 55g",
+        "Prix portion": 0.85,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 34.0,
+        "Image": "CDP_0144.png"
+    },
+    {
+        "Code": 27454,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette brisé ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 55g",
+        "Prix portion": 0.5259,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 36.81,
+        "Image": "CDP_0144.png"
+    },
+    {
+        "Code": 27815,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Fond de tartelette brisé ø 120",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 0.7726,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 38.63,
+        "Image": "CDP_0144.png"
+    }
+]

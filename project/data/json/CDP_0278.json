@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 834562,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Crevette panée Panko",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Boîte de 20 pièces",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 boîtes",
+        "Prix colis": null,
+        "Image": "CDP_0278.png"
+    },
+    {
+        "Code": 26173,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Crevette en chemise de légumes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Barquette de 12 unités",
+        "Prix portion": null,
+        "Colisage": "Carton de 96 pièces",
+        "Prix colis": null,
+        "Image": "CDP_0278.png"
+    },
+    {
+        "Code": 26344,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Crevette tempura aux saveurs d'Asie",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 10 unités",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 plateaux",
+        "Prix colis": null,
+        "Image": "CDP_0278.png"
+    },
+    {
+        "Code": 26340,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Crevette tempura aux saveurs japonaises",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 10 unités",
+        "Prix portion": null,
+        "Colisage": "Carton de 8 plateaux",
+        "Prix colis": null,
+        "Image": "CDP_0278.png"
+    },
+    {
+        "Code": 26126,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Beignet de crevette",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "6 dosettes de 20 g de sauce aigre douce",
+        "Prix portion": null,
+        "Colisage": "Carton de 14 kg",
+        "Prix colis": null,
+        "Image": "CDP_0278.png"
+    },
+    {
+        "Code": 26297,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini nems assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 12 pièces par variété",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 plateaux",
+        "Prix colis": null,
+        "Image": "CDP_0278.png"
+    },
+    {
+        "Code": 26607,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini samossas assortis",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Plateau de 12 pièces",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 plateaux",
+        "Prix colis": null,
+        "Image": "CDP_0278.png"
+    }
+]

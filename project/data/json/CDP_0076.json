@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70257,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Quiche lorraine cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 52g",
+        "Prix portion": 0.7413,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 35.58,
+        "Image": "CDP_0076.png"
+    },
+    {
+        "Code": 70261,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Quiche méditerranéenne cocktail",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 40g",
+        "Prix portion": 0.7321,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 35.14,
+        "Image": "CDP_0076.png"
+    },
+    {
+        "Code": 834619,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini salés apéritif",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.396,
+        "Colisage": "Colis de 125 unités",
+        "Prix colis": 67.45,
+        "Image": "CDP_0076.png"
+    },
+    {
+        "Code": 835397,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini salés apéritif fusion",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.577,
+        "Colisage": "Colis de 75 unités",
+        "Prix colis": 43.33,
+        "Image": "CDP_0076.png"
+    },
+    {
+        "Code": 828953,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini salés apéritifs premium",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 22g",
+        "Prix portion": 0.626,
+        "Colisage": "Colis de 75 unités",
+        "Prix colis": 47.07,
+        "Image": "CDP_0076.png"
+    },
+    {
+        "Code": 835396,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Mini salés apéritif végétarien",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 19g",
+        "Prix portion": 0.5485,
+        "Colisage": "Colis de 75 unités",
+        "Prix colis": 41.14,
+        "Image": "CDP_0076.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 835153,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Gaufre au seigle et froment ø 100",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 30g",
+        "Prix portion": 0.416,
+        "Colisage": "Colis de 72 unités",
+        "Prix colis": 33.19,
+        "Image": "CDP_0168.png"
+    },
+    {
+        "Code": 822892,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Le bol d'Hubert",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 125g",
+        "Prix portion": 1.542,
+        "Colisage": "Colis de 44 unités",
+        "Prix colis": 67.99,
+        "Image": "CDP_0168.png"
+    },
+    {
+        "Code": 836780,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Crêpe au blé noir ø 310",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pile de 70g",
+        "Prix portion": 0.7065,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 28.26,
+        "Image": "CDP_0168.png"
+    },
+    {
+        "Code": 835427,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Galette de sarrasin ø 340",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Poids 80g",
+        "Prix portion": 0.797,
+        "Colisage": "Colis de 40 unités",
+        "Prix colis": 31.88,
+        "Image": "CDP_0168.png"
+    }
+]

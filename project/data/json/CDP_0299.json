@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 833613,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de bar (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120/170 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (29 à 41 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0299.png"
+    },
+    {
+        "Code": 833021,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de Saint-Pierre sauvage (avec peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 150/200 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0299.png"
+    },
+    {
+        "Code": 833614,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de dorade royale (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120/170 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (29 à 41 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0299.png"
+    },
+    {
+        "Code": 841639,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de cabillaud sauvage (avec peau, sans arête)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 200/400 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0299.png"
+    },
+    {
+        "Code": 833617,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de morue dessalée sauvage (avec peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 500/1000 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg (5 à 10 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0299.png"
+    },
+    {
+        "Code": 841794,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Filet de sandre sauvage (avec peau)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 300/500 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0299.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "Code": 837437,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Sauté de poulet (haut de cuisse sans peau, sans os)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 46/60 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0334.png"
+    },
+    {
+        "Code": 832989,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Suprême de poulet jaune (avec peau, sans os)",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 200/220 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0334.png"
+    },
+    {
+        "Code": 70178,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Aiguillette de poulet saveur barbecue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 2.5 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0334.png"
+    },
+    {
+        "Code": 70259,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Steak haché de poulet façon bouchère halal",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 120 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0334.png"
+    },
+    {
+        "Code": 832992,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Fondant de poulet farci aux cèpes",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 48 kg",
+        "Prix colis": null,
+        "Image": "CDP_0334.png"
+    },
+    {
+        "Code": 828750,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pilon de poulet",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 80/120 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0334.png"
+    },
+    {
+        "Code": 832990,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Haut de cuisse de poulet déjointé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140/160 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 5 kg",
+        "Prix colis": null,
+        "Image": "CDP_0334.png"
+    }
+]

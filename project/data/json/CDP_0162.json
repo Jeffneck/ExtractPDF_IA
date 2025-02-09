@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70267,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Paris-Brest à garnir Ø 190",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 3.0725,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 36.87,
+        "Image": "CDP_0162.png"
+    },
+    {
+        "Code": 70268,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Paris-Brest à garnir Ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 17g",
+        "Prix portion": 0.5314,
+        "Colisage": "Colis de 50 unités",
+        "Prix colis": 26.57,
+        "Image": "CDP_0162.png"
+    },
+    {
+        "Code": 22435,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Mini Paris-Brest à garnir Ø 40",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": 0.3438,
+        "Colisage": "Colis de 180 unités",
+        "Prix colis": 61.89,
+        "Image": "CDP_0162.png"
+    },
+    {
+        "Code": 841454,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Éclair craquelin à garnir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 30g",
+        "Prix portion": 0.8994,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 32.38,
+        "Image": "CDP_0162.png"
+    },
+    {
+        "Code": 28201,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Éclair à garnir",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 16.5g",
+        "Prix portion": 0.3345,
+        "Colisage": "Colis de 110 unités",
+        "Prix colis": 36.79,
+        "Image": "CDP_0162.png"
+    }
+]

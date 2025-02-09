@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 22017,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Fraisier individuel Sélection",
+        "Prix Kg": 3.7702,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 128g",
+        "Prix portion": 1.611,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 48.33,
+        "Image": "CDP_0028.png"
+    },
+    {
+        "Code": 27286,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Framboisier individuel",
+        "Prix Kg": 6.5843,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 70g",
+        "Prix portion": 1.5297,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 45.89,
+        "Image": "CDP_0028.png"
+    },
+    {
+        "Code": 27778,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Bavarois individuel Sélection fruits rouges ø 70",
+        "Prix Kg": 4.3513,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 80g",
+        "Prix portion": 2.1756,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 34.81,
+        "Image": "CDP_0028.png"
+    },
+    {
+        "Code": 27639,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Bavarois individuel Sélection vanille caramel ø 70",
+        "Prix Kg": 4.4678,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 87g",
+        "Prix portion": 2.405,
+        "Colisage": "Colis de 16 unités",
+        "Prix colis": 38.48,
+        "Image": "CDP_0028.png"
+    }
+]

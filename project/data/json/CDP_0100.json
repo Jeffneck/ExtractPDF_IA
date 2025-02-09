@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70711,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Micro tropézienne ø 47",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 23g",
+        "Prix portion": 0.443,
+        "Colisage": "Colis de 70 unités",
+        "Prix colis": 31.17,
+        "Image": "CDP_0100.png"
+    },
+    {
+        "Code": 70712,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tropézienne ø 60",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 32g",
+        "Prix portion": 0.206,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 29.79,
+        "Image": "CDP_0100.png"
+    },
+    {
+        "Code": 840153,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini pavlova ø 42",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 1.024,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 35.96,
+        "Image": "CDP_0100.png"
+    },
+    {
+        "Code": 840152,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini far aux pruneaux",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 25g",
+        "Prix portion": 0.707,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 67.87,
+        "Image": "CDP_0100.png"
+    },
+    {
+        "Code": 27475,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini kouign amann Ø 45",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 20g",
+        "Prix portion": 0.6025,
+        "Colisage": "Colis de 96 unités",
+        "Prix colis": 57.84,
+        "Image": "CDP_0100.png"
+    },
+    {
+        "Code": 826135,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Mini tartelette pomme façon tatin ø 45",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 27g",
+        "Prix portion": 0.8084,
+        "Colisage": "Colis de 48 unités",
+        "Prix colis": 38.63,
+        "Image": "CDP_0100.png"
+    }
+]

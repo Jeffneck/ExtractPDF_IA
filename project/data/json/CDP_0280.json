@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 840020,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tranches de saumon Atlantique fumé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0280.png"
+    },
+    {
+        "Code": 819749,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Cubes d'avocats",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0280.png"
+    },
+    {
+        "Code": 29083,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Wrap's 300",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0280.png"
+    },
+    {
+        "Code": 42003,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pot wrap",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0280.png"
+    },
+    {
+        "Code": 21088,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Tomatade®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": null,
+        "Prix portion": null,
+        "Colisage": null,
+        "Prix colis": null,
+        "Image": "CDP_0280.png"
+    }
+]

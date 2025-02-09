@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 70471,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Quiche lorraine crue Les Secrets du Fournil® Ø 100 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 g",
+        "Prix portion": 1.4,
+        "Colisage": "Carton de 36 pièces",
+        "Prix colis": 50.33,
+        "Image": "CDP_0242.png"
+    },
+    {
+        "Code": 70469,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Quiche aux légumes crue Les Secrets du Fournil® Ø 100 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 g",
+        "Prix portion": 1.4,
+        "Colisage": "Carton de 36 pièces",
+        "Prix colis": 50.33,
+        "Image": "CDP_0242.png"
+    },
+    {
+        "Code": 70470,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Quiche aux poireaux crue Les Secrets du Fournil® Ø 100 mm",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 140 g",
+        "Prix portion": 1.4,
+        "Colisage": "Carton de 36 pièces",
+        "Prix colis": 50.33,
+        "Image": "CDP_0242.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 70438,
+        "Catégorie": "Pains",
+        "Produit": "Les pavés Solène : aux graines précuit 250 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 1.2211,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 21.98,
+        "Image": "CDP_0208.png"
+    },
+    {
+        "Code": 70439,
+        "Catégorie": "Pains",
+        "Produit": "Les pavés Solène : muesli précuit 250 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 250g",
+        "Prix portion": 1.66,
+        "Colisage": "Colis de 18 unités",
+        "Prix colis": 29.89,
+        "Image": "CDP_0208.png"
+    },
+    {
+        "Code": 29048,
+        "Catégorie": "Pains",
+        "Produit": "Pain des Moissonneurs®",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 450g",
+        "Prix portion": 1.895,
+        "Colisage": "Colis de 14 unités",
+        "Prix colis": 26.53,
+        "Image": "CDP_0208.png"
+    },
+    {
+        "Code": 29228,
+        "Catégorie": "Pains",
+        "Produit": "Pain aux céréales",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 410g",
+        "Prix portion": 1.507,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 45.17,
+        "Image": "CDP_0208.png"
+    },
+    {
+        "Code": 70244,
+        "Catégorie": "Pains",
+        "Produit": "Les pains moulés : le nordique",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 400g",
+        "Prix portion": 2.8375,
+        "Colisage": "Colis de 12 unités",
+        "Prix colis": 34.05,
+        "Image": "CDP_0208.png"
+    }
+]

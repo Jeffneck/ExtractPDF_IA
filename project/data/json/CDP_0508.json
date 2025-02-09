@@ -1,0 +1,26 @@
+[
+    {
+        "Code": 70320,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Brownie cream’n’choc plaque prédécoupée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 90g",
+        "Prix portion": 1.839,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 55.17,
+        "Image": "CDP_0508.png"
+    },
+    {
+        "Code": 70420,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Brownie crémeux noisette plaque prédécoupée",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 75g",
+        "Prix portion": 1.5811,
+        "Colisage": "Colis de 35 unités",
+        "Prix colis": 53.34,
+        "Image": "CDP_0508.png"
+    }
+]

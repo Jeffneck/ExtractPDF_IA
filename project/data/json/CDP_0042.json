@@ -1,0 +1,50 @@
+[
+    {
+        "Code": 70013,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Paris-Brest Ø 215",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 550g",
+        "Prix portion": 13.515,
+        "Colisage": "Colis de 6 unités",
+        "Prix colis": 81.09,
+        "Image": "CDP_0042.png"
+    },
+    {
+        "Code": 27459,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Charlotte chocolat Ø 180",
+        "Prix Kg": 61.12,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 750g",
+        "Prix portion": 15.6133,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 46.84,
+        "Image": "CDP_0042.png"
+    },
+    {
+        "Code": 27461,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Charlotte poire Ø 180",
+        "Prix Kg": 54.08,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 750g",
+        "Prix portion": 13.52,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 40.56,
+        "Image": "CDP_0042.png"
+    },
+    {
+        "Code": 27462,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Charlotte fruits rouges Ø 180",
+        "Prix Kg": 53.56,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 750g",
+        "Prix portion": 13.39,
+        "Colisage": "Colis de 3 unités",
+        "Prix colis": 40.17,
+        "Image": "CDP_0042.png"
+    }
+]

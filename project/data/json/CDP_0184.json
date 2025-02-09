@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 29077,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Les Secrets du Fournil 280 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.0037,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 30.11,
+        "Image": "CDP_0184.png"
+    },
+    {
+        "Code": 70075,
+        "Catégorie": "Pains",
+        "Produit": "Baguette du Fournil 280 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.0088,
+        "Colisage": "Colis de 25 unités",
+        "Prix colis": 25.22,
+        "Image": "CDP_0184.png"
+    },
+    {
+        "Code": 824814,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Spéciale 280 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.0403,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 21.88,
+        "Image": "CDP_0184.png"
+    },
+    {
+        "Code": 835319,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Fleur de Solène 280 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.1073,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 33.4,
+        "Image": "CDP_0184.png"
+    },
+    {
+        "Code": 836789,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Spéciale 280 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 280g",
+        "Prix portion": 1.208,
+        "Colisage": "Colis de 30 unités",
+        "Prix colis": 36.24,
+        "Image": "CDP_0184.png"
+    },
+    {
+        "Code": 29932,
+        "Catégorie": "Pains",
+        "Produit": "Baguette Bio 300 g",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 300g",
+        "Prix portion": 1.3622,
+        "Colisage": "Colis de 24 unités",
+        "Prix colis": 24.52,
+        "Image": "CDP_0184.png"
+    }
+]

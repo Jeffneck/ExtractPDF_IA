@@ -1,0 +1,5 @@
+PyPDF2
+pandas
+requests
+Pillow
+pdf2image

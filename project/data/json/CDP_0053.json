@@ -1,0 +1,38 @@
+[
+    {
+        "Code": 27297,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Gâteau basque ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 125g",
+        "Prix portion": 7.68,
+        "Colisage": "Colis de 5 unités",
+        "Prix colis": 38.49,
+        "Image": "CDP_0053.png"
+    },
+    {
+        "Code": 27330,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Gâteau basque à la confiture de cerise ø 260",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 119g",
+        "Prix portion": 12.474,
+        "Colisage": "Colis de 5 unités",
+        "Prix colis": 62.37,
+        "Image": "CDP_0053.png"
+    },
+    {
+        "Code": 28413,
+        "Catégorie": "Pâtisserie individuelle",
+        "Produit": "Gâteau basque individuel ø 90",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 85g",
+        "Prix portion": 1.2625,
+        "Colisage": "Colis de 36 unités",
+        "Prix colis": 45.45,
+        "Image": "CDP_0053.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Code": 28421,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Croustade aux pommes ø 220",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 6 unités, 500 g",
+        "Prix portion": 6.2117,
+        "Colisage": "Carton de 6 unités",
+        "Prix colis": 37.27,
+        "Image": "CDP_0054.png"
+    },
+    {
+        "Code": 28424,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Croustade aux pommes ø 280",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 6 unités, 900 g",
+        "Prix portion": 8.9533,
+        "Colisage": "Carton de 6 unités",
+        "Prix colis": 53.72,
+        "Image": "CDP_0054.png"
+    },
+    {
+        "Code": 822933,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pastis gascon ø 270",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 6 unités, 720 g",
+        "Prix portion": 16.538,
+        "Colisage": "Carton de 6 unités",
+        "Prix colis": 99.35,
+        "Image": "CDP_0054.png"
+    },
+    {
+        "Code": 822931,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pastis gascon ø 214",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 6 unités, 400 g",
+        "Prix portion": 10.4133,
+        "Colisage": "Carton de 6 unités",
+        "Prix colis": 62.48,
+        "Image": "CDP_0054.png"
+    },
+    {
+        "Code": 822929,
+        "Catégorie": "Pâtisserie à portionner",
+        "Produit": "Pastis gascon ø 95",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Vendu par carton de 30 unités, 80 g",
+        "Prix portion": 2.4983,
+        "Colisage": "Carton de 30 unités",
+        "Prix colis": 74.95,
+        "Image": "CDP_0054.png"
+    }
+]

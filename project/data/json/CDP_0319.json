@@ -1,0 +1,74 @@
+[
+    {
+        "Code": 70067,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Brochette d’épaule de porc saveur barbecue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 180g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 kg env. (22 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0319.png"
+    },
+    {
+        "Code": 70068,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Brochette d’épaule de porc fermier d'Argoat",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Portion de 195g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 kg env. (20 pièces)",
+        "Prix colis": null,
+        "Image": "CDP_0319.png"
+    },
+    {
+        "Code": 70488,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Pluma de porc dégraissé",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 70/130 g",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 kg",
+        "Prix colis": null,
+        "Image": "CDP_0319.png"
+    },
+    {
+        "Code": 833228,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de joue de porc confite à la graisse de canard",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 75 g env.",
+        "Prix portion": null,
+        "Colisage": "Sachet de 1,5 kg (20 pièces), Carton de 3 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0319.png"
+    },
+    {
+        "Code": 831426,
+        "Catégorie": "Traiteur salé",
+        "Produit": "Noix de joue de porc",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Pièce de 40/60 g",
+        "Prix portion": null,
+        "Colisage": "Sachet de 2,5 kg, Carton de 2 sachets",
+        "Prix colis": null,
+        "Image": "CDP_0319.png"
+    },
+    {
+        "Code": 841455,
+        "Catégorie": "Traiteur sucré",
+        "Produit": "Effiloché de porc (pulled pork) sauce barbecue",
+        "Prix Kg": null,
+        "Prix Litre": null,
+        "Portionnement": "Sachet de 1 kg",
+        "Prix portion": null,
+        "Colisage": "Carton de 4 kg",
+        "Prix colis": null,
+        "Image": "CDP_0319.png"
+    }
+]
